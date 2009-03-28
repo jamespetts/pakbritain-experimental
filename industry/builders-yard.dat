@@ -1,0 +1,37 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=factory
+name=BuildersYard
+copyright=James
+intro_year=1800
+intro_month=1
+retire_year=    
+level=21   
+needs_ground=1
+climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
+Location=City
+chance=5
+Productivity=1000
+Range=500  
+MapColor=103
+InputGood[0]=Cement
+InputCapacity[0]=1000 
+InputSupplier[0]=1
+InputGood[1]=Bretter
+InputCapacity[1]=1000 
+InputSupplier[1]=1 
+InputGood[2]=bricks
+InputCapacity[2]=1000 
+InputSupplier[2]=1
+Dims=2,1,4
+BackImage[0][0][0][0][0]=builders-yard.0.0
+BackImage[0][0][1][0][0]=builders-yard.0.1
+BackImage[3][0][0][0][0]=builders-yard.0.2
+BackImage[3][1][0][0][0]=builders-yard.1.2
+BackImage[2][0][0][0][0]=builders-yard.0.3
+BackImage[2][0][1][0][0]=builders-yard.0.4
+BackImage[1][0][0][0][0]=builders-yard.0.5
+BackImage[1][1][0][0][0]=builders-yard.1.5
+--------------------

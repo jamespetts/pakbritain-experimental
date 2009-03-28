@@ -1,0 +1,28 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=factory
+name=Dairy
+copyright=James
+level=31
+needs_ground=1
+climates=rocky,tundra,temperate,desert,mediterran,arctic,tropic
+Location=City
+chance=5
+Productivity=1000
+Range=500
+MapColor=172
+InputGood[0]=milk
+InputCapacity[0]=400  
+InputSupplier[0]=1
+Dims=2,1,4
+BackImage[0][0][0][0][0]=dairy.0.0
+BackImage[0][0][1][0][0]=dairy.0.1
+BackImage[3][0][0][0][0]=dairy.0.2
+BackImage[3][1][0][0][0]=dairy.1.2
+BackImage[2][0][0][0][0]=dairy.0.3
+BackImage[2][0][1][0][0]=dairy.0.4
+BackImage[1][0][0][0][0]=dairy.0.5
+BackImage[1][1][0][0][0]=dairy.1.5
+--------------------

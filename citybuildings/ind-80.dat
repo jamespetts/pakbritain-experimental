@@ -1,0 +1,16 @@
+Obj=building
+Name=JH_IND_80_00
+copyright=James
+type=ind
+chance=50
+Level=3
+intro_year=1980
+retire_year=2010
+needs_ground=1
+dims=1,1,4
+
+BackImage[0][0][0][0][0]=images/ind/80-warehouse-a.0.0
+BackImage[1][0][0][0][0]=images/ind/80-warehouse-a.0.1
+BackImage[2][0][0][0][0]=images/ind/80-warehouse-a.0.2
+BackImage[3][0][0][0][0]=images/ind/80-warehouse-a.0.3
+--

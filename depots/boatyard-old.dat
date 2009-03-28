@@ -1,0 +1,17 @@
+Obj=building
+Name=OldBoatyard
+# must be 1*1
+type=depot
+waytype=water
+Dims=1,1,4
+noconstruction=1
+NoInfo=1
+retire_year=1920
+BackImage[0][0][0][0][0][0]=boatyard-old.1.0
+FrontImage[0][0][0][0][0][0]=boatyard-old.0.0
+BackImage[3][0][0][0][0][0]=boatyard-old.1.1
+FrontImage[3][0][0][0][0][0]=boatyard-old.0.1
+FrontImage[2][0][0][0][0][0]=boatyard-old.0.2
+FrontImage[1][0][0][0][0][0]=boatyard-old.0.3
+icon=> boatyard-old.1.3
+cursor=boatyard-old.1.2

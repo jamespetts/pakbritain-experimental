@@ -1,0 +1,31 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=factory
+name=CarDealership
+copyright=James
+intro_year=1930
+intro_month=1
+retire_year=2000
+retire_month=1
+level=21
+Location=City
+chance=5
+Productivity=1000 
+Range=100
+MapColor=1
+InputGood[0]=Autos
+InputCapacity[0]=1000 
+InputFactor[0]=100
+InputSupplier[0]=1
+Dims=2,1,4
+BackImage[0][0][0][0][0]=car-dealership.0.0
+BackImage[0][0][1][0][0]=car-dealership.0.1
+BackImage[1][0][0][0][0]=car-dealership.0.2
+BackImage[1][1][0][0][0]=car-dealership.1.2
+BackImage[2][0][0][0][0]=car-dealership.0.3
+BackImage[2][0][1][0][0]=car-dealership.0.4
+BackImage[3][0][0][0][0]=car-dealership.0.5
+BackImage[3][1][0][0][0]=car-dealership.1.5
+--------------------

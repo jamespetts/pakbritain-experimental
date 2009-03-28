@@ -1,0 +1,13 @@
+Obj=building
+Name=1980s-Small-Church
+Type=cur
+Build_Time=500
+Chance=100
+Passengers=10
+Dims=1,1,4
+needs_ground=1
+intro_year=1980
+BackImage[0][0][0][0][0]=images/cur/1980-small-church.0.2
+BackImage[1][0][0][0][0]=images/cur/1980-small-church.0.1
+BackImage[2][0][0][0][0]=images/cur/1980-small-church.0.2
+BackImage[3][0][0][0][0]=images/cur/1980-small-church.0.1

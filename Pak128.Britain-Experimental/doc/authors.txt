@@ -1,0 +1,139 @@
+
+
+                       128x128 pixel Tile Set Credits
+
+
+              (There is no specific order of persons in the lists.)
+
+
+Image set Development Coordination:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"Tomas Kubes - Napik"
+
+"Vladimir Slavik"
+
+
+
+Image Authors:
+~~~~~~~~~~~~~~
+
+(In no specific order.)
+
+"Georg Heiduk - MHz"
+"Guillermo Mateo - Raven"
+"Patrick Nesbitt - PMNV"
+"Tomas Kubes - Canonball"
+"James Starr"
+"Andreas Jahle - shorty139aj"
+"Fabio Gonella - fagonella"
+"Robbe Johnson - rmax500"
+"Marcel - Blackbox"
+"Sergey Kroytor"
+"Michel (Evil) Tsui"
+"Vladimir Slavik - VSYS"
+"Ad van Gerwen"
+"Ondrej Zapletal - OnDRej - ReAnimator"
+"Jan Polacek  - Jerome Heretic"
+"Jan Licka - Sindor"
+"Stefan Wuttich - MiP"
+"timeshock2003"
+"Flor Wauters"
+"Hansjoerg Malthaner"
+"Peter J. Dobrovka"
+"Markus Weber"
+"Timothy Baldock"
+"Masao Kasuga - Haru"
+"  	propermike"
+"Viktor Janeba"
+"Frans van Nispen"
+"Lukasz Remis"
+"Isaac Eiland-Hall"
+"Paul Szczepanek"
+"Sergei Brujhanov"
+" - Joker"
+"Rick"
+"Seth C. Triggs"
+"Jakob Sack"
+"Christopher Joice"
+
+Japan author's nick names (true names unknown):
+Monatetsu
+Nabe
+Kikin Sharyo
+Haguruma
+SHI
+939
+kei
+
+
+
+Initial Building Description Authors:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+"James Barker - Jimmy"
+"Jan Polacek  - Jerome Heretic"
+"Ondrej Zapletal - OnDRej - ReAnimator"
+"Vladimir Slavik"
+"Stefan Wuttich - MiP"
+"Patrick Nesbitt"
+"Tomas Kubes - Napik"
+"Christhopher Joice"
+
+...and all the translators.
+
+Since the introduction of SimuTranslator it is not possible to keep track of
+who invented new story or who translated it from other language. People above
+helepd to create the initial stories for the first public release of pak128.
+
+
+Translators:
+~~~~~~~~~~~~
+
+Romanian:
+"Ferencz Szekely"
+
+
+
+People who Contributed in Other Ways:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+"Isaac Eiland-Hall" Web hosting services
+"Vladimir Slavik" Utility programming
+"Vladimir Slavik" Spell checking
+"Jack Verheydt" Additional grammar corrections and proofreading
+"Stefan Wuttich - MiP" Utility programming
+"Constantin Grabowski - Moistboy" Simutrans logo design
+"Jan Polacek  - Jerome Heretic" Linux package maintenance
+"Milan Gvozdik" Extensive testing
+"Isaac Eiland-Hall" Web gramar correction
+"Christhopher Joice" Simutrans Installer
+"Gunter Beine" Did the work which no one else wanted
+"Marco - marco" Created dat files
+"Fabio Gonella" and "Michael ? - whoami" Maintained the set during "outage" in 2008
+
+
+Special Thanks:
+~~~~~~~~~~~~~~~
+"Vladimir Slavik" - for work which cannot be seen but is important
+
+And other unnamed members of Simutrans community who helped by bringing ideas,
+bug reports, comments and support of the development team.
+
+
+
+Thanks for Work which is not Seen:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+*Vladimir Slavik - added special colors to many vehicles of other authors
+*Gunter Beine - manually added copyright information for every city building
+
+
+
+
+Important Adresses:
+~~~~~~~~~~~~~~~~~~~
+
+http://128.simutrans.com
+http://forum.simutrans.com
+http://wiki.simutrans.com
+http://www.simutrans.com

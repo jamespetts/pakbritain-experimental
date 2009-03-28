@@ -1,0 +1,12 @@
+Obj=building
+Name=Stonehenge
+Type=cur
+Build_Time=0
+Chance=100
+Passengers=15
+Dims=2,2
+needs_ground=1
+BackImage[0][0][0][0][0]=images/cur/stonehenge.0.0
+BackImage[0][1][0][0][0]=images/cur/stonehenge.1.0
+BackImage[0][0][1][0][0]=images/cur/stonehenge.0.1
+BackImage[0][1][1][0][0]=images/cur/stonehenge.1.1

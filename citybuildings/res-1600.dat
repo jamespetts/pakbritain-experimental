@@ -1,0 +1,16 @@
+Obj=building
+Name=KG_RES_1600_00
+copyright=Kieron
+type=res
+chance=100
+Level=1
+intro_year=1600
+retire_year=1850
+needs_ground=1
+dims=1,1,4
+
+BackImage[0][0][0][0][0]=images/res/1600-detatched-house-2f.0.0
+BackImage[1][0][0][0][0]=images/res/1600-detatched-house-2f.0.1
+BackImage[2][0][0][0][0]=images/res/1600-detatched-house-2f.0.2
+BackImage[3][0][0][0][0]=images/res/1600-detatched-house-2f.0.3
+--

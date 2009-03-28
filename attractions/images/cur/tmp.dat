@@ -1,0 +1,13 @@
+#
+# File created with TileCutter version 0.3d.1
+# For more information see http://simutrans.entropy.me.uk/tilecutter/
+#
+Obj=building
+name=default_name
+#Warning - no building type defined for obj=building!
+Dims=2,2,1
+BackImage[0][0][0][0][0]=stonehenge.0.0
+BackImage[0][0][1][0][0]=stonehenge.0.1
+BackImage[0][1][0][0][0]=stonehenge.1.0
+BackImage[0][1][1][0][0]=stonehenge.1.1
+--------------------

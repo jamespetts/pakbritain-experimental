@@ -1,0 +1,11 @@
+Obj=building
+Name=1990s-Small-Library
+Type=cur
+Build_Time=1000
+Chance=100
+Passengers=10
+Dims=1,1,1
+needs_ground=1
+intro_year=1990
+BackImage[0][0][0][0][0]=images/cur/1990-sm-library.0.0
+

@@ -1,0 +1,19 @@
+Obj=building
+Name=ModernBoatyard
+# must be 1*1
+type=depot
+waytype=water
+Dims=1,1,4
+noconstruction=1
+NoInfo=1
+intro_year=1920
+BackImage[0][0][0][0][0][0]=boatyard-modern.0.0
+FrontImage[0][0][0][0][0][0]=boatyard-modern.1.0
+BackImage[3][0][0][0][0][0]=boatyard-modern.0.1
+FrontImage[3][0][0][0][0][0]=boatyard-modern.1.1
+BackImage[2][0][0][0][0][0]=boatyard-modern.0.2
+FrontImage[2][0][0][0][0][0]=boatyard-modern.1.2
+BackImage[1][0][0][0][0][0]=boatyard-modern.0.3
+FrontImage[1][0][0][0][0][0]=boatyard-modern.1.3
+icon=> boatyard-modern.1.4
+cursor=boatyard-modern.0.4

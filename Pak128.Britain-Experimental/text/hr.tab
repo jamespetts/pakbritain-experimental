@@ -1,0 +1,108 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                               Scenario: pak128                               #
+#                             Language: hr Hrvatski                            #
+#                             Encoding: ISO-8859-2                             #
+#                            Font : Prop-Latin2.bdf                            #
+#                            Date Created: 2.01 2009                           #
+#                                                                              #
+#                                   authors:                                   #
+#                                    - prissi                                  #
+#              note: Administrator Base texts / pak64 / pak.japan              #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+ClassicRail
+Betonski most (Haru)
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+RVg-2-3-0
+RVg-2-3-0
+RVg-2-3-1
+RVg-2-3-1
+RVg-2-4-0
+RVg-2-4-0
+RVg-2-5-1
+RVg 2-5-1
+RVg-B_101
+RVg B22
+RVg-B_107
+RVG B149-Crveni patuljak
+RVg-Bulk_Freighter
+RVg Teretni Brod
+RVg-D22-Rola
+RVg D22 "Rola"
+RVg-D23-Camel
+RVg D23 "Deva"
+RVg-D41-Tubus
+RVg D41 "Tubus"
+RVg-DB_MA461
+RVg-DB MA-461 (glava)
+RVg-DB_MA461_Tail
+RVg-DB MA-461 (rep)
+RVg-E17-Spring
+RVg E17
+RVg-Express_Tender
+RVg Ekspres Tender
+RVg-G5_Posttaxi
+RVg G5
+RVg-Goods_Liner
+RVg S-12
+RVg-Goods_waggon
+RVg Zatvoreni vagon
+RVg-Heavy-Tender
+RVg Te?ki Tender
+RVg-KS_4510-33
+RVg-KS 33
+RVg-KS_4510-45
+RVg-KS 45
+RVg-KS_4510-69
+RVg-KS 69
+RVg-KS_9020-31
+RVG KS 9020-31
+RVg-KS_9020-58
+RVg-KS 9020-58
+RVg-KS_9020-92
+RVg-KS 9020-92
+RVg-LK_Cement_Truck
+RVg-LK V44 - cement
+RVg-LK_Cooling_Truck
+RVg-LK V44 - hladnjaca
+RVg-LK_Fabric_Truck
+RVg-LK V32 - tkanina
+RVg-LK_Goods_Truck
+RVg-LK kamion za prijevoz robe
+RVg-LK_Grain_Truck
+RVg-LK V41 - zito
+RVg-LK_Plank_Truck
+RVh-LK V37 - trupci
+RVg-LK_Steel_Truck
+RVg-LK V32 - celik
+RVg-Lockheed_Constellation
+RVg EC-121 
+RVg-Oil-Tender
+RVg Naftni Tender
+RVg-Pioneer_Alladin
+RVg Pionir Alladin
+RVg-Pioneer_Alladin_rear
+RVg Pionir Alladin (rep)
+RVg-Pioneer_Alladin_supply
+RVg Pionir Alladin (elektricni vagon)
+RVg-Pioneer_Alladin_waggon
+RVg Pionir Alladin (vagon)
+RVg-RHF401
+RVg-RHF 401 "Krokodil"
+RVg-S004-Little_Boy
+RVg S004 "Krelac"
+RVg-S033-Red_Dwarf
+RVg S033 "Crveni patuljak"
+RVg-S127-Blue_Cow
+RVg S127 "Luda Krava"
+RVg-Sail_Goods_Ship_0
+RVg Trgovacki Brod
+RVg-Sail_Passanger_Ship_0
+RVg Putnicki Jedrenjak
+RVg-Sea_Liner
+RVg Prekooceanski putnicki brod

@@ -1,0 +1,14 @@
+Obj=building
+Name=War-Memorial
+Type=mon
+Build_Time=1000
+Chance=10
+Passengers=20
+Dims=1,1,1
+needs_ground=1
+intro_year=1918
+intro_month=11
+retire_year=1950
+retire_month=1
+BackImage[0][0][0][0][0]=images/mon/war-memorial.0.0
+

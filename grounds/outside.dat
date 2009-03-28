@@ -1,0 +1,5 @@
+Obj=ground
+Name=Outside
+# hangtyp * animation
+#water outside
+Image[0][0]=images/ls-water-128.0.0

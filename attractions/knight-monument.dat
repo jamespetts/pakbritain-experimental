@@ -1,0 +1,11 @@
+Obj=building
+Name=Knight-Monument
+Type=mon
+Build_Time=1000
+Chance=100
+Passengers=20
+Dims=1,1,1
+needs_ground=1
+intro_year=1700
+BackImage[0][0][0][0][0]=images/mon/knight-monument.0.0
+

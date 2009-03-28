@@ -1,0 +1,13 @@
+Obj=building
+Name=KG_COM_00_15
+copyright=Kieron
+type=com
+chance=4
+Level=10
+intro_year=1910
+#should be 1930...
+retire_year=1970
+needs_ground=1
+dims=1,1,1
+
+BackImage[0][0][0][0][0]=images/com/1910-offices-3f.0

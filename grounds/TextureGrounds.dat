@@ -1,0 +1,77 @@
+#
+#
+# Update: 03-Oct-02: Hj.Malthaner
+# renovated by Timothy
+# update to tile / texture sysem by prissi
+#
+Obj=ground
+Name=LightTexture
+Image[0][0]=images/texture-lightmap.0.14
+Image[1][0]=images/texture-lightmap.0.6
+Image[2][0]=images/texture-lightmap.0.7
+Image[3][0]=images/texture-lightmap.0.2
+Image[4][0]=images/texture-lightmap.0.4
+Image[5][0]=images/texture-lightmap.0.11
+Image[6][0]=images/texture-lightmap.0.3
+Image[7][0]=images/texture-lightmap.0.12
+Image[8][0]=images/texture-lightmap.0.5
+Image[9][0]=images/texture-lightmap.0.1
+Image[10][0]=images/texture-lightmap.0.13
+Image[11][0]=images/texture-lightmap.0.10
+Image[12][0]=images/texture-lightmap.0.0
+Image[13][0]=images/texture-lightmap.0.8
+Image[14][0]=images/texture-lightmap.0.9
+--------------------
+Obj=ground
+Name=ClimateTexture
+# water
+Image[0][0]=images/texture-climate.0.0
+# beach/desert
+Image[1][0]=images/texture-climate.0.1
+# tropic (uses standard grass)
+Image[2][0]=images/texture-climate.0.6
+# mediterran (uses standard grass)
+Image[3][0]=images/texture-climate.0.7
+# temperate grass
+Image[4][0]=images/texture-climate.0.2
+# tundra
+Image[5][0]=images/texture-climate.0.4
+# rocky/barren
+Image[6][0]=images/texture-climate.0.5
+# snow
+Image[7][0]=images/texture-climate.0.3
+--------------------
+# these images define the beach transition
+Obj=ground
+Name=ShoreTrans
+#Image[0][0]=grid.0.0
+#Image[1][0]=grid.0.0
+#Image[2][0]=grid.0.0
+#Image[3][0]=grid.0.0
+Image[0][0]=images/texture-shore.0.0
+Image[1][0]=images/texture-shore.0.1
+Image[2][0]=images/texture-shore.0.2
+Image[3][0]=images/texture-shore.0.3
+--------------------
+# these images define the slope transition
+Obj=ground
+Name=SlopeTrans
+Image[0][0]=images/texture-slope.0.0
+Image[1][0]=images/texture-slope.0.1
+Image[2][0]=images/texture-slope.0.2
+Image[3][0]=images/texture-slope.0.3
+--------------------
+Obj=ground
+Name=Borders
+copyright=prissi
+# backpart (obtained by (hang&1)|((hang&12)>>1)
+Image[0][0]=images/borders.0.6
+Image[1][0]=images/borders.0.2
+Image[2][0]=images/borders.0.3
+Image[3][0]=images/borders.0.4
+Image[4][0]=images/borders.0.5
+Image[5][0]=images/borders.0.1
+Image[6][0]=images/borders.0.0
+Image[7][0]=images/borders.0.7
+--------------------
+

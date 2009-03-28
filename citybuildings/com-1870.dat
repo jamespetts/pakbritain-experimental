@@ -1,0 +1,16 @@
+Obj=building
+Name=KG_COM_00_16
+copyright=Kieron
+type=com
+chance=2
+Level=6
+#earlier than should be - reset to 1870 once earlier com...
+intro_year=1750
+retire_year=1890
+needs_ground=1
+dims=1,1,4
+
+BackImage[0][0][0][0][0]=images/com/1870-pub.0
+BackImage[1][0][0][0][0]=images/com/1870-pub.1
+BackImage[2][0][0][0][0]=images/com/1870-pub.2
+BackImage[3][0][0][0][0]=images/com/1870-pub.3

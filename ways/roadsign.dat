@@ -1,0 +1,107 @@
+# one way sign
+obj=roadsign
+name=OneWay
+copyright=James
+cost=500
+waytype=road
+min_speed=0
+single_way=1
+image[0]=roadsign.0.0
+Image[1]=roadsign.0.1
+Image[2]=roadsign.0.2
+Image[3]=roadsign.0.3
+Icon=> roadsign.0.5
+Cursor=roadsign.0.4
+---------------------------
+# no entry sign
+obj=roadsign
+name=NoEntry
+copyright=James
+cost=500
+waytype=road
+min_speed=0
+single_way=1
+image[0]=roadsign.1.0
+Image[1]=roadsign.1.1
+Image[2]=roadsign.1.2
+Image[3]=roadsign.1.3
+Icon=> roadsign.1.5
+Cursor=roadsign.1.4
+---------------------------
+# Motorway Sign
+obj=roadsign
+name=MotorwaySign
+copyright=James
+cost=500
+waytype=road
+min_speed=80
+single_way=1
+intro_year=1959
+intro_month=1
+image[0]=roadsign.2.0
+Image[1]=roadsign.2.1
+Image[2]=roadsign.2.2
+Image[3]=roadsign.2.3
+Icon=> roadsign.2.5
+Cursor=roadsign.2.4
+---------------------------
+# Choose sign
+obj=roadsign
+name=ChooseSign
+copyright=James
+cost=500
+waytype=road
+min_speed=0
+single_way=0
+free_route=1
+image[0]=roadsign.3.0
+Image[1]=roadsign.3.1
+Image[2]=roadsign.3.2
+Image[3]=roadsign.3.3
+Icon=> roadsign.3.5
+Cursor=roadsign.3.4
+---------------------------
+# Private Road sign
+obj=roadsign
+name=PrivateRoad
+copyright=James
+cost=500
+waytype=road
+min_speed=0
+single_way=0
+is_private=1
+image[0]=roadsign.4.0
+Image[1]=roadsign.4.1
+Image[2]=roadsign.4.2
+Image[3]=roadsign.4.3
+Icon=> roadsign.4.5
+Cursor=roadsign.4.4
+---------------------------
+# traffic light
+obj=roadsign
+copyright=James
+name=traffic_light
+waytype=road
+min_speed=0
+single_way=0
+cost=2500
+intro_year=1920
+intro_month=1
+image[0]=traffic-light.1.0
+Image[1]=traffic-light.1.1
+Image[2]=traffic-light.1.2
+Image[3]=traffic-light.1.3
+Image[4]=traffic-light.3.0
+Image[5]=traffic-light.3.1
+Image[6]=traffic-light.3.2  left
+Image[7]=traffic-light.3.3  left
+image[8]=traffic-light.2.0
+Image[9]=traffic-light.2.1
+Image[10]=traffic-light.2.2
+Image[11]=traffic-light.2.3
+Image[12]=traffic-light.4.0
+Image[13]=traffic-light.4.1
+Image[14]=traffic-light.4.2
+Image[15]=traffic-light.4.3
+Icon=> traffic-light.0.0
+Cursor=traffic-light.0.1

@@ -1,0 +1,58 @@
+#######################################
+# Water stops for PakBritain
+# James Hood - March 2009
+#######################################
+
+Obj=building
+Name=OldPassengerQuay
+# must be 1*1
+type=stop
+retire_year=1950
+waytype=water
+noconstruction=1
+enables_pax=1
+NoInfo=1
+Dims=1,1,2
+level=1
+BackImage[0][0][0][0][0][0]=old-pax-quay.0.0
+FrontImage[0][0][0][0][0][0]=old-pax-quay.0.1
+BackImage[1][0][0][0][0][0]=old-pax-quay.0.2
+FrontImage[1][0][0][0][0][0]=old-pax-quay.0.3
+icon=> old-pax-quay.0.5
+cursor=old-pax-quay.0.4
+-----------------------------------------------------------
+Obj=building
+Name=ModernPassengerQuay
+# must be 1*1
+type=stop
+intro_year=1950
+waytype=water
+noconstruction=1
+enables_pax=1
+NoInfo=1
+Dims=1,1,2
+level=1
+BackImage[0][0][0][0][0][0]=modern-pax-quay.0.0
+FrontImage[0][0][0][0][0][0]=modern-pax-quay.0.1
+BackImage[1][0][0][0][0][0]=modern-pax-quay.0.2
+FrontImage[1][0][0][0][0][0]=modern-pax-quay.0.3
+icon=> modern-pax-quay.0.5
+cursor=modern-pax-quay.0.4
+-----------------------------------------------------------
+Obj=building
+Name=GoodsQuay
+# must be 1*1
+type=stop
+waytype=water
+noconstruction=1
+enables_ware=1
+NoInfo=1
+Dims=1,1,2
+level=1
+BackImage[0][0][0][0][0][0]=goods-quay.0.0
+FrontImage[0][0][0][0][0][0]=goods-quay.0.1
+BackImage[1][0][0][0][0][0]=goods-quay.0.2
+FrontImage[1][0][0][0][0][0]=goods-quay.0.3
+icon=> goods-quay.0.5
+cursor=goods-quay.0.4
+-----------------------------------------------------------

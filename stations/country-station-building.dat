@@ -1,0 +1,21 @@
+Obj=building
+Name=CountryStationBuilding
+copyright=Kieron/James
+type=extension
+waytype=track
+enables_pax=1
+enables_post=1
+intro_year=1860
+retire_year=1960
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=2
+BackImage[0][0][0][0][0]=country-station-building.0.2
+BackImage[1][0][0][0][0]=country-station-building.0.1
+BackImage[2][0][0][0][0]=country-station-building.0.0
+BackImage[3][0][0][0][0]=country-station-building.0.3
+
+Icon=> country-station-building.0.5
+Cursor=country-station-building.0.4

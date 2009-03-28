@@ -1,0 +1,39 @@
+Obj=building
+Name=StationStoneBuilding
+copyright=Kieron
+type=extension
+waytype=track
+enables_pax=1
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=1
+intro_year=1825
+retire_year=1920
+
+BackImage[0][0][0][0][0]=stone-building.0.0
+BackImage[1][0][0][0][0]=stone-building.1.0
+BackImage[2][0][0][0][0]=stone-building.0.1
+BackImage[3][0][0][0][0]=stone-building.1.1
+
+#images for 16 rotations - NB simutrans can't do this properly for extension buildings!
+#BackImage[0][0][0][0][0]=stone-building.1.6
+#BackImage[1][0][0][0][0]=stone-building.0.6
+#BackImage[2][0][0][0][0]=stone-building.1.2
+#BackImage[3][0][0][0][0]=stone-building.0.4
+#BackImage[4][0][0][0][0]=stone-building.1.4
+#BackImage[5][0][0][0][0]=stone-building.0.2
+#BackImage[6][0][0][0][0]=stone-building.1.6
+#BackImage[7][0][0][0][0]=stone-building.0.6
+#BackImage[8][0][0][0][0]=stone-building.1.7
+#BackImage[9][0][0][0][0]=stone-building.0.7
+#BackImage[10][0][0][0][0]=stone-building.1.3
+#BackImage[11][0][0][0][0]=stone-building.0.5
+#BackImage[12][0][0][0][0]=stone-building.1.5
+#BackImage[13][0][0][0][0]=stone-building.0.3
+#BackImage[14][0][0][0][0]=stone-building.1.7
+#BackImage[15][0][0][0][0]=stone-building.0.7
+
+Icon=> button-stone-building.0.0
+Cursor=stone-building-cursor.0.0

@@ -1,0 +1,16 @@
+Obj=building
+Name=JH_IND_1750_00
+copyright=James
+type=ind
+chance=200
+Level=4
+intro_year=1750
+retire_year=1918
+needs_ground=1
+dims=1,1,4
+
+BackImage[0][0][0][0][0]=images/ind/1750-warehouse.0.0
+BackImage[1][0][0][0][0]=images/ind/1750-warehouse.0.1
+BackImage[2][0][0][0][0]=images/ind/1750-warehouse.0.2
+BackImage[3][0][0][0][0]=images/ind/1750-warehouse.0.3
+--

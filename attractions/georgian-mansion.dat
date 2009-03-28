@@ -1,0 +1,16 @@
+Obj=building
+Name=Georgian_Mansion
+Type=cur
+Build_Time=0
+Chance=100
+Passengers=25
+Dims=2,2
+needs_ground=1
+BackImage[0][0][0][0][0]=images/cur/georgian-mansion.0.0
+BackImage[0][1][0][0][0]=images/cur/georgian-mansion.1.0
+BackImage[0][0][1][0][0]=images/cur/georgian-mansion.0.1
+BackImage[0][1][1][0][0]=images/cur/georgian-mansion.1.1
+BackImage[0][0][0][1][0]=images/cur/georgian-mansion.2.0
+BackImage[0][1][0][1][0]=images/cur/georgian-mansion.3.0
+BackImage[0][0][1][1][0]=images/cur/georgian-mansion.2.1
+BackImage[0][1][1][1][0]=images/cur/georgian-mansion.3.1
