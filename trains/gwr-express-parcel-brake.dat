@@ -16,6 +16,9 @@ cost=593000
 runningcost=29
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+
 EmptyImage[E]=./images/gwr-express-parcel-brake.0
 EmptyImage[SE]=./images/gwr-express-parcel-brake.1
 EmptyImage[S]=./images/gwr-express-parcel-brake.2

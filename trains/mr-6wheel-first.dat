@@ -15,6 +15,10 @@ cost=314000
 runningcost=16
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+catering_level=0
+
 Constraint[Next][0]=MR-6Wheel-First
 Constraint[Next][1]=MR-6Wheel-Guard
 Constraint[Next][2]=MR-4Wheel-Composite

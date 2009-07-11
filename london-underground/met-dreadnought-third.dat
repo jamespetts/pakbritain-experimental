@@ -15,6 +15,10 @@ cost=850000
 runningcost=26
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+catering_level=0
+
 EmptyImage[E]=./images/met-dreadnought-third.0
 EmptyImage[SE]=./images/met-dreadnought-third.1
 EmptyImage[S]=./images/met-dreadnought-third.2

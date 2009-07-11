@@ -16,7 +16,9 @@ cost=648000
 runningcost=28
 sound=-1
 
-
+can_lead_from_rear=0
+bidirectional=1
+catering_level=0
 
 EmptyImage[E]=./images/choc-cream-clerestory-mail.1.0
 EmptyImage[SE]=./images/choc-cream-clerestory-mail.1.1

@@ -16,7 +16,6 @@ cost=460000
 runningcost=23
 sound=-1
 
-
 can_lead_from_rear=0
 bidirectional=1
 catering_level=2

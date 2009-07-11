@@ -18,6 +18,7 @@ cost=140000
 runningcost=8
 sound=-1
 
+
 EmptyImage[E]=./images/wagon-2-car-flat.0
 EmptyImage[SE]=./images/wagon-2-car-flat.1
 EmptyImage[S]=./images/wagon-2-car-flat.2

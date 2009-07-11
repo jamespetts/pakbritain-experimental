@@ -59,7 +59,7 @@ Parish Hall
 01_CITY
 Town Hall
 02_CITY
-City Hall
+Town Hall
 03_CITY
 City Hall
 04_CITY
@@ -1190,6 +1190,8 @@ LMS-502Rear(Maroon)
 LMS Class 502 EMU (rear)
 Metropolitan-Motor-Third-Front
 Metropolitan 1907 Motorised Tube Stock
+Metropolitan-Motor-Third-Middle
+Metropolitan 1907 Motorised Tube Stock (middle)
 Metropolitan-Motor-Third-Back
 Metropolitan 1907 Mororised Tube Stock (rear)
 Metropolitan-Bogie-Third
@@ -1323,7 +1325,7 @@ SR Maunsell Express Carriage
 GWR-Express-Brake
 GWR Express Carriage (brake)
 GWR-Express-Coach
-GWR Express Carriage (brake)
+GWR Express Carriage
 LMS-d1904-Coach
 LMS Standard Carriage
 LMS-d2007-Parcel-Brake

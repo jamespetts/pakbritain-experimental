@@ -16,6 +16,9 @@ cost=510000
 runningcost=26
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+
 Constraint[Next][0]=LMS-d1904-Coach
 Constraint[Next][1]=LMS-d2007-Parcel-Brake
 Constraint[Next][2]=LMS-d1904-Dining
@@ -50,6 +53,10 @@ weight=30
 cost=510000
 runningcost=26
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+catering_level=1
 
 Constraint[Next][0]=LMS-d1904-Coach
 Constraint[Next][1]=LMS-d2007-Parcel-Brake
