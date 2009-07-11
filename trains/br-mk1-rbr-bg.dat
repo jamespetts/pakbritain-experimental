@@ -18,6 +18,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+catering_level=3
 
 Constraint[Next][0]=BR-Mk1-GUV(Rail-Blue)
 Constraint[Next][1]=BR-Mk1-TO(Blue-Grey)

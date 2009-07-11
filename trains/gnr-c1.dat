@@ -17,7 +17,7 @@ length=6
 
 weight=69
 cost=9677000
-runningcost=484
+runningcost=1056
 sound=-1
 
 Constraint[Next][0]=GNR-C1-Tender

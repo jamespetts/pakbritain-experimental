@@ -17,7 +17,7 @@ length=6
 
 weight=65
 cost=4435200
-runningcost=222
+runningcost=528
 sound=-1
 
 Constraint[Next][0]=HR-Jones-Goods-Tender(Yellow)

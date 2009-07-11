@@ -13,12 +13,11 @@ retire_month=1
 waytype=track
 freight=Post
 payload=50
-payxxxxload=200
 length=12
 
 weight=29
 cost=3200000
-runningcost=120
+runningcost=264
 sound=-1
 
 can_lead_from_rear=1

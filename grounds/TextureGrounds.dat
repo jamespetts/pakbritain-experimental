@@ -64,7 +64,7 @@ Image[3][0]=images/texture-slope.0.3
 Obj=ground
 Name=Borders
 copyright=prissi
-# backpart (obtained by (hangand1)|((hangand12)>>1)
+# backpart (obtained by (hang&1)|((hang&12)>>1)
 Image[0][0]=images/borders.0.6
 Image[1][0]=images/borders.0.2
 Image[2][0]=images/borders.0.3

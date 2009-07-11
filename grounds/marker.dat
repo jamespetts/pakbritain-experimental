@@ -4,7 +4,7 @@
 Obj=ground
 Name=Marker
 copyright=Timothy Baldock
-# the front part (obtained by hangand7) for signle slopes
+# the front part (obtained by hang&7) for signle slopes
 Image[0][0]=images/marker.0.6
 Image[1][0]=images/marker.0.1
 Image[2][0]=images/marker.0.4
@@ -13,7 +13,7 @@ Image[4][0]=images/marker.0.0
 Image[5][0]=images/marker.0.5
 Image[6][0]=images/marker.0.3
 Image[7][0]=images/marker.0.7
-# backpart (obtained by (hangand1)|((hangand12)>>1)
+# backpart (obtained by (hang&1)|((hang&12)>>1)
 Image[8][0]=images/marker.1.6
 Image[9][0]=images/marker.1.2
 Image[10][0]=images/marker.1.3

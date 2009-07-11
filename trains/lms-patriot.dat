@@ -17,7 +17,7 @@ length=7
 
 weight=81
 cost=6624000
-runningcost=331
+runningcost=1386
 sound=-1
 
 Constraint[Next][0]=LMS-Patriot-Tender(Maroon)

@@ -1,6 +1,7 @@
 Obj=bridge
 name=BrickViaductRoad
 waytype=road
+intro_year=1750
 topspeed=50
 cost=45000
 maintenance=600

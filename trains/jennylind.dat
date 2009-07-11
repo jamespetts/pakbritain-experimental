@@ -17,7 +17,7 @@ length=5
 
 weight=20
 cost=4992000
-runningcost=250
+runningcost=396
 sound=-1
 
 Constraint[Next][0]=JennyLind-Tender

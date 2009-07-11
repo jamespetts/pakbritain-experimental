@@ -15,7 +15,7 @@ payload=68
 
 weight=20
 cost=204000
-runningcost=8
+runningcost=20
 sound=-1
 
 Constraint[Prev][0]=none

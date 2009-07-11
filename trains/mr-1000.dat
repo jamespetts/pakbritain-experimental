@@ -17,7 +17,7 @@ length=6
 
 weight=62
 cost=5054000
-runningcost=253
+runningcost=792
 sound=-1
 
 Constraint[Next][0]=MR-1000-Tender(Maroon)

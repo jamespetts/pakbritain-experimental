@@ -17,7 +17,7 @@ length=5
 
 weight=40
 cost=5796000
-runningcost=290
+runningcost=924
 sound=-1
 
 Constraint[Next][0]=LBSCR-B1-Gladstone-Tender

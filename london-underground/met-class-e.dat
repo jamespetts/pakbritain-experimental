@@ -16,7 +16,7 @@ payload=0
 
 weight=54
 cost=6300000
-runningcost=315
+runningcost=594
 sound=-1
 
 bidirectional=1

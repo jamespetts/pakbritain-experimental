@@ -3,7 +3,7 @@ name=SR-Schools
 engine_type=steam
 smoke=Steam
 speed=140
-##gear=220
+#gear=220
 power=2000
 copyright=James
 intro_year=1930
@@ -17,7 +17,7 @@ length=6
 
 weight=64
 cost=8064000
-runningcost=403
+runningcost=1254
 sound=-1
 
 Constraint[Next][0]=SR-Schools-Tender

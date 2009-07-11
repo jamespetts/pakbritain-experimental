@@ -4,7 +4,7 @@ engine_type=electric
 speed=160
 #gear=160
 power=2390
-copyright=Kieron&JamesPetts
+copyright=Kieron/JamesPetts
 intro_year=1959
 intro_month=11
 retire_year=1985
@@ -16,7 +16,7 @@ length=10
 
 weight=81
 cost=8785000
-runningcost=362
+runningcost=2046
 sound=-1
 
 can_lead_from_rear=0

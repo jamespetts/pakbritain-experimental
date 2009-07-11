@@ -16,7 +16,7 @@ length=13
 
 weight=39
 cost=590000
-runningcost=30
+runningcost=290
 sound=-1
 
 can_lead_from_rear=1
@@ -53,7 +53,7 @@ length=13
 
 weight=35
 cost=590000
-runningcost=30
+runningcost=290
 sound=-1
 
 can_lead_from_rear=0
@@ -88,7 +88,7 @@ length=13
 
 weight=54
 cost=590000
-runningcost=30
+runningcost=290
 sound=-1
 
 can_lead_from_rear=0
@@ -124,7 +124,7 @@ length=13
 
 weight=35
 cost=590000
-runningcost=30
+runningcost=290
 sound=-1
 
 can_lead_from_rear=0
@@ -162,7 +162,7 @@ length=13
 
 weight=39
 cost=590000
-runningcost=30
+runningcost=290
 sound=-1
 
 can_lead_from_rear=1

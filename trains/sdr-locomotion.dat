@@ -17,7 +17,7 @@ length=3
 
 weight=7
 cost=1663200
-runningcost=83
+runningcost=105
 sound=-1
 
 Constraint[Next][0]=SDR-Locomotion-Tender

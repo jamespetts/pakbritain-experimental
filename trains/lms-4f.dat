@@ -17,7 +17,7 @@ length=6
 
 weight=48
 cost=3696000
-runningcost=185
+runningcost=462
 sound=-1
 
 Constraint[Next][0]=LMS-4F-Tender(Black)

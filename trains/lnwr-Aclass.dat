@@ -17,7 +17,7 @@ length=7
 
 weight=49
 cost=6336000
-runningcost=317
+runningcost=660
 sound=-1
 
 Constraint[Next][0]=LNWR-AClass-Tender(Black)

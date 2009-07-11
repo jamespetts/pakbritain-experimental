@@ -2,8 +2,8 @@ obj=vehicle
 name=LMR-Rocket
 engine_type=steam
 smoke=Steam
-speed=40
-##gear=350
+speed=32
+#gear=350
 power=15
 copyright=Kieron
 intro_year=1829
@@ -17,7 +17,7 @@ length=4
 
 weight=3
 cost=5544000
-runningcost=277
+runningcost=300
 sound=-1
 
 Constraint[Next][0]=LMR-Rocket-Tender

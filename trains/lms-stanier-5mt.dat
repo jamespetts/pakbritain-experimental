@@ -17,7 +17,7 @@ length=7
 
 weight=72
 cost=4598000
-runningcost=223
+runningcost=1122
 sound=-1
 
 Constraint[Next][0]=LMS-Stanier-5MT-Tender(Black)

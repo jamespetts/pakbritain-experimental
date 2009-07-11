@@ -17,7 +17,7 @@ length=5
 
 weight=39
 cost=13094400
-runningcost=580
+runningcost=2112
 sound=-1
 
 Constraint[Next][0]=GNR-Stirling8Foot-Tender

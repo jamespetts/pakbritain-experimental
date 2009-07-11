@@ -3,7 +3,7 @@ name=LNER-A4(Blue)
 engine_type=steam
 smoke=Steam
 speed=175
-##gear=300
+#gear=300
 power=2550
 copyright=Kieron
 intro_year=1935
@@ -17,7 +17,7 @@ length=8
 
 weight=102
 cost=11088000
-runningcost=554
+runningcost=2508
 sound=-1
 
 Constraint[Next][0]=LNER-A4-Tender(Blue)

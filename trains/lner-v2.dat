@@ -17,7 +17,7 @@ length=7
 
 weight=93
 cost=6585600
-runningcost=329
+runningcost=1254
 sound=-1
 
 Constraint[Next][0]=LNER-V2-Tender(Green)

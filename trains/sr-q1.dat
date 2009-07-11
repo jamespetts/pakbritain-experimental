@@ -3,7 +3,7 @@ name=SR-Q1(Black)
 engine_type=steam
 smoke=Steam
 speed=96
-##gear=240
+#gear=240
 power=1036
 copyright=Kieron
 intro_year=1942
@@ -17,7 +17,7 @@ length=6
 
 weight=57
 cost=4980000
-runningcost=234
+runningcost=462
 sound=-1
 
 Constraint[Next][0]=SR-Q1-Tender(Black)

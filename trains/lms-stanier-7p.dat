@@ -3,7 +3,7 @@ name=LMS-Stanier-7P(Maroon)
 engine_type=steam
 smoke=Steam
 speed=170
-##gear=380
+#gear=380
 power=2450
 copyright=Kieron
 intro_year=1937
@@ -17,7 +17,7 @@ length=9
 
 weight=108
 cost=10458000
-runningcost=523
+runningcost=2343
 sound=-1
 
 Constraint[Next][0]=LMS-Stanier-7P-Tender(Maroon)

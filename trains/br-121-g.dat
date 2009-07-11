@@ -3,7 +3,7 @@ name=BR-121(Green)
 engine_type=diesel
 smoke=Diesel
 speed=110
-###gear=450
+#gear=450
 power=225
 copyright=Kieron
 intro_year=1960
@@ -17,7 +17,7 @@ length=11
 
 weight=38
 cost=1300000
-runningcost=49
+runningcost=99
 sound=-1
 
 can_lead_from_rear=1

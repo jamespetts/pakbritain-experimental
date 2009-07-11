@@ -17,7 +17,7 @@ length=6
 
 weight=43
 cost=5404500
-runningcost=270
+runningcost=858
 sound=-1
 
 Constraint[Next][0]=MR-Spinner-Tender(Maroon)

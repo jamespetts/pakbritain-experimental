@@ -17,7 +17,7 @@ length=6
 
 weight=74
 cost=12700000
-runningcost=635
+runningcost=1584
 sound=-1
 
 Constraint[Next][0]=LNWR-PrinceOfWales-Tender(Black)

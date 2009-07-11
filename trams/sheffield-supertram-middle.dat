@@ -16,7 +16,7 @@ length=4
 
 weight=12
 cost=360000
-runningcost=12
+runningcost=6
 sound=-1
 
 Constraint[Next][0]=Sheffield-Supertram(Rear)

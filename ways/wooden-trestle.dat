@@ -1,6 +1,7 @@
 Obj=bridge
 name=WoodenTrestle
 waytype=track
+intro_year=1750
 topspeed=30
 cost=25000
 maintenance=175

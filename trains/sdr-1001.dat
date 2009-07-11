@@ -17,7 +17,7 @@ length=6
 
 weight=29
 cost=5913600
-runningcost=296
+runningcost=660
 sound=-1
 
 Constraint[Next][0]=SDR-1001-Tender(Green)

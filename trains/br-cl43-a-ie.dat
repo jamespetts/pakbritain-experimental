@@ -17,7 +17,7 @@ length=10
 
 weight=70
 cost=9331000
-runningcost=518
+runningcost=2508
 sound=-1
 
 Constraint[Prev][0]=none

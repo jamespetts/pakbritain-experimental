@@ -3,7 +3,7 @@ name=SR-MerchantNavy 4-6-2(Green)
 engine_type=steam
 smoke=Steam
 speed=155
-##gear=400
+#gear=400
 power=1700
 copyright=Kieron
 intro_year=1941
@@ -17,7 +17,7 @@ length=8
 
 weight=95
 cost=12398000
-runningcost=620
+runningcost=2178
 sound=-1
 
 Constraint[Next][0]=SR-MerchantNavy 4-6-2Tender(Green)

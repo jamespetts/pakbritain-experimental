@@ -14,7 +14,7 @@ length=4
 
 weight=53
 cost=12672000
-runningcost=434
+runningcost=1188
 sound=-1
 
 Constraint[Next][0]=LMS-Garratt-Middle(Black)

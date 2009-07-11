@@ -3,7 +3,7 @@ name=LNER-B17/5(Green)
 engine_type=steam
 smoke=Steam
 speed=150
-##gear=120
+#gear=120
 power=6147
 copyright=James
 intro_year=1937
@@ -17,7 +17,7 @@ length=7
 
 weight=93
 cost=8467200
-runningcost=423
+runningcost=1452
 sound=-1
 
 Constraint[Next][0]=LNER-B17/5-Tender(Green)

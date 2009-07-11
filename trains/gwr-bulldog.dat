@@ -17,7 +17,7 @@ length=6
 
 weight=51
 cost=9273600
-runningcost=464
+runningcost=1122
 sound=-1
 
 Constraint[Next][0]=GWR-Bulldog-Tender(Green)

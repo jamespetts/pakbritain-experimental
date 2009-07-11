@@ -57,6 +57,9 @@ cost=169000
 runningcost=11
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+
 Constraint[Prev][0]=Autic-4_Car_Transporter(Front)
 
 EmptyImage[E]=./images/wagon-autic.0.4

@@ -17,7 +17,7 @@ length=5
 
 weight=8
 cost=7257600
-runningcost=363
+runningcost=770
 sound=-1
 
 Constraint[Next][0]=LMR-Patentee-Tender

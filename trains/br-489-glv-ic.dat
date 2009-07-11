@@ -16,7 +16,7 @@ length=11
 
 weight=45
 cost=1500000
-runningcost=37
+runningcost=462
 sound=-1
 
 Constraint[Prev][0]=BR-Mk2-TO(Intercity)

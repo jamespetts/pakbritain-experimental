@@ -17,7 +17,7 @@ length=6
 
 weight=41
 cost=6972000
-runningcost=349
+runningcost=1320
 sound=-1
 
 Constraint[Next][0]=MR-Kirtley156Tender(Maroon)

@@ -16,7 +16,7 @@ length=11
 
 weight=50
 cost=1200000
-runningcost=45
+runningcost=181
 sound=-1
 
 Constraint[Prev][0]=RM-325Front(RM)

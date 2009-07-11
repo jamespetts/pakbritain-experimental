@@ -15,7 +15,7 @@ payload=104
 
 weight=30
 cost=520000
-runningcost=20
+runningcost=165
 sound=-1
 
 can_lead_from_rear=1

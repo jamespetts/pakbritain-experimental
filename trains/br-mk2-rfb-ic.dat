@@ -16,6 +16,11 @@ cost=460000
 runningcost=23
 sound=-1
 
+
+can_lead_from_rear=0
+bidirectional=1
+catering_level=2
+
 Constraint[Next][0]=BR-Mk2-TO(Intercity)
 Constraint[Next][1]=BR-489[GLV](Intercity)
 Constraint[Next][2]=BR-Mk2-RFB(Intercity)

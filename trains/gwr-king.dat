@@ -17,7 +17,7 @@ length=7
 
 weight=75
 cost=11404800
-runningcost=570
+runningcost=2310
 sound=-1
 
 Constraint[Next][0]=GWR-King-Tender

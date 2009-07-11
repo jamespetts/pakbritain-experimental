@@ -36,7 +36,7 @@ name=Passagiere
 mapcolor=79
 metric=
 catg=0
-value=14
+value=42
 speed_bonus=18
 weight_per_unit=85
 -----------------------
@@ -45,7 +45,7 @@ obj=good
 name=Post
 metric=bag
 catg=0
-value=16
+value=48
 speed_bonus=15
 weight_per_unit=50
 -----------------------
@@ -54,7 +54,7 @@ obj=good
 name=livestock
 metric=head
 catg=0
-value=12
+value=35
 speed_bonus=2
 weight_per_unit=10
 ------------------------------------------
@@ -71,7 +71,7 @@ obj=good
 name=Autos
 metric=cars
 catg=0
-value=150
+value=225
 speed_bonus=15
 weight_per_unit=1800
 -----------------------
@@ -81,7 +81,7 @@ obj=good
 name=Kohle
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=0
 weight_per_unit=1000
 -----------------------
@@ -90,7 +90,7 @@ obj=good
 name=Eisenerz
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=0
 weight_per_unit=1000
 -----------------------
@@ -99,7 +99,7 @@ obj=good
 name=woodchip
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=0
 weight_per_unit=1000
 -----------------------
@@ -108,7 +108,7 @@ obj=good
 name=Stone
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=0
 weight_per_unit=1000
 -----------------------
@@ -117,7 +117,7 @@ obj=good
 name=clay
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=0
 weight_per_unit=1000
 -----------------------
@@ -126,7 +126,7 @@ obj=good
 name=Cement
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=0
 weight_per_unit=1000
 -----------------------
@@ -134,7 +134,7 @@ obj=good
 name=grain
 metric=tonnen
 catg=2
-value=32
+value=35
 speed_bonus=1
 weight_per_unit=1000
 -----------------------
@@ -145,7 +145,7 @@ obj=good
 name=Bucher
 metric=paletten
 catg=1
-value=50
+value=51
 speed_bonus=10
 weight_per_unit=900
 -----------------------
@@ -154,7 +154,7 @@ obj=good
 name=fruit
 metric=paletten
 catg=1
-value=50
+value=51
 speed_bonus=10
 weight_per_unit=800
 -----------------------
@@ -162,7 +162,7 @@ obj=good
 name=vegetables
 metric=paletten
 catg=1
-value=50
+value=51
 speed_bonus=15
 weight_per_unit=800
 -----------------------
@@ -171,7 +171,7 @@ obj=good
 name=newspaper
 metric=paletten
 catg=1
-value=50
+value=51
 speed_bonus=10
 weight_per_unit=50
 ------------------------------------------
@@ -181,7 +181,7 @@ obj=good
 name=hardware
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=800
 -----------------------
@@ -199,7 +199,7 @@ obj=good
 name=textile
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=250
 -----------------------
@@ -208,7 +208,7 @@ obj=good
 name=flour
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=800
 -----------------------
@@ -216,7 +216,7 @@ weight_per_unit=800
 obj=good
 name=beer
 metric=barrels
-catg=1
+catg=35
 value=50
 speed_bonus=3
 weight_per_unit=800
@@ -226,7 +226,7 @@ obj=good
 name=cider
 metric=barrels
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=800
 -----------------------
@@ -235,7 +235,7 @@ obj=good
 name=pharmaceuticals
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=500
 -----------------------
@@ -244,7 +244,7 @@ obj=good
 name=Plastik
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=400
 -----------------------
@@ -253,7 +253,7 @@ obj=good
 name=Papier
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=750
 -----------------------
@@ -262,7 +262,7 @@ obj=good
 name=wool
 metric=sack
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=250
 -------------------------
@@ -271,7 +271,7 @@ obj=good
 name=china
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=450
 ------------------------------------------
@@ -280,7 +280,7 @@ obj=good
 name=bricks
 metric=paletten
 catg=1
-value=50
+value=35
 speed_bonus=3
 weight_per_unit=800
 ---------------------------------------
@@ -290,7 +290,7 @@ obj=good
 name=Stahl
 metric=tonnen
 catg=6
-value=40
+value=35
 speed_bonus=2
 weight_per_unit=1000
 -----------------------
@@ -299,7 +299,7 @@ obj=good
 name=Bretter
 metric=tonnen
 catg=6
-value=40
+value=35
 speed_bonus=2
 weight_per_unit=1000
 -----------------------
@@ -346,7 +346,7 @@ obj=good
 name=meat
 metric=paletten
 catg=4
-value=50
+value=69
 speed_bonus=15
 weight_per_unit=800
 -----------------------
@@ -355,7 +355,7 @@ obj=good
 name=fish
 metric=paletten
 catg=4
-value=50
+value=69
 speed_bonus=15
 weight_per_unit=800
 -----------------------
@@ -364,18 +364,18 @@ obj=good
 name=milk
 metric=paletten
 catg=4
-value=50
+value=69
 speed_bonus=15
 weight_per_unit=800
 -----------------------
-### Packaged food ###
+### OTHER - Not used but apparently required ###
 # Canned Food
 obj=good
 name=canned_food
 metric=paletten
 catg=1
-value=50
-speed_bonus=7
+value=35
+speed_bonus=3
 weight_per_unit=800
 -----------------------
 #===============================================================================

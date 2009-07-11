@@ -17,7 +17,7 @@ length=4
 
 weight=15
 cost=5280000
-runningcost=264
+runningcost=330
 sound=-1
 
 Constraint[Next][0]=SDR-Derwent-Tender

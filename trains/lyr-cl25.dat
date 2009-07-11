@@ -17,7 +17,7 @@ length=5
 
 weight=42
 cost=4752000
-runningcost=238
+runningcost=462
 sound=-1
 
 Constraint[Next][0]=LYR-Class25-Tender(Black)

@@ -17,7 +17,7 @@ length=5
 
 weight=25
 cost=8299200
-runningcost=415
+runningcost=990
 sound=-1
 
 Constraint[Next][0]=LNWR-Bloomer-Tender(Red)

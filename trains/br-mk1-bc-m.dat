@@ -11,7 +11,7 @@ freight=Passagiere
 payload=48
 length=11
 
-weight=37
+weight=36
 cost=486000
 upgrade_price=70000
 runningcost=22

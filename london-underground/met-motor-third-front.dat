@@ -24,7 +24,7 @@ Constraint[Prev][0]=Metropolitan-Motor-Third-Back
 Constraint[Prev][1]=none
 
 Constraint[Next][0]=Metropolitan-Motor-Third-Back
-Constraint[Next][1]=Metropolitan-Bogie-Third
+Constraint[Next][1]=Metropolitan-Motor-Third-Middle
 
 EmptyImage[E]=./images/met-motor-third.0.0
 EmptyImage[SE]=./images/met-motor-third.0.1

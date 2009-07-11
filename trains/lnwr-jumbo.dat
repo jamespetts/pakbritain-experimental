@@ -17,7 +17,7 @@ length=5
 
 weight=42
 cost=10038000
-runningcost=502
+runningcost=1718
 sound=-1
 
 Constraint[Next][0]=LNWR-Jumbo-Tender(Black)

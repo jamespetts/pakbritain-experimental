@@ -17,7 +17,7 @@ length=4
 
 weight=4
 cost=4752000
-runningcost=238
+runningcost=640
 sound=-1
 
 Constraint[Next][0]=LMR-Planet-Tender

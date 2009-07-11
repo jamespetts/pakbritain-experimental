@@ -17,7 +17,7 @@ length=6
 
 weight=62
 cost=6692800
-runningcost=275
+runningcost=528
 sound=-1
 
 Constraint[Next][0]=GER-Claud-Hamilton-Tender(Blue)

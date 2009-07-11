@@ -3,7 +3,7 @@ name=LMS-Stanier-8F(Black)
 engine_type=steam
 smoke=Steam
 speed=90
-##gear=250
+#gear=250
 power=1800
 copyright=Kieron
 intro_year=1935
@@ -17,7 +17,7 @@ length=7
 
 weight=72
 cost=5940000
-runningcost=297
+runningcost=1320
 sound=-1
 
 Constraint[Next][0]=LMS-Stanier-8F-Tender(Black)

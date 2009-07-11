@@ -20,7 +20,7 @@ bidirectional=1
 
 weight=28
 cost=2016000
-runningcost=101
+runningcost=66
 sound=-1
 
 EmptyImage[E]=./images/lbscr-a1.0

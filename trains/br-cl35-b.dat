@@ -17,7 +17,7 @@ length=9
 
 weight=74
 cost=70560
-runningcost=302
+runningcost=1188
 sound=-1
 
 EmptyImage[E]=./images/br-cl35-b.0

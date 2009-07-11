@@ -17,7 +17,7 @@ length=5
 
 weight=30
 cost=7603200
-runningcost=380
+runningcost=1122
 sound=-1
 
 Constraint[Next][0]=LNWR-Problem-Tender(Green)

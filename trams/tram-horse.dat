@@ -14,7 +14,7 @@ length=2
 
 weight=0
 cost=100000
-runningcost=2
+runningcost=5
 sound=-1
 
 Constraint[Prev][0]=none

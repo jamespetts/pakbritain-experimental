@@ -59,6 +59,10 @@ cost=197000
 runningcost=12
 sound=-1
 
+
+can_lead_from_rear=0
+bidirectional=1
+
 Constraint[Prev][0]=Cartic-4_Car_Transporter(Front)
 Constraint[Next][0]=Cartic-4_Car_Transporter(Middle2)
 
@@ -99,6 +103,10 @@ cost=197000
 runningcost=12
 sound=-1
 
+
+can_lead_from_rear=0
+bidirectional=1
+
 Constraint[Prev][0]=Cartic-4_Car_Transporter(Middle1)
 Constraint[Next][0]=Cartic-4_Car_Transporter(Rear)
 
@@ -138,6 +146,10 @@ weight=16
 cost=197000
 runningcost=12
 sound=-1
+
+
+can_lead_from_rear=0
+bidirectional=1
 
 Constraint[Prev][0]=Cartic-4_Car_Transporter(Middle2)
 

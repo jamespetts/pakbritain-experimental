@@ -21,7 +21,7 @@ sound=-1
 bidirectional=1
 
 Constraint[Prev][0]=Metropolitan-Motor-Third-Front
-Constraint[Prev][1]=Metropolitan-Bogie-Third
+Constraint[Prev][1]=Metropolitan-Motor-Third-Middle
 
 Constraint[Next][0]=Metropolitan-Motor-Third-Front
 Constraint[Next][1]=none

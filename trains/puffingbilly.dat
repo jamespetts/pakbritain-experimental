@@ -17,7 +17,7 @@ length=3
 
 weight=8
 cost=924000
-runningcost=46
+runningcost=60
 sound=-1
 
 Constraint[Next][0]=PuffingBilly-Tender
