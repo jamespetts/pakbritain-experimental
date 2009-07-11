@@ -17,7 +17,7 @@ length=10
 
 weight=23
 cost=1042000
-runningcost=39
+runningcost=66
 sound=-1
 
 Constraint[Prev][0]=BR-104Front(Green)

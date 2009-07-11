@@ -1,7 +1,73 @@
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images
+END
+river-3T2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-3T2.png
+END
+tgv.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/simutrans/!svn/ver/143/pak128.Britain/ways/images/tgv.png
+END
+city_road-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road-snow.png
+END
+grass-runway.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-runway.png
+END
+dirt.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/simutrans/!svn/ver/143/pak128.Britain/ways/images/dirt.png
+END
+grass-taxiway.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-taxiway.png
+END
+brick-aqueduct.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/brick-aqueduct.png
+END
+country_road.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/country_road.png
+END
+cobbles.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/143/pak128.Britain/ways/images/cobbles.png
+END
+brick-viaduct-road.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/brick-viaduct-road.png
+END
+wooden-trestle.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wooden-trestle.png
 END
 city_road.png
 K 25
@@ -15,11 +81,11 @@ svn:wc:ra_dav:version-url
 V 88
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wooden_sleeper_steel_rail.png
 END
-city_road-snow.png
+canal.png
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road-snow.png
+V 68
+/svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/canal.png
 END
 wooden_sleeper_steel_rail_improved.png
 K 25
@@ -27,17 +93,41 @@ svn:wc:ra_dav:version-url
 V 97
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wooden_sleeper_steel_rail_improved.png
 END
+river-0.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-0.png
+END
 concrete_sleeper_steel_rail.png
 K 25
 svn:wc:ra_dav:version-url
 V 90
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/concrete_sleeper_steel_rail.png
 END
+runway.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/runway.png
+END
+taxiway.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/taxiway.png
+END
 wrought_iron.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wrought_iron.png
+END
+crossing.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/150/pak128.Britain/ways/images/crossing.png
 END
 brick-viaduct.png
 K 25
@@ -51,11 +141,11 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/tram_track.png
 END
-country_road.png
+river-1T0.png
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/country_road.png
+V 72
+/svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-1T0.png
 END
 concrete_sleeper_steel_rail_improved.png
 K 25
@@ -63,17 +153,11 @@ svn:wc:ra_dav:version-url
 V 99
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/concrete_sleeper_steel_rail_improved.png
 END
-brick-viaduct-road.png
+river-2T1.png
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/brick-viaduct-road.png
-END
-wooden-trestle.png
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wooden-trestle.png
+V 72
+/svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-2T1.png
 END
 wrought_iron_improved.png
 K 25

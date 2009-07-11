@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains
+END
+br-mk4-rsb-ic.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk4-rsb-ic.dat
 END
 br-390a-virgin.dat
 K 25
@@ -13,7 +19,7 @@ br-313middle-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-313middle-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-313middle-bg.dat
 END
 gnr-6wheel-guard.dat
 K 25
@@ -25,55 +31,61 @@ br-165middle-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-165middle-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-165middle-nse.dat
+END
+wagon-brake-sr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-sr.dat
 END
 lner-em1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-em1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-em1.dat
 END
 br-365middle-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-365middle-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-365middle-nse.dat
 END
 br-319back-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-319back-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-319back-nse.dat
 END
 br-309middle-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-309middle-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-309middle-bg.dat
 END
 br-465middle-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-465middle-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-465middle-nse.dat
 END
 sr-n15.dat
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-n15.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-n15.dat
 END
 lnwr-Aclass.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-Aclass.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lnwr-Aclass.dat
 END
 lner-b17-5.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-b17-5.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-b17-5.dat
 END
 lms-patriot-tender.dat
 K 25
@@ -85,25 +97,25 @@ ner-ee1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/ner-ee1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/ner-ee1.dat
 END
 sr-schools.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-schools.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-schools.dat
 END
 hr-jones-goods.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/hr-jones-goods.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/hr-jones-goods.dat
 END
 sdr-derwent.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sdr-derwent.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sdr-derwent.dat
 END
 lms-stanier-7p-tender.dat
 K 25
@@ -115,25 +127,25 @@ lner-a4.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-a4.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-a4.dat
 END
 lms-princess-royal.dat
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-princess-royal.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-princess-royal.dat
 END
 br-313front-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-313front-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-313front-bg.dat
 END
 gwr-panniertank.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-panniertank.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-panniertank.dat
 END
 wagon-tanker-rch.dat
 K 25
@@ -145,19 +157,25 @@ sr-404[cor]middle1-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-404%5Bcor%5Dmiddle1-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-404%5Bcor%5Dmiddle1-g.dat
 END
 br-104back-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-104back-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-104back-g.dat
+END
+wagon-long-20t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-20t.dat
 END
 gwr-1400-tank.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-1400-tank.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-1400-tank.dat
 END
 br-390d-virgin.dat
 K 25
@@ -169,31 +187,61 @@ br-156back-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-156back-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-156back-rr.dat
 END
 rm-325power-rm.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/rm-325power-rm.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/rm-325power-rm.dat
 END
 br-365back-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-365back-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-365back-nse.dat
+END
+teak-clerestory-dining.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/teak-clerestory-dining.dat
+END
+wagon-cool-container.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-container.dat
 END
 br-cl30-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl30-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl30-g.dat
+END
+mr-6wheel-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-6wheel-mail.dat
+END
+br-mk2-rfb-ic.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk2-rfb-ic.dat
+END
+wagon-cool-d32.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-d32.dat
 END
 lmr-patentee.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-patentee.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lmr-patentee.dat
 END
 lnwr-problem-tender.dat
 K 25
@@ -205,7 +253,7 @@ br-cl90-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl90-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl90-ic.dat
 END
 wagon-tta.dat
 K 25
@@ -217,7 +265,7 @@ lms-4f.dat
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-4f.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-4f.dat
 END
 gwr-king-tender.dat
 K 25
@@ -241,43 +289,49 @@ br-419-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-419-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-419-bg.dat
 END
 br-158front-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-158front-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-158front-rr.dat
 END
 br-104middle-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-104middle-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-104middle-g.dat
 END
 br-378front-lt.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-378front-lt.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-378front-lt.dat
+END
+wagon-livestock-early2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-livestock-early2.dat
 END
 br-319front-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-319front-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-319front-nse.dat
 END
 br-303back-cb.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-303back-cb.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-303back-cb.dat
 END
 lmr-planet.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-planet.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lmr-planet.dat
 END
 lmr-patentee-tender.dat
 K 25
@@ -295,7 +349,7 @@ br-373b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-373b.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-373b.dat
 END
 br-390g-virgin.dat
 K 25
@@ -325,19 +379,37 @@ lner-v2.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-v2.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-v2.dat
 END
 gwr-swindon-twinset-a.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-swindon-twinset-a.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-swindon-twinset-a.dat
+END
+wagon-cool-zsx.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-zsx.dat
 END
 teak-clerestory-coach.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/teak-clerestory-coach.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/teak-clerestory-coach.dat
+END
+lnwr-6wheel-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lnwr-6wheel-mail.dat
+END
+br-mk1-bg-rm.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-bg-rm.dat
 END
 lner-p2-tender.dat
 K 25
@@ -355,7 +427,25 @@ br-mk1-to-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk1-to-bg.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-to-bg.dat
+END
+wagon-long-early2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-early2.dat
+END
+br-170middle-scotrail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-170middle-scotrail.dat
+END
+br-251front-g.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-251front-g.dat
 END
 lnwr-1847-brake.dat
 K 25
@@ -363,23 +453,23 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-1847-brake.dat
 END
-br-170middle-scotrail.dat
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-170middle-scotrail.dat
-END
-br-251front-g.dat
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-251front-g.dat
-END
 gnr-c1-tender.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gnr-c1-tender.dat
+END
+wagon-cool-d88.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-d88.dat
+END
+mr-clerestory-tpo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-clerestory-tpo.dat
 END
 puffingbilly-tender.dat
 K 25
@@ -391,7 +481,7 @@ br-251secondf.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-251secondf.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-251secondf.dat
 END
 br-465front-nse.dat
 K 25
@@ -409,25 +499,25 @@ gnr-stirling-8foot.dat
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gnr-stirling-8foot.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gnr-stirling-8foot.dat
 END
 gnr-4wheel-composite.dat
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gnr-4wheel-composite.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gnr-4wheel-composite.dat
 END
 br-378back-lt.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-378back-lt.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-378back-lt.dat
 END
 lms-2007.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-2007.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lms-2007.dat
 END
 lms-coronation-btk.dat
 K 25
@@ -451,49 +541,61 @@ br-309back-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-309back-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-309back-bg.dat
 END
 br-251secondr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-251secondr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-251secondr.dat
 END
 gwr-pr-railcar.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-pr-railcar.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-pr-railcar.dat
 END
 choc-cream-clerestory.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/choc-cream-clerestory.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/choc-cream-clerestory.dat
 END
 sr-404[cor]back-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-404%5Bcor%5Dback-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-404%5Bcor%5Dback-g.dat
 END
 br-cl71-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl71-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl71-g.dat
+END
+gnr-6wheel-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gnr-6wheel-mail.dat
 END
 wagon-bulk-8t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-8t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-8t.dat
 END
 br-cl52-m.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl52-m.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl52-m.dat
+END
+wagon-cool-early1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-early1.dat
 END
 lner-coronation-brake-third-1.dat
 K 25
@@ -501,41 +603,53 @@ svn:wc:ra_dav:version-url
 V 87
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-coronation-brake-third-1.dat
 END
+wagon-2-car-flat.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-2-car-flat.dat
+END
+br-mk1-rbr-bg.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-rbr-bg.dat
+END
 br-mk4-to-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk4-to-ic.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk4-to-ic.dat
 END
 br-cl86-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl86-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl86-ic.dat
 END
 br-180middle-fgw.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-180middle-fgw.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-180middle-fgw.dat
 END
 br-365front-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-365front-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-365front-nse.dat
 END
 lner-p2.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-p2.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-p2.dat
 END
 lner-em2.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-em2.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-em2.dat
 END
 lner-a4-tender.dat
 K 25
@@ -547,7 +661,7 @@ mr-clerestory-coach.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-clerestory-coach.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-clerestory-coach.dat
 END
 sdr-1001-tender.dat
 K 25
@@ -559,13 +673,25 @@ br-7mt-tender.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-7mt-tender.dat
+/svnroot/simutrans/!svn/ver/168/pak128.Britain/trains/br-7mt-tender.dat
+END
+mr-clerestory-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-clerestory-mail.dat
 END
 lmr-lion.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-lion.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lmr-lion.dat
+END
+wagon-piece-early1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-early1.dat
 END
 lmr-planet-tender.dat
 K 25
@@ -573,41 +699,53 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-planet-tender.dat
 END
+wagon-brake-d93.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-d93.dat
+END
 wagon-bulk-5t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-5t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-5t.dat
 END
 br-375front-se.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-375front-se.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-375front-se.dat
 END
 br-303front-cb.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-303front-cb.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-303front-cb.dat
 END
 lner-j94.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-j94.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-j94.dat
 END
 lbscr-a1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lbscr-a1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lbscr-a1.dat
+END
+br-mk1-rbr-m.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-rbr-m.dat
 END
 br-cl66-ews.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl66-ews.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl66-ews.dat
 END
 lner-b17-5-tender.dat
 K 25
@@ -621,17 +759,41 @@ svn:wc:ra_dav:version-url
 V 68
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-370f-ic.dat
 END
+wagon-long-d1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-d1.dat
+END
 gwr-droplight-brake.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-droplight-brake.dat
 END
+wagon-long-12t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-12t.dat
+END
+teak-clerestory-tpo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/teak-clerestory-tpo.dat
+END
 wagon-bulk-16t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-16t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-16t.dat
+END
+lner-gresley-express-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lner-gresley-express-mail.dat
 END
 lms-stanier-5mt-tender.dat
 K 25
@@ -643,7 +805,7 @@ br-165back-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-165back-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-165back-nse.dat
 END
 lms-4f-tender.dat
 K 25
@@ -651,35 +813,47 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-4f-tender.dat
 END
+mr-4wheel-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-4wheel-mail.dat
+END
 wagon-bulk-2t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-2t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-2t.dat
 END
 mr-6wheel-first.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-6wheel-first.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-6wheel-first.dat
 END
 br-410[cep]back-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-410%5Bcep%5Dback-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-410%5Bcep%5Dback-bg.dat
 END
 br-442-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-442-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-442-nse.dat
+END
+mr-clerestory-parcel-brake.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-clerestory-parcel-brake.dat
 END
 ner-ef1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/ner-ef1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/ner-ef1.dat
 END
 gnr-4wheel-brake.dat
 K 25
@@ -691,7 +865,7 @@ gwt-churchward-star.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwt-churchward-star.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwt-churchward-star.dat
 END
 mr-6wheel-guard.dat
 K 25
@@ -703,25 +877,31 @@ br-165front-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-165front-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-165front-nse.dat
+END
+wagon-livestock-early3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-livestock-early3.dat
 END
 br-390c-virgin.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-390c-virgin.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-390c-virgin.dat
 END
 br-251back-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-251back-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-251back-g.dat
 END
 lms-502front-ml.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-502front-ml.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-502front-ml.dat
 END
 wagon-autic.dat
 K 25
@@ -757,25 +937,37 @@ lms-garratt-front.dat
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-garratt-front.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-garratt-front.dat
 END
 wagon-bulk-rch-12t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-rch-12t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-rch-12t.dat
+END
+lner-gresley-express-parcel-brake.dat
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lner-gresley-express-parcel-brake.dat
 END
 lms-1904.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-1904.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lms-1904.dat
+END
+br-cl81-b.dat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl81-b.dat
 END
 gwr-swindon-twinset-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-swindon-twinset-b.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-swindon-twinset-b.dat
 END
 lms-garratt-middle.dat
 K 25
@@ -793,13 +985,13 @@ lbscr-L.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lbscr-L.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lbscr-L.dat
 END
 br-395rear-se.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-395rear-se.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-395rear-se.dat
 END
 lbscr-b1-gladstone-tender.dat
 K 25
@@ -811,31 +1003,31 @@ br-cl73-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl73-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl73-ic.dat
 END
 br-mk1-to-m.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk1-to-m.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-to-m.dat
 END
 mslr-4wheel-composite.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mslr-4wheel-composite.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mslr-4wheel-composite.dat
+END
+wagon-long-early3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-early3.dat
 END
 br-370d-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-370d-ic.dat
-END
-lswr-m7.dat
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lswr-m7.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-370d-ic.dat
 END
 gwr-express-brake.dat
 K 25
@@ -847,13 +1039,19 @@ br-7mt.dat
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-7mt.dat
+/svnroot/simutrans/!svn/ver/168/pak128.Britain/trains/br-7mt.dat
+END
+lswr-m7.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lswr-m7.dat
 END
 lyr-cl25.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lyr-cl25.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lyr-cl25.dat
 END
 mr-spinner-tender.dat
 K 25
@@ -865,73 +1063,103 @@ ner-es1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/ner-es1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/ner-es1.dat
 END
 sr-404[cor]middle2-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-404%5Bcor%5Dmiddle2-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-404%5Bcor%5Dmiddle2-g.dat
+END
+wagon-long-30t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-30t.dat
+END
+wagon-cool-16t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-16t.dat
 END
 br-390f-virgin.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-390f-virgin.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-390f-virgin.dat
 END
 br-158back-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-158back-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-158back-rr.dat
 END
 br-410[cep]front-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-410%5Bcep%5Dfront-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-410%5Bcep%5Dfront-bg.dat
+END
+wagon-piece-d32.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-d32.dat
 END
 lnwr-PoW.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-PoW.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lnwr-PoW.dat
 END
 gwr-gloucester-parcel-railcar.dat
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-gloucester-parcel-railcar.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-gloucester-parcel-railcar.dat
 END
 br-121-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-121-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-121-g.dat
 END
 br-cl37-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl37-b.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl37-b.dat
 END
 puffingbilly.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/puffingbilly.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/puffingbilly.dat
+END
+gnr-4wheel-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gnr-4wheel-mail.dat
 END
 br-mk1-to-cc.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk1-to-cc.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-to-cc.dat
 END
 br-414[hap]back-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-414%5Bhap%5Dback-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-414%5Bhap%5Dback-bg.dat
+END
+wagon-cool-early2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-early2.dat
 END
 lner-coronation-brake-third-2.dat
 K 25
@@ -943,13 +1171,25 @@ br-395middle-se.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-395middle-se.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-395middle-se.dat
+END
+br-mk1-bg-m.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-bg-m.dat
 END
 sr-maunsell-third.dat
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-maunsell-third.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/sr-maunsell-third.dat
+END
+gwr-express-parcel-brake.dat
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gwr-express-parcel-brake.dat
 END
 hr-jones-goods-tender.dat
 K 25
@@ -961,7 +1201,7 @@ br-319power-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-319power-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-319power-nse.dat
 END
 sdr-derwent-tender.dat
 K 25
@@ -973,7 +1213,7 @@ br-158middle-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-158middle-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-158middle-rr.dat
 END
 wagon-cartic.dat
 K 25
@@ -985,13 +1225,19 @@ lmr-rocket.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-rocket.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lmr-rocket.dat
 END
 br-cl43-a-ie.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl43-a-ie.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl43-a-ie.dat
+END
+choc-cream-clerestory-parcel-brake.dat
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/choc-cream-clerestory-parcel-brake.dat
 END
 br-mk4-dvt-ic.dat
 K 25
@@ -999,77 +1245,113 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk4-dvt-ic.dat
 END
+wagon-piece-zsx.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-zsx.dat
+END
+mslr-4wheel-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mslr-4wheel-mail.dat
+END
+wagon-brake-d16.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-d16.dat
+END
 lms-jinty.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-jinty.dat
-END
-lnwr-DXgoods.dat
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-DXgoods.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-jinty.dat
 END
 lner-b17.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-b17.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-b17.dat
 END
 br-cl40-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl40-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl40-g.dat
+END
+lnwr-DXgoods.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lnwr-DXgoods.dat
 END
 single-shire.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/single-shire.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/single-shire.dat
 END
 br-cl25-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl25-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl25-g.dat
+END
+wagon-piece-early2.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-early2.dat
+END
+br-mk1-rbr-cc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-rbr-cc.dat
+END
+wagon-piece-d88.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-d88.dat
 END
 lms-stanier-5mt.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-stanier-5mt.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-stanier-5mt.dat
 END
 br-cl91-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl91-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl91-ic.dat
 END
 sr-401[bil]front-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-401%5Bbil%5Dfront-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-401%5Bbil%5Dfront-g.dat
 END
 ger-claud.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/ger-claud.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/ger-claud.dat
 END
 sr-q1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-q1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-q1.dat
 END
 mr-4wheel-composite.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-4wheel-composite.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-4wheel-composite.dat
 END
 sr-n15-tender.dat
 K 25
@@ -1081,7 +1363,7 @@ br-375back-se.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-375back-se.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-375back-se.dat
 END
 br-370b-ic.dat
 K 25
@@ -1099,13 +1381,7 @@ br-142back-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-142back-rr.dat
-END
-mr-1000-tender.dat
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-1000-tender.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-142back-rr.dat
 END
 lnwr-jumbo-tender.dat
 K 25
@@ -1113,11 +1389,23 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-jumbo-tender.dat
 END
+mr-1000-tender.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-1000-tender.dat
+END
+br-mk2-dbso.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk2-dbso.dat
+END
 br-cl92-rf.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl92-rf.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl92-rf.dat
 END
 lner-a3-tender.dat
 K 25
@@ -1129,25 +1417,25 @@ gwr-gloucester-railcar.dat
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-gloucester-railcar.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-gloucester-railcar.dat
 END
 gwr-king.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/133/pak128.Britain/trains/gwr-king.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-king.dat
 END
 gwr-bulldog.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-bulldog.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-bulldog.dat
 END
 wagon-hta.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-hta.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-hta.dat
 END
 sdr-locomotion-tender.dat
 K 25
@@ -1159,67 +1447,85 @@ lmr-4wheel-open-coach.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-4wheel-open-coach.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lmr-4wheel-open-coach.dat
 END
 br-153-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-153-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-153-rr.dat
 END
 wagon-haa.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-haa.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-haa.dat
 END
 br-mk3-to-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/138/pak128.Britain/trains/br-mk3-to-ic.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk3-to-ic.dat
+END
+br-mk1-pos-rm.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-pos-rm.dat
 END
 sr-bullied-express-coach.dat
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-bullied-express-coach.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/sr-bullied-express-coach.dat
+END
+br-mk1-tpo-rm.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-tpo-rm.dat
+END
+br-mk1-bg-bg.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-bg-bg.dat
 END
 br-156front-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-156front-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-156front-rr.dat
 END
 br-170back-scotrail.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-170back-scotrail.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-170back-scotrail.dat
 END
 br-303middle-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-303middle-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-303middle-nse.dat
 END
 lms-stanier-8f.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-stanier-8f.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-stanier-8f.dat
 END
 br-309-2front-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-309-2front-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-309-2front-bg.dat
 END
 br-410[cep]middle-to-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-410%5Bcep%5Dmiddle-to-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-410%5Bcep%5Dmiddle-to-bg.dat
 END
 sr-schools-tender.dat
 K 25
@@ -1231,13 +1537,13 @@ br-365power-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-365power-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-365power-nse.dat
 END
 br-205back-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-205back-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-205back-bg.dat
 END
 lbscr-4wheel-first.dat
 K 25
@@ -1249,37 +1555,55 @@ br-373d.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-373d.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-373d.dat
 END
 br-220back-virgin.dat
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-220back-virgin.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-220back-virgin.dat
+END
+sr-maunsell-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/sr-maunsell-mail.dat
 END
 br-cl20-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl20-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl20-g.dat
 END
 lms-502back-ml.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-502back-ml.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-502back-ml.dat
+END
+sr-maunsell-parcels.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/sr-maunsell-parcels.dat
+END
+choc-cream-clerestory-tpo.dat
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/choc-cream-clerestory-tpo.dat
 END
 wagon-bulk-3t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-3t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-3t.dat
 END
 mr-kirtley156.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-kirtley156.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/mr-kirtley156.dat
 END
 br-9f-tender.dat
 K 25
@@ -1287,11 +1611,17 @@ svn:wc:ra_dav:version-url
 V 70
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-9f-tender.dat
 END
+wagon-brake-br.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-br.dat
+END
 lnwr-6wheel-first.dat
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-6wheel-first.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lnwr-6wheel-first.dat
 END
 lner-coronation-observation.dat
 K 25
@@ -1303,7 +1633,7 @@ br-104front-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-104front-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-104front-g.dat
 END
 lner-v2-tender.dat
 K 25
@@ -1321,13 +1651,19 @@ br-cl87-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl87-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl87-ic.dat
 END
 br-220front-virgin.dat
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-220front-virgin.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-220front-virgin.dat
+END
+br-390b-virgin.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-390b-virgin.dat
 END
 lnwr-6wheel-guard.dat
 K 25
@@ -1335,11 +1671,11 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-6wheel-guard.dat
 END
-br-390b-virgin.dat
+wagon-long-10t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-390b-virgin.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-10t.dat
 END
 choc-cream-clerestory-brake.dat
 K 25
@@ -1363,13 +1699,13 @@ gwr-2800.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-2800.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-2800.dat
 END
 br-cl35-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl35-b.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl35-b.dat
 END
 mr-4wheel-brake.dat
 K 25
@@ -1377,23 +1713,23 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-4wheel-brake.dat
 END
+gwr-prairie.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gwr-prairie.dat
+END
 lyr-cl25-tender.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lyr-cl25-tender.dat
 END
-gwr-prairie.dat
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-prairie.dat
-END
 mr-spinner.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-spinner.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/mr-spinner.dat
 END
 teak-clerestory-brake.dat
 K 25
@@ -1407,23 +1743,29 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-coronation-fk.dat
 END
+wagon-cool-early3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-early3.dat
+END
 br-375middle-se.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-375middle-se.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-375middle-se.dat
 END
 br-489-glv-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-489-glv-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-489-glv-ic.dat
 END
 sdr-locomotion.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sdr-locomotion.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sdr-locomotion.dat
 END
 br-370g-ic.dat
 K 25
@@ -1435,55 +1777,85 @@ br-390e-virgin.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-390e-virgin.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-390e-virgin.dat
 END
 br-378middle-lt.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-378middle-lt.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-378middle-lt.dat
 END
 br-9f.dat
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-9f.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-9f.dat
 END
 lnwr-problem.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-problem.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lnwr-problem.dat
 END
 rm-325middle-rm.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/rm-325middle-rm.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/rm-325middle-rm.dat
 END
 wagon-bulk-rch-10t.dat
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/wagon-bulk-rch-10t.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-bulk-rch-10t.dat
 END
 lbscr-b1-gladstone.dat
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lbscr-b1-gladstone.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lbscr-b1-gladstone.dat
+END
+wagon-livestock-16t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-livestock-16t.dat
+END
+wagon-brake-lms.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-lms.dat
 END
 gnr-c1.dat
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gnr-c1.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/gnr-c1.dat
+END
+wagon-brake-gwr.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-gwr.dat
 END
 gnr-stirling-8foot-tender.dat
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gnr-stirling-8foot-tender.dat
+END
+wagon-piece-early3.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-early3.dat
+END
+teak-clerestory-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/teak-clerestory-mail.dat
 END
 lner-coronation-restaurant.dat
 K 25
@@ -1495,19 +1867,25 @@ lner-a3.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-a3.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lner-a3.dat
 END
 br-142front-rr.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-142front-rr.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-142front-rr.dat
+END
+wagon-3-car-bogie.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-3-car-bogie.dat
 END
 br-180front-fgw.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-180front-fgw.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-180front-fgw.dat
 END
 lms-coronation-bfk.dat
 K 25
@@ -1519,31 +1897,37 @@ br-251first-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-251first-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-251first-g.dat
+END
+wagon-piece-16t.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-16t.dat
 END
 lms-10000-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-10000-b.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-10000-b.dat
 END
 br-cl67-ews.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl67-ews.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl67-ews.dat
+END
+lner-gresley-express-coach.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lner-gresley-express-coach.dat
 END
 lswr-third-carriage.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lswr-third-carriage.dat
-END
-lner-gresley-express-coach.dat
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-gresley-express-coach.dat
 END
 mr-kirtley156-tender.dat
 K 25
@@ -1555,13 +1939,19 @@ br-205middle-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-205middle-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-205middle-bg.dat
+END
+mr-clerestory-dining.dat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mr-clerestory-dining.dat
 END
 br-313back-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-313back-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-313back-bg.dat
 END
 sr-mn-4-6-2-tender.dat
 K 25
@@ -1569,17 +1959,23 @@ svn:wc:ra_dav:version-url
 V 76
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-mn-4-6-2-tender.dat
 END
+wagon-piece-container.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-piece-container.dat
+END
 br-mk3-dvt-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk3-dvt-ic.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk3-dvt-ic.dat
 END
 br-319middle-nse.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-319middle-nse.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-319middle-nse.dat
 END
 br-390h-virgin.dat
 K 25
@@ -1591,31 +1987,31 @@ lms-stanier-7p.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-stanier-7p.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-stanier-7p.dat
 END
 rm-325back-rm.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/rm-325back-rm.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/rm-325back-rm.dat
 END
 sr-404[cor]front-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-404%5Bcor%5Dfront-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-404%5Bcor%5Dfront-g.dat
 END
 lms-502middle-ml.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-502middle-ml.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-502middle-ml.dat
 END
 mslr-4wheel-brake.dat
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mslr-4wheel-brake.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/mslr-4wheel-brake.dat
 END
 mr-clerestory-brake.dat
 K 25
@@ -1627,13 +2023,13 @@ jennylind.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/jennylind.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/jennylind.dat
 END
 br-cl55-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl55-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl55-g.dat
 END
 lnwr-bloomer-tender.dat
 K 25
@@ -1641,17 +2037,29 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-bloomer-tender.dat
 END
+choc-cream-clerestory-dining.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/choc-cream-clerestory-dining.dat
+END
 br-4mt-tank.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-4mt-tank.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-4mt-tank.dat
+END
+wagon-livestock-d21.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-livestock-d21.dat
 END
 gwr-express-coach.dat
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-express-coach.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gwr-express-coach.dat
 END
 br-mk1-bc-bg.dat
 K 25
@@ -1665,53 +2073,83 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-autocoach.dat
 END
+lnwr-1847-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lnwr-1847-mail.dat
+END
+teak-clerestory-parcel-brake.dat
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/teak-clerestory-parcel-brake.dat
+END
 sr[cor]middle1-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr%5Bcor%5Dmiddle1-g.dat
 END
+wagon-livestock-d25.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/wagon-livestock-d25.dat
+END
 br-205front-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-205front-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-205front-bg.dat
 END
 br-mk1-guv-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk1-guv-b.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-guv-b.dat
 END
 sdr-1001.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sdr-1001.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sdr-1001.dat
+END
+wagon-livestock-early1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-livestock-early1.dat
 END
 br-370e-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-370e-ic.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-370e-ic.dat
 END
 br-309-1front-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-309-1front-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-309-1front-bg.dat
 END
 lms-patriot.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lms-patriot.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lms-patriot.dat
+END
+lms-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lms-mail.dat
 END
 br-410[cep]middle-brake-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-410%5Bcep%5Dmiddle-brake-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-410%5Bcep%5Dmiddle-brake-bg.dat
 END
 lbscr-4wheel-brake.dat
 K 25
@@ -1723,19 +2161,19 @@ br-373a.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-373a.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-373a.dat
 END
 br-309power-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-309power-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-309power-bg.dat
 END
 br-373e.dat
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-373e.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-373e.dat
 END
 sr-maunsell-brake.dat
 K 25
@@ -1753,43 +2191,61 @@ br-414[hap]front-bg.dat
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-414%5Bhap%5Dfront-bg.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-414%5Bhap%5Dfront-bg.dat
 END
 br-cl47-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl47-b.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl47-b.dat
 END
 twin-shire.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/twin-shire.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/twin-shire.dat
+END
+wagon-brake-lner.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/169/pak128.Britain/trains/wagon-brake-lner.dat
 END
 br-170front-scotrail.dat
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-170front-scotrail.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-170front-scotrail.dat
 END
 br-395front-se.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-395front-se.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-395front-se.dat
 END
 sr-mn-4-6-2.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-mn-4-6-2.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-mn-4-6-2.dat
 END
 gwr-droplight-third.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gwr-droplight-third.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gwr-droplight-third.dat
+END
+br-mk1-bg-cc.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk1-bg-cc.dat
+END
+wagon-long-early1.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-long-early1.dat
 END
 lmr-4wheel-first.dat
 K 25
@@ -1797,59 +2253,77 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lmr-4wheel-first.dat
 END
-lnwr-DXgoods-tender.dat
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-DXgoods-tender.dat
-END
 lner-b17-tender.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lner-b17-tender.dat
 END
+gwr-express-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gwr-express-mail.dat
+END
+lnwr-DXgoods-tender.dat
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-DXgoods-tender.dat
+END
 lnwr-1847-first.dat
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-1847-first.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lnwr-1847-first.dat
+END
+br-mk3-trb-ic.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk3-trb-ic.dat
+END
+choc-cream-clerestory-mail.dat
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/choc-cream-clerestory-mail.dat
 END
 rm-325front-rm.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/rm-325front-rm.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/rm-325front-rm.dat
 END
 sr-401[bil]back-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/sr-401%5Bbil%5Dback-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/sr-401%5Bbil%5Dback-g.dat
 END
 br-180back-fgw.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-180back-fgw.dat
-END
-lnwr-bloomer.dat
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-bloomer.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-180back-fgw.dat
 END
 br-220middle-virgin.dat
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-220middle-virgin.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-220middle-virgin.dat
+END
+lnwr-bloomer.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lnwr-bloomer.dat
 END
 br-cl43-b-ie.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl43-b-ie.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl43-b-ie.dat
 END
 br-465back-nse.dat
 K 25
@@ -1857,41 +2331,47 @@ svn:wc:ra_dav:version-url
 V 72
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-465back-nse.dat
 END
+br-8p.dat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/simutrans/!svn/ver/168/pak128.Britain/trains/br-8p.dat
+END
 br-cl56-b.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl56-b.dat
-END
-mr-1000.dat
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/mr-1000.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl56-b.dat
 END
 lnwr-jumbo.dat
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-jumbo.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/lnwr-jumbo.dat
+END
+mr-1000.dat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/mr-1000.dat
 END
 br-cl58-g.dat
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-cl58-g.dat
+/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/br-cl58-g.dat
 END
 gnr-6wheel-first.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/gnr-6wheel-first.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/gnr-6wheel-first.dat
 END
 br-mk2-to-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk2-to-ic.dat
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk2-to-ic.dat
 END
 lnwr-PoW-tender.dat
 K 25
@@ -1899,17 +2379,17 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-PoW-tender.dat
 END
-lnwr-Aclass-tender.dat
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-Aclass-tender.dat
-END
 br-mk1-bc-m.dat
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/br-mk1-bc-m.dat
+END
+lnwr-Aclass-tender.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/134/pak128.Britain/trains/lnwr-Aclass-tender.dat
 END
 br-370c-ic.dat
 K 25
