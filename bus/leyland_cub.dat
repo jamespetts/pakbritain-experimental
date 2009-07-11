@@ -3,7 +3,7 @@ name=Leyland_Cub(LT-Green)
 engine_type=diesel
 smoke=Diesel
 speed=60
-##gear=100
+gear=100
 power=30
 copyright=Kieron
 intro_year=1932
@@ -17,7 +17,7 @@ length=4
 
 weight=4
 cost=220000
-runningcost=10
+runningcost=130
 sound=-1
 
 Constraint[Prev][0]=none

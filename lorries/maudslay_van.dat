@@ -1,0 +1,181 @@
+# Maudslay mail van - more successful, larger early type
+# This may not be the picture of the correct model, but was all that I could find:
+# http://www.exetermemories.co.uk/EM/vehicles/postvan.jpg
+
+obj=vehicle
+name=maudslay_post_van
+copyright=jamespettsandgraphic_author
+waytype=road
+freight=Post
+payload=20
+engine_type=diesel
+smoke=Diesel
+power=3
+speed=30
+weight=3
+cost=92000
+runningcost=140
+intro_year=1907
+intro_month=12
+retire_year=1927
+retire_month=9
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=3000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+obj=vehicle
+name=maudslay_goods_van
+copyright=jamespettsandgraphic_author
+waytype=road
+freight=Bucher
+payload=5
+engine_type=diesel
+smoke=Diesel
+power=3
+speed=30
+weight=3
+cost=92000
+runningcost=140
+intro_year=1907
+intro_month=12
+retire_year=1927
+retire_month=9
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=3000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+obj=vehicle
+name=maudslay_food_van
+copyright=jamespettsandgraphic_author
+waytype=road
+freight=meat
+payload=5
+engine_type=diesel
+smoke=Diesel
+power=3
+speed=30
+weight=3
+cost=92000
+runningcost=140
+intro_year=1907
+intro_month=12
+retire_year=1927
+retire_month=9
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=3000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+obj=vehicle
+name=maudslay_bulk_van
+copyright=jamespettsandgraphic_author
+waytype=road
+freight=Kohle
+payload=1
+engine_type=diesel
+smoke=Diesel
+power=3
+speed=30
+weight=3
+cost=92000
+runningcost=140
+intro_year=1907
+intro_month=12
+retire_year=1927
+retire_month=9
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=3000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0

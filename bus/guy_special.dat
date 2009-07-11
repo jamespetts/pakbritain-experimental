@@ -3,7 +3,7 @@ name=Guy_Special(LT-Green)
 engine_type=diesel
 smoke=Diesel
 speed=80
-##gear=100
+gear=100
 power=34
 copyright=Kieron
 intro_year=1953
@@ -17,7 +17,7 @@ length=4
 
 weight=4
 cost=300000
-runningcost=12
+runningcost=200
 sound=-1
 
 Constraint[Prev][0]=none

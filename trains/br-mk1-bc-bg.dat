@@ -19,9 +19,9 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-loading_time=2500
+#loading_time=2500
 
-available_only_as_upgrade=1
+#available_only_as_upgrade=1
 
 EmptyImage[E]=./images/br-mk1-bc-bg.0
 EmptyImage[SE]=./images/br-mk1-bc-bg.1

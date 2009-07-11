@@ -1,0 +1,33 @@
+# AEC Q4 class - a very modern single decker
+# See here for details: 
+obj=vehicle
+name=AECQ4
+copyright=JamesPetts&JamesHood
+waytype=road
+engine_type=diesel
+freight=Passagiere
+payload=38
+speed=65
+power=80
+gear=100
+weight=6
+length=6
+cost=760000
+runningcost=330
+intro_year=1935
+intro_month=7
+retire_year=1953
+retire_month=3
+
+Constraint[Prev][0]=none
+Constraint[Next][0]=none
+
+EmptyImage[E]=./images/aec-q4.0.0
+EmptyImage[SE]=./images/aec-q4.0.1
+EmptyImage[S]=./images/aec-q4.0.2
+EmptyImage[SW]=./images/aec-q4.0.3
+EmptyImage[W]=./images/aec-q4.0.4
+EmptyImage[NW]=./images/aec-q4.0.5
+EmptyImage[N]=./images/aec-q4.0.6
+EmptyImage[NE]=./images/aec-q4.0.7
+

@@ -1,0 +1,62 @@
+Obj=building
+Name=DecoTerminalBuildingEntrance
+copyright=James
+type=extension
+waytype=air
+enables_pax=1
+intro_year=1920
+retire_year=1950
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=3
+BackImage[0][0][0][0][0]=deco-station-entrance.0.2
+BackImage[1][0][0][0][0]=deco-station-entrance.0.1
+BackImage[2][0][0][0][0]=deco-station-entrance.0.0
+BackImage[3][0][0][0][0]=deco-station-entrance.0.3
+
+Icon=> deco-station-entrance.0.5
+Cursor=deco-station-entrance.0.4
+----------------------------------------------
+Obj=building
+Name=DecoTerminalBuildingTower
+copyright=James
+type=extension
+waytype=air
+enables_pax=1
+intro_year=1920
+retire_year=1950
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=4
+BackImage[0][0][0][0][0]=deco-airport-tower.0.2
+BackImage[1][0][0][0][0]=deco-airport-tower.0.1
+BackImage[2][0][0][0][0]=deco-airport-tower.0.0
+BackImage[3][0][0][0][0]=deco-airport-tower.0.3
+
+Icon=> deco-airport-tower.0.5
+Cursor=deco-airport-tower.0.4
+----------------------------------------------
+Obj=building
+Name=DecoStationBuildingEntrance
+copyright=James
+type=extension
+waytype=track
+enables_pax=1
+intro_year=1920
+retire_year=1950
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=3
+BackImage[0][0][0][0][0]=deco-station-entrance.0.2
+BackImage[1][0][0][0][0]=deco-station-entrance.0.1
+BackImage[2][0][0][0][0]=deco-station-entrance.0.0
+BackImage[3][0][0][0][0]=deco-station-entrance.0.3
+
+Icon=> deco-station-entrance.0.5
+Cursor=deco-station-entrance.0.4

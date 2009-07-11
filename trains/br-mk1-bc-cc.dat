@@ -18,7 +18,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-loading_time=2500
+#loading_time=2500
 
 upgrade[0]=BR-Mk1-BC(Maroon)
 upgrade[1]=BR-Mk1-BC(Blue-Grey)

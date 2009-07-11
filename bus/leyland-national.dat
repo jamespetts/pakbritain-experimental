@@ -12,13 +12,12 @@ retire_year=1985
 retire_month=1
 waytype=road
 freight=Passagiere
-payload=44
-overcrowded_capacity=20
+payload=52
 length=6
 
 weight=9
 cost=700000
-runningcost=30
+runningcost=460
 sound=-1
 
 Constraint[Prev][0]=none

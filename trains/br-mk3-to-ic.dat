@@ -21,8 +21,10 @@ bidirectional=1
 
 Constraint[Next][0]=BR-Mk3-TO(Intercity)
 Constraint[Next][1]=BR-Mk3-DVT(Intercity)
-Constraint[Next][2]=BR-Class43Rear(Intercity)
-Constraint[Next][3]=none
+Constraint[Next][2]=BR-Mk3-TRB(Intercity)
+Constraint[Next][3]=BR-Class43Rear(Intercity)
+Constraint[Next][4]=None
+
 
 EmptyImage[E]=./images/br-mk3-tso-ic.0
 EmptyImage[SE]=./images/br-mk3-tso-ic.1

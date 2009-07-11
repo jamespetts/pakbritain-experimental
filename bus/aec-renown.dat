@@ -1,0 +1,36 @@
+# AEC Renown - *six* wheeler double decker.
+# See here for details: 
+# http://www.countrybus.org.uk/LT/LT.html
+#
+#
+obj=vehicle
+name=AECRenownLT
+copyright=JamesPetts&JamesHood
+waytype=road
+engine_type=diesel
+freight=Passagiere
+payload=60
+speed=42
+power=72
+gear=100
+weight=7
+length=6
+cost=580000
+runningcost=240
+intro_year=1929
+intro_month=10
+retire_year=1942
+retire_month=8
+
+Constraint[Prev][0]=none
+Constraint[Next][0]=none
+
+EmptyImage[E]=./images/aec-renown.0.0
+EmptyImage[SE]=./images/aec-renown.0.1
+EmptyImage[S]=./images/aec-renown.0.2
+EmptyImage[SW]=./images/aec-renown.0.3
+EmptyImage[W]=./images/aec-renown.0.4
+EmptyImage[NW]=./images/aec-renown.0.5
+EmptyImage[N]=./images/aec-renown.0.6
+EmptyImage[NE]=./images/aec-renown.0.7
+

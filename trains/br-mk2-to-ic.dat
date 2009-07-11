@@ -21,6 +21,9 @@ bidirectional=1
 
 Constraint[Next][0]=BR-Mk2-TO(Intercity)
 Constraint[Next][1]=BR-489[GLV](Intercity)
+Constraint[Next][2]=BR-Mk2-RFB(Intercity)
+Constraint[Next][3]=BR-Mk2-DBSO(Intercity)
+Constraint[Next][4]=none
 
 EmptyImage[E]=./images/br-mk2-tso-ic.0
 EmptyImage[SE]=./images/br-mk2-tso-ic.1

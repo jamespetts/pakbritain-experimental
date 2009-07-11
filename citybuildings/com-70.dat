@@ -9,9 +9,9 @@ retire_year=1990
 needs_ground=1
 dims=1,1,4
 
-BackImage[0][0][0][0][0]=images/com/70-small-office.0
+BackImage[2][0][0][0][0]=images/com/70-small-office.0
 BackImage[1][0][0][0][0]=images/com/70-small-office.1
-BackImage[2][0][0][0][0]=images/com/70-small-office.2
+BackImage[0][0][0][0][0]=images/com/70-small-office.2
 BackImage[3][0][0][0][0]=images/com/70-small-office.3
 ----
 Obj=building
@@ -25,7 +25,7 @@ retire_year=1990
 needs_ground=1
 dims=1,1,4
 
-BackImage[0][0][0][0][0]=images/com/70's-office.0
+BackImage[2][0][0][0][0]=images/com/70's-office.0
 BackImage[1][0][0][0][0]=images/com/70's-office.1
-BackImage[2][0][0][0][0]=images/com/70's-office.2
+BackImage[0][0][0][0][0]=images/com/70's-office.2
 BackImage[3][0][0][0][0]=images/com/70's-office.3

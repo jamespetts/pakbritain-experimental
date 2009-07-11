@@ -16,11 +16,12 @@ cost=648000
 runningcost=32
 sound=-1
 
-can_lead_from_rear=0
-bidirectional=1
-
 Constraint[Next][0]=Teak-Clerestory-Coach
 Constraint[Next][1]=Teak-Clerestory-Brake
+Constraint[Next][2]=Teak-Clerestory-Mail
+Constraint[Next][3]=Teak-Clerestory-TPO
+Constraint[Next][4]=Teak-Clerestory-Dining
+Constraint[Next][5]=Teak-Clerestory-Parcel-Brake
 
 EmptyImage[E]=./images/teak-clerestory.0.0
 EmptyImage[SE]=./images/teak-clerestory.0.1

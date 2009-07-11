@@ -16,11 +16,13 @@ cost=633000
 runningcost=39
 sound=-1
 
-can_lead_from_rear=0
-bidirectional=1
-
 Constraint[Next][0]=GWR-Express-Coach
 Constraint[Next][1]=GWR-Express-Brake
+Constraint[Next][2]=GWR-Express-Dining
+Constraint[Next][3]=GWR-Express-Mail
+Constraint[Next][4]=GWR-Express-TPO
+Constraint[Next][5]=GWR-Express-Parcel-Brake
+
 
 EmptyImage[E]=./images/gwr-express-coach.0
 EmptyImage[SE]=./images/gwr-express-coach.1
@@ -31,3 +33,37 @@ EmptyImage[NW]=./images/gwr-express-coach.5
 EmptyImage[N]=./images/gwr-express-coach.6
 EmptyImage[NE]=./images/gwr-express-coach.7
 
+---------------------------------
+obj=vehicle
+name=GWR-Express-Dining
+speed=160
+copyright=James
+intro_year=1923
+intro_month=1
+retire_year=1953
+retire_month=1
+waytype=track
+freight=Passagiere
+payload=24
+length=11
+
+weight=34
+cost=633000
+runningcost=39
+sound=-1
+
+Constraint[Next][0]=GWR-Express-Coach
+Constraint[Next][1]=GWR-Express-Brake
+Constraint[Next][2]=GWR-Express-Dining
+Constraint[Next][3]=GWR-Express-Mail
+Constraint[Next][4]=GWR-Express-TPO
+Constraint[Next][5]=GWR-Express-Parcel-Brake
+
+EmptyImage[E]=./images/gwr-express-coach.0
+EmptyImage[SE]=./images/gwr-express-coach.1
+EmptyImage[S]=./images/gwr-express-coach.2
+EmptyImage[SW]=./images/gwr-express-coach.3
+EmptyImage[W]=./images/gwr-express-coach.4
+EmptyImage[NW]=./images/gwr-express-coach.5
+EmptyImage[N]=./images/gwr-express-coach.6
+EmptyImage[NE]=./images/gwr-express-coach.7

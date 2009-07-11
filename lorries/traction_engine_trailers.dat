@@ -1,0 +1,289 @@
+# http://www.prestonservices.co.uk/Eagle_Trailer_2.jpg
+# Translation text should be "Eagle trailer"
+
+obj=vehicle
+name=traction_engine_trailer_bulk
+copyright=jamespetts&graphic_author
+waytype=road
+freight=Khole
+payload=8
+speed=35
+weight=2
+cost=6000
+runningcost=8
+intro_year=1857
+intro_month=6
+retire_year=1932
+retire_month=5
+
+constraint[prev][0]=light_road_locomotive
+constraint[prev][1]=heavy_road_locomotive
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=4500
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+# Livestock varient. Basically similar graphics can be used.
+
+obj=vehicle
+name=traction_engine_trailer_livestock
+copyright=jamespetts&graphic_author
+waytype=road
+freight=livestock
+payload=8
+speed=35
+weight=2
+cost=6000
+runningcost=8
+intro_year=1857
+intro_month=6
+retire_year=1932
+retire_month=5
+
+constraint[prev][0]=light_road_locomotive
+constraint[prev][1]=heavy_road_locomotive
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=4500
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+# Long goods varient. See here for a picture:
+# http://www.prestonservices.co.uk/Dyson_Trailer.jpg
+# When loaded, it will look something like this:
+# http://www.flickr.com/photos/steve55/243383418/
+# Translation text should be "Dyson trailer"
+
+obj=vehicle
+name=traction_engine_trailer_long
+copyright=jamespetts&graphic_author
+waytype=road
+freight=Stahl
+payload=8
+speed=35
+weight=2
+cost=6000
+runningcost=8
+intro_year=1857
+intro_month=6
+retire_year=1932
+retire_month=5
+
+constraint[prev][0]=light_road_locomotive
+constraint[prev][1]=heavy_road_locomotive
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=4500
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+# http://homepage.ntlworld.com/michael.walters3/trailer-images/16470.jpg
+# Piece goods varient. Translation text should be "Goods trailer"
+
+obj=vehicle
+name=traction_engine_trailer_goods
+copyright=jamespetts&graphic_author
+waytype=road
+freight=Bucher
+payload=8
+speed=35
+weight=2
+cost=6000
+runningcost=8
+intro_year=1857
+intro_month=6
+retire_year=1932
+retire_month=5
+
+constraint[prev][0]=light_road_locomotive
+constraint[prev][1]=heavy_road_locomotive
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=4500
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+# Bulk liquids varient. The imagination will have to be used for the graphics,
+# since I cannot find a picture.
+# Query whether this should have a later introduction date, if all the industries
+# that produce oil (etc.) do not exist in 1857.
+
+obj=vehicle
+name=traction_engine_trailer_liquids
+copyright=jamespetts&graphic_author
+waytype=road
+freight=Oel
+payload=8
+speed=35
+weight=2
+cost=6000
+runningcost=8
+intro_year=1857
+intro_month=6
+retire_year=1932
+retire_month=5
+
+constraint[prev][0]=light_road_locomotive
+constraint[prev][1]=heavy_road_locomotive
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=4500
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+# Food ("cooled") varient. The imagination will have to be used for the graphics,
+# since I cannot find a picture.
+
+obj=vehicle
+name=traction_engine_trailer_food
+copyright=jamespetts&graphic_author
+waytype=road
+freight=milk
+payload=8
+speed=35
+weight=2
+cost=6000
+runningcost=8
+intro_year=1857
+intro_month=6
+retire_year=1932
+retire_month=5
+
+constraint[prev][0]=light_road_locomotive
+constraint[prev][1]=heavy_road_locomotive
+
+# The below will need changing
+
+constraint[next][0]=none 
+constraint[prev][0]=Team of 3 horses
+constraint[prev][1]=Team of 2 horses
+constraint[prev][2]=Single horse
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=4500
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0

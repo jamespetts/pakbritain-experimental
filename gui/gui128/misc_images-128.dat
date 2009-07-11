@@ -1,0 +1,25 @@
+#-------------------------------------------------------------------------------
+#	Construction Graphics - James Hood March 2009
+--------------------------------------------------------------------------------
+Obj=misc
+Name=Construction
+copyright=James
+#0 .. city building
+Image[0]=construction-site.0.0
+#1 tourirst attraction (city)
+Image[1]=construction-site.0.0
+#2 tourirst attraction (country side)
+Image[2]=construction-site.0.0
+#3 monument
+Image[3]=construction-site.0.0
+#4 factory
+Image[4]=construction-site.0.0
+#5 townhall,
+Image[5]=construction-site.0.0
+#6 other
+Image[6]=construction-site.0.0
+
+
+#===============================================================================
+# EOF
+#===============================================================================

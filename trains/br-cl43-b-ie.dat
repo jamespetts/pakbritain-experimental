@@ -3,7 +3,7 @@ name=BR-Class43Rear(Intercity)
 engine_type=diesel
 smoke=Diesel
 speed=200
-##gear=370
+gear=370
 power=2010
 copyright=Kieron
 intro_year=1976
@@ -20,12 +20,10 @@ cost=9331000
 runningcost=518
 sound=-1
 
-can_lead_from_rear=1
-bidirectional=0
+Constraint[Prev][0]=BR-Mk3-TO(Intercity)
+Constraint[Prev][1]=BR-Mk3-TRB(Intercity)
 
 Constraint[Next][0]=none
-
-Constraint[Prev][0]=BR-Mk4-TSO(Intercity)
 
 EmptyImage[E]=./images/br-cl43-ie.1.0
 EmptyImage[SE]=./images/br-cl43-ie.1.1

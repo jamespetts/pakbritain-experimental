@@ -9,8 +9,8 @@ retire_year=2010
 needs_ground=1
 dims=1,1,4
 
-BackImage[0][0][0][0][0]=images/ind/80-warehouse-a.0.0
+BackImage[2][0][0][0][0]=images/ind/80-warehouse-a.0.0
 BackImage[1][0][0][0][0]=images/ind/80-warehouse-a.0.1
-BackImage[2][0][0][0][0]=images/ind/80-warehouse-a.0.2
+BackImage[0][0][0][0][0]=images/ind/80-warehouse-a.0.2
 BackImage[3][0][0][0][0]=images/ind/80-warehouse-a.0.3
 --

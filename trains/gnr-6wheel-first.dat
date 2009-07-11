@@ -15,13 +15,12 @@ cost=314000
 runningcost=16
 sound=-1
 
-can_lead_from_rear=0
-bidirectional=1
-
 Constraint[Next][0]=GNR-6Wheel-First
 Constraint[Next][1]=GNR-6Wheel-Guard
 Constraint[Next][2]=GNR-4Wheel-Composite
 Constraint[Next][3]=GNR-4Wheel-Brake
+Constraint[Next][1]=GNR-6Wheel-Mail
+Constraint[Next][2]=GNR-4Wheel-Mail
 
 EmptyImage[E]=./images/gnr-6wheel-first.0
 EmptyImage[SE]=./images/gnr-6wheel-first.1

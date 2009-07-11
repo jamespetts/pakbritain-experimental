@@ -7,12 +7,16 @@ Level=10
 intro_year=1880
 retire_year=1910
 needs_ground=1
-dims=1,1,4
+dims=1,1,8
 
-BackImage[0][0][0][0][0]=images/com/1880-terrace-corner-shop.0
-BackImage[1][0][0][0][0]=images/com/1880-terrace-corner-shop.1
-BackImage[2][0][0][0][0]=images/com/1880-terrace-corner-shop.2
-BackImage[3][0][0][0][0]=images/com/1880-terrace-corner-shop.3
+BackImage[0][0][0][0][0]=images/com/1880-terrace-row-shop.2
+BackImage[1][0][0][0][0]=images/com/1880-terrace-row-shop.1
+BackImage[2][0][0][0][0]=images/com/1880-terrace-row-shop.0
+BackImage[3][0][0][0][0]=images/com/1880-terrace-row-shop.3
+BackImage[4][0][0][0][0]=images/com/1880-terrace-corner-shop.1
+BackImage[5][0][0][0][0]=images/com/1880-terrace-corner-shop.0
+BackImage[6][0][0][0][0]=images/com/1880-terrace-corner-shop.3
+BackImage[7][0][0][0][0]=images/com/1880-terrace-corner-shop.2
 ----
 Obj=building
 Name=KG_COM_1880_1
@@ -23,12 +27,16 @@ Level=8
 intro_year=1880
 retire_year=1910
 needs_ground=1
-dims=1,1,4
+dims=1,1,8
 
-BackImage[0][0][0][0][0]=images/com/1880-terrace-row-shop.0
+BackImage[0][0][0][0][0]=images/com/1880-terrace-row-shop.2
 BackImage[1][0][0][0][0]=images/com/1880-terrace-row-shop.1
-BackImage[2][0][0][0][0]=images/com/1880-terrace-row-shop.2
+BackImage[2][0][0][0][0]=images/com/1880-terrace-row-shop.0
 BackImage[3][0][0][0][0]=images/com/1880-terrace-row-shop.3
+BackImage[4][0][0][0][0]=images/com/1880-terrace-corner-shop.1
+BackImage[5][0][0][0][0]=images/com/1880-terrace-corner-shop.0
+BackImage[6][0][0][0][0]=images/com/1880-terrace-corner-shop.3
+BackImage[7][0][0][0][0]=images/com/1880-terrace-corner-shop.2
 ----
 Obj=building
 Name=KG_COM_1880_2
@@ -41,7 +49,7 @@ retire_year=1910
 needs_ground=1
 dims=1,1,4
 
-BackImage[0][0][0][0][0]=images/com/1880-terrace-row-shop-2f.0
+BackImage[0][0][0][0][0]=images/com/1880-terrace-row-shop-2f.2
 BackImage[1][0][0][0][0]=images/com/1880-terrace-row-shop-2f.1
-BackImage[2][0][0][0][0]=images/com/1880-terrace-row-shop-2f.2
+BackImage[2][0][0][0][0]=images/com/1880-terrace-row-shop-2f.0
 BackImage[3][0][0][0][0]=images/com/1880-terrace-row-shop-2f.3

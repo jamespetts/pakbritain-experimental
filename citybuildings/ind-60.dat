@@ -9,8 +9,8 @@ retire_year=2010
 needs_ground=1
 dims=1,1,2
 
-BackImage[0][0][0][0][0]=images/ind/1960-sewage-plant.0.0
+BackImage[2][0][0][0][0]=images/ind/1960-sewage-plant.0.0
 BackImage[1][0][0][0][0]=images/ind/1960-sewage-plant.0.1
-BackImage[2][0][0][0][0]=images/ind/1960-sewage-plant.0.2
+BackImage[0][0][0][0][0]=images/ind/1960-sewage-plant.0.2
 BackImage[3][0][0][0][0]=images/ind/1960-sewage-plant.0.3
 --

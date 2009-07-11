@@ -1,0 +1,93 @@
+# http://www.thornycroft.org.uk/Thornycroft%20Gallery%20group1_files/oldno1.JPG
+# http://www.gracesguide.co.uk/wiki/Image:Im1946Vital-Thornycroft1896.jpg
+# Appears to have been the first commercially produced and used integrated steam road van.
+
+obj=vehicle
+name=thorneycroft_steam_van_goods
+copyright=jamespetts&graphic_author
+engine_type=steam
+smoke=Steam
+waytype=road
+#Piece goods
+freight=Bucher
+payload=4
+power=6
+speed=15
+weight=3
+cost=50000
+runningcost=19
+intro_year=1896
+intro_month=2
+retire_year=1906
+retire_month=12
+
+constraint[next][0]=none
+constraint[prev][0]=none
+
+# The below will need changing
+
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=3000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0
+
+--
+
+# This can have the same graphic, with the exception of a small difference in livery.
+
+obj=vehicle
+name=thorneycroft_steam_van_food
+copyright=jamespetts&graphic_author
+engine_type=steam
+smoke=Steam
+waytype=road
+#Cooled goods
+freight=milk
+payload=4
+power=6
+speed=15
+weight=3
+cost=50000
+runningcost=19
+intro_year=1896
+intro_month=2
+retire_year=1906
+retire_month=12
+
+constraint[next][0]=none
+constraint[prev][0]=none
+
+# The below will need changing
+
+emptyimage[w]=generic_road_vehicle.0.1
+emptyimage[nw]=generic_road_vehicle.0.2
+emptyimage[n]=generic_road_vehicle.0.3
+emptyimage[ne]=generic_road_vehicle.0.4
+emptyimage[e]=generic_road_vehicle.0.5
+emptyimage[se]=generic_road_vehicle.0.6
+emptyimage[s]=generic_road_vehicle.0.7
+emptyimage[sw]=generic_road_vehicle.0.8
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=3000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0

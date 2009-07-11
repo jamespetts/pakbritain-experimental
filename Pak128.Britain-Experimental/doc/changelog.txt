@@ -162,7 +162,7 @@ simutrans128 (1.3.5) stable; urgency=low
   * Added tree climate definitions
   * Switched to new ground definitions (files from Kerion)
   * Updated ground textures
-  * Added new Simu logos (Prissi & ?)
+  * Added new Simu logos (Prissi and ?)
 
  -- Tomas Kubes <t_kubes@yahoo.com>  23 Sep 2006 20:50:00 +0200
 
@@ -234,7 +234,7 @@ simutrans128 (1.3.0) stable; urgency=medium
   * Economic reform - revenues now match new speed bonuses (finally), changes of goods revenues, prices and running costs of all vehicles
   * Many vehicles received retire times - depos will not be so crowded
   * Added new suspended monorail stop from yoshi
-  * Added ground monorail and monorail bridge (yoshi & fagonella)
+  * Added ground monorail and monorail bridge (yoshi and fagonella)
   * Fixed many typos in vehicle stats
   * Updated graphics for old monorail stop
   * Added mysterious monument to Isaac

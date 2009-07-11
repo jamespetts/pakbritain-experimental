@@ -1,254 +1,69 @@
 ################################################################################
 #                                                                              #
 #                Simutrans Scenario Specific Translation File                  #
-#                               Scenario: Pak128.Britain                       #
+#                           Scenario: pak128.Britain                           #
 #                             Language: en English                             #
 #                                Encoding: ASCII                               #
 #                            Font : Prop-Latin1.bdf                            #
 #                            Date Created: 2.01 2009                           #
 #                                                                              #
 #                                   authors:                                   #
-#                            Colin W Anetts - Colin                            #
-#                                    note:                                     #
-#                             Dirk W. - DirrrtyDirk                            #
-#                                    note:                                     #
-#                              Frank Penz - FrankP                             #
-#                                    note:                                     #
-#                         Roman Schw?rer - Gotthardlok                         #
-#                                    note:                                     #
-#                                     - Hajo                                   #
-#                                    note:                                     #
-#                             Marcus Haupt - Marcus                            #
-#note: if I?m not available by email to proximity.de try mail@marcus-haupt.de (#
-#                                     - Noel                                   #
-#                                    note:                                     #
-#                          Ignas Brasiskis - enternald                         #
-#note: I love simutrans. Reikalui esant teikite si?lymus Lietuvi? kalbai Simutr#
-#                            G?nter Beine - gebeine                            #
-#                        note: maintainer pak128.german                        #
-#                              Markus Rex - msrex                              #
-#                                    note:                                     #
-#                              Tom?? Kube? - napik                             #
-#                                    note:                                     #
-#                                    - prissi                                  #
-#              note: Administrator Base texts / pak64 / pak.japan              #
-#                                     - sojo                                   #
-#                         note: maintainer pak96.comic                         #
-#                         Tom?? Vrbick? - vrbicky_tomas                        #
-#                     note: Don?thurry up! Death is faster.                    #
-#                            Vladim?r Sl?vik - vsys                            #
-#                             note: Vladim?r Sl?vik                            #
-#                           Michael Olbricht - whoami                          #
-#                            The Hood and jamespetts						   #
-#							PakBritain specific material                       #
+#                            James Hood (The Hood)                             #
+#							James Petts (jamespetts)						   #
 #                                                                              #
 ################################################################################
 #____________________________________bridge_____________________________________
 #____________________________________bridge_____________________________________
 BrickViaduct
 Brick Railway Viaduct
-ClassicRail
-Concrete flat bridge (Haru)
-ClassicRoad
-Concrete road bridge
-Concrete_Road_Bridge
-Highway bridge
-Plate_Girder_Bridge
-Girder bridge
-RVg_Concrete_Rail_Bridge
-Suspension Steel Bridge (RVg)
-Schwebebahn_p_bridge
-Suspended Monorail (bridge)
-SteelRail
-Steel rail bridge
-SteelRail2
-Sturdy steel bridge
-SteelRoad1
-Steel road bridge
-SteelRoad2
-Tubular road bridge
-u_truss_bridge
-Truss Bridge
-Wooden_Rail
-Wooden railroad bridge
 WoodenTrestle
-Wooden trestle bridge
+Wooden Trestle Rail Bridge 
 BrickViaductRoad
-Brick arched bridge
+Brick Road Bridge
 BrickAqueduct
-Brick acqueduct
-#___________________________________building____________________________________
-#___________________________________building____________________________________
+Brick Aqueduct
+PowerBridge
+High Voltage Transmission Line Bridge
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+RailTunnelStone
+Stone Rail Tunnel
+RailTunnelBrick
+Brick Rail Tunnel
+RailTunnelConcrete
+Concrete Rail Tunnel
+RoadTunnelStone
+Stone Road Tunnel
+RoadTunnelBrick
+Brick Road Tunnel
+RoadTunnelConcrete
+Concrete Road Tunnel
+CanalTunnel
+Canal Tunnel
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+DCRailCatenary
+DC Overhead Catenary
+ACHighSpeedCatenary
+AC Overhead Catenary
+DCThirdRail
+DC Third Rail Electrification
+TramElectrification
+DC Tramway Catenary
+TrollyBusElectrification
+DC Trolleybus Catenary
+#___________________________________townhall____________________________________
+#___________________________________townhall____________________________________
+00_CITY
+Parish Hall
 01_CITY
 Town Hall
 02_CITY
-Town Hall
+City Hall
 03_CITY
-Town Hall
+City Hall
 04_CITY
-Town Hall
-1920_AirDepot
-Simple Hangar
-1930AirDepot
-Wooden Hangar
-1940AirDepot
-Sheet Metal Hangar
-1950AirDepot
-Concrete Hangar
-1990AirDepot
-Modern Hangar
-Airport1920_AirportBlg
-Airport Passenger Terminal
-Airport1930PostOffice
-Airmail Office
-Airport1990_Big_AirportBlg
-Large Modern Passenger Terminal
-Airport1990_Entrance_AirportBlg
-Modern Airport Entrance
-Airport1990_Gates_AirportBlg
-Modern Gate
-Airport1990_PostOffice
-Modern Airmail Office
-Airport1990_Small_AirportBlg
-Small Modern Passenger Terminal
-Airport1990_Warehouse
-Modern Cargo Terminal
-AirStop_AirportBlg
-Aircraft Loading Area
-Almuthof_StationBlg
-Country Station
-Avila_Big_StationBlg
-Large Passenger Building
-Avila_Small_StationBlg
-Small Passenger Building
-Avila_Warehouse_StationBlg
-Freight Warehouse
-BusStop
-Open bus stop
-ModernBusShelter
-Aluminium and glass bus shelter
-OldBusShelter
-Wooden bus shelter
-LoadingBay
-Loading bay
-ModernCargoStop
-Cargo depot
-OldCargoStop
-Cargo depot
-BigTerminal1930_AirportBlg_S
-Large Passenger Terminal
-BigTerminal1950_AirportBlg_S
-Large Passenger Terminal (1950)
-Bulk_Dock
-Bulk Cargo Dock
-Bulk_StationBlg
-Bulk Goods Station Building
-bus_terminus
-Modern Bus Terminal
-canal_ChannelStop
-Canal Quay
-Car_StationBlg
-Station Parking Lot
-CarDepot
-Garage
-CarStop
-Loading Bay
-classic_mailbox
-Mailbox
-ClosedTrainStop
-Completely covered platform
-CoalTrainStop
-Coal station
-Container1TrainStop
-Container station
-Container2TrainStop
-Advanced container station
-Control_StationBlg
-Station Control Building
-CoveredTrainStop
-Covered Platform
-Crate_Goods_Dock
-Container dock
-CunnersdorfStopBlg
-Village Station Building
-Fluid_StationBlg
-Fluid Station Building
-Gas_StationBlg
-Gas Station Building
-Goods_StationBlg
-Goods Station Buiding
-HQ1
-Headquarters
-HQ2
-Headquarters (II)
-Long_Goods_Dock
-Long cargo dock
-LuftPost1950_AirportBlg
-Airport post office
-medium_classic_bus_stop
-Sheltered Bus Stop
-medium_early_bus_stop
-Bus stop with shelter
-medium_modern_bus_stop
-Modern busstop
-Modern_Warehouse
-Modern warehouse
-ModernPostOffice
-Modern Post Office
-ModernTrainStop
-Modern Train Stop
-MonorailDepot
-Elevated track depot
-MonorailFoundation
-Monorail Foundation
-MonorailGround
-Monorail foundation
-MonorailStation
-Elevated platform
-OpenTrainStop
-Simple platform
-parking_(catchemnt_area_ext)1
-Parking
-parking_(catchemnt_area_ext)2
-Parking
-parking_(catchemnt_area_ext)3
-Parking
-Post_Dock
-Post dock
-PostOffice
-Post office
-PostOffice1920_AirportBlg
-Airmail Building
-Radar3
-Radar
-ShipDepot
-Ship Depot
-ShipStop
-Passenger dock
-small_classic_bus_stop
-Simple Bus Stop
-small_early_bus_stop
-Bus stop
-Suspended_Monorail_Bahnhof_Modern
-Monorail Stop
-Terminal1930_AirportBlg
-Small terminal hall
-Terminal1950_AirportBlg_S
-Small terminal hall
-Tower1920_AirportBlg
-Basic Airport Tower
-Tower1930_AirportBlg
-Small control tower
-Tower1950_AirportBlg
-Control tower
-Tower1990_AirportBlg
-Modern Airport Tower
-TrainDepot
-Train depot
-TrainStop
-Station
-TramDepot
-Tram Depot
+City Hall
 #___________________________________crossing____________________________________
 #___________________________________crossing____________________________________
 Crossing1
@@ -283,6 +98,8 @@ KG_RES_1960_04
 Semi-detatched Houses
 JH_RES_1750_00
 Town House
+KG_RES_00_16
+Semi-detached Cottages
 KG_RES_00_14
 Semi-detatched Town Houses
 KG_RES_1700_01
@@ -373,98 +190,422 @@ Nelson-Column
 Nelson's Column
 #____________________________________factory____________________________________
 #____________________________________factory____________________________________
-1750-ChinaShop
-China Shop
-1750-ClothesShop
-Clothes Shop
-ArableFarm
+ArableFarm1750
 Arable Farm
+ArableFarm1840
+Arable Farm
+ArableFarm1910
+Arable Farm
+ArableFarm1945
+Arable Farm
+ArableFarm1975
+Arable Farm
+Bakery1750
 Bakery
+Bakery1840
 Bakery
+Bakery1910
+Bakery
+Bakery1945
+Bakery
+Bakery1975
+Bakery
+Bookshop1860
 Bookshop
+Bookshop1920
 Bookshop
+Bookshop1950
+Bookshop
+Bookshop1970
+Bookshop
+Brewery1750
 Brewery
+Brewery1840
 Brewery
-BuildersYard
-Builders' Yard
-Butchery
-Butcher
-CarDealership
-Car Dealership
-CarFactory
-Car Factory
-CattleFarm
-Cattle Farm
-CementWorks
-Cement Works
-Chemist
-Chemist
-ClayPit
-Clay Pit
-CoalPowerBatterseakraftwerk
-Coal Power Station
-Dairy
-Dairy
-FishingGround
-Fishery
-Fishmongers
-Fishmonger
-ForestSawmill
-Forest / Sawmill
-FurnitureFactory
-Furniture Factory
-FurnitureShop
-Furniture Shop
-GrainFarm
-Grain Farm
-GrainMill
-Grain Mill
-Greengrocers
-Greengrocer
-Hardware
-Hardware Shop
-HardwareFactory
-Hardware Factory
-IronOreMine
-Iron Ore Mine
-Newsagent
-Newsagent
-OilPowerkraftwerk
-Oil Power Station
-OilRefinery
-Oil Refinery
-OilRig
-Oil Rig
-OilWell
-Oil Well
-Orchard
-Orchard
-PaperMill
-Paper Mill
-PetrolStation
-Petrol Station
-PharmaceuticalFactory
-Pharmaceutical Factory
-Pottery
-Pottery
-Printworks
-Printworks
-Pub
-Pub
-Quarry
-Quarry
-SheepFarm
-Sheep Farm
-Slaughterhouse
-Slaughter-house
-SteelMill
-Steel Mill
-TextileMill
-Textile Mill
-VictorianCoalMine
-Coal Mine
-brickworks
+Brewery1910
+Brewery
+Brewery1945
+Brewery
+Brewery1975
+Brewery
+Brickworks1800
 Brickworks
+Brickworks1850
+Brickworks
+Brickworks1905
+Brickworks
+Brickworks1960
+Brickworks
+Brickworks1985
+Brickworks
+BuildersYard1750
+Builders' Yard
+BuildersYard1800
+Builders' Yard
+BuildersYard1850
+Builders' Yard
+BuildersYard1905
+Builders' Yard
+BuildersYard1960
+Builders' Yard
+BuildersYard1985
+Builders' Yard
+Butchery1820
+Butcher
+Butchery1840
+Butcher
+Butchery1910
+Butcher
+Butchery1945
+Butcher
+CarDealership1910
+Car Dealership
+CarDealership1925
+Car Dealership
+CarDealership1950
+Car Dealership
+CarDealership1970
+Car Dealership
+CarFactory1910
+Car Factory
+CarFactory1925
+Car Factory
+CarFactory1950
+Car Factory
+CarFactory1970
+Car Factory
+CattleFarm1750
+Cattle Farm
+CattleFarm1840
+Cattle Farm
+CattleFarm1910
+Cattle Farm
+CattleFarm1945
+Cattle Farm
+CattleFarm1975
+Cattle Farm
+CementWorks1800
+Cement Works
+CementWorks1850
+Cement Works
+CementWorks1905
+Cement Works
+CementWorks1960
+Cement Works
+CementWorks1985
+Cement Works
+Chemist1860
+Chemist
+Chemist1955
+Chemist
+Chemist1975
+Chemist
+ChinaShop1750
+China Shop
+ChinaShop1850
+China Shop
+ChinaShop1905
+China Shop
+ClayPit1750
+Clay Pit
+ClayPit1750
+Clay Pit
+ClayPit1850
+Clay Pit
+ClayPit1905
+Clay Pit
+ClayPit1960
+Clay Pit
+ClayPit1985
+Clay Pit
+ClothesShop1750
+Clothes Shop
+ClothesShop1840
+Clothes Shop
+ClothesShop1910
+Clothes Shop
+ClothesShop1945
+Clothes Shop
+CoalMine1750
+Colliery
+CoalMine1850
+Colliery
+CoalMine1920
+Colliery
+CoalMine1950
+Colliery
+CoalMine1970
+Colliery
+CoalPowerStation1910
+Coal-fired Power Station
+CoalPowerStation1920
+Coal-fired Power Station
+CoalPowerStation1955
+Coal-fired Power Station
+CoalPowerStation1970
+Coal-fired Power Station
+CoalYard1750
+Coal Merchant
+CoalYard1850
+Coal Merchant
+CoalYard1920
+Coal Merchant
+Dairy1750
+Dairy
+Dairy1840
+Dairy
+Dairy1910
+Dairy
+Dairy1945
+Dairy
+Dairy1975
+Dairy
+DepartmentStore1907
+Department Store
+DepartmentStore1935
+Department Store
+DepartmentStore1960
+Department Store
+DepartmentStore1990
+Department Store
+FishingGround1750
+Fishery
+FishingGround1840
+Fishery
+FishingGround1910
+Fishery
+FishingGround1945
+Fishery
+FishingGround1975
+Fishery
+Fishmongers1820
+Fishmonger
+Fishmongers1840
+Fishmonger
+Fishmongers1910
+Fishmonger
+Fishmongers1945
+Fishmonger
+ForestSawmill1750
+Forest / Sawmill
+ForestSawmill1850
+Forest / Sawmill
+ForestSawmill1920
+Forest / Sawmill
+ForestSawmill1950
+Forest / Sawmill
+ForestSawmill1970
+Forest / Sawmill
+FurnitureFactory1750
+Furniture Factory
+FurnitureFactory1850
+Furniture Factory
+FurnitureFactory1920
+Furniture Factory
+FurnitureFactory1950
+Furniture Factory
+FurnitureFactory1970
+Furniture Factory
+FurnitureShop1750
+Furniture Shop
+FurnitureShop1850
+Furniture Shop
+FurnitureShop1920
+Furniture Shop
+FurnitureShop1950
+Furniture Shop
+FurnitureShop1970
+Furniture Shop
+GrainFarm1750
+Grain Farm
+GrainFarm1840
+Grain Farm
+GrainFarm1910
+Grain Farm
+GrainFarm1945
+Grain Farm
+GrainFarm1975
+Grain Farm
+GrainMill1750
+Grain Mill
+GrainMill1840
+Grain Mill
+GrainMill1910
+Grain Mill
+GrainMill1945
+Grain Mill
+GrainMill1975
+Grain Mill
+Greengrocers1820
+Greengrocer
+Greengrocers1840
+Greengrocer
+Greengrocers1910
+Greengrocer
+Greengrocers1945
+Greengrocer
+HardwareFactory1790
+Hardware Factory
+HardwareFactory1850
+Hardware Factory
+HardwareFactory1920
+Hardware Factory
+HardwareFactory1950
+Hardware Factory
+HardwareShop1790
+Hardware Shop
+HardwareShop1850
+Hardware Shop
+HardwareShop1920
+Hardware Shop
+HardwareShop1950
+Hardware Shop
+IronOreMine1750
+Iron Ore Mine
+IronOreMine1850
+Iron Ore Mine
+IronOreMine1920
+Iron Ore Mine
+IronOreMine1950
+Iron Ore Mine
+IronOreMine1970
+Iron Ore Mine
+Newsagent1860
+Newsagent
+Newsagent1920
+Newsagent
+Newsagent1950
+Newsagent
+Newsagent1970
+Newsagent
+OilPowerStation1950
+Oil-fired Power Station
+OilPowerStation1970
+Oil-fired Power Station
+OilRefinery1910
+Oil Refinery
+OilRefinery1925
+Oil Refinery
+OilRefinery1955
+Oil Refinery
+OilRefinery1975
+Oil Refinery
+OilRig1955
+Oil Rig
+OilRig1975
+Oil Rig
+OilWell1925
+Oil Well
+OilWell1910
+Oil Well
+OilWell1955
+Oil Well
+Orchard1750
+Orchard
+Orchard1840
+Orchard
+Orchard1910
+Orchard
+Orchard1945
+Orchard
+Orchard1975
+Orchard
+PaperMill1860
+Paper Mill
+PaperMill1920
+Paper Mill
+PaperMill1950
+Paper Mill
+PaperMill1970
+Paper Mill
+PetrolStation1910
+Petrol Station
+PetrolStation1925
+Petrol Station
+PetrolStation1955
+Petrol Station
+PetrolStation1975
+Petrol Station
+PharmaceuticalFactory1860
+Pharmaceuticals Factory
+PharmaceuticalFactory1920
+Pharmaceuticals Factory
+PharmaceuticalFactory1955
+Pharmaceuticals Factory
+PharmaceuticalFactory1975
+Pharmaceuticals Factory
+Pottery1750
+Pottery
+Pottery1850
+Pottery
+Pottery1905
+Pottery
+Pottery1960
+Pottery
+Printworks1860
+Printworks
+Printworks1920
+Printworks
+Printworks1950
+Printworks
+Printworks1970
+Printworks
+Pub1750
+Pub
+Pub1840
+Pub
+Pub1910
+Pub
+Pub1945
+Pub
+Quarry1750
+Quarry
+Quarry1850
+Quarry
+Quarry1905
+Quarry
+Quarry1960
+Quarry
+Quarry1985
+Quarry
+SheepFarm1750
+Sheep Farm
+SheepFarm1840
+Sheep Farm
+SheepFarm1910
+Sheep Farm
+SheepFarm1945
+Sheep Farm
+SheepFarm1975
+Sheep Farm
+Slaughterhouse1750
+Slaughter-house
+Slaughterhouse1840
+Slaughter-house
+Slaughterhouse1910
+Slaughter-house
+Slaughterhouse1945
+Slaughter-house
+Slaughterhouse1975
+Slaughter-house
+SteelMill1790
+Steel Mill
+SteelMill1850
+Steel Mill
+SteelMill1920
+Steel Mill
+SteelMill1950
+Steel Mill
+TextileMill1750
+Textile Mill
+TextileMill1840
+Textile Mill
+TextileMill1910
+Textile Mill
+TextileMill1945
+Textile Mill
+TextileMill1975
+Textile Mill
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 Autos
@@ -476,7 +617,7 @@ planks
 Bucher
 books
 canned_food
-canned food
+packaged food
 Cement
 cement
 Chemicals
@@ -558,15 +699,15 @@ fruit
 hardware
 hardware
 newspaper
-newspapers
+newspaper
 cider
 cider
 #_____________________________________misc______________________________________
 #_____________________________________misc______________________________________
 PowerDest
-Consumer transformer
+Local substation
 PowerSource
-Power station transformer
+Distribution substation
 #_________________________________program_text__________________________________
 #_________________________________program_text__________________________________
 CATEGORY_01
@@ -583,66 +724,58 @@ CATEGORY_06
 woods
 CATEGORY_07
 farm products
-#___________________________________roadsign____________________________________
-#___________________________________roadsign____________________________________
+#___________________________________way-signs____________________________________
+#___________________________________way-signs____________________________________
+traffic_light
+Traffic Lights
 airport_oneway
 One-way Runway Sign
-choose_signal_monorail
-Monorail Platform Choose Signals
+NoEntry
+No Entry Sign
+Signals
+Basic Signal
+Classic_Signals_right
+Basic Signal
+Early_Signals_right
+Basic Signal
+Modern_Signals_right
+Basic Signal
+preSignals
+Pre-signal
+Classic_preSignals_right
+Pre-signal
+Early_preSignals_right
+Pre-signal
+Modern_preSignals_right
+Pre-signal
+LongSignals
+Long-block Signal
+Classic_LongSignals_right
+Long-block Signal
+Early_LongSignals_right
+Long-block Signal
+Modern_LongSignals_right
+Long-block Signal
 ChooseSignals
 Platform Choose Signals
-Minimum80
-Minimum speed limit 80
-NoEntry
-No-entry sign
-preSignal_Monorail
-Monorail Presignals
-preSignals
-Pre-signals
-RoadClosed
-Road block
-Signal_Monorail
-Monorail signals
-Signals
-Signals
-traffic_light
-Traffic lights
-Classic_Signals_right
-Home signal (semaphore)
-Early_Signals_right
-Home signal (flag man)
-Modern_Signals_right
-Automatic signal (colour light)
-Classic_preSignals_right
-Pre-signal (semaphore)
-Early_preSignals_right
-Pre-signal (flag man)
-Modern_preSignals_right
-Pre-signal (colour light)
-Classic_LongSignals_right
-Long signal (semaphore)
-Early_LongSignals_right
-Long signal (flag man)
-Modern_LongSignals_right
-Long signal (colour light)
 Classic_ChooseSignals_right
-Platform choose signal (semaphore)
+Platform Choose Signal
 Early_ChooseSignals_right
-Platform choose signal (flag man)
+Platform Choose Signal
 Modern_ChooseSignals_right
-Platform choose signal (colour light)
+Platform Choose Signal
 EndofChooseSignal
-End of choose signal
+End of Choose Signal
 Modern_EndofChooseSignal
-End of choose signal
+End of Choose Signal
 MotorwaySign
 Start of motorway sign
 OneWay
-One way sign
+One Way Sign
 PrivateRoad
-Private road sign
+Private Road Sign
 ChooseSign
-Choose sign
+Choose Sign
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
 EnglishOak
@@ -652,13 +785,13 @@ Norway spruce
 #____________________________________river______________________________________
 #____________________________________river______________________________________
 River0
-Stream
+Stream (Not Navigable)
 River1
-Brook
+Small River (Not Navigable)
 River2
-River
+River (Navigable)
 River3
-Wide river
+Wide River (Navigable)
 #____________________________________tunnel_____________________________________
 #____________________________________tunnel_____________________________________
 RailTunnel
@@ -756,9 +889,11 @@ LNER Class A1/A3 4-6-2
 LNER-A1-Tender(Green)
 LNER Class A1/A3 (tender)
 BR-7MT(Green)
-BR Standard Class 7 "Britannia" 4-6-2
+BR Standard Class 7MT "Britannia" 4-6-2
 BR-7MT-Tender(Green)
-BR Standard Class 7 "Britannia" (tender)
+BR Standard tender
+BR-8P(Green)
+BR Standard Class 8P 4-6-2
 LNER-A4(Blue)
 LNER Class A4 4-6-2
 LNER-A4-Tender(Blue)
@@ -767,6 +902,8 @@ BR-Class20(Green)
 BR Class 20
 BR-Class30(Green)
 BR Class 30
+BR-Class31/1(Blue)
+BR Class 31/1
 BR-Class66(EWS)
 BR Class 66
 BR-Class56(Rail-Blue)
@@ -791,6 +928,8 @@ BR-Class71(Green)
 BR Class 71
 BR-Class73(Intercity)
 BR Class 73
+BR-Class81(Electric-Blue)
+BR Class 81
 BR-Class86(Rail-Blue)
 BR Class 86
 BR-Class87(Rail-Blue)
@@ -994,17 +1133,17 @@ GWR Droplight Brake Carriage
 LNER-Gresley-Express-Coach(Teak)
 LNER Teak Express Carriage
 BR-Mk1-TO(Blue-Grey)
-BR Mk.1 Carriage
+BR Mk. 1 Standard Open
 BR-Mk1-TO(Crimson-Cream)
-BR Mk.1 Carriage
+BR Mk. 1 Standard Open
 BR-Mk1-TO(Maroon)
-BR Mk.1 Carriage
+BR Mk. 1 Standard Open
 BR-Mk2-TO(Intercity)
-BR Mk.2 Carriage
+BR Mk. 2d Standard Open
 BR-Mk3-TO(Intercity)
-BR Mk.3 Carriage
+BR Mk. 3 Standard Open
 BR-Mk4-TSO(Intercity)
-BR Mk.4 Carriage
+BR Mk. 4 Standard Open
 BR-410[CEP]Front(Blue-Grey)
 BR Class 410 "4Cep" EMU
 BR-410[CEP]Brake(Blue-Grey)
@@ -1049,8 +1188,6 @@ LMS-502Front(Maroon)
 LMS Class 502 EMU
 LMS-502Rear(Maroon)
 LMS Class 502 EMU (rear)
-LMS-502Middle(Maroon)
-LMS Class 502 EMU (middle)
 Metropolitan-Motor-Third-Front
 Metropolitan 1907 Motorised Tube Stock
 Metropolitan-Motor-Third-Back
@@ -1078,7 +1215,7 @@ BR Class 43 "HST 125" (rear)
 BR-Mk3-DVT(Intercity)
 BR Mk.3 DVT
 BR-Mk4-DVT(Intercity)
-BR Mk.4 DVT
+BR-Mk.4 DVT
 GWR-Gloucester-Parcel-Railcar
 GWR Gloucester Parcel Railcar
 RM-325Front(RM)
@@ -1089,16 +1226,6 @@ RM-325Power(RM)
 Royal Mail Class 325 EMU (power)
 RM-325Rear(RM)
 Royal Mail Class 325 EMU (rear)
-BR-442-Front(NSE)
-BR Class 442 "Wessex Electric"
-BR-442-Rear(NSE)
-BR Class 442 "Wessex Electric" (rear cab)
-BR-442-Middle1(NSE)
-BR Class 442 "Wessex Electric" (trailer open)
-BR-442-Middle2(NSE)
-BR Class 442 "Wessex Electric" (trailer buffet)
-BR-442-Middle3(NSE)
-BR Class 442 "Wessex Electric" (trailer open)
 BR-499[TLV](Blue-Grey)
 BR Class 499 TLV
 BR-489[GLV](Intercity)
@@ -1196,7 +1323,7 @@ SR Maunsell Express Carriage
 GWR-Express-Brake
 GWR Express Carriage (brake)
 GWR-Express-Coach
-GWR Express Carriage
+GWR Express Carriage (brake)
 LMS-d1904-Coach
 LMS Standard Carriage
 LMS-d2007-Parcel-Brake
@@ -1311,10 +1438,6 @@ LNWR-Problem-Tender(Green)
 LNWR "Problem" Class 2-2-2 (tender)
 LSWR-M7(Olive)
 LSWR M7 Class 0-4-4T
-LSWR-Third-Carriage
-LSWR suburban carriage
-LSWR-Third-Brake
-LSWR suburban carriage (brake)
 HR-Jones-Goods(Yellow)
 HR Jones Goods 4-6-0
 HR-Jones-Goods-Tender(Yellow)
@@ -1370,13 +1493,181 @@ Single Shire Horse
 Twin-Shire
 Double Shire Horse
 BR-121(Green)
-BR Class 121 "Bubble car" DMU
+BR Class 121 DMU
 BR-378Front(LT)
 BR London Overground Class 378 EMU
 BR-378Middle(LT)
 BR London Overground Class 378 EMU (middle)
 BR-378Rear(LT)
 BR London Overground Class 378 EMU (rear)
+LivestockEarly1
+Livestock truck
+LivestockEarly2
+Livestock wagon (small)
+LivestockEarly3
+Livestock wagon
+LivestockD21
+8t livestock wagon
+LivestockD25
+12t livestock wagon
+Livestock16T
+16t livestock wagon
+Wagon2CarFlat
+Cartruck
+Wagon3CarBogie
+Carflat FW
+PieceEarly1
+Goods truck
+PieceEarly2
+Goods wagon (small)
+PieceEarly3
+Goods wagon
+PieceD32
+8t box van
+PieceD88
+12t box van
+Piece16T
+16t box van
+PieceZSX
+BR ZSX covered van
+PieceContainer
+FAA container flat
+CoolContainer
+FAA container flat (refrigerated containers)
+CoolEarly1
+Food truck
+CoolEarly2
+Food wagon (small)
+CoolEarly3
+Food wagon
+CoolD32
+8t food van
+CoolD88
+12t food van
+Cool16T
+16t food van
+CoolZSX
+BR refrigerated van
+LongEarly1
+Open truck
+LongEarly2
+Open wagon (small)
+LongEarly3
+Open wagon
+LongD1
+8t open wagon
+Long10T
+10t open wagon
+Long12T
+12t open wagon
+Long20T
+20t open wagon
+Long30T
+30t open wagon
+BrakeSR
+Southern brake van
+BrakeD16
+4t brake van
+BrakeD93
+7t brake van
+BrakeGWR
+GWR 7t "toad" brake van
+BrakeLMS
+LMS 7t brake van
+BrakeLNER
+LNER 7t brake van
+BrakeBR
+BR standard 7t brake van
+CC-Clerestory-Dining
+GWR Chocolate & cream clerestory dining car
+GWR-Express-Dining
+GWR express dining car
+LMS-d1904-dining
+LMS dining car
+LNER-Gresley-Express-Dining(Teak)
+LNER dining car (teak)
+SR-Bulleid-Express-Dining(Green)
+SR Bulleid dining car
+BR-Mk1-RBR(Crimson-Cream)
+BR Mk. 1 Restaurant Buffet
+BR-Mk1-RBR(Maroon)
+BR Mk. 1 Restaurant Buffet
+BR-Mk1-RBR(Blue-Grey)
+BR Mk. 1 Restaurant Buffet Refurbished
+BR-Mk2-RFB(Intercity)
+BR Mk. 2d Restaurant Full Buffet
+BR-Mk3-TRB(Intercity)
+BR Mk. 3 Restaurant Buffet
+BR-Mk4-RSB(Intercity)
+BR Mk. 4 Restaurant Buffet
+LSWR-Third-Brake
+LSWR Third Brake
+LSWR-Third-Carriage
+LSWR Third Carriage
+LNWR-1847-Mail
+LNWR 4-wheel mail coach
+CC-Clerestory-Parcel-Brake
+GWR Chocolate & cream clerestory parcel brake coach
+CC-Clerestory-TPO
+GWR Chocolate & cream clerestory travelling post office
+Teak-Clerestory-Parcel-Brake
+LNER clerestory parcel brake coach (teak)
+Teak-Clerestory-TPO
+LNER clerestory travelling post office (teak)
+MR-Clerestory-Parcel-Brake
+MR clerestory parcel brake coach
+MR-Clerestory-TPO
+MR clerestory travelling post office
+MSLR-4Wheel-Mail
+MSLR 4-wheel mail coach
+MR-4Wheel-Mail
+MR 4-wheel mail coach
+GNR-4Wheel-Mail
+GNR 4-wheel mail coach
+LNWR-6Wheel-Mail
+LNWR 6-wheel mail coach
+GNR-6Wheel-Mail
+GNR 6-wheel mail coach
+MR-6Wheel-Mail
+MR 6-wheel mail coach
+GWR-Express-Parcel-Brake
+GWR Express parcel brake coach
+GWR-Express-TPO
+GWR Travelling Post Office
+SR-Maunsell-Parcels(Green)
+SR Mail van
+LMS-TPO
+LMS Travelling Post Office
+LNER-Gresley-Express-Parcel-Brake(Teak)
+LNER Parcel Brake coach (teak)
+LNER-Gresley-Express-TPO(Teak)
+LNER Travelling Post Office
+SR-Maunsell-TPO(Green)
+SR Travelling Post Office
+BR-Mk1-TPO(RoyalMail)
+BR Mk. 1 Travelling Post Office
+CC-Clerestory-Mail
+GWR Chocolate & cream clerestory mail van
+Teak-Clerestory-Mail
+GNR Clerestory Mail Van (teak)
+MR-Clerestory-Mail
+MR Clerestory Mail van
+BR-Mk1-BG(Crimson-Cream)
+BR Mk. 1 Gangwayed Brake
+BR-Mk1-BG(Maroon)
+BR Mk. 1 Gangwayed Brake
+BR-Mk1-BG(Blue-Grey)
+BR Mk. 1 Gangwayed Brake
+SR-Maunsell-Mail(Green)
+SR Maunsell Mail van
+GWR-Express-Mail
+GWR Express mail coach
+LMS-Mail
+LMS mail coach
+LNER-Gresley-Express-Mail(Teak)
+LNER mail coach (teak)
+BR-Mk1-POS(RoyalMail)
+BR Mk. 1 Mail coach
 #____________________________________tram-vehicle____________________________________
 #____________________________________tram-vehicle____________________________________
 1-Deck-Trailer
@@ -1448,7 +1739,119 @@ Leyland Cub
 Guy_Special(LT-Green)
 Guy Special
 Leyland_National_11(LC)
-Leyland National
+Leyland National (short)
+HackneyCarriage
+Hackney carriage
+StageCoach
+Stage coach
+OmnibusSingle
+Horse omnibus
+BTypeSingle
+B-Type (single deck)
+AECReliance
+AEC Reliance
+AECRegalT
+AEC Regal
+OmnibusDoubleKnifeboard
+"Knifeboard" horse omnibus
+PetrolElectricBus
+Petrol-electric omnibus
+BTypeDouble
+B-Type (double deck)
+OmnibusDoubleGardenseat
+"Garden seat" horse omnibus
+WrightStreetcar(Rear)
+Wright Streetcar (rear)
+WrightElectrocity
+Wright Electrocity
+DennisDart
+Dennis Dart
+AECQ4
+AEC Q4
+RFCoach
+AEC Regal IV (RF) (coach)
+RF
+AEC Regal IV (RF) (standard)
+MercedesCitaroG(Rear)
+Mercedes Citaro G (rear)
+OptareExcel
+Optare Excel
+KTypeDouble
+K-Type
+OptareTempo
+Optare Tempo
+LeylandLeopard
+Leyland Leopard
+LeylandTiger
+Leyland Tiger
+PlaxtonParagon
+Plaxton Paragon
+AECRegentST
+AEC Regent ST
+LeylandLynx
+Leyland Lynx
+STypeDouble
+S-Type
+NSTypeDouble
+NS-Type
+RT
+RT-Type
+AECRenownLT
+AEC Renown LT
+AEC Standard STL
+AEC Standard STL
+RoutemasterLongCoach
+AEC Routemaster (long coach)
+GuyArab
+Guy Arab
+AECSwift
+AEC Swift
+MercedesCitaroG(Front)
+Mercedes Citaro G (front)
+MercedesCitaroK
+Mercedes Citaro K
+WrightStreetcar(Front)
+Wright Streetcar (front)
+Routemaster
+AEC Routemaster (standard)
+AECQ2
+AEC Q2
+LeylandOlympianCoach
+Leyland Olympian (coach)
+LeylandTitanB15
+Leyland Titan
+RoutemasterLong
+AEC Routemaster (long)
+DaimlerFleetline
+Daimler Fleetline
+DennisDominator
+Dennis Dominator
+LeylandAtlantean
+Leyland Atlantean
+VolvoCitybus
+Volvo Citybus
+VolvoOlympian
+Volvo Olympian
+VolvoB7TL
+Volvo B7TL
+LeylandOlympian
+Leyland Olympian
+DennisEnviro400
+Dennis Enviro400
+RoadHorsesSingle
+Single horse
+RoadHorsesDouble
+Pair of horses
+A1Diddler
+A1 "Diddler"
+LeylandK2
+Leyland K2
+MCWQ1
+MCW Q1
+RoutemasterTrolleybus
+Routemaster (trolleybus)
+DennisDominatorTrolley
+Dennis Dominator (trolleybus)
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 wrought_iron_track
@@ -1465,76 +1868,28 @@ cssri
 Improved Concrete Sleeper Steel Rail Track
 tgv
 High Speed Rail Track
-air_movement_area
-Tarmac Taxiway
-air_movement_area_old
-Cobblestone Taxiway
 asphalt_road
 Asphalt Road
-autobahn
-Autobahn
 city_road
-City road
+City Road
 cobblestone_road
 Cobblestone road
-concrete_road
-Concrete road
-concrete_sleeper_track
-Concrete Sleeper Track
-concrete_tram_track
-Concrete Tram Track
 dirt_road
-Dirt road
-gravel_road
-Gravel road
-High_quality_track
-High quality track
-low_quality_track
-Low quality track
+Dirt Road
 Powerline
 High voltage transmission line
-Rillenschienen
-Tramway Tracks
-runway_modern
-Modern runway
-Schwebebahn_p_ground
-Monorail (ground level)
-steel_sleeper_track
-High speed track
-Suspended_Monorail_Track
-Suspended Monorail Track
-US_asphalt_road
-US asphalt road
-water_road
-Canal
-wooden_sleeper_track
-Wooden Sleeper Track
 TramTrack
-Tram track
-#__________________________________way-object___________________________________
-#__________________________________way-object___________________________________
-High_Speed_Catenary
-Highspeed catenary
-old_catenary
-Old catenary
-standard_catenary
-Standard catenary
-Third_Rail_Electrification
-Third rail electrification
-Tram_Electrification
-Tram Electrification
-TrolleyBus_Electrification
-Trolleybus Electrification
-DCRailCatenary
-DC overhead catenary
-ACHighSpeedCatenary
-AC overhead catenary
-DCThirdRail
-DC third rail electrification
-TramElectrification
-DC tramway catenary
-TrollyBusElectrification
-DC trolleybus catenary
+Tramway Tracks
+Canal
+Canal
+GrassTaxiway
+Grass Taxiway
+taxiway
+Asphalt Taxiway
+GrassRunway
+Grass Runway
+runway
+Asphalt Runway
 #__________________________________stations/stops___________________________________
 #__________________________________stations/stops___________________________________
 BrickPlatformTrainStop
@@ -1542,12 +1897,114 @@ Brick Platform
 BrickPlatformBuildingTrainStop
 Brick Platform with Building
 BrickPlatformOverallTrainStop
-Brick Platform with Over-roof
+Brick Platform with Overroof
 ConcretePlatformTrainStop
 Concrete Platform
 ConcretePlatformBuildingTrainStop
 Concrete Platform with Building
-Concrete Platform with Over-roof
+ConcretePlatformOverallTrainStop
+Concrete Platform with Overroof
+WoodenPlatformTrainStop
+Wooden Platform
+woodenPlatformOverallTrainStop
+Wooden Platform with Overroof
+GoodsSiding
+Goods Siding
+GoodsSidingCrane
+Goods Siding with Crane
+BulkLoadingModern
+Bulk Goods Loading Tower
+BulkLoadingOld
+Bulk Goods Loading Tower
+GoodsShedModern
+Goods Shed
+GoodsShedOld
+Goods Shed
+ConcreteStationBuildingSmall
+Concrete Station Building
 StationStoneBuilding
 Stone Station Building
-
+ModernStationBuildingEntrance
+Modern Station Building Entrance
+1950sStationBuildingEntrance
+1950s Station Building Entrance
+DecoStationBuildingEntrance
+Art Deco Station Building
+1950sStationBuilding
+1950s Station Building Concourse
+ModernStationBuilding
+Modern Station Building Concourse
+CountryStationBuilding
+Country Station Building
+ModernPostOffice
+Post Office
+OldPostOffice
+Post Office
+BulkGoodsBunker
+Bulk Goods Bunker
+CarYard
+Car Yard
+FluidStorageStation
+Fluid Storage Tanks
+LivestockPen
+Livestock Pen
+GoodsWarehouseModern
+Goods Warehouse
+GoodsWarehouseOld
+Goods Warehouse
+BusStop
+Basic Bus Stop
+ModernBusShelter
+Bus Stop with Shelter
+OldBusShelter
+Bus Stop with Shelter
+ModernBusTerminal
+Bus Terminal
+OldBusTerminal
+Bus Terminal
+ModernCargoStop
+Cargo Bay
+OldCargoStop
+Cargo Bay
+LoadingBay
+Loading Bay with Post Box
+ModernPassengerQuay
+Passenger Canal Quay
+OldPassengerQuay
+Passenger Canal Quay
+GoodsQuay
+Goods Canal Quay
+HarbourPassenger1950s
+1950s Passenger Dock
+HarbourPassengerDeco
+Art Deco Passenger Dock
+HarbourPassengerModern
+Modern Passenger Dock
+HarbourPassengerOld
+Old Passenger Dock
+ModernGoodsHarbour
+Goods Dock
+OldGoodsHarbour
+Goods Dock
+BasicApron
+Plane Stand
+JetwayApron
+Plane Stand with Jetway
+ControlTowerModern
+Modern Control Tower
+1950sTerminalBuildingEntrance
+1950s Terminal Building Entrance
+TerminalModernBuildingEntrance
+Modern Terminal Building Entrance
+DecoTerminalBuildingEntrance
+Art Deco Terminal Building
+DecoTerminalBuildingTower
+Art Deco Terminal Building with Control Tower
+1950sTerminalBuilding
+1950s Terminal Building
+TerminalModernBuilding
+Modern Terminal Building
+CoachStable
+Coaching stable
+AirHangarModern
+Aircraft hangar

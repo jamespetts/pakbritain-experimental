@@ -9,9 +9,9 @@ retire_year=1910
 needs_ground=1
 dims=1,1,4
 
-BackImage[0][0][0][0][0]=images/res/1890-detatched-house-3f.0.0
+BackImage[2][0][0][0][0]=images/res/1890-detatched-house-3f.0.0
 BackImage[1][0][0][0][0]=images/res/1890-detatched-house-3f.0.1
-BackImage[2][0][0][0][0]=images/res/1890-detatched-house-3f.0.2
+BackImage[0][0][0][0][0]=images/res/1890-detatched-house-3f.0.2
 BackImage[3][0][0][0][0]=images/res/1890-detatched-house-3f.0.3
 --
 Obj=building
@@ -25,7 +25,7 @@ retire_year=1910
 needs_ground=1
 dims=1,1,4
 
-BackImage[0][0][0][0][0]=images/res/1890-town-house-3f.0.0
+BackImage[2][0][0][0][0]=images/res/1890-town-house-3f.0.0
 BackImage[1][0][0][0][0]=images/res/1890-town-house-3f.0.1
-BackImage[2][0][0][0][0]=images/res/1890-town-house-3f.0.2
+BackImage[0][0][0][0][0]=images/res/1890-town-house-3f.0.2
 BackImage[3][0][0][0][0]=images/res/1890-town-house-3f.0.3

@@ -1,10 +1,10 @@
 obj=vehicle
 name=BR-Mk1-TO(Crimson-Cream)
-speed=145 
+speed=175
 copyright=Kieron/James
 intro_year=1951
 intro_month=1
-retire_year=1959
+retire_year=1956
 retire_month=1
 waytype=track
 freight=Passagiere
@@ -13,16 +13,11 @@ length=11
 
 weight=34
 cost=583000
-upgrade_price=70000
-runningcost=32
+runningcost=29
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-loading_time=2500
-
-upgrade[0]=BR-Mk1-TO(Maroon)
-upgrade[1]=BR-Mk1-TO(Blue-Grey)
 
 Constraint[Next][0]=BR-Mk1-GUV(Rail-Blue)
 Constraint[Next][1]=BR-Mk1-TO(Blue-Grey)
@@ -31,6 +26,12 @@ Constraint[Next][3]=BR-Mk1-TO(Maroon)
 Constraint[Next][4]=BR-Mk1-BC(Maroon)
 Constraint[Next][5]=BR-Mk1-TO(Crimson-Cream)
 Constraint[Next][6]=BR-Mk1-BC(Crimson-Cream)
+Constraint[Next][7]=BR-Mk1-RBR(Blue-Grey)
+Constraint[Next][8]=BR-Mk1-BG(Blue-Grey)
+Constraint[Next][9]=BR-Mk1-RBR(Maroon)
+Constraint[Next][10]=BR-Mk1-BG(Maroon)
+Constraint[Next][11]=BR-Mk1-RBR(Crimson-Cream)
+Constraint[Next][12]=BR-Mk1-BG(Crimson-Cream)
 
 EmptyImage[E]=./images/br-mk1-cc.0
 EmptyImage[SE]=./images/br-mk1-cc.1

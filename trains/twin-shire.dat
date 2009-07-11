@@ -3,7 +3,7 @@ name=Twin-Shire
 engine_type=bio
 smoke=none
 speed=5
-##gear=350
+gear=150
 power=2
 copyright=James
 intro_year=1750
@@ -15,7 +15,7 @@ freight=None
 payload=0
 length=2
 
-weight=1
+weight=0
 cost=132000
 runningcost=6
 sound=-1

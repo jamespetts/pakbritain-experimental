@@ -1,0 +1,36 @@
+# The A1 "Diddler" - London's first trolleybus
+# See here for details: 
+# http://www.20thcenturylondon.org.uk/server.php?show=ConMediaFile.5490
+#
+#
+obj=vehicle
+name=A1Diddler
+copyright=JamesPetts&JamesHood
+waytype=road
+engine_type=electric
+freight=Passagiere
+payload=66
+speed=55
+power=100
+gear=100
+weight=8
+length=6
+cost=210000
+runningcost=450
+intro_year=1931
+intro_month=5
+retire_year=1948
+retire_month=6
+constraint[next][0]=none 
+constraint[prev][0]=none 
+
+
+EmptyImage[E]=./images/a1-diddler.0.0
+EmptyImage[SE]=./images/a1-diddler.0.1
+EmptyImage[S]=./images/a1-diddler.0.2
+EmptyImage[SW]=./images/a1-diddler.0.3
+EmptyImage[W]=./images/a1-diddler.0.4
+EmptyImage[NW]=./images/a1-diddler.0.5
+EmptyImage[N]=./images/a1-diddler.0.6
+EmptyImage[NE]=./images/a1-diddler.0.7
+

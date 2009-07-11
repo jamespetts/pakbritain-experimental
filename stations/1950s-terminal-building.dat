@@ -1,0 +1,77 @@
+Obj=building
+Name=1950sTerminalBuildingEntrance
+copyright=James
+type=extension
+waytype=air
+enables_pax=1
+intro_year=1950
+retire_year=1980
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=2
+BackImage[0][0][0][0][0]=1950s-terminal-entrance.0.2
+BackImage[1][0][0][0][0]=1950s-terminal-entrance.0.1
+BackImage[2][0][0][0][0]=1950s-terminal-entrance.0.0
+BackImage[3][0][0][0][0]=1950s-terminal-entrance.0.3
+
+Icon=> 1950s-terminal-entrance.0.5
+Cursor=1950s-terminal-entrance.0.4
+----------------------------------
+Obj=building
+Name=1950sTerminalBuilding
+copyright=James
+type=extension
+waytype=air
+enables_pax=1
+intro_year=1950
+retire_year=1980
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,1
+NoInfo=1
+Level=5
+BackImage[0][0][0][0][0]=large-terminal-1950s.0.0
+
+Icon=> large-terminal-1950s.0.2
+Cursor=large-terminal-1950s.0.1
+------------------------------------
+Obj=building
+Name=1950sStationBuildingEntrance
+copyright=James
+type=extension
+waytype=track
+enables_pax=1
+intro_year=1950
+retire_year=1980
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,4
+NoInfo=1
+Level=2
+BackImage[0][0][0][0][0]=1950s-terminal-entrance.0.2
+BackImage[1][0][0][0][0]=1950s-terminal-entrance.0.1
+BackImage[2][0][0][0][0]=1950s-terminal-entrance.0.0
+BackImage[3][0][0][0][0]=1950s-terminal-entrance.0.3
+
+Icon=> 1950s-terminal-entrance.0.5
+Cursor=1950s-terminal-entrance.0.4
+----------------------------------
+Obj=building
+Name=1950sStationBuilding
+copyright=James
+type=extension
+waytype=track
+enables_pax=1
+intro_year=1950
+retire_year=1980
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,1
+NoInfo=1
+Level=5
+BackImage[0][0][0][0][0]=large-terminal-1950s.0.0
+
+Icon=> large-terminal-1950s.0.2
+Cursor=large-terminal-1950s.0.1

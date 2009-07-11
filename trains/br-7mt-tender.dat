@@ -18,6 +18,7 @@ runningcost=0
 sound=-1
 
 Constraint[Prev][0]=BR-7MT(Green)
+Constraint[Prev][1]=BR-8P(Green)
 
 EmptyImage[E]=./images/br-7mt.1.0
 EmptyImage[SE]=./images/br-7mt.1.1

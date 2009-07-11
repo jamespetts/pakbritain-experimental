@@ -1,0 +1,57 @@
+#####################################################
+# Airports for PakBritain
+# James Hood - March 2009
+#####################################################
+Obj=building
+Name=BasicApron
+# must be 1*1
+type=stop
+waytype=air
+Dims=1,1,4
+enables_pax=1
+noconstruction=1
+level=1
+NoInfo=1
+intro_year=1920
+BackImage[2][0][0][0][0][0]=airport-apron-basic.0.0
+BackImage[1][0][0][0][0][0]=airport-apron-basic.0.1
+BackImage[0][0][0][0][0][0]=airport-apron-basic.0.2
+BackImage[3][0][0][0][0][0]=airport-apron-basic.0.3
+icon=> airport-apron-basic.0.5
+cursor=airport-apron-basic.0.4
+---------------------------------------
+Obj=building
+Name=JetwayApron
+# must be 1*1
+type=stop
+waytype=air
+Dims=1,1,4
+enables_pax=1
+noconstruction=1
+level=1
+NoInfo=1
+intro_year=1950
+FrontImage[1][0][0][0][0][0]=airport-apron-jetway.0.0
+FrontImage[2][0][0][0][0][0]=airport-apron-jetway.0.1
+BackImage[2][0][0][0][0][0]=airport-apron-jetway.0.2
+BackImage[1][0][0][0][0][0]=airport-apron-jetway.0.3
+BackImage[0][0][0][0][0][0]=airport-apron-jetway.0.4
+BackImage[3][0][0][0][0][0]=airport-apron-jetway.0.5
+icon=> airport-apron-jetway.0.7
+cursor=airport-apron-jetway.0.6
+---------------------------------------
+Obj=building
+Name=ControlTowerModern
+# must be 1*1
+type=extension
+waytype=air
+Dims=1,1,1
+noconstruction=1
+level=4
+NoInfo=1
+intro_year=1950
+icon=> control-tower-modern.0.3
+cursor=control-tower-modern.0.2
+
+BackImage[0][0][0][0][0][0]=control-tower-modern.0.1
+BackImage[0][0][0][1][0][0]=control-tower-modern.0.0

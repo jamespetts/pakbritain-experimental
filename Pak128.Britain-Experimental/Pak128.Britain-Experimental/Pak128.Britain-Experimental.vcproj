@@ -14,7 +14,7 @@
 	</Platforms>
 	<ToolFiles>
 		<ToolFile
-			RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\simutrans-data.rules"
+			RelativePath="..\..\..\..\simutrans-experimental-binaries\simutrans-data.rules"
 		/>
 	</ToolFiles>
 	<Configurations>
@@ -199,6 +199,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\stations\1950s-terminal-building.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\attractions\1980-small-church.dat"
 				>
 			</File>
@@ -215,7 +219,55 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\airtools.txt"
+				RelativePath="..\..\bus\a1-diddler.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-q2.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-q4.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-regal.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-regent.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-reliance.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-renown.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-stl.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\aec-swift.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\depots\air-hangar-modern.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\depots\air-hangar-old.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\stations\airport.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\airtools.txt"
 				>
 			</File>
 			<File
@@ -227,11 +279,31 @@
 				>
 			</File>
 			<File
+				RelativePath=".\austin_seven_van.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\doc\authors.txt"
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\b-type-double.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\b-type-single.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\bakery.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\baum_build.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\gui\gui128\BigLogo.dat"
 				>
 			</File>
 			<File
@@ -695,6 +767,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-cl31-b.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-cl35-b.dat"
 				>
 			</File>
@@ -751,6 +827,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-cl81-b.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-cl86-ic.dat"
 				>
 			</File>
@@ -783,7 +863,39 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-mk1-bg-bg.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-bg-cc.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-bg-m.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-bg-rm.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-mk1-guv-b.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-pos-rm.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-rbr-bg.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-rbr-cc.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-rbr-m.dat"
 				>
 			</File>
 			<File
@@ -799,6 +911,18 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-mk1-tpo-rm.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk2-dbso.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk2-rfb-ic.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-mk2-to-ic.dat"
 				>
 			</File>
@@ -811,7 +935,15 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-mk3-trb-ic.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-mk4-dvt-ic.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk4-rsb-ic.dat"
 				>
 			</File>
 			<File
@@ -839,6 +971,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\bus-horse.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\stations\bus-stops.dat"
 				>
 			</File>
@@ -852,6 +988,10 @@
 			</File>
 			<File
 				RelativePath="..\..\industry\car-factory.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\catering.txt"
 				>
 			</File>
 			<File
@@ -875,6 +1015,22 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\choc-cream-clerestory-dining.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\choc-cream-clerestory-mail.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\choc-cream-clerestory-parcel-brake.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\choc-cream-clerestory-tpo.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\choc-cream-clerestory.dat"
 				>
 			</File>
@@ -883,11 +1039,15 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\citybuilding_build.txt"
+				>
+			</File>
+			<File
 				RelativePath="..\text\citylists\citylist_en.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\citylist_filter.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\citylist_filter.txt"
 				>
 			</File>
 			<File
@@ -895,7 +1055,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\citywindow.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\citywindow.txt"
 				>
 			</File>
 			<File
@@ -903,7 +1063,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\climates.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\climates.txt"
 				>
 			</File>
 			<File
@@ -911,7 +1071,15 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\coal-power-battersea.dat"
+				RelativePath="..\..\industry\coal-mines.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\industry\coal-power-stations.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\industry\coalyards.dat"
 				>
 			</File>
 			<File
@@ -919,7 +1087,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\color.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\color.txt"
 				>
 			</File>
 			<File
@@ -947,23 +1115,39 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\comfort.txt"
+				>
+			</File>
+			<File
 				RelativePath="..\compat.tab"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\convoi.txt"
+				RelativePath="..\..\stations\concrete-platform.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\convoi_filter.txt"
+				RelativePath="..\..\stations\concrete-station-building-small.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\convoidetail.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoi.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\convoiinfo.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoi_filter.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoidetail.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoiinfo.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\stations\country-station-building.dat"
 				>
 			</File>
 			<File
@@ -979,7 +1163,15 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\curiositylist_filter.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\curiosity_build.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\curiositylist_filter.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\daimler-fleetline.dat"
 				>
 			</File>
 			<File
@@ -987,7 +1179,31 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\depot.txt"
+				RelativePath="..\..\stations\deco-terminal.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\dennis-dart.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\dennis-dominator-trolley.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\dennis-dominator.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\dennis-enviro400.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\industry\department-stores.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\depot.txt"
 				>
 			</File>
 			<File
@@ -995,7 +1211,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\display.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\display.txt"
 				>
 			</File>
 			<File
@@ -1023,7 +1239,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\edittools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\edittools.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\electricity.txt"
 				>
 			</File>
 			<File
@@ -1035,15 +1255,23 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en.tab"
+				RelativePath="..\..\stations\extensions.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\factorylist_filter.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\factory_build.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\finances.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\factorylist_filter.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\grounds\fences.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\finances.txt"
 				>
 			</File>
 			<File
@@ -1079,7 +1307,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\general.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\general.txt"
 				>
 			</File>
 			<File
@@ -1103,11 +1331,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\gnr-4wheel-mail.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\gnr-6wheel-first.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\trains\gnr-6wheel-guard.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\gnr-6wheel-mail.dat"
 				>
 			</File>
 			<File
@@ -1131,7 +1367,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\goods_filter.txt"
+				RelativePath="..\..\stations\goods-rail-stations.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\goods_filter.txt"
 				>
 			</File>
 			<File
@@ -1143,11 +1383,27 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\grass-runway.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\grass-taxiway.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\greengrocers.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\attractions\greenhouse.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\grounds\grounds-128.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\guy-arab.dat"
 				>
 			</File>
 			<File
@@ -1195,6 +1451,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\gwr-express-mail.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\gwr-express-parcel-brake.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\gwr-gloucester-parcel-railcar.dat"
 				>
 			</File>
@@ -1239,11 +1503,19 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\haltlist.txt"
+				RelativePath="..\..\bus\hackney-carriage.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\haltlist_filter.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\haltlist.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\haltlist_filter.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\stations\harbour.dat"
 				>
 			</File>
 			<File
@@ -1252,6 +1524,10 @@
 			</File>
 			<File
 				RelativePath="..\..\industry\hardware-shop.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\lorries\horse_wagons.dat"
 				>
 			</File>
 			<File
@@ -1283,11 +1559,15 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\industry_info.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\industry_info.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\inspection_tool.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\insolvency.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\inspection_tool.txt"
 				>
 			</File>
 			<File
@@ -1303,7 +1583,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\keys.txt"
+				RelativePath="..\..\bus\k-type.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\keys.txt"
 				>
 			</File>
 			<File
@@ -1311,7 +1595,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\language.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\labellist_filter.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\language.txt"
 				>
 			</File>
 			<File
@@ -1343,7 +1631,39 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\leyland-atlantean.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-k2.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-leopard.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-lynx.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\bus\leyland-national.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-olympian-coach.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-olympian.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-tiger.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\leyland-titan.dat"
 				>
 			</File>
 			<File
@@ -1351,11 +1671,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\linemanagement.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\linemanagement.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\list.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\list.txt"
 				>
 			</File>
 			<File
@@ -1463,6 +1783,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\lms-mail.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\lms-patriot-tender.dat"
 				>
 			</File>
@@ -1567,6 +1891,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\lner-gresley-express-mail.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\lner-gresley-express-parcel-brake.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\lner-j94.dat"
 				>
 			</File>
@@ -1595,11 +1927,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\lnwr-1847-mail.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\lnwr-6wheel-first.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\trains\lnwr-6wheel-guard.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\lnwr-6wheel-mail.dat"
 				>
 			</File>
 			<File
@@ -1651,11 +1991,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\load.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\load.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\load_relief.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\load_relief.txt"
 				>
 			</File>
 			<File
@@ -1679,7 +2019,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\mailbox.txt"
+				RelativePath="..\..\lorries\mail_coach.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\mailbox.txt"
 				>
 			</File>
 			<File
@@ -1687,7 +2031,23 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\map.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\map.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\grounds\marker.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maudslay_van.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\mcnamara_van.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\mcw-q1.dat"
 				>
 			</File>
 			<File
@@ -1696,6 +2056,14 @@
 			</File>
 			<File
 				RelativePath="..\config\menuconf.tab"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\mercedes-citaro-g.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\mercedes-citaro-k.dat"
 				>
 			</File>
 			<File
@@ -1731,7 +2099,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\gui\gui128\misc_images-128.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\depots\modern-bus-depot.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\stations\modern-station-building.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\stations\modern-terminal-building.dat"
 				>
 			</File>
 			<File
@@ -1743,7 +2123,15 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\monorailtools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\monorailtools.txt"
+				>
+			</File>
+			<File
+				RelativePath=".\morris_eight_van.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\mouse.txt"
 				>
 			</File>
 			<File
@@ -1763,6 +2151,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\mr-4wheel-mail.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\mr-6wheel-first.dat"
 				>
 			</File>
@@ -1771,11 +2163,31 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\mr-6wheel-mail.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\mr-clerestory-brake.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\trains\mr-clerestory-coach.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\mr-clerestory-dining.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\mr-clerestory-mail.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\mr-clerestory-parcel-brake.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\mr-clerestory-tpo.dat"
 				>
 			</File>
 			<File
@@ -1803,6 +2215,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\mslr-4wheel-mail.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\attractions\nelson-column.dat"
 				>
 			</File>
@@ -1827,11 +2243,27 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\new_world.txt"
+				RelativePath="..\..\ways\new-crossing.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\gui\gui128\new_cursor.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\gui\gui64\new_menus.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\new_world.txt"
 				>
 			</File>
 			<File
 				RelativePath="..\..\industry\newsagent.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\ns-type.dat"
 				>
 			</File>
 			<File
@@ -1863,7 +2295,27 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\options.txt"
+				RelativePath="..\..\bus\omnibus-double-gardenseat.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\omnibus-double-knifeboard.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\omnibus-single.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\optare-excel.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\optare-tempo.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\options.txt"
 				>
 			</File>
 			<File
@@ -1871,7 +2323,23 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\grounds\outside.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\gui\gui128\pakmak.tab"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\papermill.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\pavement.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\petrol-electric-bus.dat"
 				>
 			</File>
 			<File
@@ -1883,11 +2351,19 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\players.txt"
+				RelativePath="..\..\bus\plaxton-paragon.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\players.txt"
 				>
 			</File>
 			<File
 				RelativePath="..\..\industry\pottery.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\Powerlines.dat"
 				>
 			</File>
 			<File
@@ -1896,6 +2372,10 @@
 			</File>
 			<File
 				RelativePath="..\config\privatecar.tab"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\privatecar.txt"
 				>
 			</File>
 			<File
@@ -1915,7 +2395,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\railtools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\railtools.txt"
 				>
 			</File>
 			<File
@@ -1923,7 +2403,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\removal_tool.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\removal_tool.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\replace.txt"
 				>
 			</File>
 			<File
@@ -1983,6 +2467,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\rf-coach.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\rf.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\rm-325back-rm.dat"
 				>
 			</File>
@@ -1999,7 +2491,27 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\roadtools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\roadtools.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\routemaster-long.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\routemaster-trolley.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\routemaster.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\routemaster_coach.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\rt.dat"
 				>
 			</File>
 			<File
@@ -2007,11 +2519,19 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\save.txt"
+				RelativePath="..\..\ways\runway.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\schedule.txt"
+				RelativePath="..\..\bus\s-type.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\save.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\schedule.txt"
 				>
 			</File>
 			<File
@@ -2059,7 +2579,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\shiptools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\shiptools.txt"
 				>
 			</File>
 			<File
@@ -2075,7 +2595,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\simutrans.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\simutrans.txt"
 				>
 			</File>
 			<File
@@ -2083,11 +2603,15 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\gui\gui64\skins-64.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\slaughterhouse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\slopetools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\slopetools.txt"
 				>
 			</File>
 			<File
@@ -2095,15 +2619,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\smokes\smoke.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\sound\sound.tab"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\sound.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\sound.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\special.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\special.txt"
 				>
 			</File>
 			<File
@@ -2147,6 +2675,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\sr-maunsell-mail.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\sr-maunsell-parcels.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\sr-maunsell-third.dat"
 				>
 			</File>
@@ -2187,11 +2723,19 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\station.txt"
+				RelativePath="..\..\lorries\stage_wagons.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\station_details.txt"
+				RelativePath="..\..\bus\stagecoach.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\station.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\station_details.txt"
 				>
 			</File>
 			<File
@@ -2203,7 +2747,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\stations\stone-building.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\attractions\stonehenge.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\gui\gui64\symbols-64.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\taxiway.dat"
 				>
 			</File>
 			<File
@@ -2215,7 +2771,27 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\teak-clerestory-dining.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\teak-clerestory-mail.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\teak-clerestory-parcel-brake.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\teak-clerestory-tpo.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\textile-mill.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\grounds\TextureGrounds.dat"
 				>
 			</File>
 			<File
@@ -2223,7 +2799,39 @@
 				>
 			</File>
 			<File
+				RelativePath=".\thornycroft_amazon.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\lorries\thornycroft_bt.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\thornycroft_q.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\thornycroft_qc.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\thornycroft_stag.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\lorries\thornycroft_wagon.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trams\toastrack.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\townhall\townhalls.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\lorries\traction_engines.dat"
 				>
 			</File>
 			<File
@@ -2235,7 +2843,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\tramtools.txt"
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\tramtools.txt"
 				>
 			</File>
 			<File
@@ -2265,11 +2873,55 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\victorian-coal-mine.dat"
+				RelativePath="..\..\bus\volvo-b7tl.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\volvo-citybus.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\volvo-olympian.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-2-car-flat.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-3-car-bogie.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\trains\wagon-autic.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-br.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-d16.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-d93.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-gwr.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-lms.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-lner.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-brake-sr.dat"
 				>
 			</File>
 			<File
@@ -2305,11 +2957,131 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\wagon-cool-16t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-container.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-d32.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-d88.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-early1.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-early2.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-early3.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-cool-zsx.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\wagon-haa.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\trains\wagon-hta.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-livestock-16t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-livestock-d21.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-livestock-d25.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-livestock-early1.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-livestock-early2.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-livestock-early3.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-10t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-12t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-20t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-30t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-d1.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-early1.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-early2.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-long-early3.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-16t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-container.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-d32.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-d88.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-early1.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-early2.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-early3.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\wagon-piece-zsx.dat"
 				>
 			</File>
 			<File
@@ -2329,11 +3101,27 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\debug\text\en\window.txt"
+				RelativePath="..\..\stations\water-stops.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\window.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\stations\wooden-platform.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\ways\wooden-trestle.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\wright-electrocity.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\wright-streetcar.dat"
 				>
 			</File>
 			<File

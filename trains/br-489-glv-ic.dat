@@ -2,7 +2,7 @@ obj=vehicle
 name=BR-489[GLV](Intercity)
 engine_type=electric
 speed=175
-##gear=340
+gear=340
 power=375
 copyright=Kieron
 intro_year=1983
@@ -19,10 +19,8 @@ cost=1500000
 runningcost=37
 sound=-1
 
-can_lead_from_rear=1
-bidirectional=0
-
 Constraint[Prev][0]=BR-Mk2-TO(Intercity)
+Constraint[Prev][0]=BR-Mk2-RFB(Intercity)
 
 Constraint[Next][0]=none
 
