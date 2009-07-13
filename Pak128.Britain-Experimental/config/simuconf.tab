@@ -48,6 +48,28 @@ city_weight_factor = 100
 
 max_alternative_destinations = 3
 
+# The program will generate three groups of passengers: (1) local;
+# (2) midrange; and (3) long distance. The program will look for a town within
+# the specified distance ranges for each class of passenger. If it cannot
+# find such a town within a certain number of tries, it will pick a random town.
+# The ranges *may* overlap - indeed, this is encouraged.
+
+local_passengers_min_distance = 0
+local_passengers_max_distance = 64
+midrange_passengers_min_distance = 0
+midrange_passengers_max_distance = 128
+longdistance_passengers_min_distance = 96
+longdistance_passengers_max_distance = 16384
+
+# The following are percentage chances. They represent the chances that
+# any passengers generated will try to find a town within each of the three
+# ranges, respectively. 
+
+passenger_routing_local_chance = 43
+passenger_routing_midrange_chance = 37
+# passenger_routing_longdistance_chance is 100 minus the sum of the two above values,
+# but not stipulated individually.
+
 # These settings relate to private car use. See /config/privatecar.tab for
 # the configuration of private car ownership for different years.
 #

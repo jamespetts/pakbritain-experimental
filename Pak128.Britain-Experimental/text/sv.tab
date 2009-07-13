@@ -1,288 +1,1719 @@
 ################################################################################
 #                                                                              #
 #                Simutrans Scenario Specific Translation File                  #
-#                               Scenario: pak128                               #
+#                           Scenario: pak128.britain                           #
 #                             Language: sv Svenska                             #
 #                             Encoding: ISO-8859-1                             #
 #                            Font : Prop-Latin1.bdf                            #
-#                            Date Created: 2.01 2009                           #
+#                            Date Created: 8.07 2009                           #
 #                                                                              #
 #                                   authors:                                   #
+#                              Frank Penz - FrankP                             #
+#                      note: Administrator SimuTranslator                      #
+#                           Michael Persson - Mippzon                          #
+#                                    note:                                     #
+#                          Susanna Björverud - Susanna                         #
+#                                    note:                                     #
 #                             Paul Color - color42                             #
 #                                    note:                                     #
-#                                    - prissi                                  #
+#                          Markus Pristovsek - prissi                          #
 #              note: Administrator Base texts / pak64 / pak.japan              #
 #                                                                              #
 ################################################################################
 #____________________________________bridge_____________________________________
 #____________________________________bridge_____________________________________
-ClassicRail
-Klassisk_järnväg
-ClassicRoad
-Klassisk_väg
-Concrete_Road_Bridge
-betong_vägbro
+BrickAqueduct
+Tegelakvedukt
+BrickViaduct
+Tegeljärnvägsviadukt
+BrickViaductRoad
+Tegelvägviadukt
+WoodenTrestle
+Järnvägsträbro
+PowerBridge
+Högspänningsbrygga
 #___________________________________building____________________________________
 #___________________________________building____________________________________
-1920_AirDepot
-Flygplans_hangar_1920_tal's
-1930AirDepot
-Flygplans_hangar_1930_tal's
-1940AirDepot
-Flygplans_hangar_1940_tal's
-1950AirDepot
-Flygplans_hangar_1950_tal's
-1990AirDepot
-Flygplans_hangar_1990_tal's
-Airport1920_AirportBlg
-Flygplats_termial_1920_tal's
-Airport1930PostOffice
-Flygplats_postkontor_1930_tal's
-Airport1990_Big_AirportBlg
-Flygplats_terminal_stor_1990_tal's
-Airport1990_Entrance_AirportBlg
-Flygplats_terminals_ingång_1990_tal's
-Airport1990_Gates_AirportBlg
-Flygplats_terminals_gång_1990_tal's
-Airport1990_PostOffice
-Flygplats_postkontor_1990_tal's
-Airport1990_Small_AirportBlg
-Flygplats_byggnad_liten_1990_tal's
-Airport1990_Warehouse
-Flygplats_lagerlokal_1990_tal's
-AirStop_AirportBlg
-Flygplans_stop
-Almuthof_StationBlg
-Gammaldags_stationsbyggnad
-Avila_Big_StationBlg
-Alvila_stor_stations_byggnad
-Avila_Small_StationBlg
-Avila_liten_stations_byggnad
-Avila_Warehouse_StationBlg
-Avila_lagerlokal_stations_byggnad
-big_classic_bus_stop
-Stort_klassiskt_busstop
-big_modern_bus_stop
-Stort_modernt_busstop
-BigTerminal1930_AirportBlg_S
-Stor_flygplats_terminal_1930_tal's
-BigTerminal1950_AirportBlg_S
-Stor_flygplats_terminal_1950_tal's
-Bulk_Dock
-Industri_goods_brygga
-Bulk_StationBlg
-Industri_goods_lager
-bus_terminus
-bussterminal
-canal_ChannelStop
-kanalbåts_hållplats
-canal_ware_stop
-Industri_goods_kanalstop
-Car_StationBlg
-Bilparkering_stationsbyggnad
-CarDepot
-Fodons_depå
-CarStop
+1950sStationBuilding
+Stationsbyggnad
+1950sStationBuildingEntrance
+Stationsentré
+1950sTerminalBuilding
+Terminalbyggnad
+1950sTerminalBuildingEntrance
+Terminalentrébyggnad
+1980s-Small-Church
+Liten kyrka
+1990s-Small-Library
+Bibliotek
+AirHangarModern
+Hangar
+AirHangarOld
+Hangar
+BasicApron
+uppställningsplatta
+BrickPlatformBuildingTrainStop
+Tegelplattform med byggnad
+BrickPlatformOverallTrainStop
+Täckt tegelplattform
+BrickPlatformTrainStop
+Tegelplattform
+BulkGoodsBunker
+Bulkgodsupplag
+BulkLoadingModern
+Bulkgodstorn
+BulkLoadingOld
+Bulkgodstorn
+BusStop
+Busshållplats
+CarYard
+Biluppställning
+CoachStable
+Diligensstall
+ConcretePlatformBuildingTrainStop
+Betongplattform med byggnad
+ConcretePlatformOverallTrainStop
+Täckt betongplattform
+ConcretePlatformTrainStop
+Betongplattform
+ConcreteStationBuildingSmall
+Stationsbyggnad av betong
+ControlTowerModern
+Kontrolltorn
+CountryStationBuilding
+Lantlig stationsbyggnad
+DecoStationBuildingEntrance
+Stationsbyggnad i Art Deco-stil
+DecoTerminalBuildingEntrance
+Stationsentré i Art Deco-stil
+DecoTerminalBuildingTower
+Terminalbyggnad med kontrolltorn i Art Deco-stil
+FluidStorageStation
+Cisterner
+Georgian_Mansion
+Georgiansk herrgård\n\n\n\n\n\n\n
+GoodsQuay
+Kanallastkaj
+GoodsSiding
+Godslastspår
+GoodsSidingCrane
+Godslastspår med kran
+GoodsShedModern
+Godsskjul
+GoodsShedOld
+Godsskjul
+GoodsWarehouseModern
+Godsmagasin
+GoodsWarehouseOld
+Godsmagasin
+Greenhouse
+Växthus\n\n\n\n\n\n\n
+HarbourPassenger1950s
+Passagerarhamn
+HarbourPassengerDeco
+Passagerarhamn i Art Deco-stil
+HarbourPassengerModern
+Passagerarhamn
+HarbourPassengerOld
+Passagerarhamn
+Knight-Monument
+Riddarstaty\n\n\n\n\n\n\n
+Large_Football_Ground
+Fotbollsarena\n\n\n\n\n\n\n
+LivestockPen
+Boskapsfålla
+LoadingBay
+Lastplats med brevlåda
+ModernBoatyard
+Varv
+ModernBusShelter
+Busskur
+ModernBusTerminal
+Bussterminal
+ModernCargoStop
+Lastplats
+ModernGoodsHarbour
 Lastkaj
-classic_mailbox
-Klassiska_postlåda
-ClosedTrainStop
-Övertäck_stationshus
-CoalTrainStop
-Koltågs_stationshus
-Container1TrainStop
-Container_järvägs_stations_1
-Container2TrainStop
-Container_järvägs_stations_2
-Control_StationBlg
-Controltorn_stationsbyggnad_järnväg
-CoveredTrainStop
-Järnvägs_station_med_regnskydd
-Crate_Goods_Dock
-Fraktgods_brygga
-CunnersdorfStopBlg
-Cunnersdorf_stations_byggnad
+ModernPassengerQuay
+Kanalpassagerarkaj
+ModernPostOffice
+Postkontor
+ModernRoadDepot
+Garage
+ModernStationBuilding
+Stationsbyggnad
+ModernStationBuildingEntrance
+Stationsentré
+ModernTrainDepot
+Vagnhall
+ModernTramDepot
+Spårvagnshall
+Nelson-Column
+Nelsons pelare\n\n\n\n\n\n\n
+OldBoatyard
+Varv
+OldBusShelter
+Busskur
+OldBusTerminal
+Bussterminal
+OldCargoStop
+Lastplats
+OldGoodsHarbour
+Lastkaj
+OldPassengerQuay
+Kanalpassagerarkaj
+OldPostOffice
+Postkontor
+OldRoadDepot
+Garage
+OldTrainDepot
+Vagnhall
+OldTramDepot
+Spårvagnshall
+Small_Cricket_Ground
+Cricketplan\n\n\n\n\n\n\n
+Small_Football_Ground
+Fotbollsplan\n\n\n\n\n\n\n
+Small_Rugby_Ground
+Rugbyplan\n\n\n\n\n\n\n
+StationStoneBuilding
+Stationsbyggnad av sten
+War-Memorial
+Krigsminnesmärke\n\n\n\n\n\n\n
+woodenPlatformOverallTrainStop
+Täckt träplattform
+WoodenPlatformTrainStop
+Träplattform
 #___________________________________crossing____________________________________
 #___________________________________crossing____________________________________
 Crossing1
-korsning1
-CrossingRoadWater
-korsning_över_kanal
-CrossingTrackWater
-korsning_järnväg_över_kanal
-#__________________________________dummy_info___________________________________
-#__________________________________dummy_info___________________________________
-factory_autoshop3_details
-Bilfabriks_detaljer3
-factory_bakery_details
-Industribageris_detaljer
-factory_brewery_details
-Bryggeris_detaljer
-factory_cannery_details
-konserverad_mat_fabriks_detaljer
-factory_car_assembly_plant_details
-Bilfabriks_detaljer
-factory_car_dealer_details
-Bilförsäljares_detaljer
-factory_Cementmill_details
-Cementfabriks_detaljer
-factory_chicken_farm_details
-kycklings_gårds_detaljer
-factory_classical_goods_factory_details
-Vardags_konsumtionsvarors_fabrikens_detaljer
-factory_Concretefactory_details
-Betongfabriks_detaljer
-factory_cornfield_details
-Majsfälts_detaljer
-factory_cotton_farm_w_fields_details
-Majsfälts_detaljer
-factory_cotton_field_details
-Bomulls_bondens_fält_detaljer
-factory_cow_farm_details
-Köttgårds_deteljer_kor
-factory_dairy_details
-Mejeri_detaljer
-factory_Druckerei_details
-Tryckeri_detaljer
-factory_electronics_factory_details
-Elektronikfabriks_detaljer
-factory_Erzbergwerk_details
-Järnmalms_fabriks_detaljer
-factory_ethanol_plant_details
-Ethanol_fabriks_detaljer
+Korsning
+#____________________________________city-buildings____________________________________
+#____________________________________city-buildings____________________________________
+JH_IND_1750_00
+Lagerbyggnad\n\n\n\n\n\n\n
+JH_IND_1860_00
+Gasklocka\n\n\n\n\n\n\n
+JH_IND_60_00
+Reningsverk\n\n\n\n\n\n\n
+JH_IND_80_00
+Lagerbyggnad\n\n\n\n\n\n\n
+JH_RES_1750_00
+Flerfamiljshus\n\n\n\n\n\n\n
+JH_RES_70_00
+Villa\n\n\n\n\n\n\n
+JH_RES_70_01
+Villa\n\n\n\n\n\n\n
+JH_RES_70_02
+Villa\n\n\n\n\n\n\n
+JH_RES_70_03
+Enplansvilla\n\n\n\n\n\n\n
+KG_COM_00_15
+Kontorsbyggnad\n\n\n\n\n\n\n
+KG_COM_00_16
+Värdshus\n\n\n\n\n\n\n
+KG_COM_00_17
+Kontorsbyggnad\n\n\n\n\n\n\n
+KG_COM_00_18
+Kontorsbyggnad\n\n\n\n\n\n\n
+KG_COM_00_19
+Affärer & kontor\n\n\n\n\n\n\n
+KG_COM_1880_0
+Viktoriansk hörnbutik\n\n\n\n\n\n\n
+KG_COM_1880_1
+Viktorianska butiksradhus\n\n\n\n\n\n\n
+KG_COM_1880_2
+Viktorianska butiksradhus\n\n\n\n\n\n\n
+KG_COM_1970_0
+Kontorsenhet\n\n\n\n\n\n\n
+KG_RES_00_13
+Viktorianskt parhus\n\n\n\n\n\n\n
+KG_RES_00_14
+Parhus\n\n\n\n\n\n\n
+KG_RES_00_15
+Viktorianskt parhus\n\n\n\n\n\n\n
+KG_RES_00_16
+Enplansparhus\n\n\n\n\n\n\n
+KG_RES_00_17
+Hyreshus\n\n\n\n\n\n\n
+KG_RES_02_17
+Bostadsrätter\n\n\n\n\n\n\n
+KG_RES_04_01
+Villa\n\n\n\n\n\n\n
+KG_RES_04_02
+Innerstadshus\n\n\n\n\n\n\n
+KG_RES_04_90-0
+Villa\n\n\n\n\n\n\n
+KG_RES_04_90-1
+Villa\n\n\n\n\n\n\n
+KG_RES_1600_00
+Hus\n\n\n\n\n\n\n
+KG_RES_1700_00
+Radhus\n\n\n\n\n\n\n
+KG_RES_1700_01
+Radhus\n\n\n\n\n\n\n
+KG_RES_1880_1
+Viktorianskt radhus\n\n\n\n\n\n\n
+KG_RES_1890-1
+Viktorianskt parhus\n\n\n\n\n\n\n
+KG_RES_1920_00
+Villa\n\n\n\n\n\n\n
+KG_RES_1930_01
+Enplansvilla\n\n\n\n\n\n\n
+KG_RES_1960_04
+Parhus\n\n\n\n\n\n\n
+KG_RES_60_00
+Hyreshus\n\n\n\n\n\n\n
+KG_RES_60_01
+Parhus\n\n\n\n\n\n\n
+KG_RES_60_02
+Parhus\n\n\n\n\n\n\n
+KG_RES_60_03
+Radhus\n\n\n\n\n\n\n
+KG_RES_80_00
+Parhus\n\n\n\n\n\n\n
+KG_RES_80_01
+Parhus\n\n\n\n\n\n\n
+KG_RES_80_02
+Hyreshus\n\n\n\n\n\n\n
 #____________________________________factory____________________________________
 #____________________________________factory____________________________________
-autoshop3
-Bilförsäljare
-bakery
-Industribageri
-brewery
+ArableFarm1750
+Jordbruk
+ArableFarm1840
+Jordbruk
+ArableFarm1910
+Jordbruk
+ArableFarm1945
+Jordbruk
+ArableFarm1975
+Jordbruk
+Bakery1750
+Bageri
+Bakery1840
+Bageri
+Bakery1910
+Bageri
+Bakery1945
+Bageri
+Bakery1975
+Bageri
+Bookshop1860
+Bokhandel
+Bookshop1920
+Bokhandel
+Bookshop1950
+Bokhandel
+Bookshop1970
+Bokhandel
+Brewery1750
 Bryggeri
-cannery
-konservfabrik
-car_assembly_plant
+Brewery1840
+Bryggeri
+Brewery1910
+Bryggeri
+Brewery1945
+Bryggeri
+Brewery1975
+Bryggeri
+Brickworks1800
+Tegelbruk
+Brickworks1850
+Tegelbruk
+Brickworks1905
+Tegelbruk
+Brickworks1960
+Tegelbruk
+Brickworks1985
+Tegelbruk
+BuildersYard1750
+Bygghandel
+BuildersYard1800
+Bygghandel
+BuildersYard1850
+Bygghandel
+BuildersYard1905
+Bygghandel
+BuildersYard1960
+Bygghandel
+BuildersYard1985
+Bygghandel
+Butchery1820
+Slaktare
+Butchery1840
+Slaktare
+Butchery1910
+Slaktare
+Butchery1945
+Slaktare
+CarDealership1910
+Bilhandlare
+CarDealership1925
+Bilhandlare
+CarDealership1950
+Bilhandlare
+CarDealership1970
+Bilhandlare
+CarFactory1910
 Bilfabrik
-car_dealer
-Bilförsäljare
-Cementmill
+CarFactory1925
+Bilfabrik
+CarFactory1950
+Bilfabrik
+CarFactory1970
+Bilfabrik
+CattleFarm1750
+Boskapsgård
+CattleFarm1840
+Boskapsgård
+CattleFarm1910
+Boskapsgård
+CattleFarm1945
+Boskapsgård
+CattleFarm1975
+Boskapsgård
+CementWorks1800
 Cementfabrik
-chicken_farm
-Kycklings_gård
-classical_goods_factory
-Vardags_konsumtionsvarors_fabrik
-Concretefactory
-Betongfabrik
-cornfield
-Majsfält
-cotton_farm_w_fields
-bomulls_bondes_fält_w 
-cotton_field
-bomull_fält 
-cow_farm
-köttgård_kor
-dairy
-mejeri
-Druckerei
+CementWorks1850
+Cementfabrik
+CementWorks1905
+Cementfabrik
+CementWorks1960
+Cementfabrik
+CementWorks1985
+Cementfabrik
+Chemist1860
+Apotek
+Chemist1955
+Apotek
+Chemist1975
+Apotek
+ChinaShop1750
+Porslinsaffär
+ChinaShop1850
+Porslinsaffär
+ChinaShop1905
+Porslinsaffär
+ClayPit1750
+Lertag
+ClayPit1750
+Lertag
+ClayPit1850
+Lertag
+ClayPit1905
+Lertag
+ClayPit1960
+Lertag
+ClayPit1985
+Lertag
+ClothesShop1750
+Klädaffär
+ClothesShop1840
+Klädaffär
+ClothesShop1910
+Klädaffär
+ClothesShop1945
+Klädaffär
+CoalMine1750
+Kolgruva
+CoalMine1850
+Kolgruva
+CoalMine1920
+Kolgruva
+CoalMine1950
+Kolgruva
+CoalMine1970
+Kolgruva
+CoalPowerStation1910
+Kolkraftverk
+CoalPowerStation1920
+Kolkraftverk
+CoalPowerStation1955
+Kolkraftverk
+CoalPowerStation1970
+Kolkraftverk
+CoalYard1750
+Kolhandlare
+CoalYard1850
+Kolhandlare
+CoalYard1920
+Kolhandlare
+Dairy1750
+Mejeri
+Dairy1840
+Mejeri
+Dairy1910
+Mejeri
+Dairy1945
+Mejeri
+Dairy1975
+Mejeri
+DepartmentStore1907
+Varuhus
+DepartmentStore1935
+Varuhus
+DepartmentStore1960
+Varuhus
+DepartmentStore1990
+Varuhus
+FishingGround1750
+Fiskevatten
+FishingGround1840
+Fiskevatten
+FishingGround1910
+Fiskevatten
+FishingGround1945
+Fiskevatten
+FishingGround1975
+Fiskevatten
+Fishmongers1820
+Fiskhandlare
+Fishmongers1840
+Fiskhandlare
+Fishmongers1910
+Fiskhandlare
+Fishmongers1945
+Fiskhandlare
+ForestSawmill1750
+Sågverk
+ForestSawmill1850
+Sågverk
+ForestSawmill1920
+Sågverk
+ForestSawmill1950
+Sågverk
+ForestSawmill1970
+Sågverk
+FurnitureFactory1750
+Möbelfabrik
+FurnitureFactory1850
+Möbelfabrik
+FurnitureFactory1920
+Möbelfabrik
+FurnitureFactory1950
+Möbelfabrik
+FurnitureFactory1970
+Möbelfabrik
+FurnitureShop1750
+Möbelaffär
+FurnitureShop1850
+Möbelaffär
+FurnitureShop1920
+Möbelaffär
+FurnitureShop1950
+Möbelaffär
+FurnitureShop1970
+Möbelaffär
+GrainFarm1750
+Spannmålsodling
+GrainFarm1840
+Spannmålsodling
+GrainFarm1910
+Spannmålsodling
+GrainFarm1945
+Spannmålsodling
+GrainFarm1975
+Spannmålsodling
+GrainMill1750
+Spannmålskvarn
+GrainMill1840
+Spannmålskvarn
+GrainMill1910
+Spannmålskvarn
+GrainMill1945
+Spannmålskvarn
+GrainMill1975
+Spannmålskvarn
+Greengrocers1820
+Grönsakshandlare
+Greengrocers1840
+Grönsakshandlare
+Greengrocers1910
+Grönsakshandlare
+Greengrocers1945
+Grönsakshandlare
+HardwareFactory1790
+Järnvarufabrik
+HardwareFactory1850
+Järnvarufabrik
+HardwareFactory1920
+Järnvarufabrik
+HardwareFactory1950
+Järnvarufabrik
+HardwareShop1790
+Järnhandlare
+HardwareShop1850
+Järnhandlare
+HardwareShop1920
+Järnhandlare
+HardwareShop1950
+Järnhandlare
+IronOreMine1750
+Järngruva
+IronOreMine1850
+Järngruva
+IronOreMine1920
+Järngruva
+IronOreMine1950
+Järngruva
+IronOreMine1970
+Järngruva
+Newsagent1860
+Tidningshandel
+Newsagent1920
+Tidningshandel
+Newsagent1950
+Tidningshandel
+Newsagent1970
+Tidningshandel
+OilPowerStation1950
+Oljekraftverk
+OilPowerStation1970
+Oljekraftverk
+OilRefinery1910
+Oljeraffinaderi
+OilRefinery1925
+Oljeraffinaderi
+OilRefinery1955
+Oljeraffinaderi
+OilRefinery1975
+Oljeraffinaderi
+OilRig1955
+Oljeplattform
+OilRig1975
+Oljeplattform
+OilWell1925
+Oljekälla
+OilWell1910
+Oljekälla
+OilWell1955
+Oljekälla
+Orchard1750
+Fruktodling
+Orchard1840
+Fruktodling
+Orchard1910
+Fruktodling
+Orchard1945
+Fruktodling
+Orchard1975
+Fruktodling
+PaperMill1860
+Pappersbruk
+PaperMill1920
+Pappersbruk
+PaperMill1950
+Pappersbruk
+PaperMill1970
+Pappersbruk
+PetrolStation1910
+Bensinstation
+PetrolStation1925
+Bensinstation
+PetrolStation1955
+Bensinstation
+PetrolStation1975
+Bensinstation
+PharmaceuticalFactory1860
+Läkemedelsfabrik
+PharmaceuticalFactory1920
+Läkemedelsfabrik
+PharmaceuticalFactory1955
+Läkemedelsfabrik
+PharmaceuticalFactory1975
+Läkemedelsfabrik
+Pottery1750
+Krukmakeri
+Pottery1850
+Krukmakeri
+Pottery1905
+Krukmakeri
+Pottery1960
+Krukmakeri
+Printworks1860
 Tryckeri
-electronics_factory
-elektronikfabrik
-Erzbergwerk
-Järnmalms_gruva
-ethanol_plant
-Ethanolfabrik
+Printworks1920
+Tryckeri
+Printworks1950
+Tryckeri
+Printworks1970
+Tryckeri
+Pub1750
+Pub
+Pub1840
+Pub
+Pub1910
+Pub
+Pub1945
+Pub
+Quarry1750
+Stenbrott
+Quarry1850
+Stenbrott
+Quarry1905
+Stenbrott
+Quarry1960
+Stenbrott
+Quarry1985
+Stenbrott
+SheepFarm1750
+Fårfarm
+SheepFarm1840
+Fårfarm
+SheepFarm1910
+Fårfarm
+SheepFarm1945
+Fårfarm
+SheepFarm1975
+Fårfarm
+Slaughterhouse1750
+Slakteri
+Slaughterhouse1840
+Slakteri
+Slaughterhouse1910
+Slakteri
+Slaughterhouse1945
+Slakteri
+Slaughterhouse1975
+Slakteri
+SteelMill1790
+Stålverk
+SteelMill1850
+Stålverk
+SteelMill1920
+Stålverk
+SteelMill1950
+Stålverk
+TextileMill1750
+Textilfabrik
+TextileMill1840
+Textilfabrik
+TextileMill1910
+Textilfabrik
+TextileMill1945
+Textilfabrik
+TextileMill1975
+Textilfabrik
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 Autos
-Bilar
+bilar
 beer
-Öl
+öl
 Bretter
-Plankor
+brädor
+bricks
+tegel
 Bucher
-Slakteri
+böcker
 canned_food
-konserverad_mat
+konserver
 Cement
-Cement
+cement
 Chemicals
-Kemiska_industriprodukter
-Concrete
-Betong 
-corn
-Majs
-cotton
-bomull
+kemikalier
+china
+porslin
+cider
+cider
+clay
+lera
 Eisenerz
-Järnmalm
-electronics
-elektronik
-Ethanol
-Ethanol
+järnmalm
+fish
+fisk
+flour
+mjöl
+fruit
+frukt
+FuelOil
+eldningsolja
+Gasoline
+bensin
+grain
+spannmål
+hardware
+järnvaror
+Kohle
+kol
+livestock
+kreatur
+meat
+kött
+milk
+mjölk
+Moebel
+möbler
+newspaper
+tidningar
+None
+inget
+Oel
+råolja
+Papier
+papper
+Passagiere
+passagerare
+pharmaceuticals
+läkemedel
+Plastik
+plast
+Post
+post
+Stahl
+stål
+Stone
+sten
+textile
+textilier
+vegetables
+grönsaker
+woodchip
+träflis
+wool
+ull
+#_____________________________________misc______________________________________
+#_____________________________________misc______________________________________
+PowerDest
+Transformatorstation (mottagare)
+PowerSource
+Transformatorstation (distributör)
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+styckegods
+CATEGORY_02
+bulkgods
+CATEGORY_03
+oljeprodukter
+CATEGORY_04
+kylvaror
+CATEGORY_05
+flyt. livsm.
+CATEGORY_06
+trävaror
+CATEGORY_07
+jordbr.prod.
 #___________________________________roadsign____________________________________
 #___________________________________roadsign____________________________________
 airport_oneway
-Enkel_riktat_körbane_märke
-autobahn_classic_entrance
-Autobahn_klassisk_infart 
-autobahn_classic_exit
-Autobahn_klassisk_utfart 
-autobahn_modern_entrance
-Autobahn_modern_infart 
-autobahn_modern_exit
-Autobahn_modern_utfart 
-choose_point
-Välj_rutt_skylt
-choose_signal_monorail
-Välj_rutt_signaler_monorail
-choosesign_digital_jp
-Välj_rutt_skylt_digital_japansk
+Enkelriktat
+ChooseSign
+Vägvalssignal
 ChooseSignals
-Välj_rutt_signalljus
+Plattformsvalsignal
 Classic_ChooseSignals_right
-Klassiska_välj_rutt_i_förväg_signalljus_höger
+Plattformsvalsignal
 Classic_LongSignals_right
-Klassiska_långa_signalljus_höger
+Långblocksignal
 Classic_preSignals_right
-Klassiska_välj_rutt_i_förväg_signalljus_höger
+Tvåblocksignal
 Classic_Signals_right
-Klassiska_signalljus_höger
+Signal
 Early_ChooseSignals_right
-Tidigt_val_av_rutt_signalljus_höger
+Plattformsvalsignal
 Early_LongSignals_right
-Tidiga_långa_signalljus_höger
+Långblocksignal
 Early_preSignals_right
-Tidiga_förvals_signalljus_höger
+Tvåblocksignal
 Early_Signals_right
-Tidiga_signalljus_höger
-EndOfChooseSignals
-Slut_på_val_signalljus
+Huvudsignal
+EndofChooseSignal
+Uteslut från plattformsval
+LongSignals
+Långblocksignal
+Modern_ChooseSignals_right
+Plattformsvalsignal
+Modern_EndofChooseSignal
+Uteslut från plattformsval
+Modern_LongSignals_right
+Långblocksignal
+Modern_preSignals_right
+Tvåblocksignal
+Modern_Signals_right
+Huvudsignal
+MotorwaySign
+Motorvägspåfart
+NoEntry
+Förbjuden infart
+OneWay
+Enkelriktat
+preSignals
+Tvåblocksignal
+PrivateRoad
+Privat väg
+Signals
+Signal
+traffic_light
+Trafikljus
+#___________________________________townhall____________________________________
+#___________________________________townhall____________________________________
+00_CITY
+Församlingshem
+01_CITY
+Rådhus
+02_CITY
+Rådhus
+03_CITY
+Stadshus
+04_CITY
+Stadshus
 #_____________________________________tree______________________________________
 #_____________________________________tree______________________________________
-cactus000
-kaktus\n\n\n\n\n\n\n
-cactus001
-kaktus1\n\n\n\n\n\n\n
-cactus002
-kaktus2\n\n\n\n\n\n\n
+EnglishOak
+Ek
+NorwaySpruce
+Gran
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+CanalTunnel
+Kanaltunnel
+RailTunnelBrick
+Tegeljärnvägstunnel
+RailTunnelConcrete
+Betongjärnvägstunnel
+RailTunnelStone
+Stenjärnvägstunnel
+RoadTunnelBrick
+Tegelvägtunnel
+RoadTunnelConcrete
+Betongvägtunnel
+RoadTunnelStone
+Stenvägtunnel
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+1-Deck-Trailer
+Endäckat spårvagnssläp
+Small-2-Deck-Trailer
+Litet tvådäckat spårvagnssläp
+Medium-2-Deck-Trailer
+Mellanstort tvådäckat spårvagnssläp
+Large-2-Deck-Trailer
+Stort tvådäckat spårvagnssläp
+A1Diddler
+A1 "Diddler"
+AECQ2
+AEC Q2
+AECQ4
+AEC Q4
+AECRegalT
+AEC Regal
+AECRegentST
+AEC Regent ST
+AECReliance
+AEC Reliance
+AECRenownLT
+AEC Renown LT
+AECSwift
+AEC Swift
+Blackpool-Balloon
+Blackpool Balloon
+Blackpool-Brush
+Blackpool Brush
+Blackpool-Centenary
+Blackpool Centenary
+Blackpool-Coronation
+Blackpool Coronation
+Blackpool-Dreadnought
+Blackpool Dreadnought
+Blackpool-Jubilee
+Blackpool Jubilee
+Blackpool-Millenium
+Blackpool Millenium
+Blackpool-Original
+Blackpool Original
+Blackpool-ProgressTwin-Power
+Blackpool Progress Twin (dragfordon)
+Blackpool-ProgressTwin-Trailer
+Blackpool Progress Twin (släp)
+Blackpool-Standard
+Blackpool Standard
+Bogie Tanker(TEA)
+BR TEA boggitankvagn
+BR-Class43(Intercity)
+BR Class 43 "HST 125"
+BR-Class43Rear(Intercity)
+BR Class 43 "HST 125" (b-ände)
+BR-104Front(Green)
+BR Class 104 DMV
+BR-104Middle(Green)
+BR Class 104 DMV (mittsektion)
+BR-104Rear(Green)
+BR Class 104 DMV (b-ände)
+BR-121(Green)
+BR Class 121 DMV
+BR-142Front(Regional)
+BR Class 142 "Pacer" DMV
+BR-142Rear(Regional)
+BR Class 142 "Pacer" DMV (b-ände)
+BR-153(Regional)
+BR Class 153 "Super-Sprinter" DMV
+BR-156Front(Regional)
+BR Class 156 "Super-Sprinter" DMV (a-ände)
+BR-156Rear(Regional)
+BR Class 156 "Super-Sprinter" DMV (b-ände)
+BR-158Front(Regional)
+BR Class 158 "Express Sprinter" DMV (a-ände)
+BR-158Middle(Regional)
+BR Class 158 "Express Sprinter" DMV (mittsektion)
+BR-158Rear(Regional)
+BR Class 158 "Express Sprinter" DMV (b-ände)
+BR-165Front(NSE)
+BR Class 165 "Network Turbo" DMV (a-ände)
+BR-165Middle(NSE)
+BR Class 165 "Network Turbo" DMV (mittsektion)
+BR-165Rear(NSE)
+BR Class 165 "Network Turbo" DMV (b-ände)
+BR-170Front(Scotrail)
+BR Class 170 "Turbostar" DMV (a-ände)
+BR-170Middle(Scotrail)
+BR Class 170 "Turbostar" DMV (mittsektion)
+BR-170Rear(Scotrail)
+BR Class 170 "Turbostar" DMV (b-ände)
+BR-180Front(FGW)
+BR Class 180 "Adelante" (a-ände)
+BR-180Middle(FGW)
+BR Class 180 "Adelante" (mittsektion)
+BR-180Rear(FGW)
+BR Class 180 "Adelante" (b-ände)
+BR-205Front(Rail-Blue)
+BR Class 205 DEMV (a-ände)
+BR-205Middle(Rail-Blue)
+BR Class 205 DEMV (mittsektion)
+BR-205Rear(Rail-Blue)
+BR Class 205 DEMV (b-ände)
+BR-220Front(Virgin)
+BR Class 220 "Voyager" (a-ände)
+BR-220Middle(Virgin)
+BR Class 220 "Voyager" (mittsektion)
+BR-220Rear(Virgin)
+BR Class 220 "Voyager" (b-ände)
+BR-251Front
+BR Class 251 "Blue Pullman"
+BR-251Rear
+BR Class 251 "Blue Pullman" (manövervagn)
+BR-251SecondParlourFront
+BR Class 251 "Blue Pullman" (främre andraklass-salong)
+BR-251SecondParlourRear
+BR Class 251 "Blue Pullman" (bakre andraklass-salong)
+BR-251FirstParlour
+BR Class 251 "Blue Pullman" (förstaklass-salong)
+BR-309Power(Blue-Grey)
+BR Class 309 EMV (motorenhet)
+BR-309Middle(Blue-Grey)
+BR Class 309 EMV (mittsläp)
+BR-309/1Front(Blue-Grey)
+BR Class 309/1 (tvåvagnars) EMV
+BR-309/2Front(Blue-Grey)
+BR Class 309/2 (fyrvagnars) EMV
+BR-309Rear(Blue-Grey)
+BR Class 309 EMV (b-ände)
+BR-370FrontPower(IC)
+BR Class 370 APT (a-ände)
+BR-370RearPower(IC)
+BR Class 370 APT (b-ände)
+BR-373FrontCab
+BR Class 373 "Eurostar"
+BR-373RearCab
+BR Class 373 "Eurostar" (manövervagn)
+BR-410[CEP]Front(Blue-Grey)
+BR Class 410 "4Cep" EMV
+BR-410[CEP]Brake(Blue-Grey)
+BR Class 410 "4Cep" EMV (bromsad mittsektion)
+BR-410[CEP]Middle(Blue-Grey)
+BR Class 410 "4Cep" EMV (mittsektion)
+BR-410[CEP]Rear(Blue-Grey)
+BR Class 410 "4Cep" EMV (b-ände)
+Bulk16T
+BR 16t öppen godsvagn
+BR-Mk1-BC(Blue-Grey)
+BR Mk.1 Bromsad personvagn
+BR-Mk1-BC(Crimson-Cream)
+BR Mk.1 Bromsad personvagn
+BR-Mk1-BC(Maroon)
+BR Mk.1 Bromsad personvagn
+BR-Mk1-BG(Crimson-Cream)
+BR Mk. 1 Bromsad vagn med övergång
+BR-Mk1-BG(Maroon)
+BR Mk. 1 Bromsad vagn med övergång
+BR-Mk1-BG(Blue-Grey)
+BR Mk. 1 Bromsad vagn med övergång
+BR-Mk1-GUV(Rail-Blue)
+Br Mk.1 Resgodsvagn
+BR-Mk1-POS(RoyalMail)
+BR Mk. 1 Postvagn
+BR-Mk1-RBR(Crimson-Cream)
+BR Mk. 1 Buffetvagn
+BR-Mk1-RBR(Maroon)
+BR Mk. 1 Buffetvagn
+BR-Mk1-RBR(Blue-Grey)
+BR Mk. 1 Ombyggd buffetvagn
+BR-Mk1-TO(Blue-Grey)
+BR Mk. 1 Salongsvagn
+BR-Mk1-TO(Crimson-Cream)
+BR Mk. 1 Salongsvagn
+BR-Mk1-TO(Maroon)
+BR Mk. 1 Salongsvagn
+BR-Mk1-TPO(RoyalMail)
+BR Mk. 1 Postsorteringsvagn
+BR-Mk2-RFB(Intercity)
+BR Mk. 2d Restaurantvagn
+BR-Mk2-TO(Intercity)
+BR Mk. 2d Salongsvagn
+BR-Mk3-DVT(Intercity)
+BR Mk.3 Manövervagn
+BR-Mk3-TO(Intercity)
+BR Mk. 3 Salongsvagn
+BR-Mk3-TRB(Intercity)
+BR Mk. 3 Buffetvagn
+BR-Mk4-DVT(Intercity)
+BR-Mk.4 Manövervagn
+BR-Mk4-RSB(Intercity)
+BR Mk. 4 Buffetvagn
+BR-Mk4-TSO(Intercity)
+BR Mk. 4 Salongsvagn
+BTypeSingle
+Enkeldäckad B-Type
+BTypeDouble
+Dubbeldäckad B-Type
+BulkRCH12T
+RCH 12t öppen godsvagn
+BulkRCH10T
+RCH 10t öppen godsvagn
+Bulk8T
+8t öppen godsvagn
+Bulk5T
+5t öppen godsvagn
+Bulk2T
+2t öppen godsvagn
+Bulk3T
+3t öppen godsvagn
+Bulk Hopper(HAA)
+BR Öppen godsvagn HAA
+Bulk Hopper(HTA)
+BR Öppen godsvagn HTA
+CC-Clerestory-Brake
+GWR Bromsad personvagn "Chocolate & Cream"
+CC-Clerestory-Coach
+GWR Personvagn "Chocolate & Cream"
+CC-Clerestory-Dining
+GWR Restaurantvagn med lanternin "Chocolate & cream"
+CC-Clerestory-Parcel-Brake
+GWR Bromsad resgodsvagn "Chocolate & cream"
+CC-Clerestory-TPO
+GWR Postsorteringsvagn "Chocolate & cream"
+CoolEarly1
+Livsmedelsvagn
+CoolEarly2
+Liten livsmedelsvagn
+CoolEarly3
+Livsmedelsvagn
+CoolD32
+8t livsmedelsvagn
+CoolD88
+12t livsmedelsvagn
+Cool16T
+16t livsmedelsvagn
+CoolZSX
+BR kylvagn
+DaimlerFleetline
+Daimler Fleetline
+DennisDart
+Dennis Dart
+DennisDominator
+Dennis Dominator
+DennisDominatorTrolley
+Dennis Dominator (trådbuss)
+DennisEnviro400
+Dennis Enviro400
+DLR-P86Front
+Docklands Light Railway P86 (framände)
+DLR-P86Rear
+Docklands Light Railway P86 (bakre ände)
+DLR-B92Front
+Docklands Light Railway B92 (framände)
+DLR-B92Rear
+Docklands Light Railway B92 (bakre ände)
+DLR-B07Front
+Docklands Light Railway B07 (framände)
+DLR-B07Rear
+Docklands Light Railway B07 (bakre ände)
+GNR-4Wheel-Composite
+GNR Tvåaxlig personvagn
+GNR-4Wheel-Brake
+GNR Bromsad tvåaxlig personvagn
+GNR-4Wheel-Mail
+GNR Tvåaxlig postvagn
+GNR-6Wheel-Mail
+GNR Treaxlig postvagn
+GNR-C1
+GNR Class C1 4-4-2
+GNR-C1-Tender
+GNR Class C1 (tender)
+GNR-Stirling8Foot
+GNR Stirling Single 4-2-2
+GNR-Stirling8Foot-Tender
+Tender till GNR Stirling Single
+GNR-6Wheel-First
+GNR Treaxlig personvagn
+GNR-6Wheel-Guard
+GNR Bromsad treaxlig personvagn
+GuyArab
+Guy Arab
+Guy_Special(LT-Green)
+Guy Special
+GWR-1400Tank
+GWR 1400 Class 0-4-2T
+GWR-2800-Tender(Green)
+Tender till GWR 2800 Class 2-8-0
+GWR-2800(Green)
+GWR 2800 Class 2-8-0
+GWR-Autocoach
+GWR Autocoach
+GWR-Bulldog-Tender(Green)
+Tender till GWR "Bulldog" Class 4-4-0
+GWR-Bulldog(Green)
+GWR "Bulldog" Class 4-4-0
+GWR-Churchward-Star
+GWR "Star" Class 4-6-0
+GWR-Churchward-Star-Tender
+Tender till GWR "Star" Class
+GWR-Droplight-Brake(Mahogany)
+GWR Bromsad personvagn "Droplight"
+GWR-Droplight-Dining(Mahogany)
+GWR Restaurantvagn "Droplight"
+GWR-Droplight-Third(Mahogany)
+GWR Personvagn "Droplight"
+GWR-Express-Brake
+GWR Bromsad snabbtågsvagn
+GWR-Express-Coach
+GWR Bromsad snabbtågsvagn
+GWR-Express-Dining
+GWR Bromsad snabbtågsrestaurantvagn
+GWR-Express-Mail
+GWR Bromsad snabbtågspostvagn
+GWR-Express-Parcel-Brake
+GWR Resgodsvagn med bromshytt för snabbtåg
+GWR-Express-TPO
+GWR Postsorteringsvagn för snabbtåg
+GWR-Gloucester-Parcel-Railcar
+GWR Gloucester resgodsrälsbuss
+GWR-Gloucester-Railcar
+GWR Gloucester rälsbuss
+GWR-King
+GWR 6600 "King" Class 4-6-0
+GWR-King-Tender
+Tender till GWR 6600 "King" Class 4-6-0
+GWR-PannierTank
+GWR Pannier tanklok 0-6-0T
+GWR-ParkRoyal-Railcar
+GWR Park Royal rälsbuss
+GWR-Prairie-Tank(Green)
+GWR 3100 Class "Prairie Tank" 2-6-2T
+GWR-Swindon-TwinsetFront
+GWR Swindon Twinset
+GWR-Swindon-TwinsetRear
+GWR Swindon Twinset (b-ände)
+HackneyCarriage
+Hästdroska
+JennyLind
+LBSCR "Jenny Lind" 2-2-2
+JennyLind-Tender
+Tender till LBSCR "Jenny Lind" 2-2-2
+KTypeDouble
+K-Type
+LBSCR-A1
+LBSCR Class A1 "Terrier" 0-6-0T
+LBSCR-4Wheel-First
+LBSCR Tvåaxlig personvagn
+LBSCR-4Wheel-Brake
+LBSCR Bromsad tvåaxlig personvagn
+Leyland_Cub(LT-Green)
+Leyland Cub
+Leyland_National_11(LC)
+Leyland National (kort)
+LeylandAtlantean
+Leyland Atlantean
+LeylandK2
+Leyland K2
+LeylandLeopard
+Leyland Leopard
+LeylandLynx
+Leyland Lynx
+LeylandOlympian
+Leyland Olympian
+LeylandOlympianCoach
+Leyland Olympian landsvägsbuss
+LeylandTiger
+Leyland Tiger
+LeylandTitanB15
+Leyland Titan
+LivestockEarly1
+Boskapsvagn
+LivestockEarly2
+Liten boskapsvagn
+LivestockEarly3
+Boskapsvagn
+LivestockD21
+8t boskapsvagn
+LivestockD25
+12t boskapsvagn
+Livestock16T
+16t boskapsvagn
+LMR-4Wheel-First
+LMR tvåaxlig förstaklassvagn
+LMR-4Wheel-Open-Coach
+LMR tvåaxlig tredjeklassvagn
+LMR-4Wheel-TPO
+LMR tvåaxlig postsorteringsvagn
+LMR-Lion
+LMR "Lion" 0-4-2
+LMR-Patentee
+LMR "Patentee" 2-2-2
+LMR-Patentee-Tender
+Tender till LMR "Patentee" 2-2-2
+LMR-Planet
+LMR "Planet" 2-2-0
+LMR-Planet-Tender
+Tender till LMR "Planet"
+LMR-Rocket
+LMR "Rocket" 0-2-2
+LMR-Rocket-Tender
+Tender till LMR "Rocket" 
+LMS-10000(Black)
+LMS 10000 Class
+LMS-3F-Jinty
+LMS Class 3F "Jinty" 0-6-0T
+LMS-4F-Tender(Black)
+Tender till LMS Class 4F 0-6-0
+LMS-4F(Black)
+LMS Class 4F 0-6-0
+LMS-502Front(Maroon)
+LMS Class 502 EMV
+LMS-502Middle(Maroon)
+LMS Class 502 EMV (mittsektion)
+LMS-502Rear(Maroon)
+LMS Class 502 EMV (bakre ände)
+LMS-Coronation-BFK(Maroon)
+LMS "Coronation Scot" främre bromsad personvagn
+LMS-Coronation-BTK(Maroon)
+LMS "Coronation Scot" bakre bromsad personvagn
+LMS-Coronation-FK(Maroon)
+LMS "Coronation Scot" förstaklassvagn
+LMS-Coronation-TO(Maroon)
+LMS "Coronation Scot" tredjeklassvagn
+LMS-d1904-Coach
+LMS personvagn
+LMS-d1904-Dining
+LMS Restaurantvagn
+LMS-d2007-Parcel-Brake
+LMS Resgodsvagn med bromshytt
+LMS-Garratt-Front(Black)
+LMS Garratt 2-6-0+0-6-2
+LMS-Garratt-Middle(Black)
+LMS Garratt 2-6-0+0-6-2 (ångpanna)
+LMS-Garratt-Rear(Black)
+LMS Garratt 2-6-0+0-6-2 (bakre del)
+LMS-Mail
+LMS Postvagn
+LMS-Patriot-Tender(Maroon)
+Tender till LMS Class 5XP "Patriot" 4-6-0
+LMS-Patriot(Maroon)
+LMS Class 5XP "Patriot" 4-6-0
+LMS-Princess-Royal-Tender(Maroon)
+Tender till LMS Class 8P "Princess Royal"
+LMS-Princess-Royal(Maroon)
+LMS Class 8P "Princess Royal"
+LMS-Stanier-5MT-Tender(Black)
+Tender till LMS Class 5MT "Black Five"
+LMS-Stanier-5MT(Black)
+LMS Class 5MT "Black Five" 4-6-0
+LMS-Stanier-7P-Tender(Maroon)
+Tender till LMS Class 7P "Princess Coronation" 4-6-2
+LMS-Stanier-7P(Maroon)
+LMS Class 7P "Princess Coronation" 4-6-2
+LMS-Stanier-8F-Tender(Black)
+Tender till LMS Class 8F
+LMS-Stanier-8F(Black)
+LMS Class 8F 2-8-0
+LMS-TPO
+LMS Postsorteringsvagn
+LNER-A1-Tender(Green)
+Tender till LNER Class A1/A3
+LNER-A1(Green)
+LNER Class A1/A3 4-6-2
+LNER-A4-Tender(Blue)
+Tender till LNER Class A4
+LNER-A4(Blue)
+LNER Class A4 4-6-2
+LNER-B17-Tender(Green)
+Tender till LNER Class B17 "Footballer" 4-6-0
+LNER-B17(Green)
+LNER Class B17 "Footballer" 4-6-0
+LNER-B17/5-Tender(Green)
+Tender till LNER Class B17 streamlined 4-6-0
+LNER-B17/5(Green)
+LNER Class B17/5 streamlined 4-6-0
+LNER-ClassEM1(Black)
+LNER Class EM1 Bo-Bo
+LNER-ClassEM2(Green)
+LNER/BR Class EM2 Co-C
+LNER-Coronation-Brake-Third-Triple(front)
+LNER Främre bromsad personvagn "Coronation"
+LNER-Coronation-Brake-Third-Triple(middle)
+LNER Mittsektion bromsad personvagn "Coronation"
+LNER-Coronation-Brake-Third-Triple(rear)
+LNER Bakre bromsad personvagn "Coronation"
+LNER-Coronation-Brake-Third-Twin(front)
+LNER Främre bromsad personvagn "Coronation"
+LNER-Coronation-Brake-Third-Twin(rear)
+LNER Bakre bromsad personvagn "Coronation"
+LNER-Coronation-Observation
+LNER Utsiktsvagn "Coronation"
+LNER-Coronation-RearBrake-Third-Twin(front)
+LNER Främre bromsad personvagn "Coronation"
+LNER-Coronation-RearBrake-Third-Twin(rear)
+LNER Bakre bromsad personvagn "Coronation"
+LNER-Coronation-Restaurant-Triple(front)
+LNER Främre restaurantvagn "Coronation"
+LNER-Coronation-Restaurant-Triple(middle)
+LNER Mittsektion restaurantvagn "Coronation"
+LNER-Coronation-Restaurant-Triple(rear)
+LNER Bakre restaurantvagn "Coronation"
+LNER-Gresley-Express-Brake(Teak)
+LNER Bromsad teakklädd snabbvagn
+LNER-Gresley-Express-Coach(Teak)
+LNER Teakklädd snabbvagn
+LNER-Gresley-Express-Dining(Teak)
+LNER Teakklädd restaurantvagn
+LNER-Gresley-Express-Mail(Teak)
+LNER Teakklädd postvagn
+LNER-Gresley-Express-Parcel-Brake(Teak)
+LNER Teakklädd resgodsvagn med bromshytt
+LNER-Gresley-Express-TPO(Teak)
+LNER Teakklädd postsorteringsvagn
+LNER-J94(Black)
+WD/LNER Class J94 0-6-0ST
+LNER-P2-Tender(Green)
+Tender till LNER Class P2 2-8-2
+LNER-P2(Green)
+LNER Class P2 2-8-2
+LNER-V2-Tender(Green)
+Tender till LNER Class V2
+LNER-V2(Green)
+LNER Class V2 2-6-2
+LNWR-1847-Brake
+LNWR Tvåaxlig bromsad personvagn
+LNWR-1847-First
+LNWR Tvåaxlig personvagn
+LNWR-1847-Mail
+LNWR Tvåaxlig postvagn
+LNWR-6Wheel-First
+LNWR Treaxlig personvagn
+LNWR-6Wheel-Guard
+LNWR bromsad treaxlig personvagn
+LNWR-6Wheel-Mail
+LNWR Treaxlig postvagn
+LNWR-AClass-Tender(Black)
+Tender till LNWR A Class 0-8-0
+LNWR-AClass(Black)
+LNWR A Class 0-8-0
+LNWR-Bloomer-Tender(Red)
+Tender till LNWR "Bloomer" Class 2-2-2
+LNWR-Bloomer(Red)
+LNWR "Bloomer" Class 2-2-2
+LNWR-DXgoods-Tender(Green)
+Tender till LNWR DX Goods 0-6-0
+LNWR-DXgoods(Green)
+LNWR DX Goods 0-6-0
+LNWR-Jumbo-Tender(Black)
+Tender till LNWR "Jumbo" Class 2-2-2-0
+LNWR-Jumbo(Black)
+LNWR "Jumbo" Class 2-2-2-0
+LNWR-PrinceOfWales-Tender(Black)
+Tender till LNWR "Prince of Wales" Class 4-6-0
+LNWR-PrinceOfWales(Black)
+LNWR "Prince of Wales" Class 4-6-0
+LNWR-Problem-Tender(Green)
+Tender till LNWR "Problem" Class 2-2-2
+LNWR-Problem(Green)
+LNWR "Problem" Class 2-2-2
+Long10T
+10t flakvagn
+Long12T
+12t flakvagn
+Long20T
+20t flakvagn
+Long30T
+30t flakvagn
+LongD1
+8t flakvagn
+LongEarly1
+Flakvagn
+LongEarly2
+Kort flakvagn
+LongEarly3
+Flakvagn
+LSWR-Third-Brake
+LSWR Bromsad tredjeklassvagn
+LSWR-Third-Carriage
+LSWR Tredjeklassvagn
+LYR-Class25(Black)
+LYR Class 25 0-6-0
+LYR-Class25-Tender(Black)
+Tender till LYR Class 25 0-6-0
+MCWQ1
+MCW Q1
+MercedesCitaroG(Front)
+Mercedes Citaro G (dragfordon)
+MercedesCitaroK
+Mercedes Citaro K
+MercedesCitaroG(Rear)
+Mercedes Citaro G (släp)
+Metropolitan-Class-E
+Metropolitan Class E 0-4-4T
+Metropolitan-Vickers
+Metropolitan Vickers
+MR-4Wheel-Brake
+MR Bromsad tvåaxlig postvagn
+MR-4Wheel-Composite
+MR Tvåaxlig personvagn
+MR-4Wheel-Mail
+MR Tvåaxlig postvagn
+MR-6Wheel-First
+MR Treaxlig personvagn
+MR-6Wheel-Guard
+MR Bromsad treaxlig postvagn
+MR-6Wheel-Mail
+MR Treaxlig postvagn
+MR-Clerestory-Brake
+MR Bromsad personvagn med lanternin
+MR-Clerestory-Coach
+MR Personvagn med lanternin
+MR-Clerestory-Dining
+MR Restaurantvagn med lanternin
+MR-Clerestory-Mail
+MR Postvagn med lanternin
+MR-Clerestory-Parcel-Brake
+MR Resgodsvagn med lanternin
+MR-Clerestory-TPO
+MR Postsorteringsvagn med lanternin
+MR-Kirtley156(Maroon)
+Midland 156 Class 2-4-0
+MR-Kirtley156Tender(Maroon)
+Tender till Midland 156 Class
+MR-Spinner-Tender(Maroon)
+Tender till MR 673 Class "Midland Spinner" 4-2-2
+MR-Spinner(Maroon)
+MR 673 Class "Midland Spinner" 4-2-2
+MSLR-4Wheel-Brake
+MSLR Tvåaxlig bromsad postvagn
+MSLR-4Wheel-Composite
+MSLR Tvåaxlig personvagn
+MSLR-4Wheel-Mail
+MSLR Tvåaxlig postvagn
+NSTypeDouble
+NS-Type
+OmnibusSingle
+Hästbuss
+OmnibusDoubleGardenseat
+Hästbuss "Gardenseat"
+OmnibusDoubleKnifeboard
+Hästbuss "Knifeboard"
+OptareExcel
+Optare Excel
+OptareTempo
+Optare Tempo
+PetrolElectricBus
+Bensinelektrisk omnibus
+PieceEarly1
+Godsfinka
+PieceEarly2
+Liten godsfinka
+PieceEarly3
+Godsfinka
+PieceD32
+8t godsfinka
+PieceD88
+12t godsfinka
+Piece16T
+16t godsfinka
+PieceZSX
+BR ZSX täckt vagn
+PieceContainer
+FAA kontainervagn
+PlaxtonParagon
+Plaxton Paragon
+PuffingBilly
+Wylam Colliery "Puffing Billy" 0-4-0
+PuffingBilly-Tender
+Tender till Wylam Colliery "Puffing Billy" 0-4-0
+RCH-Tanker
+RCH Tankvagn
+RF
+AEC Regal IV (RF)
+RFCoach
+AEC Regal IV (RF) landsvägsbuss
+RM-325Front(RM)
+Royal Mail Class 325 EMV
+RM-325Middle(RM)
+Royal Mail Class 325 EMV (mittsektion)
+RM-325Power(RM)
+Royal Mail Class 325 EMV (motor)
+RM-325Rear(RM)
+Royal Mail Class 325 EMV (bakre ände)
+RoadHorsesDouble
+Parhästar
+RoadHorsesSingle
+Häst
+Routemaster
+AEC Routemaster (standard)
+RoutemasterLong
+AEC Routemaster (lång)
+RoutemasterLongCoach
+AEC Routemaster (lång landsvägsbuss)
+RoutemasterTrolleybus
+Routemaster trådbuss
+RT
+RT-Type
+SDR-1001-Tender(Green)
+Tender till SDR 1001 Class 0-6-0
+SDR-1001(Green)
+SDR 1001 Class 0-6-0
+SDR-Derwent
+SDR "Derwent" 0-6-0
+SDR-Derwent-Tender
+Tender till SDR "Derwent" 0-6-0
+SDR-Locomotion
+SDR "Locomotion" 0-4-0
+SDR-Locomotion-Tender
+Tender till SDR "Locomotion" 0-4-0
+Sheffield-Roberts
+Sheffield Roberts
+Single-Shire
+Shirehäst
+Twin-Shire
+Shirehästspann
+SR-401[BIL]Front(Green)
+SR 2Bil EMV
+SR-401[BIL]Rear(Green)
+SR 2Bil EMV (b-ände)
+SR-404[COR]Front(Green)
+SR 4Cor EMV
+SR-404[COR]Middle1(Green)
+SR 4Cor EMV (mittsektion)
+SR-404[COR]Middle2(Green)
+SR 4Cor EMV (mittsektion)
+SR-404[COR]Rear(Green)
+SR 4Cor EMV (b-ände)
+SR-Bulleid-Express-Brake(Green)
+SR Bulleid bromsad snabbpersonvagn
+SR-Bulleid-Express-Coach(Green)
+SR Bulleid snabbpersonvagn
+SR-Bulleid-Express-Dining(Green)
+SR Bulleid Restaurantvagn
+SR-Maunsell-Dining(Green)
+SR Maunsell Restaurantvagn
+SR-Maunsell-Parcels(Green)
+SR Maunsell Resgodsvagn
+SR-Maunsell-TPO(Green)
+SR Postsorteringsvagn
+SR-Maunsell-Mail(Green)
+SR Maunsell Postvagn
+SR-Maunsell-Brake(Green)
+SR Maunsell Bromsad snabbpersonvagn
+SR-Maunsell-Third(Green)
+SR Maunsell Snabbpersonvagn
+StageCoach
+Passagerardiligens
+Steam-Tram
+Ångspårvagn
+STypeDouble
+S-Type
+Teak-Clerestory-Brake
+Bromsad teakklädd personvagn med lanternin
+Teak-Clerestory-Coach
+Teakklädd personvagn med lanternin
+Teak-Clerestory-Dining
+Teakklädd restaurantvagn med lanternin
+Teak-Clerestory-Mail
+Teakklädd postvagn med lanternin
+Teak-Clerestory-Parcel-Brake
+Bromsad teakklädd postvagn med lanternin
+Teak-Clerestory-TPO
+Teakklädd postsorteringsvagn med lanternin
+Tram-Horses
+Hästar
+VolvoCitybus
+Volvo Citybus
+VolvoB7TL
+Volvo B7TL
+VolvoOlympian
+Volvo Olympian
+Wagon2CarFlat
+Öppen godsvagn (bilar)
+WrightElectrocity
+Wright Electrocity
+WrightStreetcar(Front)
+Wright Streetcar (dragfordon)
+WrightStreetcar(Rear)
+Wright Streetcar (släp)
 #______________________________________way______________________________________
 #______________________________________way______________________________________
-air_movement_area
-Flygplans_körbana_modern_typ
-air_movement_area_old
-Flygplans_körbana_1920_tal's
 asphalt_road
-Asfaltsväg
-autobahn
-Autobahn
+Asfalterad väg
+Canal
+Kanal
 city_road
-Stadsväg
+Gata
 cobblestone_road
-kullerstens_väg
-concrete_road
-betong_väg
-concrete_sleeper_track
-betong_balks_järnvägsräls
-concrete_tram_track
-betong_spårvagnsräls
+Stenlagd väg
+cssr
+Stålräls på betongsliprar
+cssri
+Förbättrad stålräls på betongsliprar
 dirt_road
-grusväg
+Grusväg
+GrassRunway
+Gräsrullbana
+GrassTaxiway
+Grästaxibana
+Powerline
+Högspänningsledning
+River0
+Bäck (ej segelbar)
+River1
+Mindre flod (ej segelbar)
+River2
+Flod (segelbar)
+River3
+Bred flod (segelbar)
+runway
+Asfalterad rullbana
+taxiway
+Asfalterad taxibana
+tgv
+Höghastighetsspår
+TramTrack
+Gaturäls
+wrought_iron_improved_track
+Förbättrat smidesjärnsspår
+wrought_iron_track
+Smidesjärnsspår
+wssr
+Stålräls på träsliprar
+wssri
+Förbättrad stålräls på träsliprar
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+ACHighSpeedCatenary
+Växelströmskontaktledning
+DCRailCatenary
+Likströmskontaktledning
+TramElectrification
+Likströmskontaktledning för spårväg
+TrollyBusElectrification
+Likströmskontaktledning för trådbuss
+DCThirdRail
+Strömskena
+

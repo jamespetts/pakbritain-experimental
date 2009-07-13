@@ -699,7 +699,7 @@ fruit
 hardware
 hardware
 newspaper
-newspaper
+newspapers
 cider
 cider
 #_____________________________________misc______________________________________
@@ -968,6 +968,8 @@ BR-370Restaurant(IC)
 BR Class 370 APT (restaurant)
 BR-220Rear(Virgin)
 BR Class 220 "Voyager" (rear)
+BR-221Rear(Virgin)
+BR Class 221 "Super Voyager" (rear)
 BR-370Buffet(IC)
 BR Class 370 APT (buffet)
 LMR-4Wheel-Open-Coach
@@ -1006,6 +1008,8 @@ BR-251FirstParlour
 BR Class 251 "Blue Pullman" (1st class parlour)
 BR-220Front(Virgin)
 BR Class 220 "Voyager"
+BR-221Front(Virgin)
+BR Class 221 "Super Voyager"
 GWR-ParkRoyal-Railcar
 GWR Park Royal Railcar
 SR-Bulleid-Express-Brake(Green)
@@ -1076,6 +1080,12 @@ BR-180Rear(FGW)
 BR Class 180 "Adelante" (rear)
 BR-220Middle(Virgin)
 BR Class 220 "Voyager" (middle)
+BR-220Middle-shop(Virgin)
+BR Class 220 "Voyager" (middle with shop)
+BR-221Middle(Virgin)
+BR Class 221 "Super Voyager" (middle)
+BR-221Middle-shop(Virgin)
+BR Class 221 "Super Voyager" (middle with shop)
 BR-142Front(Regional)
 BR Class 142 "Pacer" DMU
 BR-142Rear(Regional)
