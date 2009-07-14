@@ -336,13 +336,13 @@ CoalMine1950
 Colliery
 CoalMine1970
 Colliery
-CoalPowerStation1910
+CoalPowerStation1910kraftwerk
 Coal-fired Power Station
-CoalPowerStation1920
+CoalPowerStation1920kraftwerk
 Coal-fired Power Station
-CoalPowerStation1955
+CoalPowerStation1955kraftwerk
 Coal-fired Power Station
-CoalPowerStation1970
+CoalPowerStation1970kraftwerk
 Coal-fired Power Station
 CoalYard1750
 Coal Merchant
@@ -478,9 +478,9 @@ Newsagent1950
 Newsagent
 Newsagent1970
 Newsagent
-OilPowerStation1950
+OilPowerStation1950kraftwerk
 Oil-fired Power Station
-OilPowerStation1970
+OilPowerStation1970kraftwerk
 Oil-fired Power Station
 OilRefinery1910
 Oil Refinery

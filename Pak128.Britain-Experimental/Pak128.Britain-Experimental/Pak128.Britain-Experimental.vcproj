@@ -2087,6 +2087,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\london-underground\met-motor-third-middle.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\london-underground\met-vickers.dat"
 				>
 			</File>

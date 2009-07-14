@@ -18,8 +18,8 @@ cost=4000000
 runningcost=148
 sound=-1
 
-can_lead_from_rear=0
-bidirectional=1
+can_lead_from_rear=1
+bidirectional=0
 catering_level=0
 
 Constraint[Prev][0]=Metropolitan-Motor-Third-Front

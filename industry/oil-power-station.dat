@@ -3,7 +3,7 @@
 # For more information see http://simutrans.entropy.me.uk/tilecutter/
 #
 Obj=factory
-name=OilPowerStation1950
+name=OilPowerStation1950kraftwerk
 copyright=James
 intro_year=1950
 intro_month=1
@@ -120,7 +120,7 @@ BackImage[1][1][0][2][0]=oil-power-station.7.10
 BackImage[1][2][0][2][0]=oil-power-station.8.10
 --------------------
 Obj=factory
-name=OilPowerStation1970
+name=OilPowerStation1970kraftwerk
 copyright=James
 intro_year=1970
 intro_month=4
