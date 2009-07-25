@@ -952,6 +952,16 @@ BR-251Front
 BR Class 251 "Blue Pullman"
 BR-251Rear
 BR Class 251 "Blue Pullman" (rear cab)
+BR-442-Front(NSE)
+BR Class 442 "Wessex Electric" (driving trailer - front)
+BR-442-Middle1(NSE)
+BR Class 442 "Wessex Electric" (trailer)
+BR-442-Middle2(NSE)
+BR Class 442 "Wessex Electric" (motor brake buffet)
+BR-442-Middle3(NSE)
+BR Class 442 "Wessex Electric" (trailer)
+BR-442-Rear(NSE)
+BR Class 442 "Wessex Electric" (driving trailer - rear)
 LMR-4Wheel-First
 LMR 4 Wheel Carriage (1st class)
 LMR-4Wheel-TPO
@@ -1003,7 +1013,7 @@ GNR 4 Wheel Carriage (brake)
 BR-251SecondParlourFront
 BR Class 251 "Blue Pullman" (2nd class front parlour)
 BR-251SecondParlourRear
-BR Class 251 "Blue Pullman" (2nd class rear parlour)
+BR Class 251 "Blue Pullman" (kitchen car)
 BR-251FirstParlour
 BR Class 251 "Blue Pullman" (1st class parlour)
 BR-220Front(Virgin)
@@ -1137,9 +1147,11 @@ GWR Gloucester Railcar
 GWR-Autocoach
 GWR Autocoach
 GWR-Droplight-Third(Mahogany)
-GWR Droplight Carriage
+GWR Droplight carriage
 GWR-Droplight-Brake(Mahogany)
-GWR Droplight Brake Carriage
+GWR Droplight brake carriage
+GWR-Droplight-Dining(Mahogany)
+GWR Droplight buffet carriage
 LNER-Gresley-Express-Coach(Teak)
 LNER Teak Express Carriage
 BR-Mk1-TO(Blue-Grey)
@@ -1324,6 +1336,8 @@ Teak-Clerestory-Brake
 Teak Clerestory Carriage (brake)
 Teak-Clerestory-Coach
 Teak Clerestory Carriage
+Teak-Clerestory-Dining
+Teak Clerestory Dining Carriage
 CC-Clerestory-Brake
 Chocolate & Cream Clerestory Carriage (brake)
 CC-Clerestory-Coach
@@ -1332,6 +1346,8 @@ SR-Maunsell-Brake(Green)
 SR Maunsell Express Carriage (brake)
 SR-Maunsell-Third(Green)
 SR Maunsell Express Carriage
+SR-Maunsell-Dining(Green)
+SR Maunsell Dining Carriage
 GWR-Express-Brake
 GWR Express Carriage (brake)
 GWR-Express-Coach
@@ -1340,6 +1356,8 @@ LMS-d1904-Coach
 LMS Standard Carriage
 LMS-d2007-Parcel-Brake
 LMS Parcel Brake Carriage
+LMS-d1904-Dining
+LMS Dining car
 LMS-Garratt-Middle(Black)
 LMS Garratt 2-6-0+0-6-2 (boiler)
 LMS-Garratt-Front(Black)
@@ -1600,14 +1618,20 @@ LNER-Gresley-Express-Dining(Teak)
 LNER dining car (teak)
 SR-Bulleid-Express-Dining(Green)
 SR Bulleid dining car
-BR-Mk1-RBR(Crimson-Cream)
+BR-Mk1-RMB(Crimson-Cream)
+BR Mk. 1 Mini-Buffet
+BR-Mk1-RMB(Maroon)
+BR Mk. 1 Mini-Buffet
+BR-Mk1-RMB(Blue-Grey)
+BR Mk. 1 Mini-Buffet
+BR-Mk1-RB(Crimson-Cream)
 BR Mk. 1 Restaurant Buffet
-BR-Mk1-RBR(Maroon)
+BR-Mk1-RB(Maroon)
 BR Mk. 1 Restaurant Buffet
 BR-Mk1-RBR(Blue-Grey)
 BR Mk. 1 Restaurant Buffet Refurbished
 BR-Mk2-RFB(Intercity)
-BR Mk. 2d Restaurant Full Buffet
+BR Mk. 2d Mini-Buffet
 BR-Mk3-TRB(Intercity)
 BR Mk. 3 Restaurant Buffet
 BR-Mk4-RSB(Intercity)
@@ -1630,6 +1654,8 @@ MR-Clerestory-Parcel-Brake
 MR clerestory parcel brake coach
 MR-Clerestory-TPO
 MR clerestory travelling post office
+MR-Clerestory-Dining
+MR clerestory dining car
 MSLR-4Wheel-Mail
 MSLR 4-wheel mail coach
 MR-4Wheel-Mail
@@ -2020,3 +2046,37 @@ CoachStable
 Coaching stable
 AirHangarModern
 Aircraft hangar
+#__________________________________Way constraints__________________________________
+#__________________________________Way constraints__________________________________
+Permissive 0
+DC Third Rail Electrification
+Permissive 1
+DC Overhead Catenary
+Permissive 2
+AC Overhead Catenary
+Permissive 3
+DC Fourth Rail Electrification
+Permissive 4
+[Unused] Permissive 4
+Permissive 5
+[Unused] Permissive 5
+Permissive 6
+[Unused] Permissive 6
+Permissive 7
+[Unused] Permissive 7
+Prohibitive 0
+Tramway
+Prohibitive 1
+Tube tunnel
+Prohibitive 2
+[Unused] Prohibitive 2
+Prohibitive 3
+[Unused] Prohibitive 3
+Prohibitive 4
+[Unused] Prohibitive 4
+Prohibitive 5
+[Unused] Prohibitive 5
+Prohibitive 6
+[Unused] Prohibitive 6
+Prohibitive 7
+[Unused] Prohibitive 7

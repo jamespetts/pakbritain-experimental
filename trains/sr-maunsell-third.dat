@@ -16,6 +16,10 @@ cost=721000
 runningcost=39
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+catering_level=0
+
 Constraint[Next][0]=SR-Maunsell-Third(Green)
 Constraint[Next][1]=SR-Maunsell-Brake(Green)
 Constraint[Next][2]=SR-Maunsell-Dining(Green)
@@ -49,6 +53,10 @@ weight=34
 cost=721000
 runningcost=39
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+catering_level=3
 
 Constraint[Next][0]=SR-Maunsell-Third(Green)
 Constraint[Next][1]=SR-Maunsell-Brake(Green)

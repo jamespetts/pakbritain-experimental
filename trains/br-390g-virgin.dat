@@ -21,6 +21,7 @@ sound=-1
 can_lead_from_rear=0
 bidirectional=1
 is_tilting=1
+way_constraint_permissive[2]=2
 
 Constraint[Prev][0]=BR-390RearPantograph(Virgin)
 Constraint[Prev][1]=BR-390FrontPantograph(Virgin)

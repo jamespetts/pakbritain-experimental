@@ -5,7 +5,6 @@ intro_year=1750
 topspeed=50
 cost=45000
 maintenance=600
-max_lenght=10
 pillar_distance=1
 cursor=images/brick-viaduct-road.2.1
 icon=> images/brick-viaduct-road.2.0

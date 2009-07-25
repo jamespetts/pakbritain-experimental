@@ -2,7 +2,7 @@ obj=vehicle
 name=SR-401[BIL]Front(Green)
 engine_type=electric
 speed=120
-##gear=650
+#gear=650
 power=412
 copyright=Kieron
 intro_year=1935
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=SR-401[BIL]Rear(Green)
 Constraint[Prev][1]=none

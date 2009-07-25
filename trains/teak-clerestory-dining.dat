@@ -18,7 +18,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=2
+catering_level=4
 
 Constraint[Next][0]=Teak-Clerestory-Coach
 Constraint[Next][1]=Teak-Clerestory-Brake

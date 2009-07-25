@@ -216,8 +216,8 @@ weight_per_unit=800
 obj=good
 name=beer
 metric=barrels
-catg=35
-value=50
+catg=1
+value=35
 speed_bonus=3
 weight_per_unit=800
 -----------------------

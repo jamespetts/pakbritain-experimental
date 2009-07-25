@@ -20,6 +20,7 @@ cost=132000
 runningcost=6
 sound=-1
 
+way_constraint_prohibitive[0]=0
 
 EmptyImage[E]=./images/shire.1.0
 EmptyImage[SE]=./images/shire.1.1

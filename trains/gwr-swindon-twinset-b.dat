@@ -3,7 +3,7 @@ name=GWR-Swindon-TwinsetRear
 engine_type=diesel
 smoke=Diesel
 speed=110
-##gear=400
+#gear=400
 power=160
 copyright=Kieron
 intro_year=1941
@@ -12,16 +12,17 @@ retire_year=1955
 retire_month=1
 waytype=track
 freight=Passagiere
-payload=52
+payload=42
 length=12
 
-weight=37
+weight=38
 cost=2184000
 runningcost=235
 sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+catering_level=2
 
 Constraint[Prev][0]=GWR-Swindon-TwinsetFront
 Constraint[Next][0]=none

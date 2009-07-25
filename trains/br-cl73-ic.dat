@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[0]=0
 
 EmptyImage[E]=./images/br-cl73-ic.0
 EmptyImage[SE]=./images/br-cl73-ic.1

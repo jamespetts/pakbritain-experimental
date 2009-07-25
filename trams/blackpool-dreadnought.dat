@@ -19,8 +19,8 @@ cost=325000
 runningcost=112
 sound=-1
 
-can_lead_from_rear=1
-bidirectional=1
+way_constraint_permissive[1]=1
+way_constraint_prohibitive[0]=0
 
 Constraint[Prev][0]=none
 

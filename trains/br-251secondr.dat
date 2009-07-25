@@ -2,16 +2,14 @@ obj=vehicle
 name=BR-251SecondParlourRear
 engine_type=diesel
 speed=145
-###gear=525
-power=300
 copyright=Kieron
-intro_year=1959
-intro_month=1
+intro_year=1960
+intro_month=7
 retire_year=1973
-retire_month=1
+retire_month=5
 waytype=track
 freight=Passagiere
-payload=42
+payload=25
 length=11
 
 weight=45
@@ -21,6 +19,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+catering_level=5
 
 Constraint[Prev][0]=BR-251FirstParlour
 

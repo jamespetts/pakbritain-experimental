@@ -3,7 +3,7 @@ name=BR-442-Front(NSE)
 engine_type=electric
 speed=160
 #gear=350
-power=600
+#power=600
 copyright=James
 intro_year=1988
 intro_month=2
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-442-Rear(NSE)
 Constraint[Prev][1]=none
@@ -58,6 +59,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-442-Front(NSE)
 Constraint[Next][0]=BR-442-Middle2(NSE)
@@ -82,8 +84,9 @@ intro_month=2
 retire_year=2015
 retire_month=7
 waytype=track
+power=1200
 freight=Passagiere
-payload=72
+payload=51
 length=13
 
 weight=54
@@ -93,7 +96,8 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=2
+catering_level=3
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-442-Middle1(NSE)
 Constraint[Next][0]=BR-442-Middle3(NSE)
@@ -129,6 +133,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-442-Middle2(NSE)
 Constraint[Next][0]=BR-442-Rear(NSE)
@@ -148,8 +153,8 @@ obj=vehicle
 name=BR-442-Rear(NSE)
 speed=160
 engine_type=electric
-##gear=350
-power=600
+#gear=350
+#power=600
 copyright=James
 intro_year=1988
 intro_month=2
@@ -167,6 +172,7 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-442-Middle3(NSE)
 Constraint[Next][0]=BR-442-Front(NSE)

@@ -2,7 +2,7 @@ obj=vehicle
 name=Blackpool-Centenary
 engine_type=electric
 speed=70
-##gear=250
+#gear=250
 power=120
 copyright=James
 intro_year=1984
@@ -17,6 +17,11 @@ weight=20
 cost=204000
 runningcost=20
 sound=-1
+
+can_lead_from_rear=1
+bidirectional=1
+way_constraint_permissive[1]=1
+way_constraint_prohibitive[0]=0
 
 Constraint[Prev][0]=none
 

@@ -3,7 +3,7 @@ name=GWR-Swindon-TwinsetFront
 engine_type=diesel
 smoke=Diesel
 speed=110
-##gear=400
+#gear=400
 power=160
 copyright=Kieron
 intro_year=1941
@@ -12,7 +12,7 @@ retire_year=1955
 retire_month=1
 waytype=track
 freight=Passagiere
-payload=52
+payload=60
 length=12
 
 weight=37

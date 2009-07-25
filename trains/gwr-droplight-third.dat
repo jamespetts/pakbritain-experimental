@@ -46,6 +46,7 @@ weight=27
 cost=716000
 runningcost=36
 sound=-1
+catering_level=2
 
 Constraint[Next][0]=GWR-Droplight-Third(Mahogany)
 Constraint[Next][1]=GWR-Droplight-Brake(Mahogany)

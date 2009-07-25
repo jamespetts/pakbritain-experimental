@@ -2,7 +2,7 @@ obj=vehicle
 name=LNER-ClassEM2(Green)
 engine_type=electric
 speed=150
-##gear=250
+#gear=250
 power=2060
 copyright=James
 intro_year=1953
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[1]=1
 
 EmptyImage[E]=./images/lner-em2.0
 EmptyImage[SE]=./images/lner-em2.1

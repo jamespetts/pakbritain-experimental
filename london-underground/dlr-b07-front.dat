@@ -19,6 +19,7 @@ runningcost=37
 sound=-1
 
 can_lead_from_rear=1
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=DLR-B07Rear
 Constraint[Prev][1]=none

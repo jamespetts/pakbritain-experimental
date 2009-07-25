@@ -2,7 +2,7 @@ obj=vehicle
 name=NER-ClassEE1(Green)
 engine_type=electric
 speed=105
-##gear=250
+#gear=250
 power=1350
 copyright=James
 intro_year=1920
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[1]=1
 
 EmptyImage[E]=./images/ner-ee1.0
 EmptyImage[SE]=./images/ner-ee1.1

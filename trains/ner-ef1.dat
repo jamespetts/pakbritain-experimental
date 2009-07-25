@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[1]=1
 
 EmptyImage[E]=./images/ner-ef1.0
 EmptyImage[SE]=./images/ner-ef1.1

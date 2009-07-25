@@ -3,7 +3,7 @@ name=BR-373FrontCab
 engine_type=electric
 speed=300
 power=12240
-##gear=119
+#gear=119
 copyright=Kieron
 intro_year=1994
 intro_month=11
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+way_constraint_permissive[2]=2
 
 Constraint[Prev][0]=none
 

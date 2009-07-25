@@ -55,10 +55,10 @@ max_alternative_destinations = 3
 # The ranges *may* overlap - indeed, this is encouraged.
 
 local_passengers_min_distance = 0
-local_passengers_max_distance = 64
-midrange_passengers_min_distance = 0
-midrange_passengers_max_distance = 128
-longdistance_passengers_min_distance = 96
+local_passengers_max_distance = 24
+midrange_passengers_min_distance = 4
+midrange_passengers_max_distance = 96
+longdistance_passengers_min_distance = 32
 longdistance_passengers_max_distance = 16384
 
 # The following are percentage chances. They represent the chances that
@@ -131,7 +131,7 @@ just_in_time = 1
 cost_transformer = 2500
 cost_maintain_transformer = 100
 
-# Minimum distance between factories
+# Minimum distance between factories (in tiles)
 factory_spacing = 6
 
 # Some factories have a retirement date, after which they are obsolete. After
@@ -296,8 +296,8 @@ intercity_road_length = 512
 # normal speed (i.e., not fast-forwarded).
 
 unit_reverse_time=2500
-hauled_reverse_time=4000
-turntable_reverse_time=6500
+hauled_reverse_time=6500
+turntable_reverse_time=10000
 
 # This setting allows the power of all vehicles to be adjusted at once. It is a
 # percentage figure. Thus, if, for example, a vehicle has a power rating of 1,200kw

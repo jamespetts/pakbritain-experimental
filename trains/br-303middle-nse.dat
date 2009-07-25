@@ -3,7 +3,7 @@ name=BR-303Pantograph(CaledonianBlue)
 engine_type=electric
 speed=120
 power=618
-###gear=800
+#gear=800
 copyright=Kieron
 intro_year=1959
 intro_month=1
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+way_constraint_permissive[2]=2
 
 Constraint[Prev][0]=BR-303Front(CaledonianBlue)
 

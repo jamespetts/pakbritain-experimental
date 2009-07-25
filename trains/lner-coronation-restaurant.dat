@@ -18,7 +18,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=4
+catering_level=5
 
 Constraint[Prev][0]=LNER-Coronation-Brake-Third-Twin(rear)
 Constraint[Prev][1]=LNER-Coronation-Brake-Third-Triple(rear)
@@ -54,7 +54,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=4
+catering_level=5
 
 Constraint[Prev][0]=LNER-Coronation-Restaurant-Triple(front)
 
@@ -89,7 +89,7 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=4
+catering_level=5
 
 Constraint[Prev][0]=LNER-Coronation-Restaurant-Triple(middle)
 

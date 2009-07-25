@@ -8,7 +8,6 @@ retire_year=2050
 retire_month=1
 cost=45000
 maintenance=600
-max_lenght=10
 pillar_distance=1
 cursor=images/brick-aqueduct.2.1
 icon=> images/brick-aqueduct.2.0

@@ -5,7 +5,6 @@ intro_year=1750
 topspeed=30
 cost=25000
 maintenance=175
-max_lenght=6
 pillar_distance=1
 cursor=images/wooden-trestle.2.1
 icon=> images/wooden-trestle.2.0

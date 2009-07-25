@@ -18,6 +18,7 @@ runningcost=5
 sound=-1
 
 Constraint[Prev][0]=none
+way_constraint_prohibitive[0]=0
 
 Constraint[Next][0]=Large-2-Deck-Trailer
 Constraint[Next][1]=Small-2-Deck-Trailer

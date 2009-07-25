@@ -2,7 +2,7 @@ obj=vehicle
 name=BR-410[CEP]Front(Blue-Grey)
 engine_type=electric
 speed=145
-##gear=690
+#gear=690
 power=375
 copyright=Kieron
 intro_year=1957
@@ -21,6 +21,7 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-410[CEP]Rear(Blue-Grey)
 Constraint[Prev][1]=BR-414[HAP]Rear(Blue-Grey)

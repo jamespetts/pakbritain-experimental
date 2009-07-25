@@ -3,7 +3,7 @@ name=BR-390RearCab(Virgin)
 engine_type=electric
 speed=225
 power=855
-###gear=400
+#gear=400
 copyright=Kieron
 intro_year=2003
 intro_month=6
@@ -22,6 +22,7 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 is_tilting=1
+way_constraint_permissive[2]=2
 
 Constraint[Prev][0]=BR-390RearCoach(Virgin)
 
