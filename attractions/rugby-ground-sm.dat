@@ -1,6 +1,8 @@
 Obj=building
 Name=Small_Rugby_Ground
 Type=cur
+intro_year=1865
+intro_month=8
 Build_Time=6000
 Chance=100
 Passengers=30

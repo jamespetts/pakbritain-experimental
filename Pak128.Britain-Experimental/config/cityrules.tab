@@ -15,11 +15,11 @@
 
 
 # how far cities should be minimum apart (default 16)
-minimum_city_distance = 32
+minimum_city_distance = 16
 
 
 # at which number of inhabitants we need a new market?
-industry_increase_every = 5000
+industry_increase_every = 7500
 
 # chance for renovation versus new building (bigger number => less sprawling)
 renovation_percentage = 12

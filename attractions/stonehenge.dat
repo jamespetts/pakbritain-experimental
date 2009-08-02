@@ -1,6 +1,8 @@
 Obj=building
 Name=Stonehenge
 Type=cur
+intro_year=1492
+intro_month=1
 Build_Time=0
 Chance=100
 Passengers=15

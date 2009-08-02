@@ -1,6 +1,8 @@
 Obj=building
 Name=Greenhouse
 Type=cur
+intro_year=1785
+intro_month=3
 Build_Time=15000
 Chance=100
 Passengers=60

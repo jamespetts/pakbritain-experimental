@@ -156,7 +156,7 @@ cost_multiply_roadstop = 400
 cost_multiply_airterminal = 1000
 #used for all extra buildings
 cost_multiply_post = 500
-#cost_multiply_headquarter=10000
+cost_multiply_headquarter=10000
 
 # cost for depots
 cost_depot_rail = 8500
@@ -165,18 +165,18 @@ cost_depot_ship = 9000
 cost_depot_air = 17500
 
 # other way related stuff
-cost_signal = 500
+cost_signal = 750
 cost_tunnel = 11000
-cost_third_rail = 80
 
 # other construction/destruction stuff
-cost_alter_land = 1250
-cost_set_slope = 1500
-#cost_found_city=5000000
-cost_multiply_found_industry = 500000
-cost_remove_tree = 40
-cost_multiply_remove_haus = 1000
-
+cost_alter_land=1000
+cost_set_slope=5250
+cost_found_city=5000000
+cost_multiply_found_industry=500000
+cost_remove_tree=40
+cost_buy_land=250
+cost_multiply_remove_haus=1000
+cost_multiply_remove_field=5000
 
 # Insolvency and debt settings
 #
