@@ -16,6 +16,9 @@ cost=742000
 runningcost=24
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+
 EmptyImage[E]=./images/lner-gresley-express-parcel-brake.0
 EmptyImage[SE]=./images/lner-gresley-express-parcel-brake.1
 EmptyImage[S]=./images/lner-gresley-express-parcel-brake.2

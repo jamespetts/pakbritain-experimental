@@ -3,21 +3,21 @@ name=MR-1000(Maroon)
 engine_type=steam
 smoke=Steam
 speed=130
-##gear=400
-power=900
+#gear=400
+power=1100
 copyright=James
 intro_year=1902
-intro_month=1
+intro_month=4
 retire_year=1928
-retire_month=1
+retire_month=9
 waytype=track
 freight=None
 payload=0
 length=6
 
 weight=62
-cost=5054000
-runningcost=792
+cost=7654000
+runningcost=813
 sound=-1
 
 Constraint[Next][0]=MR-1000-Tender(Maroon)

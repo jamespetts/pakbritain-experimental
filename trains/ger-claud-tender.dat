@@ -4,7 +4,7 @@ speed=130
 power=0
 copyright=James
 intro_year=1900
-intro_month=1
+intro_month=12
 retire_year=1939
 retire_month=1
 waytype=track
@@ -12,7 +12,7 @@ freight=None
 payload=0
 length=3
 
-weight=30
+weight=4/0
 cost=0
 runningcost=0
 sound=-1

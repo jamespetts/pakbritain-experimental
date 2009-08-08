@@ -3,21 +3,21 @@ name=GNR-C1
 engine_type=steam
 smoke=Steam
 speed=130
-##gear=130
-power=2764
+#gear=130
+power=1000
 copyright=Kieron
 intro_year=1902
-intro_month=1
+intro_month=12
 retire_year=1930
-retire_month=1
+retire_month=11
 waytype=track
 freight=None
 payload=0
 length=6
 
 weight=69
-cost=9677000
-runningcost=1056
+cost=6677000
+runningcost=775
 sound=-1
 
 Constraint[Next][0]=GNR-C1-Tender

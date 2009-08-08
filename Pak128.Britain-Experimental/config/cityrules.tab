@@ -12,10 +12,11 @@
 # update: 05-Jan-05
 # update: 08-Mar-08
 # update: 10-Oct-08 by Fabio Gonella <fabio@gonella.eu>
+# Adapted August 2009 by James E. Petts for Pak128.Britain-Experimental
 
 
 # how far cities should be minimum apart (default 16)
-minimum_city_distance = 16
+minimum_city_distance = 12
 
 
 # at which number of inhabitants we need a new market?
@@ -24,7 +25,7 @@ industry_increase_every = 7500
 # chance for renovation versus new building (bigger number => less sprawling)
 renovation_percentage = 12
 
-# citys will not growth further along exiting roads, if the buildings density is lower (in percent)
+# cities will not growth further along exiting roads, if the buildings density is lower (in percent)
 minimum_building_desity = 33
 
 
