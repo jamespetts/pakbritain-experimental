@@ -2511,7 +2511,7 @@
 				>
 			</File>
 			<File
-				RelativePath=".\routemaster_coach.dat"
+				RelativePath="..\..\bus\routemaster_coach.dat"
 				>
 			</File>
 			<File

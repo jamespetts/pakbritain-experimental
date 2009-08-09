@@ -8,16 +8,19 @@ freight=Passagiere
 
 payload=64
 speed=80
-power=95
+power=86
 gear=100
-weight=11
+weight=7
 length=6
 cost=2110000
 runningcost=400
 intro_year=1956
 intro_month=5
-retire_year=1979
+retire_year=1987
 retire_month=12
+
+comfort=57
+loading_time=2000
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

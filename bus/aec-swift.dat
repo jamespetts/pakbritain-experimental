@@ -6,7 +6,8 @@ copyright=JamesPetts&JamesHood
 waytype=road
 engine_type=diesel
 freight=Passagiere
-payload=62
+payload=42
+overcrowded_capacity=20
 speed=72
 power=85
 gear=100
@@ -18,6 +19,9 @@ intro_year=1969
 intro_month=11
 retire_year=1981
 retire_month=1
+
+comfort=55
+loading_time=3750
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

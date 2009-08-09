@@ -1,3 +1,5 @@
+# Short type, for rural use.
+
 obj=vehicle
 name=Leyland_National_11(LC)
 engine_type=diesel
@@ -19,6 +21,9 @@ weight=9
 cost=700000
 runningcost=460
 sound=-1
+
+comfort=60
+loading_time=3750
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

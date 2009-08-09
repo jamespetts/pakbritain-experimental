@@ -13,7 +13,7 @@ payload=70
 speed=57
 power=110
 gear=100
-weight=9
+weight=7
 length=6
 cost=232000
 runningcost=370
@@ -21,6 +21,9 @@ intro_year=1935
 intro_month=5
 retire_year=1954
 retire_month=12
+
+comfort=58
+loading_time=2000
 
 constraint[next][0]=none 
 constraint[prev][0]=none 

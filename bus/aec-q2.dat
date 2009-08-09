@@ -8,9 +8,9 @@ engine_type=diesel
 freight=Passagiere
 payload=65
 speed=60
-power=70
+power=65
 gear=100
-weight=6
+weight=9
 length=6
 cost=810000
 runningcost=620
@@ -18,6 +18,9 @@ intro_year=1934
 intro_month=4
 retire_year=1946
 retire_month=3
+
+comfort=55
+loading_time=2500
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

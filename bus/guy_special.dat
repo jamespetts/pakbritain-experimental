@@ -20,6 +20,9 @@ cost=300000
 runningcost=200
 sound=-1
 
+comfort=55
+loading_time=3000
+
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 

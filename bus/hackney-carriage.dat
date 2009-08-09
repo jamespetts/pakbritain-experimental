@@ -14,6 +14,9 @@ intro_month=1
 retire_year=1918
 retire_month=3
 
+comfort=30
+loading_time=4250
+
 Constraint[Prev][0]=RoadHorsesSingle
 Constraint[Prev][1]=RoadHorsesDouble
 

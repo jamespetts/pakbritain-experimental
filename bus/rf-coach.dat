@@ -20,6 +20,8 @@ intro_month=12
 retire_year=1970
 retire_month=8
 
+comfort=72
+loading_time=3800
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

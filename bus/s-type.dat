@@ -7,8 +7,8 @@ waytype=road
 engine_type=diesel
 freight=Passagiere
 payload=56
-speed=40
-power=32
+speed=32
+power=24
 gear=100
 weight=6
 length=5
@@ -19,6 +19,8 @@ intro_month=2
 retire_year=1931
 retire_month=5
 
+comfort=37
+loading_time=2300
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

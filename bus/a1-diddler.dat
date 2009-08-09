@@ -13,7 +13,7 @@ payload=66
 speed=55
 power=100
 gear=100
-weight=8
+weight=6
 length=6
 cost=210000
 runningcost=450
@@ -24,6 +24,8 @@ retire_month=6
 constraint[next][0]=none 
 constraint[prev][0]=none 
 
+comfort=62
+loading_time=2050
 
 EmptyImage[E]=./images/a1-diddler.0.0
 EmptyImage[SE]=./images/a1-diddler.0.1

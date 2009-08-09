@@ -7,17 +7,19 @@ engine_type=diesel
 freight=Passagiere
 payload=29
 speed=47
-power=60
+power=39
 gear=100
 weight=5
 length=5
 cost=362000
-runningcost=120
+runningcost=240
 intro_year=1929
 intro_month=12
 retire_year=1947
 retire_month=6
 
+comfort=50
+loading_time=2150
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

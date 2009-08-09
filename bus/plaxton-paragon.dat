@@ -20,6 +20,9 @@ intro_month=12
 retire_year=2021
 retire_month=11
 
+comfort=90
+loading_time=4125
+
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
 

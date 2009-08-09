@@ -5,12 +5,12 @@ copyright=JamesPetts&JamesHood
 waytype=road
 engine_type=diesel
 freight=Passagiere
-
-payload=58
+payload=56
+overcrowded_capacity=5
 speed=70
-power=85
+power=80
 gear=100
-weight=9
+weight=7
 length=6
 cost=1012000
 runningcost=310
@@ -18,6 +18,9 @@ intro_year=1947
 intro_month=4
 retire_year=1968
 retire_month=10
+
+comfort=53
+loading_time=2000
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

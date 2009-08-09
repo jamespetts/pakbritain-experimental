@@ -19,6 +19,9 @@ intro_month=12
 retire_year=2019
 retire_month=11
 
+comfort=58
+loading_time=2100
+
 Constraint[Prev][0]=none
 Constraint[Next][0]=MercedesCitaroG(Rear)
 
@@ -51,6 +54,9 @@ intro_year=2003
 intro_month=12
 retire_year=2019
 retire_month=11
+
+comfort=58
+loading_time=2100
 
 Constraint[Prev][0]=MercedesCitaroG(Front)
 Constraint[Next][0]=none

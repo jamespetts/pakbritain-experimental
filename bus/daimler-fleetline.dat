@@ -6,10 +6,10 @@ copyright=JamesPetts&JamesHood
 waytype=road
 engine_type=diesel
 freight=Passagiere
-payload=76
+payload=68
 speed=75
 power=100
-gear=90
+#gear=90
 weight=15
 length=6
 cost=3440000
@@ -18,6 +18,9 @@ intro_year=1960
 intro_month=4
 retire_year=1987
 retire_month=6
+
+comfort=62
+loading_time=3250
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
