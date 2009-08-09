@@ -2,26 +2,30 @@ obj=vehicle
 name=Blackpool-Jubilee
 engine_type=electric
 speed=70
-###gear=240
+#gear=240
 power=140
 copyright=James
 intro_year=1979
-intro_month=1
+intro_month=4
 retire_year=2002
-retire_month=1
+retire_month=6
 waytype=schiene_tram
 freight=Passagiere
 payload=104
 
 weight=30
 cost=416000
-runningcost=26
+upgrade_price=8250
+runningcost=98
 sound=-1
 
 can_lead_from_rear=1
 bidirectional=1
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
+comfort=65
+loading_time=3000
+upgrade[0]=Blackpool-Millenium
 
 Constraint[Prev][0]=none
 

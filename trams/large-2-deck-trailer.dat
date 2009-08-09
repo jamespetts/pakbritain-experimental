@@ -16,6 +16,10 @@ cost=375000
 runningcost=9
 sound=-1
 
+way_constraint_prohibitive[0]=0
+comfort=38
+loading_time=2250
+
 Constraint[Prev][0]=Steam-Tram
 Constraint[Prev][1]=Tram-Horses
 

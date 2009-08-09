@@ -20,6 +20,8 @@ sound=-1
 
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
+comfort=68
+loading_time=2500
 
 Constraint[Prev][0]=none
 

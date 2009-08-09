@@ -2,13 +2,13 @@ obj=vehicle
 name=Blackpool-Dreadnought
 engine_type=electric
 speed=50
-###gear=240
+#gear=240
 power=80
 copyright=James
 intro_year=1895
-intro_month=1
+intro_month=6
 retire_year=1910
-retire_month=1
+retire_month=5
 waytype=schiene_tram
 freight=Passagiere
 payload=65
@@ -21,9 +21,10 @@ sound=-1
 
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
+comfort=41
+loading_time=1900
 
 Constraint[Prev][0]=none
-
 Constraint[Next][0]=none
 
 EmptyImage[E]=./images/blackpool-dreadnought.0.0

@@ -19,6 +19,8 @@ sound=-1
 can_lead_from_rear=0
 bidirectional=1
 way_constraint_prohibitive[0]=0
+comfort=40
+loading_time=2600
 
 Constraint[Prev][0]=Steam-Tram
 Constraint[Prev][1]=Tram-Horses

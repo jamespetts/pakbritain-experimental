@@ -6,9 +6,9 @@ speed=40
 power=40
 copyright=James
 intro_year=1885
-intro_month=1
-retire_year=1900
-retire_month=1
+intro_month=9
+retire_year=1899
+retire_month=10
 waytype=schiene_tram
 freight=Passagiere
 payload=25
@@ -23,6 +23,8 @@ can_lead_from_rear=0
 bidirectional=0
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
+comfort=37
+loading_time=2500
 
 Constraint[Prev][0]=none
 

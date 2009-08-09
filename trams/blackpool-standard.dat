@@ -2,13 +2,13 @@ obj=vehicle
 name=Blackpool-Standard
 engine_type=electric
 speed=55
-###gear=240
+#gear=240
 power=100
 copyright=James
 intro_year=1923
-intro_month=1
+intro_month=8
 retire_year=1950
-retire_month=1
+retire_month=3
 waytype=schiene_tram
 freight=Passagiere
 payload=90
@@ -22,6 +22,8 @@ can_lead_from_rear=0
 bidirectional=0
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
+comfort=40
+loading_time=2150
 
 Constraint[Prev][0]=none
 
