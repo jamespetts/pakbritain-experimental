@@ -21,7 +21,7 @@ retire_year=1998
 retire_month=10
 
 comfort=56
-loading_time=3125
+loading_time=5750
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

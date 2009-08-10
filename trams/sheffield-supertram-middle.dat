@@ -24,7 +24,7 @@ bidirectional=1
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
 comfort=54
-loading_time=2700
+loading_time=3333
 
 Constraint[Next][0]=Sheffield-Supertram(Rear)
 

@@ -24,7 +24,7 @@ bidirectional=0 # Trolley poles need turning around.
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
 comfort=31
-loading_time=2600
+loading_time=3400
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

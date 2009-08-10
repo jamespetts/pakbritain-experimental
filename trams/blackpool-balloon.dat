@@ -23,7 +23,7 @@ bidirectional=1
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
 comfort=66
-loading_time=3150
+loading_time=5000
 upgrade[0]=Blackpool-Jubilee
 upgrade[1]=Blackpool-Millenium
 

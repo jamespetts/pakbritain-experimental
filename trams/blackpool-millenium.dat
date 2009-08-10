@@ -24,7 +24,7 @@ bidirectional=1
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
 comfort=65
-loading_time=3000
+loading_time=4600
 
 Constraint[Prev][0]=none
 

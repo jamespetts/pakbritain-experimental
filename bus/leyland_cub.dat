@@ -15,8 +15,8 @@ freight=Passagiere
 payload=20
 length=4
 
-comfort=56
-loading_time=3250
+comfort=62
+loading_time=4250
 
 weight=4
 cost=220000

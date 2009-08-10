@@ -20,7 +20,7 @@ Constraint[Prev][0]=none
 Constraint[Next][0]=none
 
 comfort=59
-loading_time=3400
+loading_time=8500
 
 EmptyImage[E]=./images/aec-reliance.0.0
 EmptyImage[SE]=./images/aec-reliance.0.1

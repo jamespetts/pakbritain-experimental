@@ -24,7 +24,7 @@ bidirectional=0
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
 comfort=66
-loading_time=2700
+loading_time=3250
 
 Constraint[Prev][0]=NET-Bombardier-Incentro(Front)
 

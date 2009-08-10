@@ -23,7 +23,7 @@ runningcost=460
 sound=-1
 
 comfort=60
-loading_time=3750
+loading_time=7250
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

@@ -23,7 +23,7 @@ bidirectional=0
 way_constraint_permissive[1]=1
 way_constraint_prohibitive[0]=0
 comfort=60
-loading_time=2500
+loading_time=3600
 
 Constraint[Prev][0]=Metrolink-T86(Rear)
 Constraint[Prev][1]=none

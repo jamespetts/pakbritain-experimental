@@ -9,7 +9,7 @@ freight=Passagiere
 payload=35
 speed=78
 power=140
-gear=110
+#gear=110
 weight=15
 length=6
 cost=5100000
@@ -20,7 +20,7 @@ retire_year=2014
 retire_month=6
 
 comfort=59
-loading_time=3125
+loading_time=5750
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

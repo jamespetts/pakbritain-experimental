@@ -19,7 +19,7 @@ retire_year=1927
 retire_month=3
 
 comfort=39
-loading_time=3000
+loading_time=3250
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none
