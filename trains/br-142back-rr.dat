@@ -3,13 +3,13 @@ name=BR-142Rear(Regional)
 engine_type=diesel
 smoke=Diesel
 speed=120
-###gear=330
+#gear=330
 power=153
 copyright=Kieron
 intro_year=1985
-intro_month=1
-retire_year=1990
-retire_month=1
+intro_month=5
+retire_year=1998
+retire_month=8
 waytype=track
 freight=Passagiere
 payload=59
@@ -19,6 +19,9 @@ weight=25
 cost=1250000
 runningcost=99
 sound=-1
+
+loading_time=6100
+comfort=60
 
 can_lead_from_rear=1
 bidirectional=0

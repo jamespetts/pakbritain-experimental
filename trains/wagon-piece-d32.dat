@@ -4,9 +4,9 @@ name=PieceD32
 speed=70
 copyright=James
 intro_year=1855
-intro_month=1
+intro_month=6
 retire_year=1908
-retire_month=1
+retire_month=12
 waytype=track
 freight=Bucher
 payload=8
@@ -17,6 +17,9 @@ weight=4
 cost=100000
 runningcost=5
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-piece-d32.0
 EmptyImage[SE]=./images/wagon-piece-d32.1

@@ -3,9 +3,9 @@ name=LMS-d1904-Coach
 speed=160
 copyright=Kieron
 intro_year=1933
-intro_month=1
-retire_year=1951
-retire_month=1
+intro_month=6
+retire_year=1957
+retire_month=2
 waytype=track
 freight=Passagiere
 payload=56
@@ -15,6 +15,12 @@ weight=30
 cost=510000
 runningcost=26
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+
+loading_time=7300
+comfort=100
 
 Constraint[Next][0]=LMS-d1904-Coach
 Constraint[Next][1]=LMS-d2007-Parcel-Brake
@@ -38,18 +44,24 @@ name=LMS-d1904-Dining
 speed=160
 copyright=Kieron
 intro_year=1933
-intro_month=1
-retire_year=1951
-retire_month=1
+intro_month=6
+retire_year=1957
+retire_month=2
 waytype=track
 freight=Passagiere
 payload=24
 length=10
 
 weight=30
-cost=510000
-runningcost=26
+cost=780000
+runningcost=41
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+
+loading_time=7300
+comfort=100
 
 Constraint[Next][0]=LMS-d1904-Coach
 Constraint[Next][1]=LMS-d2007-Parcel-Brake

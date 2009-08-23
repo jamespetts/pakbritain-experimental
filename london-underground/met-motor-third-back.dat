@@ -6,9 +6,9 @@ speed=90
 power=400
 copyright=Kieron
 intro_year=1907
-intro_month=1
+intro_month=4
 retire_year=1940
-retire_month=1
+retire_month=6
 waytype=track
 freight=Passagiere
 payload=48
@@ -22,6 +22,9 @@ can_lead_from_rear=1
 bidirectional=0
 catering_level=0
 way_constraint_permissive[0]=0
+
+loading_time=3500
+comfort=70
 
 Constraint[Prev][0]=Metropolitan-Motor-Third-Front
 Constraint[Prev][1]=Metropolitan-Motor-Third-Middle

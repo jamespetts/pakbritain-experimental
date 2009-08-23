@@ -4,7 +4,7 @@ name=CoolContainer
 speed=140
 copyright=James
 intro_year=1978
-intro_month=1
+intro_month=7
 waytype=track
 freight=meat
 payload=64
@@ -15,6 +15,9 @@ weight=24
 cost=400000
 runningcost=20
 sound=-1
+
+comfort=0
+loading_time=9000
 
 EmptyImage[E]=./images/wagon-container.0
 EmptyImage[SE]=./images/wagon-container.1

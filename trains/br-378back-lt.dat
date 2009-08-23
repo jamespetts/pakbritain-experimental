@@ -3,7 +3,7 @@ name=BR-378Rear(LT)
 engine_type=electric
 speed=120
 power=250
-##gear=420
+#gear=420
 copyright=Kieron
 intro_year=2009
 intro_month=7
@@ -21,6 +21,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+
+loading_time=4500
+comfort=70
 
 Constraint[Prev][0]=BR-378Middle(LT)
 Constraint[Prev][1]=BR-378Front(LT)

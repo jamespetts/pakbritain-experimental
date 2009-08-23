@@ -1,20 +1,23 @@
 obj=vehicle
 name=LBSCR-4Wheel-First
-speed=120
+speed=110
 copyright=Kieron
-intro_year=1870
-intro_month=1
+intro_year=1868
+intro_month=4
 retire_year=1923
-retire_month=1
+retire_month=6
 waytype=track
 freight=Passagiere
-payload=24
+payload=34
 length=6
 
 weight=9
-cost=67000
-runningcost=3
+cost=285000
+runningcost=17
 sound=-1
+
+comfort=41
+loading_time=3500
 
 can_lead_from_rear=0
 bidirectional=1

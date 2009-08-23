@@ -3,9 +3,9 @@ name=LNWR-6Wheel-Guard
 speed=135
 copyright=Kieron/James
 intro_year=1887
-intro_month=1
+intro_month=10
 retire_year=1923
-retire_month=1
+retire_month=2
 waytype=track
 freight=Post
 payload=15
@@ -17,6 +17,8 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+loading_time=4000
+comfort=0
 
 EmptyImage[E]=./images/lnwr-6wheel-guard.0
 EmptyImage[SE]=./images/lnwr-6wheel-guard.1

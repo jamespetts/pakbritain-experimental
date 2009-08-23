@@ -4,9 +4,9 @@ name=LivestockD25
 speed=80
 copyright=James
 intro_year=1899
-intro_month=1
+intro_month=9
 retire_year=1931
-retire_month=1
+retire_month=2
 waytype=track
 freight=livestock
 payload=12
@@ -17,6 +17,9 @@ weight=7
 cost=120000
 runningcost=6
 sound=-1
+
+comfort=0
+loading_time=13000
 
 EmptyImage[E]=./images/wagon-livestock-d25.0
 EmptyImage[SE]=./images/wagon-livestock-d25.1

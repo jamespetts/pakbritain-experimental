@@ -4,9 +4,9 @@ speed=145
 #gear=100
 copyright=Kieron
 intro_year=1968
-intro_month=1
+intro_month=7
 retire_year=2000
-retire_month=1
+retire_month=12
 waytype=track
 freight=Post
 payload=60
@@ -19,7 +19,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
-way_constraint_permissive[0]=0
+
+loading_time=6000
+comfort=0
 
 Constraint[Prev][0]=BR-410[CEP]Rear(Blue-Grey)
 Constraint[Prev][1]=BR-414[HAP]Rear(Blue-Grey)

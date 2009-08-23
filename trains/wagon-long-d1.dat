@@ -6,7 +6,7 @@ copyright=James
 intro_year=1855
 intro_month=1
 retire_year=1903
-retire_month=1
+retire_month=5
 waytype=track
 freight=Bretter
 payload=8
@@ -17,6 +17,9 @@ weight=4
 cost=100000
 runningcost=5
 sound=-1
+
+comfort=0
+loading_time=14000
 
 EmptyImage[E]=./images/wagon-long-d1.0
 EmptyImage[SE]=./images/wagon-long-d1.1

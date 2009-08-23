@@ -4,9 +4,9 @@ name=Bulk5T
 speed=40
 copyright=Kieron
 intro_year=1835
-intro_month=1
+intro_month=4
 retire_year=1855
-retire_month=1
+retire_month=10
 waytype=track
 freight=Kohle
 payload=5
@@ -17,6 +17,9 @@ weight=2
 cost=77000
 runningcost=4
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-5t.0
 EmptyImage[SE]=./images/wagon-5t.1

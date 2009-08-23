@@ -2,26 +2,29 @@ obj=vehicle
 name=GWR-ParkRoyal-Railcar
 engine_type=diesel
 smoke=Diesel
-speed=130
-##gear=320
+speed=100
+#gear=320
 power=195
 copyright=Kieron
-intro_year=1934
-intro_month=7
-retire_year=1937
-retire_month=1
+intro_year=1933
+intro_month=12
+retire_year=1953
+retire_month=4
 waytype=track
 freight=Passagiere
-payload=44
+payload=69
 length=12
 
-weight=26
+weight=24
 cost=4032000
 runningcost=198
 sound=-1
 
-can_lead_from_rear=1
+can_lead_from_rear=0
 bidirectional=1
+
+loading_time=7500
+comfort=80
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

@@ -15,6 +15,11 @@ cost=314000
 runningcost=16
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+loading_time=4000
+comfort=69
+
 Constraint[Next][0]=LNWR-6Wheel-First
 Constraint[Next][1]=LNWR-6Wheel-Guard
 Constraint[Next][2]=MSLR-4Wheel-Composite

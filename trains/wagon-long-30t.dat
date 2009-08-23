@@ -4,9 +4,9 @@ name=Long30T
 speed=120
 copyright=James
 intro_year=1971
-intro_month=1
+intro_month=7
 retire_year=2020
-retire_month=1
+retire_month=9
 waytype=track
 freight=Bretter
 payload=30
@@ -17,6 +17,9 @@ weight=16
 cost=320000
 runningcost=13
 sound=-1
+
+comfort=0
+loading_time=15000
 
 EmptyImage[E]=./images/wagon-long-30t.0
 EmptyImage[SE]=./images/wagon-long-30t.1

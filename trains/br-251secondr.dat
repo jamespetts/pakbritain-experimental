@@ -13,13 +13,16 @@ payload=25
 length=11
 
 weight=45
-cost=1142000
-runningcost=30
+cost=1657000
+runningcost=78
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
 catering_level=5
+
+loading_time=9500
+comfort=150
 
 Constraint[Prev][0]=BR-251FirstParlour
 

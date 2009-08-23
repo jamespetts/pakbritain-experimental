@@ -3,13 +3,13 @@ name=BR-153(Regional)
 engine_type=diesel
 smoke=Diesel
 speed=120
-###gear=395
+#gear=395
 power=212
 copyright=Kieron
 intro_year=1991
-intro_month=1
-retire_year=1997
-retire_month=1
+intro_month=3
+retire_year=2016
+retire_month=2
 waytype=track
 freight=Passagiere
 payload=72
@@ -22,6 +22,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=1
+
+loading_time=7500
+comfort=90
 
 Constraint[Prev][0]=BR-153(Regional)
 Constraint[Prev][1]=BR-156Front(Regional)

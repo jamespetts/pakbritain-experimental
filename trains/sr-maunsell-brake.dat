@@ -1,23 +1,26 @@
 obj=vehicle
 name=SR-Maunsell-Brake(Green)
-speed=140
+speed=160
 copyright=James
 intro_year=1926
-intro_month=1
-retire_year=1947
-retire_month=1
+intro_month=9
+retire_year=1959
+retire_month=3
 waytype=track
 freight=Passagiere
 payload=48
 length=11
 
 weight=34
-cost=709000
+cost=633000
 runningcost=25
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+
+loading_time=4000
+comfort=96
 
 EmptyImage[E]=./images/sr-maunsell-brake.0
 EmptyImage[SE]=./images/sr-maunsell-brake.1

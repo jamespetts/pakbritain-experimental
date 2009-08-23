@@ -1,11 +1,11 @@
 obj=vehicle
 name=BR-Mk1-BG(Blue-Grey)
-speed=175
+speed=160
 copyright=Kieron/James
 intro_year=1965
-intro_month=1
-retire_year=2000
-retire_month=1
+intro_month=4
+retire_year=1992
+retire_month=3
 waytype=track
 freight=Post
 payload=50
@@ -13,11 +13,14 @@ length=11
 
 weight=45
 cost=1500000
-runningcost=67
+runningcost=66
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+
+loading_time=6000
+comfort=0
 
 EmptyImage[E]=./images/br-mk1-bg-bg.0
 EmptyImage[SE]=./images/br-mk1-bg-bg.1

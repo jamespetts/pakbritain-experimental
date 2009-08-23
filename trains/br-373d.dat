@@ -20,7 +20,10 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-way_constraint_permissive[2]=2
+
+
+loading_time=9250
+comfort=143
 
 Constraint[Prev][0]=BR-373Coach
 

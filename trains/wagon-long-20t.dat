@@ -4,9 +4,9 @@ name=Long20T
 speed=100
 copyright=James
 intro_year=1937
-intro_month=1
+intro_month=7
 retire_year=1971
-retire_month=1
+retire_month=6
 waytype=track
 freight=Bretter
 payload=20
@@ -17,6 +17,9 @@ weight=12
 cost=240000
 runningcost=10
 sound=-1
+
+comfort=0
+loading_time=15000
 
 EmptyImage[E]=./images/wagon-long-20t.0
 EmptyImage[SE]=./images/wagon-long-20t.1

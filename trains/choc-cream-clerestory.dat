@@ -3,9 +3,9 @@ name=CC-Clerestory-Coach
 speed=130
 copyright=James
 intro_year=1899
-intro_month=1
-retire_year=1923
-retire_month=1
+intro_month=7
+retire_year=1935
+retire_month=6
 waytype=track
 freight=Passagiere
 payload=60
@@ -18,7 +18,9 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=0
+
+loading_time=4750
+comfort=94
 
 Constraint[Next][0]=CC-Clerestory-Coach
 Constraint[Next][1]=CC-Clerestory-Brake

@@ -1,20 +1,25 @@
 obj=vehicle
 name=SR-Maunsell-Mail(Green)
-speed=140
+speed=160
 copyright=James
 intro_year=1926
-intro_month=1
+intro_month=9
 retire_year=1959
-retire_month=1
+retire_month=3
 waytype=track
 freight=Post
 payload=60
 length=11
 
-weight=34
-cost=721000
+weight=33
+cost=633000
 runningcost=39
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=6400
+comfort=0
 
 Constraint[Next][0]=SR-Maunsell-Third(Green)
 Constraint[Next][1]=SR-Maunsell-Brake(Green)
@@ -37,7 +42,7 @@ EmptyImage[NE]=./images/sr-maunsell-mail.7
 --------------------------------------------
 obj=vehicle
 name=SR-Maunsell-TPO(Green)
-speed=140
+speed=160
 copyright=James
 intro_year=1926
 intro_month=1
@@ -48,10 +53,15 @@ freight=Post
 payload=45
 length=11
 
-weight=34
-cost=721000
-runningcost=39
+weight=33
+cost=675000
+runningcost=46
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=6400
+comfort=0
 
 Constraint[Next][0]=SR-Maunsell-Third(Green)
 Constraint[Next][1]=SR-Maunsell-Brake(Green)

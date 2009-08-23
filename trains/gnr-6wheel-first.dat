@@ -3,9 +3,9 @@ name=GNR-6Wheel-First
 speed=135
 copyright=Kieron
 intro_year=1888
-intro_month=1
+intro_month=3
 retire_year=1923
-retire_month=1
+retire_month=10
 waytype=track
 freight=Passagiere
 payload=32
@@ -14,6 +14,11 @@ weight=14
 cost=314000
 runningcost=16
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=4000
+comfort=70
 
 Constraint[Next][0]=GNR-6Wheel-First
 Constraint[Next][1]=GNR-6Wheel-Guard

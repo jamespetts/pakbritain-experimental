@@ -5,9 +5,9 @@ speed=160
 power=0
 copyright=Kieron
 intro_year=1987
-intro_month=1
+intro_month=7
 retire_year=2020
-retire_month=1
+retire_month=8
 waytype=track
 freight=Passagiere
 payload=82
@@ -20,6 +20,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+
+loading_time=6400
+comfort=90
 
 Constraint[Prev][0]=BR-319Rear(NSE)
 Constraint[Prev][1]=none

@@ -3,9 +3,9 @@ name=BulkRCH12T
 speed=65
 copyright=Kieron
 intro_year=1923
-intro_month=1
+intro_month=3
 retire_year=1943
-retire_month=1
+retire_month=11
 waytype=track
 freight=Kohle
 payload=12
@@ -15,6 +15,9 @@ weight=7
 cost=140000
 runningcost=8
 sound=-1
+
+comfort=0
+loading_time=9000
 
 EmptyImage[E]=./images/wagon-12t.0
 EmptyImage[SE]=./images/wagon-12t.1

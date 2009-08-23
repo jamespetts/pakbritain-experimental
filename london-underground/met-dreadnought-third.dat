@@ -3,9 +3,9 @@ name=Metropolitan-Dreadnought-Third
 speed=105
 copyright=Kieron
 intro_year=1919
-intro_month=1
+intro_month=7
 retire_year=1961
-retire_month=1
+retire_month=12
 waytype=track
 freight=Passagiere
 payload=108
@@ -17,7 +17,9 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=0
+
+loading_time=3500
+comfort=70
 
 EmptyImage[E]=./images/met-dreadnought-third.0
 EmptyImage[SE]=./images/met-dreadnought-third.1

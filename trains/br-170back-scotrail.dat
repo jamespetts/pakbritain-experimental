@@ -3,7 +3,7 @@ name=BR-170Rear(Scotrail)
 engine_type=diesel
 smoke=Diesel
 speed=160
-###gear=520
+#gear=520
 power=315
 copyright=Kieron
 intro_year=1998
@@ -22,6 +22,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+
+loading_time=6500
+comfort=97
 
 Constraint[Prev][0]=BR-170Middle(Scotrail)
 Constraint[Prev][1]=BR-170Front(Scotrail)

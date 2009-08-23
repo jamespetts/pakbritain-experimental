@@ -4,9 +4,9 @@ name=Bulk3T
 speed=30
 copyright=Kieron
 intro_year=1820
-intro_month=1
+intro_month=4
 retire_year=1835
-retire_month=1
+retire_month=7
 waytype=track
 freight=Kohle
 payload=3
@@ -16,6 +16,9 @@ weight=1
 cost=46000
 runningcost=3
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-3t.0
 EmptyImage[SE]=./images/wagon-3t.1

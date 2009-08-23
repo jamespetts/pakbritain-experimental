@@ -4,9 +4,9 @@ name=BrakeD16
 speed=70
 copyright=James
 intro_year=1880
-intro_month=1
+intro_month=2
 retire_year=1903
-retire_month=1
+retire_month=4
 waytype=track
 
 length=3

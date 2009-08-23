@@ -4,9 +4,9 @@ name=PieceD88
 speed=80
 copyright=James
 intro_year=1908
-intro_month=1
+intro_month=2
 retire_year=1931
-retire_month=1
+retire_month=6
 waytype=track
 freight=Bucher
 payload=12
@@ -17,6 +17,9 @@ weight=7
 cost=120000
 runningcost=6
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-piece-d88.0
 EmptyImage[SE]=./images/wagon-piece-d88.1

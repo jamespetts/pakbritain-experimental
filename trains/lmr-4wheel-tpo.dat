@@ -3,18 +3,21 @@ name=LMR-4Wheel-TPO
 speed=55
 copyright=James
 intro_year=1838
-intro_month=1
+intro_month=10
 retire_year=1855
-retire_month=1
+retire_month=6
 waytype=track
 freight=Post
 payload=24
 length=4
 
 weight=2
-cost=144000
-runningcost=7
+cost=174000
+runningcost=13
 sound=-1
+
+comfort=0
+loading_time=6500
 
 can_lead_from_rear=0
 bidirectional=1

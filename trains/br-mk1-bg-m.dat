@@ -1,23 +1,30 @@
 obj=vehicle
 name=BR-Mk1-BG(Maroon)
-speed=175
+speed=160
 copyright=Kieron/James
 intro_year=1956
-intro_month=1
-retire_year=1965
-retire_month=1
+intro_month=3
+retire_year=1972
+retire_month=2
 waytype=track
 freight=Post
 payload=50
 length=11
 
-weight=45
+weight=46
 cost=1500000
-runningcost=67
+upgrade_price=300000
+runningcost=78
 sound=-1
+
+upgrade[0]=BR-Mk1-BG(Blue-Grey)
+upgrade[1]=BR-Mk1-BG(RoyalMail)
 
 can_lead_from_rear=0
 bidirectional=1
+
+loading_time=6000
+comfort=0
 
 EmptyImage[E]=./images/br-mk1-bg-m.0
 EmptyImage[SE]=./images/br-mk1-bg-m.1

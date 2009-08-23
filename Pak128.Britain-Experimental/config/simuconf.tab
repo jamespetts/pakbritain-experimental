@@ -55,10 +55,10 @@ max_alternative_destinations = 3
 # The ranges *may* overlap - indeed, this is encouraged.
 
 local_passengers_min_distance = 0
-local_passengers_max_distance = 24
+local_passengers_max_distance = 25
 midrange_passengers_min_distance = 4
-midrange_passengers_max_distance = 96
-longdistance_passengers_min_distance = 32
+midrange_passengers_max_distance = 100
+longdistance_passengers_min_distance = 50
 longdistance_passengers_max_distance = 16384
 
 # The following are percentage chances. They represent the chances that
@@ -79,7 +79,7 @@ passenger_routing_midrange_chance = 37
 # local, mid-range and long-distance passenger groups correspond to those
 # above. 
 
-min_local_tolerance = 30
+min_local_tolerance = 20
 max_local_tolerance = 60
 min_midrange_tolerance = 45
 max_midrange_tolerance = 180

@@ -4,9 +4,9 @@ name=BrakeLMS
 speed=100
 copyright=James
 intro_year=1926
-intro_month=1
+intro_month=4
 retire_year=1950
-retire_month=1
+retire_month=7
 waytype=track
 
 length=4

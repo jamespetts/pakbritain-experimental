@@ -3,12 +3,12 @@ name=BR-319Engine(NSE)
 engine_type=electric
 speed=160
 power=990
-###gear=530
+#gear=530
 copyright=Kieron
 intro_year=1987
-intro_month=1
+intro_month=7
 retire_year=2020
-retire_month=1
+retire_month=8
 waytype=track
 freight=Passagiere
 payload=82
@@ -21,6 +21,9 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+
+loading_time=6400
+comfort=90
 
 Constraint[Prev][0]=BR-319Pantograph(NSE)
 

@@ -16,6 +16,12 @@ cost=660000
 runningcost=45
 sound=-1
 
+can_lead_from_rear=0
+bidirectional=1
+loading_time=9000
+comfort=124
+catering_level=5
+
 Constraint[Next][0]=LMS-Coronation-TO(Maroon)
 Constraint[Next][1]=LMS-Coronation-FK(Maroon)
 Constraint[Prev][0]=LMS-Coronation-BFK(Maroon)

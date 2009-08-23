@@ -3,23 +3,24 @@ name=BR-Mk1-BC(Maroon)
 speed=160
 copyright=Kieron
 intro_year=1956
-intro_month=1
-retire_year=1975
-retire_month=1
+intro_month=3
+retire_year=1972
+retire_month=2
 waytype=track
 freight=Passagiere
 payload=48
 length=11
 
-weight=36
-cost=486000
-upgrade_price=70000
-runningcost=22
+weight=37
+upgrade_price=11660
+cost=583000
+runningcost=29
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-loading_time=2500
+loading_time=6000
+comfort=110
 
 upgrade[0]=BR-Mk1-BC(Blue-Grey)
 

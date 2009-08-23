@@ -4,9 +4,9 @@ name=PieceEarly2
 speed=30
 copyright=James
 intro_year=1820
-intro_month=1
+intro_month=2
 retire_year=1835
-retire_month=1
+retire_month=7
 waytype=track
 freight=Bucher
 payload=3
@@ -16,6 +16,9 @@ weight=1
 cost=46000
 runningcost=1
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-piece-early2.0
 EmptyImage[SE]=./images/wagon-piece-early2.1

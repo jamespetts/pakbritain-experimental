@@ -24,6 +24,9 @@ is_tilting=1
 catering_level=3
 way_constraint_permissive[2]=2
 
+loading_time=9250
+comfort=140
+
 Constraint[Prev][0]=BR-370FrontCab(IC)
 Constraint[Prev][1]=BR-370Coach(IC)
 

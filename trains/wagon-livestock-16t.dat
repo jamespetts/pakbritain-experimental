@@ -4,9 +4,9 @@ name=Livestock16T
 speed=100
 copyright=James
 intro_year=1931
-intro_month=1
+intro_month=4
 retire_year=1973
-retire_month=1
+retire_month=8
 waytype=track
 freight=livestock
 payload=16
@@ -17,6 +17,9 @@ weight=8
 cost=150000
 runningcost=6
 sound=-1
+
+comfort=0
+loading_time=13000
 
 EmptyImage[E]=./images/wagon-livestock-16t.0
 EmptyImage[SE]=./images/wagon-livestock-16t.1

@@ -3,13 +3,13 @@ name=BR-156Front(Regional)
 engine_type=diesel
 smoke=Diesel
 speed=120
-###gear=395
+#gear=395
 power=212
 copyright=Kieron
 intro_year=1987
-intro_month=1
-retire_year=1993
-retire_month=1
+intro_month=7
+retire_year=2014
+retire_month=6
 waytype=track
 freight=Passagiere
 payload=84
@@ -22,6 +22,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+
+loading_time=7500
+comfort=90
 
 Constraint[Prev][0]=BR-156Rear(Regional)
 Constraint[Prev][1]=BR-153(Regional)

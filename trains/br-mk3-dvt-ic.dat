@@ -3,9 +3,9 @@ name=BR-Mk3-DVT(Intercity)
 speed=175
 copyright=Kieron
 intro_year=1988
-intro_month=1
-retire_year=2000
-retire_month=1
+intro_month=5
+retire_year=2015
+retire_month=9
 waytype=track
 freight=Post
 payload=30
@@ -19,8 +19,12 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 
+loading_time=9250
+comfort=0
+
 Constraint[Prev][0]=BR-Mk3-TO(Intercity)
 Constraint[Prev][1]=BR-Mk3-TRB(Intercity)
+Constraint[Next][2]=BR-Mk3-TRFB(Intercity)
 
 Constraint[Next][0]=None
 

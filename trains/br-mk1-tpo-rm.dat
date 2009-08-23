@@ -20,10 +20,16 @@ can_lead_from_rear=0
 bidirectional=1
 catering_level=1
 
+loading_time=8500
+comfort=0
+
 Constraint[Next][0]=BR-Mk1-POS(RoyalMail)
 Constraint[Next][1]=BR-Mk1-TPO(RoyalMail)
 Constraint[Next][2]=BR-Mk1-BG(RoyalMail)
 
+Constraint[Prev][0]=BR-Mk1-POS(RoyalMail)
+Constraint[Prev][1]=BR-Mk1-TPO(RoyalMail)
+Constraint[Prev][2]=BR-Mk1-BG(RoyalMail)
 
 EmptyImage[E]=./images/br-mk1-tpo-rm.0
 EmptyImage[SE]=./images/br-mk1-tpo-rm.1

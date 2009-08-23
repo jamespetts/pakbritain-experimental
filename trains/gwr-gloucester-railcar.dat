@@ -16,12 +16,15 @@ payload=63
 length=12
 
 weight=30
-cost=27720
+cost=4602000
 runningcost=264
 sound=-1
 
-can_lead_from_rear=1
+can_lead_from_rear=0
 bidirectional=1
+
+loading_time=7000
+comfort=92
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=none

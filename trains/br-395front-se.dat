@@ -23,6 +23,9 @@ can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[2]=2
 
+loading_time=6500
+comfort=95
+
 Constraint[Prev][0]=BR-395Rear(SE)
 Constraint[Prev][1]=none
 

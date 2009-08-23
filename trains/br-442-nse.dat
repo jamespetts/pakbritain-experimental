@@ -23,6 +23,9 @@ can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[0]=0
 
+loading_time=9250
+comfort=145
+
 Constraint[Prev][0]=BR-442-Rear(NSE)
 Constraint[Prev][1]=none
 
@@ -60,6 +63,9 @@ sound=-1
 can_lead_from_rear=0
 bidirectional=1
 way_constraint_permissive[0]=0
+
+loading_time=9250
+comfort=145
 
 Constraint[Prev][0]=BR-442-Front(NSE)
 Constraint[Next][0]=BR-442-Middle2(NSE)
@@ -99,6 +105,9 @@ bidirectional=1
 catering_level=3
 way_constraint_permissive[0]=0
 
+loading_time=9250
+comfort=145
+
 Constraint[Prev][0]=BR-442-Middle1(NSE)
 Constraint[Next][0]=BR-442-Middle3(NSE)
 
@@ -134,6 +143,9 @@ sound=-1
 can_lead_from_rear=0
 bidirectional=1
 way_constraint_permissive[0]=0
+
+loading_time=9250
+comfort=145
 
 Constraint[Prev][0]=BR-442-Middle2(NSE)
 Constraint[Next][0]=BR-442-Rear(NSE)
@@ -173,6 +185,9 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[0]=0
+
+loading_time=9250
+comfort=145
 
 Constraint[Prev][0]=BR-442-Middle3(NSE)
 Constraint[Next][0]=BR-442-Front(NSE)

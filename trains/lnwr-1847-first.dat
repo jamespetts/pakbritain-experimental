@@ -3,9 +3,9 @@ name=LNWR-1847-First
 speed=100
 copyright=James
 intro_year=1847
-intro_month=1
-retire_year=1876
-retire_month=1
+intro_month=4
+retire_year=1889
+retire_month=6
 waytype=track
 freight=Passagiere
 payload=24
@@ -18,6 +18,9 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+
+comfort=36
+loading_time=3750
 
 Constraint[Next][0]=LNWR-6Wheel-First
 Constraint[Next][1]=LNWR-6Wheel-Guard

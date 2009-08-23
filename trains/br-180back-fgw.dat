@@ -3,13 +3,13 @@ name=BR-180Rear(FGW)
 engine_type=diesel
 smoke=Diesel
 speed=200
-###gear=320
+#gear=320
 power=560
 copyright=Kieron
 intro_year=2000
-intro_month=1
+intro_month=7
 retire_year=2030
-retire_month=1
+retire_month=3
 waytype=track
 freight=Passagiere
 payload=58
@@ -23,8 +23,12 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 
+loading_time=9000
+comfort=125
+
 Constraint[Prev][0]=BR-180Middle(FGW)
 Constraint[Prev][1]=BR-180Front(FGW)
+Constraint[Prev][2]=BR-180Middle-Buffet(FGW)
 
 Constraint[Next][0]=BR-180Front(FGW)
 Constraint[Next][1]=none

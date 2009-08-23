@@ -2,13 +2,13 @@ obj=vehicle
 name=RM-325Power(RM)
 engine_type=electric
 speed=160
-##gear=550
+#gear=550
 power=990
 copyright=Kieron
 intro_year=1996
-intro_month=1
+intro_month=6
 retire_year=2020
-retire_month=1
+retire_month=11
 waytype=track
 freight=Post
 payload=50
@@ -18,6 +18,9 @@ weight=50
 cost=1200000
 runningcost=181
 sound=-1
+
+loading_time=9500
+comfort=0
 
 Constraint[Prev][0]=RM-325Front(RM)
 

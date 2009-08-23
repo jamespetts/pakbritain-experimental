@@ -6,9 +6,9 @@ speed=80
 power=140
 copyright=Kieron
 intro_year=1992
-intro_month=1
+intro_month=2
 retire_year=2010
-retire_month=1
+retire_month=9
 waytype=track
 freight=Passagiere
 payload=125
@@ -20,6 +20,9 @@ sound=-1
 
 can_lead_from_rear=1
 way_constraint_permissive[0]=0
+
+loading_time=4500
+comfort=54
 
 Constraint[Prev][0]=DLR-B92Rear
 Constraint[Prev][1]=none

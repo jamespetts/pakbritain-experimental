@@ -6,9 +6,9 @@ speed=80
 power=131
 copyright=Kieron
 intro_year=1987
-intro_month=1
+intro_month=3
 retire_year=2000
-retire_month=1
+retire_month=8
 waytype=track
 freight=Passagiere
 payload=105
@@ -20,6 +20,9 @@ sound=-1
 
 can_lead_from_rear=1
 way_constraint_permissive[0]=0
+
+loading_time=4500
+comfort=54
 
 Constraint[Prev][0]=DLR-P86Front
 

@@ -3,9 +3,9 @@ name=Bulk Hopper(HAA)
 speed=95
 copyright=Kieron
 intro_year=1965
-intro_month=1
+intro_month=3
 retire_year=2005
-retire_month=1
+retire_month=5
 waytype=track
 freight=Kohle
 payload=32
@@ -15,6 +15,9 @@ weight=13
 cost=300000
 runningcost=7
 sound=-1
+
+comfort=0
+loading_time=6500
 
 EmptyImage[E]=./images/wagon-haa.0
 EmptyImage[SE]=./images/wagon-haa.1

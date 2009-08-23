@@ -4,9 +4,9 @@ name=Wagon2CarFlat
 speed=75
 copyright=James
 intro_year=1930
-intro_month=1
+intro_month=3
 retire_year=1960
-retire_month=1
+retire_month=2
 waytype=track
 freight=Autos
 payload=2
@@ -18,6 +18,8 @@ cost=140000
 runningcost=8
 sound=-1
 
+comfort=0
+loading_time=12000
 
 EmptyImage[E]=./images/wagon-2-car-flat.0
 EmptyImage[SE]=./images/wagon-2-car-flat.1

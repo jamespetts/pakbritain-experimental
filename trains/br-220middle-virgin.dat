@@ -26,7 +26,9 @@ can_lead_from_rear=0
 bidirectional=1
 # Trolley service if no shop
 catering_level=1 
-comfort=72
+
+loading_time=8750
+comfort=90
 
 Constraint[Prev][0]=BR-220Front(Virgin)
 Constraint[Prev][1]=BR-220Middle(Virgin)
@@ -74,7 +76,9 @@ sound=-1
 can_lead_from_rear=0
 bidirectional=1
 catering_level=2
-comfort=72
+
+loading_time=8750
+comfort=90
 
 Constraint[Prev][0]=BR-220Front(Virgin)
 Constraint[Prev][1]=BR-220Middle(Virgin)
@@ -122,7 +126,9 @@ bidirectional=1
 is_tilting=1
 # Trolley service if no shop
 catering_level=1 
-comfort=72
+
+loading_time=8750
+comfort=90
 
 Constraint[Prev][0]=BR-221Front(Virgin)
 Constraint[Prev][1]=BR-221Middle(Virgin)
@@ -169,7 +175,9 @@ can_lead_from_rear=0
 bidirectional=1
 is_tilting=1
 catering_level=2
-comfort=72
+
+loading_time=8750
+comfort=90
 
 Constraint[Prev][0]=BR-221Front(Virgin)
 Constraint[Prev][1]=BR-221Middle(Virgin)

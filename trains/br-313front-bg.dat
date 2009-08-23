@@ -3,12 +3,12 @@ name=BR-313Front(Blue-Grey)
 engine_type=electric
 speed=120
 power=328
-###gear=680
+#gear=680
 copyright=Kieron
-intro_year=1976
-intro_month=1
+intro_year=1975
+intro_month=12
 retire_year=2020
-retire_month=1
+retire_month=5
 waytype=track
 freight=Passagiere
 payload=74
@@ -21,6 +21,9 @@ sound=-1
 
 can_lead_from_rear=1
 bidirectional=0
+
+loading_time=6100
+comfort=60
 
 Constraint[Prev][0]=BR-313Rear(Blue-Grey)
 Constraint[Prev][1]=none

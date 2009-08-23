@@ -3,22 +3,23 @@ name=BR-Mk1-BC(Crimson-Cream)
 speed=145
 copyright=Kieron
 intro_year=1951
-intro_month=1
-retire_year=1959
-retire_month=1
+intro_month=2
+retire_year=1962
+retire_month=9
 waytype=track
 freight=Passagiere
 payload=48
 length=11
 
 weight=36
-cost=486000
-runningcost=25
+cost=583000
+runningcost=34
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-#loading_time=2500
+loading_time=6000
+comfort=110
 
 upgrade[0]=BR-Mk1-BC(Maroon)
 upgrade[1]=BR-Mk1-BC(Blue-Grey)

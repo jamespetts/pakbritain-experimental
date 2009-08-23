@@ -1023,7 +1023,7 @@ BR Class 221 "Super Voyager"
 GWR-ParkRoyal-Railcar
 GWR Park Royal Railcar
 SR-Bulleid-Express-Brake(Green)
-SR Express Carriage (brake)
+SR Bulleid Express Carriage (brake)
 BR-Mk1-BC(Blue-Grey)
 BR Mk.1 Carriage (brake)
 BR-Mk1-BC(Crimson-Cream)
@@ -1083,7 +1083,7 @@ BR Class 170 "Turbostar" DMU (middle)
 BR-170Rear(Scotrail)
 BR Class 170 "Turbostar" DMU (rear)
 SR-Bulleid-Express-Coach(Green)
-SR Express Carriage
+SR Bulleid Express Carriage
 BR-180Middle(FGW)
 BR Class 180 "Adelante" (middle)
 BR-180Rear(FGW)
@@ -1147,11 +1147,11 @@ GWR Gloucester Railcar
 GWR-Autocoach
 GWR Autocoach
 GWR-Droplight-Third(Mahogany)
-GWR Droplight carriage
+GWR Corridor carriage
 GWR-Droplight-Brake(Mahogany)
-GWR Droplight brake carriage
+GWR Corridor brake carriage
 GWR-Droplight-Dining(Mahogany)
-GWR Droplight buffet carriage
+GWR Corridor dining carriage
 LNER-Gresley-Express-Coach(Teak)
 LNER Teak Express Carriage
 BR-Mk1-TO(Blue-Grey)
@@ -1210,6 +1210,8 @@ LMS-502Front(Maroon)
 LMS Class 502 EMU
 LMS-502Rear(Maroon)
 LMS Class 502 EMU (rear)
+LMS-502Middle(Maroon)
+LMS Class 502 EMU (middle)
 Metropolitan-Motor-Third-Front
 Metropolitan 1907 Motorised Tube Stock
 Metropolitan-Motor-Third-Middle
@@ -1325,23 +1327,23 @@ LMS "Coronation Scot" Carriage (front brake)
 LMS-Coronation-BTK(Maroon)
 LMS "Coronation Scot" Carriage (rear brake)
 LMS-Coronation-FK(Maroon)
-LMS "Coronation Scot" Carriage (first class)
+LMS "Coronation Scot" Dining Carriage
 LMS-Coronation-TO(Maroon)
-LMS "Coronation Scot" Carriage (third class)
+LMS "Coronation Scot" Carriage 
 MR-Clerestory-Brake
 MR Clerestory Carriage (brake)
 MR-Clerestory-Coach
 MR Clerestory Carriage
 Teak-Clerestory-Brake
-Teak Clerestory Carriage (brake)
+GNR Clerestory Carriage (brake)
 Teak-Clerestory-Coach
-Teak Clerestory Carriage
+GNR Clerestory Carriage
 Teak-Clerestory-Dining
-Teak Clerestory Dining Carriage
+GNR Clerestory Dining Carriage
 CC-Clerestory-Brake
-Chocolate & Cream Clerestory Carriage (brake)
+GWR Clerestory Carriage (brake)
 CC-Clerestory-Coach
-Chocolate & Cream Clerestory Carriage
+GWR Clerestory Carriage
 SR-Maunsell-Brake(Green)
 SR Maunsell Express Carriage (brake)
 SR-Maunsell-Third(Green)
@@ -1609,7 +1611,7 @@ LNER 7t brake van
 BrakeBR
 BR standard 7t brake van
 CC-Clerestory-Dining
-GWR Chocolate & cream clerestory dining car
+GWR clerestory dining car
 GWR-Express-Dining
 GWR express dining car
 LMS-d1904-dining
@@ -1632,24 +1634,34 @@ BR-Mk1-RBR(Blue-Grey)
 BR Mk. 1 Restaurant Buffet Refurbished
 BR-Mk2-RFB(Intercity)
 BR Mk. 2d Mini-Buffet
+BR-Mk2-DBSO(Intercity)
+BR Mk. 2a Driving Brake Open
+BR-Mk2a-RMB(Blue-Grey)
+BR Mk. 2a Mini-Buffet
+BR-Mk2a-TSO(Blue-Grey)
+BR Mk. 2a Standard Open
+BR-Mk2a-BSO(Blue-Grey)
+BR Mk. 2a Brake Open
 BR-Mk3-TRB(Intercity)
+BR Mk. 3 Buffet
+BR-Mk3-TRFB(Intercity)
 BR Mk. 3 Restaurant Buffet
 BR-Mk4-RSB(Intercity)
 BR Mk. 4 Restaurant Buffet
 LSWR-Third-Brake
-LSWR Third Brake
+LSWR Compartment Brake
 LSWR-Third-Carriage
-LSWR Third Carriage
+LSWR Compartment Carriage
 LNWR-1847-Mail
 LNWR 4-wheel mail coach
 CC-Clerestory-Parcel-Brake
-GWR Chocolate & cream clerestory parcel brake coach
+GWR clerestory parcel brake coach
 CC-Clerestory-TPO
-GWR Chocolate & cream clerestory travelling post office
+GWR clerestory travelling post office
 Teak-Clerestory-Parcel-Brake
-LNER clerestory parcel brake coach (teak)
+GNR clerestory parcel brake coach (teak)
 Teak-Clerestory-TPO
-LNER clerestory travelling post office (teak)
+GNR clerestory travelling post office (teak)
 MR-Clerestory-Parcel-Brake
 MR clerestory parcel brake coach
 MR-Clerestory-TPO
@@ -1685,12 +1697,14 @@ SR Travelling Post Office
 BR-Mk1-TPO(RoyalMail)
 BR Mk. 1 Travelling Post Office
 CC-Clerestory-Mail
-GWR Chocolate & cream clerestory mail van
+GWR clerestory mail van
 Teak-Clerestory-Mail
 GNR Clerestory Mail Van (teak)
 MR-Clerestory-Mail
 MR Clerestory Mail van
 BR-Mk1-BG(Crimson-Cream)
+BR Mk. 1 Gangwayed Brake
+BR-Mk1-BG(RoyalMail)
 BR Mk. 1 Gangwayed Brake
 BR-Mk1-BG(Maroon)
 BR Mk. 1 Gangwayed Brake

@@ -12,13 +12,16 @@ payload=56
 length=9
 
 weight=31
-cost=530000
-runningcost=45
+cost=885000
+runningcost=56
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
 catering_level=5
+
+loading_time=9000
+comfort=126
 
 Constraint[Prev][0]=LNER-Coronation-Brake-Third-Twin(rear)
 Constraint[Prev][1]=LNER-Coronation-Brake-Third-Triple(rear)
@@ -48,13 +51,16 @@ payload=0
 length=7
 
 weight=31
-cost=530000
-runningcost=15
+cost=885000
+runningcost=25
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
 catering_level=5
+
+loading_time=9000
+comfort=126
 
 Constraint[Prev][0]=LNER-Coronation-Restaurant-Triple(front)
 
@@ -74,22 +80,25 @@ name=LNER-Coronation-Restaurant-Triple(rear)
 speed=175
 copyright=Kieron
 intro_year=1935
-intro_month=1
+intro_month=7
 retire_year=1955
-retire_month=1
+retire_month=10
 waytype=track
 freight=Passagiere
 payload=36
 length=9
 
 weight=31
-cost=530000
+cost=885000
 runningcost=25
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
 catering_level=5
+
+loading_time=9000
+comfort=126
 
 Constraint[Prev][0]=LNER-Coronation-Restaurant-Triple(middle)
 

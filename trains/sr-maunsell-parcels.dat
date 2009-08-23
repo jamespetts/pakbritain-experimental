@@ -3,18 +3,24 @@ name=SR-Maunsell-Parcels(Green)
 speed=160
 copyright=James
 intro_year=1926
-intro_month=1
-retire_year=1960
-retire_month=1
+intro_month=9
+retire_year=1959
+retire_month=3
 waytype=track
 freight=Post
 payload=40
 length=8
 
-weight=34
-cost=721000
+weight=33
+cost=633000
 runningcost=39
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+
+loading_time=6400
+comfort=0
 
 EmptyImage[E]=./images/sr-maunsell-parcels.0
 EmptyImage[SE]=./images/sr-maunsell-parcels.1

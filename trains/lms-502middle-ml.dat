@@ -5,9 +5,9 @@ speed=112
 power=0
 copyright=Kieron
 intro_year=1939
-intro_month=1
+intro_month=8
 retire_year=1970
-retire_month=1
+retire_month=12
 waytype=track
 freight=Passagiere
 payload=102
@@ -20,6 +20,9 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+
+loading_time=6400
+comfort=90
 
 Constraint[Prev][0]=LMS-502Front(Maroon)
 Constraint[Prev][1]=LMS-502Middle(Maroon)

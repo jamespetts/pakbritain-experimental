@@ -3,21 +3,24 @@ name=SR-Bulleid-Express-Brake(Green)
 speed=175
 copyright=Kieron
 intro_year=1941
-intro_month=1
+intro_month=9
 retire_year=1960
-retire_month=1
+retire_month=12
 waytype=track
 freight=Passagiere
 payload=48
 length=11
 
-weight=34
+weight=32
 cost=434000
 runningcost=22
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+
+loading_time=6000
+comfort=104
 
 EmptyImage[E]=./images/sr-bulleid-express-brake.0
 EmptyImage[SE]=./images/sr-bulleid-express-brake.1

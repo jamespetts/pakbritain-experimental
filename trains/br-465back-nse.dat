@@ -6,9 +6,9 @@ speed=120
 power=600
 copyright=Kieron
 intro_year=1991
-intro_month=1
+intro_month=9
 retire_year=2020
-retire_month=1
+retire_month=11
 waytype=track
 freight=Passagiere
 payload=86
@@ -22,6 +22,9 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[0]=0
+
+loading_time=6300
+comfort=85
 
 Constraint[Prev][0]=BR-465Middle(NSE)
 Constraint[Prev][1]=BR-465Front(NSE)

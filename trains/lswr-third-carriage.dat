@@ -1,14 +1,15 @@
+# Compartment stock
 obj=vehicle
 name=LSWR-Third-Carriage
 speed=130
 copyright=Kieron/James
 intro_year=1900
-intro_month=1
+intro_month=5
 retire_year=1923
-retire_month=1
+retire_month=11
 waytype=track
 freight=Passagiere
-payload=64
+payload=72
 length=10
 
 weight=25
@@ -18,6 +19,8 @@ sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+loading_time=4000
+comfort=73
 
 Constraint[Next][0]=LSWR-Third-Carriage
 Constraint[Next][1]=LSWR-Third-Brake

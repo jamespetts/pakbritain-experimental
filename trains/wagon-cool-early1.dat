@@ -6,7 +6,7 @@ copyright=James
 intro_year=1750
 intro_month=1
 retire_year=1918
-retire_month=1
+retire_month=11
 waytype=track
 freight=meat
 payload=2
@@ -16,6 +16,10 @@ weight=0.5
 cost=46000
 runningcost=1
 sound=-1
+
+comfort=0
+loading_time=12000
+way_constraint_prohibitive[0]=0
 
 EmptyImage[E]=./images/wagon-piece-early1.0
 EmptyImage[SE]=./images/wagon-piece-early1.1

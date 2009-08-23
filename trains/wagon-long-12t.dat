@@ -4,9 +4,9 @@ name=Long12T
 speed=65
 copyright=James
 intro_year=1923
-intro_month=1
+intro_month=2
 retire_year=1948
-retire_month=1
+retire_month=5
 waytype=track
 freight=Bretter
 payload=12
@@ -17,6 +17,9 @@ weight=7
 cost=140000
 runningcost=8
 sound=-1
+
+comfort=0
+loading_time=15000
 
 EmptyImage[E]=./images/wagon-long-12t.0
 EmptyImage[SE]=./images/wagon-long-12t.1

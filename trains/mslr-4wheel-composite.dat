@@ -1,11 +1,13 @@
+# http://www.vintagecarriagestrust.org/MS&L.htm
+
 obj=vehicle
 name=MSLR-4Wheel-Composite
-speed=110
+speed=115
 copyright=Kieron
 intro_year=1876
-intro_month=1
+intro_month=4
 retire_year=1920
-retire_month=1
+retire_month=3
 waytype=track
 freight=Passagiere
 payload=34
@@ -16,9 +18,11 @@ cost=295000
 runningcost=19
 sound=-1
 
+comfort=47
+loading_time=3500
+
 can_lead_from_rear=0
 bidirectional=1
-catering_level=0
 
 Constraint[Next][0]=LNWR-6Wheel-First
 Constraint[Next][1]=LNWR-6Wheel-Guard

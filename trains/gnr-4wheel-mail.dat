@@ -1,20 +1,23 @@
 obj=vehicle
 name=GNR-4Wheel-Mail
-speed=120
+speed=125
 copyright=Kieron/James
 intro_year=1870
-intro_month=1
+intro_month=12
 retire_year=1920
-retire_month=1
+retire_month=11
 waytype=track
 freight=Post
 payload=34
 length=6
 
 weight=12
-cost=295000
-runningcost=19
+cost=320000
+runningcost=22
 sound=-1
+
+comfort=0
+loading_time=6500
 
 Constraint[Next][0]=GNR-6Wheel-First
 Constraint[Next][1]=GNR-6Wheel-Guard

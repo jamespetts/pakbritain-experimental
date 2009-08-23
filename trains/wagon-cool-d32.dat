@@ -4,9 +4,9 @@ name=CoolD32
 speed=70
 copyright=James
 intro_year=1855
-intro_month=1
+intro_month=3
 retire_year=1903
-retire_month=1
+retire_month=4
 waytype=track
 freight=meat
 payload=8
@@ -17,6 +17,9 @@ weight=4
 cost=100000
 runningcost=5
 sound=-1
+
+comfort=0
+loading_time=13000
 
 EmptyImage[E]=./images/wagon-cool-d32.0
 EmptyImage[SE]=./images/wagon-cool-d32.1

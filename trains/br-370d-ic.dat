@@ -24,6 +24,9 @@ bidirectional=1
 is_tilting=1
 way_constraint_permissive[2]=2
 
+loading_time=9250
+comfort=140
+
 Constraint[Prev][0]=BR-370Buffet(IC)
 
 Constraint[Next][0]=BR-370RearPower(IC)

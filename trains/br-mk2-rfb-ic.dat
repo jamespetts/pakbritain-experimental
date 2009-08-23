@@ -1,11 +1,11 @@
 obj=vehicle
 name=BR-Mk2-RFB(Intercity)
-speed=175
+speed=160
 copyright=Kieron
 intro_year=1973
-intro_month=1
-retire_year=2000
-retire_month=1
+intro_month=3
+retire_year=2003
+retire_month=7
 waytype=track
 freight=Passagiere
 payload=30
@@ -20,11 +20,15 @@ can_lead_from_rear=0
 bidirectional=1
 catering_level=2
 
+loading_time=9250
+comfort=130
+
 Constraint[Next][0]=BR-Mk2-TO(Intercity)
 Constraint[Next][1]=BR-489[GLV](Intercity)
 Constraint[Next][2]=BR-Mk2-RFB(Intercity)
 Constraint[Next][3]=BR-Mk2-DBSO(Intercity)
-Constraint[Next][4]=none
+Constraint[Next][4]=BR-Mk1-BG(Blue-Grey)
+Constraint[Next][5]=none
 
 EmptyImage[E]=./images/br-mk2-rfb-ic.0
 EmptyImage[SE]=./images/br-mk2-rfb-ic.1

@@ -4,9 +4,9 @@ name=BrakeLNER
 speed=100
 copyright=James
 intro_year=1926
-intro_month=1
+intro_month=2
 retire_year=1950
-retire_month=1
+retire_month=6
 waytype=track
 
 length=4

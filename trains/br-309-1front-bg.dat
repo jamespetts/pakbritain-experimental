@@ -6,9 +6,9 @@ power=846
 #gear=340
 copyright=Kieron
 intro_year=1962
-intro_month=1
-retire_year=1990
-retire_month=1
+intro_month=10
+retire_year=1996
+retire_month=7
 waytype=track
 freight=Passagiere
 payload=50
@@ -22,6 +22,9 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[2]=2
+
+loading_time=6000
+comfort=97
 
 Constraint[Prev][0]=BR-309Rear(Blue-Grey)
 Constraint[Prev][1]=none

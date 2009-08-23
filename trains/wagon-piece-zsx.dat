@@ -4,9 +4,9 @@ name=PieceZSX
 speed=120
 copyright=James
 intro_year=1968
-intro_month=1
+intro_month=6
 retire_year=2010
-retire_month=1
+retire_month=4
 waytype=track
 freight=Bucher
 payload=24
@@ -17,6 +17,9 @@ weight=12
 cost=200000
 runningcost=10
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-piece-zsx.0
 EmptyImage[SE]=./images/wagon-piece-zsx.1

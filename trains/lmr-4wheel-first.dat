@@ -3,18 +3,21 @@ name=LMR-4Wheel-First
 speed=55
 copyright=Kieron
 intro_year=1830
-intro_month=1
+intro_month=5
 retire_year=1855
-retire_month=1
+retire_month=3
 waytype=track
 freight=Passagiere
-payload=24
+payload=18
 length=4
 
 weight=2
 cost=144000
-runningcost=7
+runningcost=9
 sound=-1
+
+comfort=40
+loading_time=3750
 
 can_lead_from_rear=0
 bidirectional=1

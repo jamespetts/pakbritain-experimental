@@ -4,9 +4,9 @@ name=Long10T
 speed=65
 copyright=James
 intro_year=1903
-intro_month=1
+intro_month=3
 retire_year=1923
-retire_month=1
+retire_month=9
 waytype=track
 freight=Bretter
 payload=10
@@ -17,6 +17,9 @@ weight=7
 cost=120000
 runningcost=6
 sound=-1
+
+comfort=0
+loading_time=15000
 
 EmptyImage[E]=./images/wagon-long-10t.0
 EmptyImage[SE]=./images/wagon-long-10t.1

@@ -3,18 +3,24 @@ name=SR-Bulleid-Express-Coach(Green)
 speed=175
 copyright=Kieron
 intro_year=1941
-intro_month=1
+intro_month=9
 retire_year=1960
-retire_month=1
+retire_month=12
 waytype=track
 freight=Passagiere
-payload=56
+payload=64
 length=11
 
-weight=34
+weight=32
 cost=579000
 runningcost=29
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+
+loading_time=6000
+comfort=104
 
 Constraint[Next][0]=SR-Bulleid-Express-Coach(Green)
 Constraint[Next][1]=SR-Bulleid-Express-Brake(Green)
@@ -34,18 +40,24 @@ name=SR-Bulleid-Express-Dining(Green)
 speed=175
 copyright=Kieron
 intro_year=1941
-intro_month=1
+intro_month=9
 retire_year=1960
-retire_month=1
+retire_month=12
 waytype=track
 freight=Passagiere
 payload=24
 length=11
 
-weight=34
-cost=579000
-runningcost=29
+weight=32
+cost=677000
+runningcost=40
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+
+loading_time=6000
+comfort=104
 
 Constraint[Next][0]=SR-Bulleid-Express-Coach(Green)
 Constraint[Next][1]=SR-Bulleid-Express-Brake(Green)

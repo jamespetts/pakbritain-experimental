@@ -23,6 +23,9 @@ bidirectional=1
 is_tilting=1
 way_constraint_permissive[2]=2
 
+loading_time=9000
+comfort=132
+
 Constraint[Prev][0]=BR-390FrontCab(Virgin)
 
 Constraint[Next][0]=BR-390FrontPantograph(Virgin)

@@ -4,9 +4,9 @@ name=BrakeSR
 speed=100
 copyright=James
 intro_year=1923
-intro_month=1
+intro_month=10
 retire_year=1950
-retire_month=1
+retire_month=12
 waytype=track
 freight=Post
 payload=5
@@ -14,9 +14,15 @@ length=4
 
 #?
 weight=7
-cost=0
-runningcost=0
+cost=3700
+runningcost=17
 sound=-1
+
+comfort=0
+loading_time=4000
+
+can_lead_from_rear=0
+bidirectional=1
 
 EmptyImage[E]=./images/wagon-brake-sr.0
 EmptyImage[SE]=./images/wagon-brake-sr.1

@@ -7,9 +7,9 @@ speed=200
 power=1678
 copyright=Kieron
 intro_year=1976
-intro_month=1
-retire_year=2000
-retire_month=1
+intro_month=3
+retire_year=2015
+retire_month=9
 waytype=track
 freight=Post
 payload=15
@@ -19,6 +19,9 @@ weight=70
 cost=9331000
 runningcost=2508
 sound=-1
+
+loading_time=9250
+comfort=0
 
 Constraint[Prev][0]=BR-Mk3-TO(Intercity)
 Constraint[Prev][1]=BR-Mk3-TRB(Intercity)

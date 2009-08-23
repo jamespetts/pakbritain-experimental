@@ -4,9 +4,9 @@ name=CoolZSX
 speed=120
 copyright=James
 intro_year=1968
-intro_month=1
+intro_month=5
 retire_year=2010
-retire_month=1
+retire_month=7
 waytype=track
 freight=meat
 payload=24
@@ -17,6 +17,9 @@ weight=12
 cost=200000
 runningcost=10
 sound=-1
+
+comfort=0
+loading_time=12000
 
 EmptyImage[E]=./images/wagon-cool-zsx.0
 EmptyImage[SE]=./images/wagon-cool-zsx.1

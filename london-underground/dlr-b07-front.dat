@@ -6,7 +6,7 @@ speed=85
 power=150
 copyright=Kieron
 intro_year=2007
-intro_month=1
+intro_month=4
 retire_year=2035
 retire_month=1
 waytype=track
@@ -23,6 +23,9 @@ way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=DLR-B07Rear
 Constraint[Prev][1]=none
+
+loading_time=4500
+comfort=54
 
 Constraint[Next][0]=DLR-B07Rear
 

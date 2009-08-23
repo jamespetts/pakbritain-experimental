@@ -3,22 +3,24 @@ name=Teak-Clerestory-Coach
 speed=130
 copyright=James
 intro_year=1900
-intro_month=1
-retire_year=1923
-retire_month=1
+intro_month=4
+retire_year=1936
+retire_month=10
 waytype=track
 freight=Passagiere
 payload=60
 length=10
 
 weight=25
-cost=648000
+cost=660000
 runningcost=32
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
-catering_level=0
+
+loading_time=4750
+comfort=97
 
 Constraint[Next][0]=Teak-Clerestory-Coach
 Constraint[Next][1]=Teak-Clerestory-Brake

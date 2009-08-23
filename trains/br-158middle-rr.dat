@@ -3,13 +3,13 @@ name=BR-158Middle(Regional)
 engine_type=diesel
 smoke=Diesel
 speed=145
-###gear=350
+#gear=350
 power=260
 copyright=Kieron
 intro_year=1990
-intro_month=1
+intro_month=4
 retire_year=2020
-retire_month=1
+retire_month=10
 waytype=track
 freight=Passagiere
 payload=72
@@ -17,11 +17,15 @@ length=13
 
 weight=38
 cost=2100000
-runningcost=154
+runningcost=162
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+catering_level=1
+
+loading_time=9500
+comfort=100
 
 Constraint[Prev][0]=BR-158Front(Regional)
 Constraint[Prev][1]=BR-158Middle(Regional)

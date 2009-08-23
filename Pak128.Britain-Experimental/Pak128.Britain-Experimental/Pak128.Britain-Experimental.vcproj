@@ -927,6 +927,18 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-mk2a-bso-bg.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk2a-rmb-bg.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk2a-tso-bg.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-mk3-dvt-ic.dat"
 				>
 			</File>

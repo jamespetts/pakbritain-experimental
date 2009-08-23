@@ -3,9 +3,9 @@ name=Bulk16T
 speed=65
 copyright=Kieron
 intro_year=1943
-intro_month=1
+intro_month=5
 retire_year=1987
-retire_month=1
+retire_month=4
 waytype=track
 freight=Kohle
 payload=16
@@ -15,6 +15,9 @@ weight=7
 cost=160000
 runningcost=9
 sound=-1
+
+comfort=0
+loading_time=10000
 
 EmptyImage[E]=./images/wagon-16t.0
 EmptyImage[SE]=./images/wagon-16t.1
