@@ -19,6 +19,9 @@ cost=10080
 runningcost=132
 sound=-1
 
+loading_time=6400
+comfort=97
+
 can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[0]=0
