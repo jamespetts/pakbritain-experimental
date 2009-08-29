@@ -14,7 +14,7 @@ length=2
 
 weight=1
 cost=100000
-runningcost=30
+runningcost=15
 sound=-1
 
 EmptyImage[E]=./images/bus-horse-double.0
@@ -42,7 +42,7 @@ length=2
 
 weight=1
 cost=50000
-runningcost=60
+runningcost=7
 sound=-1
 
 EmptyImage[E]=./images/bus-horse-single.0

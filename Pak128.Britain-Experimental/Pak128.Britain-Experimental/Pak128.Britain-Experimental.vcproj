@@ -1003,6 +1003,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\carts.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\catering.txt"
 				>
 			</File>
@@ -1251,6 +1255,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\eagle-trailers.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\edittools.txt"
 				>
 			</File>
@@ -1292,6 +1300,10 @@
 			</File>
 			<File
 				RelativePath="..\..\industry\fishmongers.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\foden-compound.dat"
 				>
 			</File>
 			<File
@@ -1691,6 +1703,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\livestock_driver.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\lmr-4wheel-first.dat"
 				>
 			</File>
@@ -2039,7 +2055,15 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\mailcoach.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\Makeobj.exe"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\man_on_bicycle.dat"
 				>
 			</File>
 			<File
@@ -2507,6 +2531,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\road-locomotives.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\roadtools.txt"
 				>
 			</File>
@@ -2572,6 +2600,18 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\sdr-locomotion.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\sentinel-dg.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\sentinel-s.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\sentinel-standard.dat"
 				>
 			</File>
 			<File
@@ -2739,6 +2779,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\stage-wagons.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\lorries\stage_wagons.dat"
 				>
 			</File>
@@ -2812,6 +2856,14 @@
 			</File>
 			<File
 				RelativePath="..\..\ways\tgv.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\thornycroft-steam-van.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\thornycroft-wagon.dat"
 				>
 			</File>
 			<File
@@ -3113,6 +3165,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\wagons.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\attractions\war-memorial.dat"
 				>
 			</File>
@@ -3154,6 +3210,10 @@
 			</File>
 			<File
 				RelativePath="..\..\ways\wssri.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\bus\yorkshire-steam-tank.dat"
 				>
 			</File>
 		</Filter>

@@ -1,0 +1,56 @@
+# The old-fashioned way of moving livestock: just a man and dog,
+# droving them along the road.
+
+obj=vehicle
+name=LivestockDrover
+copyright=JamesPetts&JamesHood
+engine_type=bio
+#smoke=Steam
+waytype=road
+#Livestock drover
+freight=livestock
+payload=12
+power=5
+speed=6
+weight=0
+cost=2
+length=6
+runningcost=1
+intro_year=1492
+intro_month=3
+retire_year=1925
+retire_month=3
+loading_time=5000
+
+constraint[next][0]=none
+constraint[prev][0]=none
+
+# The below will need changing
+
+EmptyImage[E]=./images/livestock-drover.0.0
+EmptyImage[SE]=./images/livestock-drover.0.1
+EmptyImage[S]=./images/livestock-drover.0.2
+EmptyImage[SW]=./images/livestock-drover.0.3
+EmptyImage[W]=./images/livestock-drover.0.4
+EmptyImage[NW]=./images/livestock-drover.0.5
+EmptyImage[N]=./images/livestock-drover.0.6
+EmptyImage[NE]=./images/livestock-drover.0.7
+
+FreightImage[E]=./images/livestock-drover.1.0
+FreightImage[SE]=./images/livestock-drover.1.1
+FreightImage[S]=./images/livestock-drover.1.2
+FreightImage[SW]=./images/livestock-drover.1.3
+FreightImage[W]=./images/livestock-drover.1.4
+FreightImage[NW]=./images/livestock-drover.1.5
+FreightImage[N]=./images/livestock-drover.1.6
+FreightImage[NE]=./images/livestock-drover.1.7
+
+#Simutrans-Experimental specific settings: ignored by standard Makeobj
+
+loading_time=1000
+#upgrade[0]=
+#upgrade_price=
+available_only_as_upgrade=0
+fixed_maintenance=0
+overcrowded_capacity=0
+comfort=0

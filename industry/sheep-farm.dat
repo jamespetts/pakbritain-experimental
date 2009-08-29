@@ -40,6 +40,7 @@ probability_to_spawn=25
 production_per_field=1
 max_fields=100
 min_fields=10
+needs_ground=1
 has_snow=0
 --------------------
 Obj=factory
@@ -71,6 +72,7 @@ probability_to_spawn=30
 production_per_field=1
 max_fields=160
 min_fields=15
+needs_ground=1
 has_snow=0
 --------------------
 Obj=factory
@@ -102,6 +104,7 @@ probability_to_spawn=30
 production_per_field=2
 max_fields=210
 min_fields=20
+needs_ground=1
 has_snow=0
 --------------------
 Obj=factory
@@ -133,6 +136,7 @@ probability_to_spawn=30
 production_per_field=3
 max_fields=300
 min_fields=20
+needs_ground=1
 has_snow=0
 --------------------
 Obj=factory
@@ -162,5 +166,6 @@ probability_to_spawn=25
 production_per_field=4
 max_fields=200
 min_fields=20
+needs_ground=1
 has_snow=0
 --------------------

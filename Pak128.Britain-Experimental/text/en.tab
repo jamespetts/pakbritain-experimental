@@ -1904,6 +1904,116 @@ RoutemasterTrolleybus
 Routemaster (trolleybus)
 DennisDominatorTrolley
 Dennis Dominator (trolleybus)
+LightRoadLocomotive
+Road Locomotive
+HeavyRoadLocomotive
+Heavyweight Road Locomotive
+ThornycroftWagonLivestock
+Thornycroft Livestock Wagon
+SentinelStandardLivestock
+Sentinel Standard (Livestock)
+FodenCompoundLivestock
+Foden Compound (Livestock)
+SentinelDGLivestock
+Sentinel DG (Livestock)
+SentinelSLivestock
+Sentinel S (Livestock)
+LivestockDrover
+Livestock Drover
+ThornycroftSteamVanPiece
+Thornycroft Steam Van (Goods)
+ThornycroftWagonPiece
+Thornycroft Goods Wagon
+SentinelStandardPiece
+Sentinel Standard (Goods)
+FodenCompoundPiece
+Foden Compound (Goods)
+SentinelDGPiece
+Sentinel DG (Goods)
+SentinelSPiece
+Sentinel S (Goods)
+ThornycroftWagonBulk
+Thornycroft Steam Wagon (Bulk)
+SentinelStandardBulk
+Sentinel Standard (Bulk)
+FodenCompoundBulk
+Foden Compound (Bulk)
+SentinelSBulk
+Sentinel S (Bulk)
+SentinelDGBulk
+Sentinel DG (Bulk)
+YorkshireSteamTank
+Yorkshire Steam Tank
+ThornycroftSteamVanCool
+Thornycroft Steam Van (Foods)
+ThornycroftWagonCool
+Thornycroft Wagon (foods)
+ThornycroftWagonLong
+Thornycroft Wagon (Long Goods)
+SentinelStandardCool
+Sentinel Standard (Foods)
+FodenCompoundCool
+Foden Compound (Foods)
+SentinelSCool
+Sentinel S (Foods)
+SentinelDGCool
+Sentinel DG (Foods)
+ThornycroftSteamVanLong
+Thornycroft Steam Van (Long Goods)
+SentinelStandardLong
+Sentinel Standard (Long Goods)
+FodenCompoundLong
+Foden Compound (Long Goods)
+SentinelSLong
+Sentinel S (Long Goods)
+SentinelDGLong
+Sentinel DG (Long Goods)
+EagleTrailerLivestock
+Eagle Trailer (Livestock)
+CartPiece
+Cart (Goods)
+WagonPiece
+Wagon (Goods)
+StageWagonPiece
+Stage Wagon (Goods)
+EagleTrailerPiece
+Eagle Trailer (Goods)
+CartBulk
+Cart (Bulk)
+WagonPiece
+Wagon (Goods)
+WagonBulk
+Wagon (Bulk)
+StageWagonBulk
+Stage Wagon (Bulk)
+EagleTrailerBulk
+Eagle Trailer (Bulk)
+CartCool
+Cart (Foods)
+WagonCool
+Wagon (Foods)
+StageWagonCool
+Stage Wagon (Foods)
+EagleTrailerCool
+Eagle Trailer (Foods)
+EagleTrailerFluid
+Eagle Tanker
+CartLong
+Cart (Long Goods)
+WagonLong
+Wagon (Long Goods)
+EagleTrailerLong
+Eagle Trailer (Long Goods)
+MailBike
+Postal Bicycle
+CartMail
+Mail Cart
+ThornycroftSteamVanMail
+Thornycroft Steam Van (Mail)
+StageWagonMail
+Stage Wagon (mail)
+MailCoach
+Mail Coach
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 wrought_iron_track
