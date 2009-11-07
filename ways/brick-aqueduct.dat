@@ -9,6 +9,10 @@ retire_month=1
 cost=45000
 maintenance=600
 pillar_distance=1
+
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 cursor=images/brick-aqueduct.2.1
 icon=> images/brick-aqueduct.2.0
 BackImage[NS]=images/brick-aqueduct.0.5,0,32

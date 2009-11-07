@@ -17,7 +17,7 @@
 # passenger generation (default is 16 for Simutrans-Standard) Smaller values means fewer 
 # passengers Note: in Simutrans-Experimental, it is recommended to use a lower number.
 
-passenger_factor=8
+passenger_factor=13
 
 # in beginner mode, all good revenuses are multiplied by a factor (default 1500=1.5)
 
@@ -32,11 +32,11 @@ first_beginner = 0
 
 station_coverage = 3
 
-# The city weight factor determines how fast that cities grow. The larger the number,
-# the *slower* that cities will grow. The default is 100. Set the number at zero to 
-# disable city growth entirely. 
-
-city_weight_factor = 90
+# Town growth is size dependent. There are three different sizes (<1000, 1000-10000, >10000)
+# the idea is, that area increase by square but growth is linear
+growthfactor_villages = 100
+growthfactor_cities = 200
+growthfactor_capitals = 400
 
 # Some passengers who are not able to find a route will be content
 # to go to an alternative destination. Set the maximum number here.
@@ -305,7 +305,7 @@ factory_spacing = 8
 # that date, factories may close down (random chance each month). After the number
 # of years stipulated below, factories have a 100% chance of closing down. The
 # chance increases the closer to this value that factories get.
-max_years_obsolete = 30
+max_years_obsolete = 40
 
 ################################## Finance settings #################################
 
@@ -538,10 +538,10 @@ river_type[2] = River1
 river_type[3] = River0
 
 # The number of rivers
-river_number = 32
+river_number = 256
 
 # river min length (not too short)
-river_min_length = 32
+river_min_length = 8
 
 # river max length (not too long)
-river_max_length = 1024
+river_max_length = 2048

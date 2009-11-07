@@ -76,6 +76,10 @@ intro_year=1750
 intro_month=1
 retire_year=2050
 retire_month=1
+
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 # Normal images
 BackImage[W][0]=canal-tunnel.1.0
 FrontImage[W][0]=canal-tunnel.0.0

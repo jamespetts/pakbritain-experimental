@@ -279,6 +279,30 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\citycars\austin-metro.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\austin-metro.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\austin-princess.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\austin-princess.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\austin-seven.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\austin-seven.png"
+				>
+			</File>
+			<File
 				RelativePath=".\austin_seven_van.dat"
 				>
 			</File>
@@ -348,6 +372,18 @@
 			</File>
 			<File
 				RelativePath="..\..\trams\blackpool-standard.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\bmc-mini.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\bmc-mini.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\boat-horse.dat"
 				>
 			</File>
 			<File
@@ -967,6 +1003,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\brick-aqueduct.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\ways\brick-viaduct-road.dat"
 				>
 			</File>
@@ -992,6 +1032,14 @@
 			</File>
 			<File
 				RelativePath="..\..\industry\butchery.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\canal-tunnel.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\canal.dat"
 				>
 			</File>
 			<File
@@ -1315,6 +1363,30 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\citycars\ford-cortina.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\ford-cortina.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\ford-ka.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\ford-ka.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\ford-t.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\ford-t.png"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\forest-sawmill.dat"
 				>
 			</File>
@@ -1551,6 +1623,26 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\horse-barge.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\horse-carriage.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\horse-carriage.png"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\horse-cart-citycar.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\horse-cart-citycar.png"
+				>
+			</File>
+			<File
 				RelativePath="..\..\lorries\horse_wagons.dat"
 				>
 			</File>
@@ -1620,6 +1712,14 @@
 			</File>
 			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\labellist_filter.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\land-rover-series.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\land-rover-series.png"
 				>
 			</File>
 			<File
@@ -2167,6 +2267,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\citycars\morris-eight.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\morris-eight.png"
+				>
+			</File>
+			<File
 				RelativePath=".\morris_eight_van.dat"
 				>
 			</File>
@@ -2379,6 +2487,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\citycars\peel-p50.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\peel-p50.png"
+				>
+			</File>
+			<File
 				RelativePath="..\..\bus\petrol-electric-bus.dat"
 				>
 			</File>
@@ -2439,7 +2555,23 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\citycars\range-rover.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\range-rover.png"
+				>
+			</File>
+			<File
 				RelativePath="..\doc\readme128.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\reliant-robin.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\citycars\reliant-robin.png"
 				>
 			</File>
 			<File
@@ -2512,6 +2644,10 @@
 			</File>
 			<File
 				RelativePath="..\..\bus\rf.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\river.dat"
 				>
 			</File>
 			<File

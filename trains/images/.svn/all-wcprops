@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/svnroot/simutrans/!svn/ver/177/pak128.Britain/trains/images
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images
 END
 br-cl87-b.png
 K 25
@@ -13,7 +13,7 @@ wagon-brake-br.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-brake-br.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-brake-br.png
 END
 lnwr-6wheel-first.png
 K 25
@@ -25,7 +25,7 @@ br-mk2a-bso-bg.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/177/pak128.Britain/trains/images/br-mk2a-bso-bg.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk2a-bso-bg.png
 END
 rail_vehicle_alignment_r.png
 K 25
@@ -33,23 +33,23 @@ svn:wc:ra_dav:version-url
 V 89
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/rail_vehicle_alignment_r.png
 END
-lnwr-6wheel-guard.png
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lnwr-6wheel-guard.png
-END
 wagon-long-10t.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-long-10t.png
 END
-gwr-2800.png
+lnwr-6wheel-guard.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-2800.png
+V 82
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lnwr-6wheel-guard.png
+END
+mr-4wheel-brake.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-4wheel-brake.png
 END
 br-cl35-b.png
 K 25
@@ -57,23 +57,23 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl35-b.png
 END
-mr-4wheel-brake.png
+gwr-2800.png
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/mr-4wheel-brake.png
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/gwr-2800.png
+END
+2-car-flat.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/2-car-flat.png
 END
 gwr-prairie.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-prairie.png
-END
-2-car-flat.png
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/2-car-flat.png
 END
 br-104-g.png
 K 25
@@ -85,19 +85,19 @@ mr-spinner.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/mr-spinner.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-spinner.png
 END
 lner-gresley-express-tpo.png
 K 25
 svn:wc:ra_dav:version-url
 V 89
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lner-gresley-express-tpo.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-gresley-express-tpo.png
 END
 wagon-8t.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-8t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-8t.png
 END
 lms-502-ml.png
 K 25
@@ -109,13 +109,13 @@ sdr-locomotion.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sdr-locomotion.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sdr-locomotion.png
 END
 br-442.png
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-442.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-442.png
 END
 br-9f.png
 K 25
@@ -127,7 +127,7 @@ lnwr-problem.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lnwr-problem.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lnwr-problem.png
 END
 wagon-livestock-16t.png
 K 25
@@ -151,13 +151,13 @@ wagon-brake-gwr.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-brake-gwr.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-brake-gwr.png
 END
 wagon-piece-early3.png
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-early3.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-piece-early3.png
 END
 gwr-droplight-third-m.png
 K 25
@@ -169,13 +169,13 @@ teak-clerestory-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/teak-clerestory-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/teak-clerestory-mail.png
 END
 lms-garratt.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-garratt.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-garratt.png
 END
 br-158-rr.png
 K 25
@@ -189,11 +189,17 @@ svn:wc:ra_dav:version-url
 V 82
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gnr-stirling8foot.png
 END
-lner-a3.png
+wagon-3-car-bogie.png
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-a3.png
+V 82
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-3-car-bogie.png
+END
+wagon-5t.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-5t.png
 END
 lms-coronation-coaches-m.png
 K 25
@@ -201,17 +207,11 @@ svn:wc:ra_dav:version-url
 V 89
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-coronation-coaches-m.png
 END
-wagon-5t.png
+lner-a3.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-5t.png
-END
-wagon-3-car-bogie.png
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-3-car-bogie.png
+V 72
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-a3.png
 END
 br-370-ic.png
 K 25
@@ -225,17 +225,17 @@ svn:wc:ra_dav:version-url
 V 80
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-16t.png
 END
-lms-10000-b.png
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-10000-b.png
-END
 br-cl67-ews.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl67-ews.png
+END
+lms-10000-b.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-10000-b.png
 END
 lner-gresley-express-coach.png
 K 25
@@ -255,23 +255,23 @@ svn:wc:ra_dav:version-url
 V 79
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-stanier-7p.png
 END
-lswr-carriage-brake.png
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lswr-carriage-brake.png
-END
 br-mk2a-tso-bg.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/177/pak128.Britain/trains/images/br-mk2a-tso-bg.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk2a-tso-bg.png
+END
+lswr-carriage-brake.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lswr-carriage-brake.png
 END
 mslr-4wheel-brake.png
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/mslr-4wheel-brake.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mslr-4wheel-brake.png
 END
 br-mk4-tso-ic.png
 K 25
@@ -291,11 +291,11 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl55-g.png
 END
-gwr-churchward-star.png
+wagon-2t.png
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-churchward-star.png
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-2t.png
 END
 br-365-p-nse.png
 K 25
@@ -303,11 +303,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-365-p-nse.png
 END
-wagon-2t.png
+gwr-churchward-star.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-2t.png
+V 84
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-churchward-star.png
+END
+wagon-livestock-d21.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-livestock-d21.png
 END
 br-4mt-tank.png
 K 25
@@ -315,11 +321,11 @@ svn:wc:ra_dav:version-url
 V 76
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-4mt-tank.png
 END
-wagon-livestock-d21.png
+br-mk1-bc-bg.png
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-livestock-d21.png
+V 77
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-bc-bg.png
 END
 gwr-express-coach.png
 K 25
@@ -327,23 +333,11 @@ svn:wc:ra_dav:version-url
 V 82
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-express-coach.png
 END
-br-mk1-bc-bg.png
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-bc-bg.png
-END
 sr-maunsell-tpo.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/sr-maunsell-tpo.png
-END
-gwr-autocoach.png
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-autocoach.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-maunsell-tpo.png
 END
 lnwr-1847-mail.png
 K 25
@@ -351,23 +345,17 @@ svn:wc:ra_dav:version-url
 V 79
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lnwr-1847-mail.png
 END
+gwr-autocoach.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-autocoach.png
+END
 wagon-livestock-d25.png
 K 25
 svn:wc:ra_dav:version-url
 V 84
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-livestock-d25.png
-END
-br-mk1-guv-b.png
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-guv-b.png
-END
-sdr-1001.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sdr-1001.png
 END
 wagon-livestock-early1.png
 K 25
@@ -375,17 +363,29 @@ svn:wc:ra_dav:version-url
 V 87
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-livestock-early1.png
 END
+sdr-1001.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sdr-1001.png
+END
+br-mk1-guv-b.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-guv-b.png
+END
 lms-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lms-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-mail.png
 END
 lms-patriot.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-patriot.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-patriot.png
 END
 template.png
 K 25
@@ -397,13 +397,13 @@ lbscr-4wheel-brake.png
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lbscr-4wheel-brake.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lbscr-4wheel-brake.png
 END
 wagon-12t.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-12t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-12t.png
 END
 br-mk1-bg.png
 K 25
@@ -415,7 +415,7 @@ sr-maunsell-brake.png
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-maunsell-brake.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-maunsell-brake.png
 END
 rail_vehicle_alignment_c.png
 K 25
@@ -445,7 +445,7 @@ wagon-brake-lner.png
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-brake-lner.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-brake-lner.png
 END
 br-313-bg.png
 K 25
@@ -505,13 +505,13 @@ br-mk3-trb-ic.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk3-trb-ic.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk3-trb-ic.png
 END
 choc-cream-clerestory-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/choc-cream-clerestory-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/choc-cream-clerestory-mail.png
 END
 sr-bulleid-express-brake.png
 K 25
@@ -529,7 +529,7 @@ br-8p.png
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/168/pak128.Britain/trains/images/br-8p.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-8p.png
 END
 br-cl56-b.png
 K 25
@@ -541,19 +541,19 @@ mr-1000.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/mr-1000.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-1000.png
 END
 lnwr-jumbo.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lnwr-jumbo.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lnwr-jumbo.png
 END
 br-mk2a-rmb-bg.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/177/pak128.Britain/trains/images/br-mk2a-rmb-bg.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk2a-rmb-bg.png
 END
 br-cl58-g.png
 K 25
@@ -583,7 +583,7 @@ br-mk4-rsb-ic.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk4-rsb-ic.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk4-rsb-ic.png
 END
 gnr-6wheel-guard.png
 K 25
@@ -595,25 +595,25 @@ wagon-brake-sr.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-brake-sr.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-brake-sr.png
 END
 lner-em1.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-em1.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-em1.png
 END
 sr-n15.png
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-n15.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-n15.png
 END
 lnwr-Aclass.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lnwr-Aclass.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lnwr-Aclass.png
 END
 br-170-Scotrail.png
 K 25
@@ -625,31 +625,31 @@ lner-b17-5.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-b17-5.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-b17-5.png
 END
 wagon-container.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-container.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-container.png
 END
 sr-schools.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-schools.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-schools.png
 END
 ner-ee1.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/ner-ee1.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/ner-ee1.png
 END
 sdr-derwent.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sdr-derwent.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sdr-derwent.png
 END
 hr-jones-goods.png
 K 25
@@ -667,19 +667,19 @@ br-309-bg.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-309-bg.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-309-bg.png
 END
 lms-princess-royal.png
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-princess-royal.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-princess-royal.png
 END
 br-442-middle.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-442-middle.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-442-middle.png
 END
 gwr-panniertank.png
 K 25
@@ -703,13 +703,13 @@ wagon-long-20t.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-long-20t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-long-20t.png
 END
 gwr-1400-tank.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-1400-tank.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/gwr-1400-tank.png
 END
 mr-6wheel-mail.png
 K 25
@@ -727,19 +727,19 @@ br-mk2-rfb-ic.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk2-rfb-ic.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk2-rfb-ic.png
 END
 wagon-cool-d32.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-cool-d32.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-cool-d32.png
 END
 lmr-patentee.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lmr-patentee.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lmr-patentee.png
 END
 br-165-nse.png
 K 25
@@ -763,7 +763,7 @@ lms-4f.png
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-4f.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-4f.png
 END
 br-419-bg.png
 K 25
@@ -787,19 +787,19 @@ teak-clerestory.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/teak-clerestory.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/teak-clerestory.png
+END
+wagon-16t.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-16t.png
 END
 br-mk1-m.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-m.png
-END
-wagon-16t.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-16t.png
 END
 lms-d1904-m.png
 K 25
@@ -813,17 +813,17 @@ svn:wc:ra_dav:version-url
 V 72
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-v2.png
 END
+wagon-cool-zsx.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-cool-zsx.png
+END
 br-mk3-tso-ic.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk3-tso-ic.png
-END
-wagon-cool-zsx.png
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-cool-zsx.png
 END
 lnwr-6wheel-mail.png
 K 25
@@ -831,17 +831,17 @@ svn:wc:ra_dav:version-url
 V 81
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lnwr-6wheel-mail.png
 END
-br-410-bg.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-410-bg.png
-END
 br-mk1-bg-rm.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-bg-rm.png
+END
+br-410-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-410-bg.png
 END
 br-mk1-bc-cc.png
 K 25
@@ -865,25 +865,13 @@ wagon-cool-d88.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-cool-d88.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-cool-d88.png
 END
 shire.png
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/shire.png
-END
-gnr-4wheel-composite.png
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gnr-4wheel-composite.png
-END
-br-mk1-cc.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-cc.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/shire.png
 END
 sr-bil-g.png
 K 25
@@ -891,11 +879,29 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-bil-g.png
 END
+br-mk1-cc.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk1-cc.png
+END
+gnr-4wheel-composite.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gnr-4wheel-composite.png
+END
+br-cl31-b.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-cl31-b.png
+END
 choc-cream-clerestory.png
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/choc-cream-clerestory.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/choc-cream-clerestory.png
 END
 br-cl71-g.png
 K 25
@@ -915,17 +921,17 @@ svn:wc:ra_dav:version-url
 V 80
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/gnr-6wheel-mail.png
 END
-br-220-virgin.png
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-220-virgin.png
-END
 br-cl52-m.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl52-m.png
+END
+br-220-virgin.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-220-virgin.png
 END
 wagon-2-car-flat.png
 K 25
@@ -937,43 +943,43 @@ br-mk1-rbr-bg.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-rbr-bg.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk1-rbr-bg.png
 END
 wagon-10t.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-10t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-10t.png
 END
 lner-p2.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-p2.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-p2.png
 END
 lner-em2.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-em2.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-em2.png
 END
 mr-clerestory-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/mr-clerestory-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-clerestory-mail.png
+END
+wagon-piece-early1.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-piece-early1.png
 END
 lmr-lion.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lmr-lion.png
-END
-wagon-piece-early1.png
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-early1.png
 END
 wagon-brake-d93.png
 K 25
@@ -987,17 +993,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl86-b.png
 END
+lner-j94.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-j94.png
+END
 lbscr-a1.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lbscr-a1.png
-END
-lner-j94.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-j94.png
 END
 br-mk1-rbr-m.png
 K 25
@@ -1027,7 +1033,13 @@ wagon-long-12t.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-long-12t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-long-12t.png
+END
+lner-gresley-express-mail.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-gresley-express-mail.png
 END
 lms-d2007-m.png
 K 25
@@ -1035,17 +1047,11 @@ svn:wc:ra_dav:version-url
 V 76
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-d2007-m.png
 END
-lner-gresley-express-mail.png
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lner-gresley-express-mail.png
-END
 mr-4wheel-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/mr-4wheel-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-4wheel-mail.png
 END
 br-205-b.png
 K 25
@@ -1063,13 +1069,13 @@ ner-ef1.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/ner-ef1.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/ner-ef1.png
 END
 gnr-4wheel-brake.png
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gnr-4wheel-brake.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/gnr-4wheel-brake.png
 END
 lswr-carriage.png
 K 25
@@ -1087,13 +1093,13 @@ mr-6wheel-guard.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/mr-6wheel-guard.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-6wheel-guard.png
 END
 wagon-livestock-early3.png
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-livestock-early3.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-livestock-early3.png
 END
 wagon-autic.png
 K 25
@@ -1105,7 +1111,7 @@ lmr-4wheel-tpo.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lmr-4wheel-tpo.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lmr-4wheel-tpo.png
 END
 lner-gresley-express-brake.png
 K 25
@@ -1123,31 +1129,31 @@ lner-gresley-express-parcel-brake.png
 K 25
 svn:wc:ra_dav:version-url
 V 98
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lner-gresley-express-parcel-brake.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-gresley-express-parcel-brake.png
 END
 br-cl81-b.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/165/pak128.Britain/trains/images/br-cl81-b.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-cl81-b.png
 END
 lbscr-L.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lbscr-L.png
-END
-br-cl43-ie.png
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl43-ie.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lbscr-L.png
 END
 rm-325-rm.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/rm-325-rm.png
+END
+br-cl43-ie.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl43-ie.png
 END
 br-cl73-ic.png
 K 25
@@ -1167,11 +1173,11 @@ svn:wc:ra_dav:version-url
 V 86
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-droplight-brake-m.png
 END
-gwr-express-brake.png
+lswr-m7.png
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/gwr-express-brake.png
+V 72
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lswr-m7.png
 END
 br-7mt.png
 K 25
@@ -1179,47 +1185,47 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-7mt.png
 END
-lswr-m7.png
+gwr-express-brake.png
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lswr-m7.png
+V 82
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/gwr-express-brake.png
 END
 lyr-cl25.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lyr-cl25.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lyr-cl25.png
 END
 ner-es1.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/ner-es1.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/ner-es1.png
 END
 wagon-long-30t.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-long-30t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-long-30t.png
 END
 wagon-cool-16t.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-cool-16t.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-cool-16t.png
 END
 wagon-piece-d32.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-d32.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-piece-d32.png
 END
 lnwr-PoW.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lnwr-PoW.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lnwr-PoW.png
 END
 br-mk2-tso-ic.png
 K 25
@@ -1227,11 +1233,11 @@ svn:wc:ra_dav:version-url
 V 78
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk2-tso-ic.png
 END
-br-121-g.png
+br-cl37-b.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-121-g.png
+V 74
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl37-b.png
 END
 br-303-cb.png
 K 25
@@ -1239,11 +1245,17 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-303-cb.png
 END
-br-cl37-b.png
+br-121-g.png
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl37-b.png
+V 73
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-121-g.png
+END
+puffingbilly.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/puffingbilly.png
 END
 br-180-fgw.png
 K 25
@@ -1251,17 +1263,11 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-180-fgw.png
 END
-puffingbilly.png
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/puffingbilly.png
-END
 gnr-4wheel-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/gnr-4wheel-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/gnr-4wheel-mail.png
 END
 gwr-railcars.png
 K 25
@@ -1273,13 +1279,13 @@ mr-clerestory.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/mr-clerestory.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-clerestory.png
 END
 br-mk2-dbso-ic.png
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk2-dbso-ic.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk2-dbso-ic.png
 END
 br-mk1-bg-m.png
 K 25
@@ -1291,7 +1297,7 @@ sr-maunsell-third.png
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-maunsell-third.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-maunsell-third.png
 END
 gwr-express-parcel-brake.png
 K 25
@@ -1311,35 +1317,35 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lmr-rocket.png
 END
+wagon-piece-zsx.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-piece-zsx.png
+END
 br-mk4-dvt-ic.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-mk4-dvt-ic.png
 END
-wagon-piece-zsx.png
+mslr-4wheel-mail.png
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-zsx.png
+V 81
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mslr-4wheel-mail.png
 END
 lbscr-gladstone.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lbscr-gladstone.png
-END
-mslr-4wheel-mail.png
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/mslr-4wheel-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lbscr-gladstone.png
 END
 wagon-brake-d16.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-brake-d16.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-brake-d16.png
 END
 lms-jinty.png
 K 25
@@ -1347,29 +1353,23 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lms-jinty.png
 END
-br-cl40-g.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl40-g.png
-END
-lner-b17.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lner-b17.png
-END
 lnwr-DXgoods.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lnwr-DXgoods.png
 END
-br-cl25-g.png
+lner-b17.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lner-b17.png
+END
+br-cl40-g.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl25-g.png
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl40-g.png
 END
 wagon-piece-early2.png
 K 25
@@ -1377,17 +1377,23 @@ svn:wc:ra_dav:version-url
 V 83
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-early2.png
 END
+br-cl25-g.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl25-g.png
+END
 lms-tpo.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/lms-tpo.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/lms-tpo.png
 END
-br-mk1-rbr-cc.png
+wagon-piece-d88.png
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-rbr-cc.png
+V 80
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-d88.png
 END
 br-378-lt.png
 K 25
@@ -1395,11 +1401,11 @@ svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-378-lt.png
 END
-wagon-piece-d88.png
+br-mk1-rbr-cc.png
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-piece-d88.png
+V 78
+/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-rbr-cc.png
 END
 br-319-nse.png
 K 25
@@ -1419,23 +1425,23 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl91-ic.png
 END
-ger-claud.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/ger-claud.png
-END
 sr-q1.png
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-q1.png
 END
+ger-claud.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/ger-claud.png
+END
 mr-4wheel-composite.png
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/mr-4wheel-composite.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/mr-4wheel-composite.png
 END
 br-489-glv.png
 K 25
@@ -1461,23 +1467,23 @@ svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-cl92-rf.png
 END
-gwr-king.png
+wagon-hta.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/133/pak128.Britain/trains/images/gwr-king.png
+V 74
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-hta.png
 END
 gwr-bulldog.png
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/gwr-bulldog.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/gwr-bulldog.png
 END
-wagon-hta.png
+gwr-king.png
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-hta.png
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/gwr-king.png
 END
 sr-cor-g.png
 K 25
@@ -1485,23 +1491,23 @@ svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/sr-cor-g.png
 END
-lmr-4wheel-open-coach.png
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lmr-4wheel-open-coach.png
-END
 br-153-rr.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/br-153-rr.png
 END
+lmr-4wheel-open-coach.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/simutrans/!svn/ver/139/pak128.Britain/trains/images/lmr-4wheel-open-coach.png
+END
 wagon-haa.png
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/wagon-haa.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/wagon-haa.png
 END
 br-mk1-pos-rm.png
 K 25
@@ -1509,17 +1515,17 @@ svn:wc:ra_dav:version-url
 V 78
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-pos-rm.png
 END
+br-mk1-bg-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/br-mk1-bg-bg.png
+END
 br-mk1-tpo-rm.png
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-tpo-rm.png
-END
-br-mk1-bg-bg.png
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/br-mk1-bg-bg.png
 END
 lms-stanier-8f.png
 K 25
@@ -1537,7 +1543,7 @@ sr-maunsell-mail.png
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/sr-maunsell-mail.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-maunsell-mail.png
 END
 br-375-se.png
 K 25
@@ -1567,7 +1573,7 @@ sr-maunsell-parcels.png
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/images/sr-maunsell-parcels.png
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains/images/sr-maunsell-parcels.png
 END
 mr-kirtley156.png
 K 25

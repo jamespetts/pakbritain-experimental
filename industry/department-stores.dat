@@ -8,7 +8,7 @@ level=41
 pax_level=58  
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 Location=city
-chance=3  
+distributionweight=3  
 Productivity=75 
 Range=50 
 electricity_proportion=2
@@ -34,6 +34,8 @@ needs_ground=1
 dims=1,1,1
 
 BackImage[0][0][0][0][0]=department-stores-temp.0
+upgrade[0]=DepartmentStore1935
+upgrade[1]=DepartmentStore1960
 -------------------
 Obj=factory
 name=DepartmentStore1935
@@ -45,7 +47,7 @@ level=56
 pax_level=67 
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 Location=city
-chance=4  
+distributionweight=4  
 Productivity=100 
 Range=75 
 electricity_proportion=2
@@ -71,6 +73,8 @@ needs_ground=1
 dims=1,1,1
 
 BackImage[0][0][0][0][0]=department-stores-temp.0
+upgrade[0]=DepartmentStore1960
+upgrade[1]=DepartmentStore1990
 -------------------
 Obj=factory
 name=DepartmentStore1960
@@ -82,7 +86,7 @@ level=56
 pax_level=72 
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 Location=city
-chance=7  
+distributionweight=7  
 Productivity=120 
 Range=80 
 electricity_proportion=2
@@ -106,6 +110,9 @@ InputFactor[3]=70
 needs_ground=1
 needs_ground=1
 dims=1,1,1
+
+BackImage[0][0][0][0][0]=department-stores-temp.0
+upgrade[0]=DepartmentStore1990
 -------------------
 Obj=factory
 name=DepartmentStore1990
@@ -115,7 +122,7 @@ level=42
 pax_level=72 
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
 Location=city
-chance=5  
+distributionweight=5  
 Productivity=100 
 Range=30 
 electricity_proportion=2

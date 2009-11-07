@@ -7,6 +7,10 @@ topspeed=80
 max_weight=80
 intro_year = 1750
 intro_month = 1
+
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 icon=> ./images/canal.3.4
 cursor=./images/canal.3.5
 Image[-]=./images/canal.1.2

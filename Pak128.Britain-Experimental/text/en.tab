@@ -2181,7 +2181,7 @@ AC Overhead Catenary
 Permissive 3
 DC Fourth Rail Electrification
 Permissive 4
-[Unused] Permissive 4
+Waterway
 Permissive 5
 [Unused] Permissive 5
 Permissive 6
@@ -2193,7 +2193,7 @@ Tramway
 Prohibitive 1
 Tube tunnel
 Prohibitive 2
-[Unused] Prohibitive 2
+Small waterway
 Prohibitive 3
 [Unused] Prohibitive 3
 Prohibitive 4

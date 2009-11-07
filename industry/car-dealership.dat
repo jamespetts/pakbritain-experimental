@@ -12,7 +12,7 @@ retire_month=4
 pax_level=1
 level=1
 Location=City
-chance=3
+distributionweight=3
 # Exactly 1/3rd of the car factory's productivity
 Productivity=30 
 Range=7
@@ -31,6 +31,8 @@ BackImage[2][0][0][0][0]=car-dealership.0.3
 BackImage[2][0][1][0][0]=car-dealership.0.4
 BackImage[3][0][0][0][0]=car-dealership.0.5
 BackImage[3][1][0][0][0]=car-dealership.1.5
+upgrade[0]=CarDealership1925
+upgrade[1]=CarDealership1950
 --------------------
 Obj=factory
 name=CarDealership1925
@@ -42,7 +44,7 @@ retire_month=11
 pax_level=1
 level=1
 Location=City
-chance=5
+distributionweight=5
 # Exactly 1/3rd of the car factory's productivity
 Productivity=38 
 Range=10
@@ -61,6 +63,8 @@ BackImage[2][0][0][0][0]=car-dealership.0.3
 BackImage[2][0][1][0][0]=car-dealership.0.4
 BackImage[3][0][0][0][0]=car-dealership.0.5
 BackImage[3][1][0][0][0]=car-dealership.1.5
+upgrade[0]=CarDealership1950
+upgrade[1]=CarDealership1970
 --------------------
 Obj=factory
 name=CarDealership1950
@@ -72,7 +76,7 @@ retire_month=1
 pax_level=1
 level=1
 Location=City
-chance=6
+distributionweight=6
 # Exactly 1/3rd of the car factory's productivity
 Productivity=50
 Range=15
@@ -91,6 +95,7 @@ BackImage[2][0][0][0][0]=car-dealership.0.3
 BackImage[2][0][1][0][0]=car-dealership.0.4
 BackImage[3][0][0][0][0]=car-dealership.0.5
 BackImage[3][1][0][0][0]=car-dealership.1.5
+upgrade[0]=CarDealership1970
 --------------------
 Obj=factory
 name=CarDealership1970
@@ -102,7 +107,7 @@ retire_month=3
 pax_level=1
 level=1
 Location=City
-chance=2
+distributionweight=2
 # Exactly 1/3rd of the car factory's productivity
 Productivity=67
 Range=7

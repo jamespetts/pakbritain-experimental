@@ -1,13 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images
+/svnroot/simutrans/!svn/ver/217/pak128.Britain/ways/images
 END
 river-3T2.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-3T2.png
+END
+brick-viaduct-cobbles.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/217/pak128.Britain/ways/images/brick-viaduct-cobbles.png
 END
 tgv.png
 K 25
@@ -21,29 +27,29 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road-snow.png
 END
-grass-runway.png
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-runway.png
-END
 dirt.png
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svnroot/simutrans/!svn/ver/143/pak128.Britain/ways/images/dirt.png
 END
-grass-taxiway.png
+grass-runway.png
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-taxiway.png
+V 75
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-runway.png
 END
 brick-aqueduct.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/brick-aqueduct.png
+END
+grass-taxiway.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-taxiway.png
 END
 country_road.png
 K 25
@@ -69,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wooden-trestle.png
 END
-city_road.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road.png
-END
 wooden_sleeper_steel_rail.png
 K 25
 svn:wc:ra_dav:version-url
 V 88
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wooden_sleeper_steel_rail.png
+END
+city_road.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road.png
 END
 canal.png
 K 25
