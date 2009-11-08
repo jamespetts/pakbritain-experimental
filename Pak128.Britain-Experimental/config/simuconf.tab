@@ -17,7 +17,7 @@
 # passenger generation (default is 16 for Simutrans-Standard) Smaller values means fewer 
 # passengers Note: in Simutrans-Experimental, it is recommended to use a lower number.
 
-passenger_factor=13
+passenger_factor=12
 
 # in beginner mode, all good revenuses are multiplied by a factor (default 1500=1.5)
 
