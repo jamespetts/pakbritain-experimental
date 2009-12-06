@@ -15,7 +15,7 @@ freight=None
 payload=0
 length=7
 
-weight=75
+weight=90
 cost=11404800
 runningcost=2310
 sound=-1

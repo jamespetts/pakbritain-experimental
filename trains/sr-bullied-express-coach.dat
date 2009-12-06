@@ -24,7 +24,7 @@ comfort=104
 
 Constraint[Next][0]=SR-Bulleid-Express-Coach(Green)
 Constraint[Next][1]=SR-Bulleid-Express-Brake(Green)
-Constraint[Next][1]=SR-Bulleid-Express-Dining(Green)
+Constraint[Next][2]=SR-Bulleid-Express-Dining(Green)
 
 EmptyImage[E]=./images/sr-bulleid-express-coach.0
 EmptyImage[SE]=./images/sr-bulleid-express-coach.1
@@ -61,7 +61,7 @@ comfort=104
 
 Constraint[Next][0]=SR-Bulleid-Express-Coach(Green)
 Constraint[Next][1]=SR-Bulleid-Express-Brake(Green)
-Constraint[Next][1]=SR-Bulleid-Express-Dining(Green)
+Constraint[Next][2]=SR-Bulleid-Express-Dining(Green)
 
 EmptyImage[E]=./images/sr-bulleid-express-coach.0
 EmptyImage[SE]=./images/sr-bulleid-express-coach.1

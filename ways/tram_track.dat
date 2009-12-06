@@ -1,9 +1,10 @@
 Obj=way
 Name=TramTrack
 waytype=tram_track
-cost=40000
-maintenance=900
-topspeed=175
+cost=22500
+maintenance=450
+topspeed=85
+max_weight=35
 intro_year = 1860
 intro_month = 1
 way_constraint_prohibitive[0]=0

@@ -1,11 +1,12 @@
 Obj=way
 Name=cssri
 waytype=track
-cost=60000
-maintenance=1200
+cost=75000
+maintenance=1000
 topspeed=225
+max_weight=160
 intro_year = 1980
-intro_month = 1
+intro_month = 2
 icon=> ./images/concrete_sleeper_steel_rail_improved.3.4
 cursor=./images/concrete_sleeper_steel_rail_improved.3.5
 Image[-][0]=./images/concrete_sleeper_steel_rail_improved.1.2

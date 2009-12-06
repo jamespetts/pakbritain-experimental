@@ -12,7 +12,7 @@ retire_month=1
 waytype=schiene_tram
 length=2
 
-weight=0
+weight=1
 cost=100000
 runningcost=5
 sound=-1

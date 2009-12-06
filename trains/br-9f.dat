@@ -14,7 +14,7 @@ waytype=track
 freight=None
 payload=0
 
-weight=86
+weight=141
 cost=7948000
 runningcost=1584
 sound=-1

@@ -1,9 +1,10 @@
 Obj=way
 Name=tgv
 waytype=track
-cost=100000
-maintenance=1800
+cost=110000
+maintenance=1750
 topspeed=320
+max_weight=150
 intro_year = 1978
 intro_month = 1
 icon=> ./images/tgv.3.4

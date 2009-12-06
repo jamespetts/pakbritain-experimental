@@ -22,8 +22,8 @@ bidirectional=0
 loading_time=9250
 comfort=0
 
-Constraint[Prev][0]=BR-Mk3-TO(Intercity)
-Constraint[Prev][1]=BR-Mk3-TRB(Intercity)
+Constraint[Prev][0]=BR-Mk3a-TO(Intercity)
+Constraint[Prev][1]=BR-Mk3a-TRB(Intercity)
 Constraint[Next][2]=BR-Mk3-TRFB(Intercity)
 
 Constraint[Next][0]=None

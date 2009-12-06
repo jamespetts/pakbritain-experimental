@@ -12,7 +12,7 @@ freight=Bucher
 payload=2
 length=2
 
-weight=0.5
+weight=1
 cost=46000
 runningcost=1
 sound=-1

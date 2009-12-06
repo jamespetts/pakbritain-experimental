@@ -12,7 +12,7 @@ freight=None
 payload=0
 length=4
 
-weight=57
+weight=47
 cost=0
 runningcost=0
 sound=-1

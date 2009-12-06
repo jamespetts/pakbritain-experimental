@@ -65,9 +65,9 @@ comfort=100
 
 Constraint[Next][0]=LMS-d1904-Coach
 Constraint[Next][1]=LMS-d2007-Parcel-Brake
-Constraint[Next][0]=LMS-d1904-Dining
-Constraint[Next][0]=LMS-Mail
-Constraint[Next][0]=LMS-TPO
+Constraint[Next][2]=LMS-d1904-Dining
+Constraint[Next][3]=LMS-Mail
+Constraint[Next][4]=LMS-TPO
 
 EmptyImage[E]=./images/lms-d1904-m.0
 EmptyImage[SE]=./images/lms-d1904-m.1

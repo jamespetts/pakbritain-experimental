@@ -3,7 +3,7 @@ name=BR-Class55(Green)
 engine_type=diesel
 smoke=Diesel
 speed=160
-##gear=280
+#gear=280
 power=2460
 copyright=Kieron
 intro_year=1961
@@ -15,7 +15,7 @@ freight=None
 payload=0
 length=12
 
-weight=100
+weight=101
 cost=13364000
 runningcost=2442
 sound=-1

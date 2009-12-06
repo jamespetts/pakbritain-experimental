@@ -423,7 +423,7 @@ drive_left = 1
 # Type of initial intercity roads - must be available
 # as PAK file. Fallback (if PAK is not found) is "asphalt_road"
 
-intercity_road_type = asphalt_road
+# intercity_road_type = asphalt_road
 
 # Type of city roads - must be available as PAK file.
 # Fallback (and default) is "city_road"
@@ -433,9 +433,6 @@ city_road_type = city_road
 # Max. length of intitial intercity road connections
 # If you want to speed up map creation, lower this value
 # If you want more initial intercity roads, raise this value
-# 8000 seems to be a good compromise between speed and road number
-#
-# T. Kubes: 128x128 can use more roads to save player some money.
 
 intercity_road_length = 256
 

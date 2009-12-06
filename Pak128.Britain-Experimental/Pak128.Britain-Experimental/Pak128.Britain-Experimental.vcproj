@@ -923,6 +923,18 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-mk1-rbr-bg.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-rbr-cc.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-mk1-rbr-m.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-mk1-rmb-bg.dat"
 				>
 			</File>
@@ -1192,6 +1204,18 @@
 			</File>
 			<File
 				RelativePath="..\..\stations\concrete-station-building-small.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\concrete_rail_bridges.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\concrete_road.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\concrete_road_bridges.dat"
 				>
 			</File>
 			<File
@@ -2279,6 +2303,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\motorway.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\mouse.txt"
 				>
 			</File>
@@ -2915,6 +2943,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\sssr.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\bus\stage-wagons.dat"
 				>
 			</File>
@@ -2943,7 +2975,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\steel_rail_bridges.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\steel_road_bridges.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\stations\stone-building.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\stone_road_bridges.dat"
 				>
 			</File>
 			<File
@@ -2952,6 +2996,10 @@
 			</File>
 			<File
 				RelativePath="..\..\gui\gui64\symbols-64.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\tarmac_road.dat"
 				>
 			</File>
 			<File
@@ -3322,6 +3370,10 @@
 			</File>
 			<File
 				RelativePath="..\..\ways\wooden-trestle.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\wooden_road_bridges.dat"
 				>
 			</File>
 			<File
