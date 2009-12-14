@@ -19,6 +19,7 @@ sound=-1
 comfort=0
 loading_time=6500
 
+
 EmptyImage[E]=./images/wagon-haa.0
 EmptyImage[SE]=./images/wagon-haa.1
 EmptyImage[S]=./images/wagon-haa.2

@@ -10,7 +10,7 @@ retire_month=4
 waytype=track
 freight=None
 payload=0
-length=4
+length=5
 
 weight=47
 cost=0
@@ -18,6 +18,9 @@ runningcost=0
 sound=-1
 
 Constraint[Prev][0]=SR-MerchantNavy 4-6-2(Green)
+Constraint[Prev][1]=SR-WestCountry_4-6-2(Green)
+
+upgrade[0]=BR-7MT-Tender(Green)
 
 EmptyImage[E]=./images/sr-mn-4-6-2.1.0
 EmptyImage[SE]=./images/sr-mn-4-6-2.1.1

@@ -1,27 +1,28 @@
 obj=vehicle
-name=LNER-A3(Green)
+name=LNER-A1(Green)
 engine_type=steam
 smoke=Steam
 speed=160
 #gear=320
-power=2150
+power=1920
 copyright=Kieron
-intro_year=1927
-intro_month=10
-retire_year=1966
-retire_month=1
+intro_year=1922
+intro_month=4
+retire_year=1959
+retire_month=12
 waytype=track
 freight=None
 payload=0
 length=8
 
-weight=97
-cost=11818000
-upgrade_price=2929500
-runningcost=2209
+weight=92
+cost=11276400
+runningcost=2408
 sound=-1
 
 Constraint[Next][0]=LNER-A1-Tender(Green)
+
+upgrade[0]=LNER-A3(Green)
 
 EmptyImage[E]=./images/lner-a3.0.0
 EmptyImage[SE]=./images/lner-a3.0.1

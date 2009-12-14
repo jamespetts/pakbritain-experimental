@@ -459,9 +459,9 @@ intercity_road_length = 256
 # All times are in milliseconds (1000 = 1 sec), assuming that the game is set to the 
 # normal speed (i.e., not fast-forwarded).
 
-unit_reverse_time=2500
-hauled_reverse_time=6500
-turntable_reverse_time=10000
+unit_reverse_time=4000
+hauled_reverse_time=15000
+turntable_reverse_time=25000
 
 # This setting allows the power of all vehicles to be adjusted at once. It is a
 # percentage figure. Thus, if, for example, a vehicle has a power rating of 1,200kw

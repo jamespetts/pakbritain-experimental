@@ -1,7 +1,7 @@
 obj=vehicle
 name=BR-414[HAP]Rear(Blue-Grey)
 engine_type=electric
-speed=145
+speed=121
 power=0
 copyright=Kieron
 intro_year=1957
@@ -22,7 +22,7 @@ can_lead_from_rear=1
 bidirectional=0
 
 loading_time=3750
-comfort=78
+comfort=77
 
 Constraint[Prev][0]=BR-414[HAP]Front(Blue-Grey)
 
@@ -30,7 +30,8 @@ Constraint[Next][0]=BR-410[CEP]Front(Blue-Grey)
 Constraint[Next][1]=BR-414[HAP]Front(Blue-Grey)
 Constraint[Next][2]=BR-419[MLV](Blue-Grey)
 Constraint[Next][3]=BR-499[TLV](Blue-Grey)
-Constraint[Next][4]=none
+Constraint[Next][4]=BR-423-DTCL-Front
+Constraint[Next][5]=none
 
 EmptyImage[E]=./images/br-414-bg.1.0
 EmptyImage[SE]=./images/br-414-bg.1.1

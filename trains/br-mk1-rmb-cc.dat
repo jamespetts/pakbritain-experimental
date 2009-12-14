@@ -13,6 +13,7 @@ length=11
 
 weight=34
 cost=674000
+#fixed_maintenance=25
 runningcost=40
 sound=-1
 

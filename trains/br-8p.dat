@@ -16,7 +16,7 @@ payload=0
 
 weight=103
 cost=10450000
-runningcost=2970
+runningcost=2295
 sound=-1
 
 Constraint[Next][0]=BR-7MT-Tender(Green)

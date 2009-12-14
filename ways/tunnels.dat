@@ -48,10 +48,30 @@ copyright=James
 waytype=track
 cost=210000
 maintenance=4200
+topspeed=225
+max_weight=150
+intro_year=1959
+intro_month=7
+# Normal images
+BackImage[W][0]=rail-tunnel-concrete.1.0
+FrontImage[W][0]=rail-tunnel-concrete.0.0
+BackImage[N][0]=rail-tunnel-concrete.1.1
+FrontImage[N][0]=rail-tunnel-concrete.0.1
+FrontImage[E][0]=rail-tunnel-concrete.0.2
+FrontImage[S][0]=rail-tunnel-concrete.0.3
+icon=> rail-tunnel-concrete.1.3
+cursor=rail-tunnel-concrete.1.2
+-------------------------------
+Obj=tunnel
+Name=RailTunnelHighSpeed
+copyright=James
+waytype=track
+cost=285000
+maintenance=4900
 topspeed=350
 max_weight=160
-intro_year=1960
-intro_month=1
+intro_year=1978
+intro_month=3
 # Normal images
 BackImage[W][0]=rail-tunnel-concrete.1.0
 FrontImage[W][0]=rail-tunnel-concrete.0.0

@@ -747,6 +747,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\br-423-bg.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\br-442-nse.dat"
 				>
 			</File>
@@ -780,6 +784,10 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\br-7mt.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\br-8p.dat"
 				>
 			</File>
 			<File
@@ -1979,6 +1987,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\lner-a1.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\lner-a3-tender.dat"
 				>
 			</File>
@@ -2891,6 +2903,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\sr-cc-g.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\sr-maunsell-brake.dat"
 				>
 			</File>
@@ -2904,6 +2920,10 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\sr-maunsell-third.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\sr-mn-4-6-2-rebuilt.dat"
 				>
 			</File>
 			<File
@@ -2936,6 +2956,14 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\sr-schools.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\sr-wc-4-6-2-rebuilt.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\sr-wc-4-6-2.dat"
 				>
 			</File>
 			<File

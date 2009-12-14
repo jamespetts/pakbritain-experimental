@@ -50,8 +50,8 @@ payload=24
 length=10
 
 weight=27
-cost=716000
-runningcost=36
+cost=745000
+runningcost=48
 sound=-1
 catering_level=3
 

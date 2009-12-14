@@ -964,10 +964,20 @@ LNER-V2-Tender(Green)
 LNER Class V2 (tender)
 SR-MerchantNavy 4-6-2(Green)
 SR Merchant Navy Class 4-6-2
+SR-MerchantNavyRebuilt 4-6-2(Green)
+SR Rebuilt Merchant Navy Class 4-6-2
 SR-MerchantNavy 4-6-2Tender(Green)
-SR Merchant Navy Class (tender)
+SR Merchant Navy/West Country Class (tender)
+SR-WestCountry_4-6-2(Green)
+SR West Country Class 4-6-2
+SR-WestCountryRebuilt_4-6-2(Green)
+SR Rebuilt West Country Class 4-6-2
+SR-CC(Green)
+SR Bulleid/Raworth CC
 LNER-A1(Green)
-LNER Class A1/A3 4-6-2
+LNER Class A1 4-6-2
+LNER-A3(Green)
+LNER Class A3 4-6-2
 LNER-A1-Tender(Green)
 LNER Class A1/A3 (tender)
 BR-7MT(Green)
@@ -1248,6 +1258,14 @@ BR-Mk3-TO(Intercity)
 BR Mk. 3 Standard Open
 BR-Mk4-TSO(Intercity)
 BR Mk. 4 Standard Open
+BR-423-DTCL-Front
+BR Class 423 "4Vep" EMU
+BR-423-MBSO
+BR Class 423 "4Vep" EMU (motor brake open)
+BR-423-TSO
+BR Class 423 "4Vep" EMU (trailer open)
+BR-423-DTCL-Rear
+BR Class 423 "4Vep" EMU (rear)
 BR-410[CEP]Front(Blue-Grey)
 BR Class 410 "4Cep" EMU
 BR-410[CEP]Brake(Blue-Grey)
@@ -2538,6 +2556,8 @@ Powerline
 High voltage transmission line
 TramTrack
 Tramway Tracks
+TramTrackHeavy
+Tramway Tracks (heavyweight)
 Canal
 Canal
 GrassTaxiway

@@ -18,6 +18,7 @@ runningcost=0
 sound=-1
 
 Constraint[Prev][0]=LNER-A1(Green)
+Constraint[Prev][1]=LNER-A3(Green)
 
 EmptyImage[E]=./images/lner-a3.1.0
 EmptyImage[SE]=./images/lner-a3.1.1
