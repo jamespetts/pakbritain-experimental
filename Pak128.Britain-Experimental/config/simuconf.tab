@@ -518,7 +518,7 @@ show_names = 3
 
 # After how many months a citycar breaks (and will be forever gone) ...
 # one day at current settings: 260s
-citycar_life = 260
+citycar_life = 1040
 
 # Colour of the cursor shading.
 # Pak128 default = 155 (orange)
