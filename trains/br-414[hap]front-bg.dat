@@ -5,9 +5,9 @@ speed=121
 #gear=700
 power=373
 copyright=Kieron
-intro_year=1957
-intro_month=8
-retire_year=2000
+intro_year=1956
+intro_month=4
+retire_year=1984
 retire_month=8
 waytype=track
 freight=Passagiere
@@ -22,6 +22,8 @@ sound=-1
 can_lead_from_rear=1
 bidirectional=0
 way_constraint_permissive[0]=0
+
+upgrade[0]=BR-489[GLV](Intercity)
 
 loading_time=3750
 comfort=77

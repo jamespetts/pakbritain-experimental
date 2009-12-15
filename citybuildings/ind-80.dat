@@ -5,7 +5,8 @@ type=ind
 chance=50
 Level=3
 intro_year=1980
-retire_year=2010
+#Cannot retire yet as no replacements
+#retire_year=2010
 needs_ground=1
 dims=1,1,4
 

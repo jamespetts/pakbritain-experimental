@@ -6,9 +6,9 @@ speed=175
 power=375
 copyright=Kieron
 intro_year=1983
-intro_month=1
-retire_year=2000
-retire_month=1
+intro_month=3
+retire_year=2006
+retire_month=11
 waytype=track
 freight=Post
 payload=60
@@ -16,12 +16,15 @@ length=11
 
 weight=45
 cost=1500000
+upgrade_price=600000
 runningcost=462
 sound=-1
 way_constraint_permissive[0]=0
 
 Constraint[Prev][0]=BR-Mk2-TO(Intercity)
-Constraint[Prev][0]=BR-Mk2-RFB(Intercity)
+Constraint[Prev][1]=BR-Mk2-RFB(Intercity)
+Constraint[Prev][2]=BR-Mk3a-TO(Intercity)
+Constraint[Prev][3]=Mk3a-TRB(Intercity)
 
 Constraint[Next][0]=none
 
@@ -33,4 +36,55 @@ EmptyImage[W]=./images/br-489-glv.4
 EmptyImage[NW]=./images/br-489-glv.5
 EmptyImage[N]=./images/br-489-glv.6
 EmptyImage[NE]=./images/br-489-glv.7
+
+---
+
+obj=vehicle
+name=BR-489[GLV]
+speed=145
+#gear=100
+copyright=Kieron&JamesPetts
+intro_year=1983
+intro_month=5
+retire_year=2006
+retire_month=12
+waytype=track
+freight=Post
+payload=60
+length=11
+
+weight=32
+upgrade_price=620000
+runningcost=60
+sound=-1
+
+can_lead_from_rear=1
+bidirectional=0
+
+available_only_as_upgrade=1
+
+loading_time=6000
+comfort=0
+
+Constraint[Prev][0]=BR-Mk2-TO(Intercity)
+Constraint[Prev][1]=BR-Mk2-RFB(Intercity)
+Constraint[Prev][2]=BR-Mk3a-TO(Intercity)
+Constraint[Prev][3]=Mk3a-TRB(Intercity)
+Constraint[Prev][4]=BR-Mk3a-TRFB(Intercity)
+Constraint[Prev][5]=BR-Mk2a-RMB(Blue-Grey)
+Constraint[Prev][6]=BR-Mk2a-TSO(Blue-Grey)
+Constraint[Prev][7]=BR-Mk1-TO(Blue-Grey)
+
+Constraint[Next][1]=none
+
+# NOTE: Needs new graphics. Suggest
+# applying IC livery to the 419 graphics.
+EmptyImage[E]=./images/br-419-bg.0
+EmptyImage[SE]=./images/br-419-bg.1
+EmptyImage[S]=./images/br-419-bg.2
+EmptyImage[SW]=./images/br-419-bg.3
+EmptyImage[W]=./images/br-419-bg.4
+EmptyImage[NW]=./images/br-419-bg.5
+EmptyImage[N]=./images/br-419-bg.6
+EmptyImage[NE]=./images/br-419-bg.7
 

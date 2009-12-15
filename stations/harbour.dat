@@ -11,6 +11,7 @@ type=habour
 enables_ware=1
 icon=> harbour-goods-old.0.4
 cursor=harbour-goods-old.3.4
+intro_year=1750
 retire_year=1920
 level=1
 
@@ -40,7 +41,7 @@ type=habour
 enables_ware=1
 icon=> harbour-goods-modern.0.4
 cursor=harbour-goods-modern.3.4
-intrp_year=1920
+intro_year=1920
 level=1
 BackImage[0][0][0][0][0]=harbour-goods-modern.1.1
 BackImage[1][0][0][0][0]=harbour-goods-modern.2.1
@@ -70,6 +71,7 @@ enables_post=1
 icon=> harbour-passenger.0.4
 cursor=harbour-passenger.3.4
 level=1
+intro_year=1750
 retire_year=1920
 
 BackImage[0][0][0][0][0]=harbour-passenger.1.1

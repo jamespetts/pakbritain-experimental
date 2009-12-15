@@ -15,9 +15,9 @@
 ##################################### Gameplay settings ###################################
 
 # passenger generation (default is 16 for Simutrans-Standard) Smaller values means fewer 
-# passengers Note: in Simutrans-Experimental, it is recommended to use a lower number.
+# passengers.
 
-passenger_factor=12
+passenger_factor=14
 
 # in beginner mode, all good revenuses are multiplied by a factor (default 1500=1.5)
 
@@ -191,7 +191,7 @@ tolerable_comfort_long=220
 # in comfort beyond 150. 
 
 max_luxury_bonus_differential=55
-max_luxury_bonus_percent=40
+max_luxury_bonus_percent=45
 
 # The discomfort penalty works in exactly the same way as the comfort bonus. max_discomfort_penalty_percent is the
 # percentage decrease in revenue from the maximum level of discomfort specified in max_discomfort_penalty_differential. 
@@ -263,7 +263,7 @@ tpo_revenue=300
 
 base_car_preference_percent = 95
 always_prefer_car_percent = 10
-congestion_density_factor = 18
+congestion_density_factor = 14
 
 # This setting gives the maximum time that passengers are prepared to wait for their
 # transport. The setting is divided by speed bonus value to get the number of minutes.
@@ -518,7 +518,7 @@ show_names = 3
 
 # After how many months a citycar breaks (and will be forever gone) ...
 # one day at current settings: 260s
-citycar_life = 1040
+citycar_life = 4160
 
 # Colour of the cursor shading.
 # Pak128 default = 155 (orange)
