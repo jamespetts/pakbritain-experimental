@@ -1,0 +1,17 @@
+obj=citycar
+name=FordT(Black)
+copyright=James
+
+DistributionWeight=10
+intro_year=1908
+retire_year=1930
+speed=50
+
+Image[W]=ford-t.0.0
+Image[NW]=ford-t.0.1
+Image[N]=ford-t.0.2
+Image[NE]=ford-t.0.3
+Image[E]=ford-t.0.4
+Image[SE]=ford-t.0.5
+Image[S]=ford-t.0.6
+Image[SW]=ford-t.0.7

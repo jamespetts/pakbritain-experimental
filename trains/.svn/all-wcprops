@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/svnroot/simutrans/!svn/ver/178/pak128.Britain/trains
+/svnroot/simutrans/!svn/ver/230/pak128.Britain/trains
 END
 br-mk4-rsb-ic.dat
 K 25
@@ -463,7 +463,7 @@ wagon-cool-d88.dat
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/wagon-cool-d88.dat
+/svnroot/simutrans/!svn/ver/224/pak128.Britain/trains/wagon-cool-d88.dat
 END
 mr-clerestory-tpo.dat
 K 25
@@ -961,7 +961,7 @@ lms-1904.dat
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/lms-1904.dat
+/svnroot/simutrans/!svn/ver/230/pak128.Britain/trains/lms-1904.dat
 END
 br-cl81-b.dat
 K 25
@@ -1471,7 +1471,7 @@ br-mk3-to-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk3-to-ic.dat
+/svnroot/simutrans/!svn/ver/230/pak128.Britain/trains/br-mk3-to-ic.dat
 END
 br-mk1-pos-rm.dat
 K 25
@@ -1483,7 +1483,7 @@ sr-bullied-express-coach.dat
 K 25
 svn:wc:ra_dav:version-url
 V 82
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/sr-bullied-express-coach.dat
+/svnroot/simutrans/!svn/ver/230/pak128.Britain/trains/sr-bullied-express-coach.dat
 END
 br-mk1-tpo-rm.dat
 K 25
@@ -1981,7 +1981,7 @@ br-mk3-dvt-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk3-dvt-ic.dat
+/svnroot/simutrans/!svn/ver/230/pak128.Britain/trains/br-mk3-dvt-ic.dat
 END
 br-319middle-nse.dat
 K 25
@@ -2299,7 +2299,7 @@ br-mk3-trb-ic.dat
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/160/pak128.Britain/trains/br-mk3-trb-ic.dat
+/svnroot/simutrans/!svn/ver/230/pak128.Britain/trains/br-mk3-trb-ic.dat
 END
 choc-cream-clerestory-mail.dat
 K 25

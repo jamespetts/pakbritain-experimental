@@ -1,0 +1,17 @@
+obj=citycar
+name=PeelP50(Red)
+copyright=James
+
+DistributionWeight=2
+intro_year=1963
+retire_year=1966
+speed=50
+
+Image[W]=peel-p50.0.0
+Image[NW]=peel-p50.0.1
+Image[N]=peel-p50.0.2
+Image[NE]=peel-p50.0.3
+Image[E]=peel-p50.0.4
+Image[SE]=peel-p50.0.5
+Image[S]=peel-p50.0.6
+Image[SW]=peel-p50.0.7
