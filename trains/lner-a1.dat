@@ -5,6 +5,7 @@ smoke=Steam
 speed=160
 #gear=320
 power=1920
+tractive_effort=133
 copyright=Kieron
 intro_year=1922
 intro_month=4
@@ -32,4 +33,3 @@ EmptyImage[W]=./images/lner-a3.0.4
 EmptyImage[NW]=./images/lner-a3.0.5
 EmptyImage[N]=./images/lner-a3.0.6
 EmptyImage[NE]=./images/lner-a3.0.7
-

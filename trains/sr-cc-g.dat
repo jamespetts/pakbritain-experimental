@@ -4,6 +4,7 @@ engine_type=electric
 speed=120
 #gear=650
 power=1100
+tractive_effort=178
 copyright=Kieron&JamesPetts
 intro_year=1941
 intro_month=12

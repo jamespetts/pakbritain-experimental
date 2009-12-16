@@ -13,6 +13,7 @@ length=11
 
 weight=31
 cost=420000
+upgrade_price=1500
 runningcost=20
 sound=-1
 upgrade[0]=BR-Mk2a-RMB(Blue-Grey)

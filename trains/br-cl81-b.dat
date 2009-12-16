@@ -4,6 +4,7 @@ engine_type=electric
 speed=160
 #gear=160
 power=2390
+tractive_effort=222
 copyright=Kieron/JamesPetts
 intro_year=1959
 intro_month=11

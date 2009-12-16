@@ -5,6 +5,7 @@ smoke=Steam
 speed=150
 #gear=300
 power=2000
+tractive_effort=179
 copyright=James
 intro_year=1930
 intro_month=8

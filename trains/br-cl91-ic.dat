@@ -2,7 +2,7 @@ obj=vehicle
 name=BR-Class91(Intercity)
 engine_type=electric
 speed=225
-##gear=350
+#=gear=350
 power=4700
 copyright=Kieron
 intro_year=1988

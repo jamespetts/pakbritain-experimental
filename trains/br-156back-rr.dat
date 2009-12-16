@@ -27,11 +27,15 @@ loading_time=7500
 comfort=90
 
 Constraint[Prev][0]=BR-156Front(Regional)
-Constraint[Prev][1]=BR-153(Regional)
+Constraint[Prev][1]=BR-156Front-Trolley(Regional)
+Constraint[Prev][2]=BR-153(Regional)
+Constraint[Prev][3]=BR-158Front(Regional)
 
 Constraint[Next][0]=BR-156Front(Regional)
-Constraint[Next][1]=BR-153(Regional)
-Constraint[Next][2]=none
+Constraint[Prev][1]=BR-156Front-Trolley(Regional)
+Constraint[Next][2]=BR-153(Regional)
+Constraint[Next][3]=BR-158Front(Regional)
+Constraint[Next][4]=none
 
 EmptyImage[E]=./images/br-156-rr.1.0
 EmptyImage[SE]=./images/br-156-rr.1.1

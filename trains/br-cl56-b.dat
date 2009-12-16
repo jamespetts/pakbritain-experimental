@@ -5,6 +5,7 @@ smoke=Diesel
 speed=130
 #gear=200
 power=2420
+tractive_effort=275
 copyright=Kieron
 intro_year=1976
 intro_month=9

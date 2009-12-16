@@ -25,15 +25,17 @@ comfort=0
 
 Constraint[Prev][0]=BR-410[CEP]Rear(Blue-Grey)
 Constraint[Prev][1]=BR-414[HAP]Rear(Blue-Grey)
-Constraint[Prev][2]=BR-419[MLV](Blue-Grey)
-Constraint[Prev][3]=BR-499[TLV](Blue-Grey)
-Constraint[Prev][4]=none
+Constraint[Prev][2]=BR-423-DTCL-Rear
+Constraint[Prev][3]=BR-419[MLV](Blue-Grey)
+Constraint[Prev][4]=BR-499[TLV](Blue-Grey)
+Constraint[Prev][5]=none
 
 Constraint[Next][0]=BR-410[CEP]Front(Blue-Grey)
 Constraint[Next][1]=BR-414[HAP]Front(Blue-Grey)
-Constraint[Next][2]=BR-419[MLV](Blue-Grey)
-Constraint[Next][3]=BR-499[TLV](Blue-Grey)
-Constraint[Next][4]=none
+Constraint[Next][2]=BR-423-DTCL-Front
+Constraint[Next][3]=BR-419[MLV](Blue-Grey)
+Constraint[Next][4]=BR-499[TLV](Blue-Grey)
+Constraint[Next][5]=none
 
 EmptyImage[E]=./images/br-419-bg.0
 EmptyImage[SE]=./images/br-419-bg.1

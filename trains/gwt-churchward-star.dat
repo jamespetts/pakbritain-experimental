@@ -5,6 +5,7 @@ smoke=Steam
 speed=130
 #gear=260
 power=1600
+tractive_effort=123
 copyright=Kieron
 intro_year=1907
 intro_month=5

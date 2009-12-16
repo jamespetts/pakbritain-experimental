@@ -3,7 +3,7 @@ name=BR-170Middle(Scotrail)
 engine_type=diesel
 smoke=Diesel
 speed=160
-##gear=520
+#gear=520
 power=315
 copyright=Kieron
 intro_year=1998
@@ -16,12 +16,13 @@ payload=76
 length=12
 
 weight=42
-cost=1930000
-runningcost=170
+cost=1931500
+runningcost=178
 sound=-1
 
 can_lead_from_rear=0
 bidirectional=1
+catering_level=1
 
 loading_time=6500
 comfort=97
@@ -40,4 +41,3 @@ EmptyImage[W]=./images/br-170-Scotrail.1.4
 EmptyImage[NW]=./images/br-170-Scotrail.1.5
 EmptyImage[N]=./images/br-170-Scotrail.1.6
 EmptyImage[NE]=./images/br-170-Scotrail.1.7
-

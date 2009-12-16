@@ -4,6 +4,7 @@ engine_type=diesel
 smoke=Diesel
 speed=145
 power=1097
+tractive_effort=160
 copyright=Kieron&Jamespetts
 intro_year=1964
 intro_month=3

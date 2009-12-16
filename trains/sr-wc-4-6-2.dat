@@ -5,6 +5,7 @@ smoke=Steam
 speed=155
 #gear=400
 power=1700
+tractive_effort=137
 copyright=Kieron&JamesPetts
 intro_year=1945
 intro_month=5
