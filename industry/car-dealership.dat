@@ -12,7 +12,7 @@ retire_month=4
 pax_level=1
 level=1
 Location=City
-distributionweight=3
+distributionweight=4
 # Exactly 1/3rd of the car factory's productivity
 Productivity=30 
 Range=7
