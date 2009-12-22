@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/svnroot/simutrans/!svn/ver/237/pak128.Britain/ways/images
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images
 END
 brick-viaduct-225.png
 K 25
@@ -9,17 +9,29 @@ svn:wc:ra_dav:version-url
 V 80
 /svnroot/simutrans/!svn/ver/237/pak128.Britain/ways/images/brick-viaduct-225.png
 END
+cobbles-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/cobbles-snow.png
+END
 brick-viaduct-cobbles.png
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/simutrans/!svn/ver/217/pak128.Britain/ways/images/brick-viaduct-cobbles.png
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/brick-viaduct-cobbles.png
 END
 city_road-snow.png
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road-snow.png
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/city_road-snow.png
+END
+canal-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/canal-snow.png
 END
 country_road.png
 K 25
@@ -37,7 +49,7 @@ brick-viaduct-road.png
 K 25
 svn:wc:ra_dav:version-url
 V 81
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/brick-viaduct-road.png
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/brick-viaduct-road.png
 END
 wooden-trestle.png
 K 25
@@ -57,6 +69,30 @@ svn:wc:ra_dav:version-url
 V 72
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/city_road.png
 END
+river-1T0-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/river-1T0-snow.png
+END
+river-2T1-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/river-2T1-snow.png
+END
+river-3T2-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/river-3T2-snow.png
+END
+brick-viaduct-cobbles-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/brick-viaduct-cobbles-snow.png
+END
 river-0.png
 K 25
 svn:wc:ra_dav:version-url
@@ -75,6 +111,12 @@ svn:wc:ra_dav:version-url
 V 76
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/brick-viaduct.png
 END
+brick-aqueduct-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/brick-aqueduct-snow.png
+END
 river-1T0.png
 K 25
 svn:wc:ra_dav:version-url
@@ -87,11 +129,23 @@ svn:wc:ra_dav:version-url
 V 72
 /svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-2T1.png
 END
+country_road-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/country_road-snow.png
+END
 river-3T2.png
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/river-3T2.png
+END
+brick-viaduct-road-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/brick-viaduct-road-snow.png
 END
 tgv.png
 K 25
@@ -105,17 +159,23 @@ svn:wc:ra_dav:version-url
 V 80
 /svnroot/simutrans/!svn/ver/237/pak128.Britain/ways/images/brick-viaduct-175.png
 END
+grass-runway.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-runway.png
+END
 dirt.png
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /svnroot/simutrans/!svn/ver/143/pak128.Britain/ways/images/dirt.png
 END
-grass-runway.png
+grass-taxiway.png
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-runway.png
+V 76
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-taxiway.png
 END
 brick-aqueduct.png
 K 25
@@ -123,11 +183,11 @@ svn:wc:ra_dav:version-url
 V 77
 /svnroot/simutrans/!svn/ver/148/pak128.Britain/ways/images/brick-aqueduct.png
 END
-grass-taxiway.png
+river-0-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/grass-taxiway.png
+V 75
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/river-0-snow.png
 END
 canal.png
 K 25
@@ -153,23 +213,23 @@ svn:wc:ra_dav:version-url
 V 69
 /svnroot/simutrans/!svn/ver/151/pak128.Britain/ways/images/runway.png
 END
-brick-viaduct-200.png
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svnroot/simutrans/!svn/ver/237/pak128.Britain/ways/images/brick-viaduct-200.png
-END
 wrought_iron.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/wrought_iron.png
 END
-tram_track.png
+brick-viaduct-200.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/tram_track.png
+V 80
+/svnroot/simutrans/!svn/ver/237/pak128.Britain/ways/images/brick-viaduct-200.png
+END
+dirt-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/dirt-snow.png
 END
 crossing.png
 K 25
@@ -177,17 +237,23 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/150/pak128.Britain/ways/images/crossing.png
 END
-concrete_sleeper_steel_rail_improved.png
+tram_track.png
 K 25
 svn:wc:ra_dav:version-url
-V 99
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/concrete_sleeper_steel_rail_improved.png
+V 73
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/tram_track.png
 END
 brick-viaduct-320.png
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/svnroot/simutrans/!svn/ver/237/pak128.Britain/ways/images/brick-viaduct-320.png
+/svnroot/simutrans/!svn/ver/240/pak128.Britain/ways/images/brick-viaduct-320.png
+END
+concrete_sleeper_steel_rail_improved.png
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/ways/images/concrete_sleeper_steel_rail_improved.png
 END
 wrought_iron_improved.png
 K 25

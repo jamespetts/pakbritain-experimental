@@ -11,7 +11,7 @@ cost=20000
 runningcost=2
 intro_year=1750
 intro_month=1
-retire_year=1950
+retire_year=2050
 retire_month=3
 
 way_constraint_permissive[4]=4
@@ -19,6 +19,16 @@ way_constraint_prohibitive[2]=2
 
 Constraint[Prev][0]=BoatHorsesSingle
 Constraint[Prev][1]=BoatHorsesDouble
+Constraint[Prev][2]=SteamBargeBulk
+Constraint[Prev][3]=SteamBargeLong
+Constraint[Prev][4]=SteamBargePiece
+Constraint[Prev][5]=SteamBargeCool
+Constraint[Prev][6]=SteamBargeOil
+Constraint[Prev][7]=DieselBargeBulk
+Constraint[Prev][8]=DieselBargeLong
+Constraint[Prev][9]=DieselBargePiece
+Constraint[Prev][10]=DieselBargeCool
+Constraint[Prev][11]=DieselBargeOil
 
 Constraint[Next][0]=none
 
@@ -95,7 +105,7 @@ cost=20000
 runningcost=2
 intro_year=1750
 intro_month=1
-retire_year=1950
+retire_year=2050
 retire_month=3
 
 way_constraint_permissive[4]=4
@@ -103,7 +113,16 @@ way_constraint_prohibitive[2]=2
 
 Constraint[Prev][0]=BoatHorsesSingle
 Constraint[Prev][1]=BoatHorsesDouble
-
+Constraint[Prev][2]=SteamBargeBulk
+Constraint[Prev][3]=SteamBargeLong
+Constraint[Prev][4]=SteamBargePiece
+Constraint[Prev][5]=SteamBargeCool
+Constraint[Prev][6]=SteamBargeOil
+Constraint[Prev][7]=DieselBargeBulk
+Constraint[Prev][8]=DieselBargeLong
+Constraint[Prev][9]=DieselBargePiece
+Constraint[Prev][10]=DieselBargeCool
+Constraint[Prev][11]=DieselBargeOil
 Constraint[Next][0]=none
 
 EmptyImage[E]=./images/horse-barge.0.0
@@ -149,7 +168,7 @@ cost=20000
 runningcost=2
 intro_year=1750
 intro_month=1
-retire_year=1950
+retire_year=2050
 retire_month=3
 
 way_constraint_permissive[4]=4
@@ -157,7 +176,16 @@ way_constraint_prohibitive[2]=2
 
 Constraint[Prev][0]=BoatHorsesSingle
 Constraint[Prev][1]=BoatHorsesDouble
-
+Constraint[Prev][2]=SteamBargeBulk
+Constraint[Prev][3]=SteamBargeLong
+Constraint[Prev][4]=SteamBargePiece
+Constraint[Prev][5]=SteamBargeCool
+Constraint[Prev][6]=SteamBargeOil
+Constraint[Prev][7]=DieselBargeBulk
+Constraint[Prev][8]=DieselBargeLong
+Constraint[Prev][9]=DieselBargePiece
+Constraint[Prev][10]=DieselBargeCool
+Constraint[Prev][11]=DieselBargeOil
 Constraint[Next][0]=none
 
 EmptyImage[E]=./images/horse-barge.0.0
@@ -192,7 +220,7 @@ cost=20000
 runningcost=2
 intro_year=1750
 intro_month=1
-retire_year=1950
+retire_year=2050
 retire_month=3
 
 way_constraint_permissive[4]=4
@@ -200,7 +228,16 @@ way_constraint_prohibitive[2]=2
 
 Constraint[Prev][0]=BoatHorsesSingle
 Constraint[Prev][1]=BoatHorsesDouble
-
+Constraint[Prev][2]=SteamBargeBulk
+Constraint[Prev][3]=SteamBargeLong
+Constraint[Prev][4]=SteamBargePiece
+Constraint[Prev][5]=SteamBargeCool
+Constraint[Prev][6]=SteamBargeOil
+Constraint[Prev][7]=DieselBargeBulk
+Constraint[Prev][8]=DieselBargeLong
+Constraint[Prev][9]=DieselBargePiece
+Constraint[Prev][10]=DieselBargeCool
+Constraint[Prev][11]=DieselBargeOil
 Constraint[Next][0]=none
 
 EmptyImage[E]=./images/horse-barge.0.0

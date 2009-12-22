@@ -82,6 +82,16 @@ value=338
 speed_bonus=15
 weight_per_unit=1800
 -----------------------
+# Fish
+obj=good
+name=FreshFish
+metric=paletten
+catg=0
+value=69
+speed_bonus=15
+weight_per_unit=800
+metric=tonnen
+-----------------------
 ### BULK GOODS ###
 # Coal
 obj=good

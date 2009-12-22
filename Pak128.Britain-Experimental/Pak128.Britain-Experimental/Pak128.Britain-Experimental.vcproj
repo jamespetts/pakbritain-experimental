@@ -1143,11 +1143,19 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\boats192\clanlline-steamer.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\claypit.dat"
 				>
 			</File>
 			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\climates.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\clyde-steamer.dat"
 				>
 			</File>
 			<File
@@ -1300,6 +1308,10 @@
 			</File>
 			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\depot.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\diesel-barge.dat"
 				>
 			</File>
 			<File
@@ -1643,6 +1655,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\boats192\handysize.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\stations\harbour.dat"
 				>
 			</File>
@@ -1684,6 +1700,10 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\hr-jones-goods.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\humber-keel.dat"
 				>
 			</File>
 			<File
@@ -2451,6 +2471,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\norfolk-wherry.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\bus\ns-type.dat"
 				>
 			</File>
@@ -2755,6 +2779,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\schooner.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trains\sdr-1001-tender.dat"
 				>
 			</File>
@@ -2776,6 +2804,10 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\sdr-locomotion.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\seine-netter.dat"
 				>
 			</File>
 			<File
@@ -2995,6 +3027,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\steam-barge.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\trams\steam-tram.dat"
 				>
 			</File>
@@ -3068,6 +3104,10 @@
 			</File>
 			<File
 				RelativePath="..\..\ways\tgv.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\thames-sailing-barge.dat"
 				>
 			</File>
 			<File

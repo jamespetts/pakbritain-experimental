@@ -122,6 +122,8 @@ RailTunnelBrick
 Brick Rail Tunnel
 RailTunnelConcrete
 Concrete Rail Tunnel
+RailTunnelHighSpeed
+High Speed Rail Tunnel
 RoadTunnelStone
 Stone Road Tunnel
 RoadTunnelBrick
@@ -696,6 +698,16 @@ TextileMill1945
 Textile Mill
 TextileMill1975
 Textile Mill
+FishPort1750
+Fishing Port
+FishPort1840
+Fishing Port
+FishPort1910
+Fishing Port
+FishPort1945
+Fishing Port
+FishPort1975
+Fishing Port
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 Autos
@@ -792,6 +804,8 @@ newspaper
 newspapers
 cider
 cider
+FreshFish
+live fish
 #_____________________________________misc______________________________________
 #_____________________________________misc______________________________________
 PowerDest
@@ -2285,6 +2299,7 @@ DAF XF Artic
 DAFXFArticMail
 DAF XF Artic (mail)
 LargeArticTrailerBulk
+LargeArticTrailerBulk
 Large Artic Trailer (bulk goods)
 LargeArticTrailerLong
 Large Artic Trailer (long goods)
@@ -2300,8 +2315,8 @@ LargeArticTrailerCars
 Large Artic Trailer (cars)
 LargeArticTrailerMail
 Large Artic Trailer (mail)
-LargeArticTrailerBulk
-Large Artic Trailer (bulk goods)
+StandardArticTrailerBulk
+Standard Artic Trailer (bulk goods)
 StandardArticTrailerLong
 Standard Artic Trailer (long goods)
 StandardArticTrailerPiece
@@ -2524,6 +2539,88 @@ HorseBargePiece
 Unpowered Barge (piece goods)
 HorseBargeCool
 Unpowered Barge (cool goods)
+NorfolkWherryPassenger
+Norfolk Wherry (passengers)
+ClydeSteamer
+Clyde Steamer
+NorfolkWherryMail
+Norfolk Wherry (mail)
+SeineNetterSteam
+Seine Netter
+SeineNetterDiesel
+Seine Netter
+SteamBargePiece
+Steam Barge (piece goods)
+DieselBargePiece
+Diesel Barge (piece goods)
+NorfolkWherryPiece
+Norfolk Wherry (piece goods)
+HumberKeelPiece
+Humber Keel (piece goods)
+ThamesSailingBargePiece
+Thames Sailing Barge (piece goods)
+ClanLineSteamerPiece
+Clan Line Cargo Steamer (piece goods)
+HandysizePiece
+Handysize Container Ship (piece goods)
+SteamBargeBulk
+Steam Barge (bulk goods)
+DieselBargeBulk
+Diesel Barge (bulk goods)
+NorfolkWherryBulk
+Norfolk Wherry (bulk goods)
+HumberKeelBulk
+Humber Keel (bulk goods)
+ThamesSailingBargeBulk
+Thames Sailing Barge (bulk goods)
+ClanLineSteamerBulk
+Clan Line Cargo Steamer (bulk goods)
+HandysizeBulk
+Handysize Dry Bulk Ship (bulk goods)
+SteamBargeCool
+Steam Barge (cool goods)
+DieselBargeCool
+Diesel Barge (cool goods)
+NorfolkWherryCool
+Norfolk Wherry (cool goods)
+HumberKeelCool
+Humber Keel (cool goods)
+ThamesSailingBargeCool
+Thames Sailing Barge (cool goods)
+ClanLineSteamerCool
+Clan Line Cargo Steamer (cool goods)
+HandysizeCool
+Handysize Container Ship (cool goods)
+SteamBargeLong
+Steam Barge (long goods)
+DieselBargeLong
+Diesel Barge (long goods)
+NorfolkWherryLong
+Norfolk Wherry (long goods)
+HumberKeelLong
+Humber Keel (long goods)
+ThamesSailingBargeLong
+Thames Sailing Barge (long goods)
+ClanLineSteamerLong
+Clan Line Cargo Steamer (long goods)
+HandysizeLong
+Handysize Container Ship (long goods)
+SteamBargeOil
+Steam Barge (bulk fluids)
+DieselBargeOil
+Diesel Barge (bulk fluids)
+ClanLineSteamerOil
+Clan Line Cargo Steamer (bulk fluids)
+HandysizeOil
+Handysize Tanker (bulk fluids)
+SchoonerBulk
+Schooner (bulk goods)
+SchoonerPiece
+Schooner (piece goods)
+SchoonerCool
+Schooner (cool goods)
+SchoonerLong
+Schooner (long goods)
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 wrought_iron_track_light

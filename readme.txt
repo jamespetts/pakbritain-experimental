@@ -56,4 +56,28 @@ HISTORY
 	ADD: Leyland Comet, Morris Minor Van, Scammell Trucks
 	ADD: Horse Barges
 	FIX: Graphics for quays
-	FIX: Intro year for old boatyard	
+	FIX: Intro year for old boatyard
+15/10/2009: Release of v1.05
+	ADD: Lorries part 3
+	ADD: Cobblestone bridge
+18/10/2009: r224
+	FIX: Metropolitan Motor Coach constraints
+	FIX: D88 Cool Wagon dat
+	FIX: Electrification dat
+	FIX: River dat
+29/10/2009: r230
+	FIX: Sawmill capacity caused crashes
+	FIX: 20t long wagon image
+	FIX: Constraints on various train carriages
+	FIX: Signal intro years
+14/12/2009: r237
+	FIX: Intro year for cold goods wagon
+	FIX: Intro years for harbours
+	ADD: New rail viaducts by AEO
+15/12/2009: r238
+	FIX: Some trucks had no bulk fluid capacity
+20/12/2009: r239-241
+	ADD: More boats
+	ADD: Fishing Port industry
+	ADD: Winter images for roads, rivers, canals, and trees
+	FIX: BR Standard Tender and SR Q1 Tender Speed
