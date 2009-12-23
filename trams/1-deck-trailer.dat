@@ -17,7 +17,7 @@ runningcost=2
 sound=-1
 
 can_lead_from_rear=0
-bidirectional=1
+bidirectional=0
 way_constraint_prohibitive[0]=0
 comfort=40
 loading_time=2600
