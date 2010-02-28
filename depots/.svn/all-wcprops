@@ -1,37 +1,31 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/svnroot/simutrans/!svn/ver/195/pak128.Britain/depots
+/svnroot/simutrans/!svn/ver/257/pak128.Britain/depots
 END
-modern-train-depot.dat
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/modern-train-depot.dat
-END
-modern-tram-depot.png
+boatyard-old-snow.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/depots/modern-tram-depot.png
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/boatyard-old-snow.png
 END
-old-bus-depot.dat
+maglev-depot-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/old-bus-depot.dat
+V 75
+/svnroot/simutrans/!svn/ver/257/pak128.Britain/depots/maglev-depot-snow.png
 END
-old-train-depot.png
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/old-train-depot.png
-END
-boatyard-old.dat
+maglev-depot.dat
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/svnroot/simutrans/!svn/ver/195/pak128.Britain/depots/boatyard-old.dat
+/svnroot/simutrans/!svn/ver/257/pak128.Britain/depots/maglev-depot.dat
+END
+modern-bus-depot-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/modern-bus-depot-snow.png
 END
 modern-train-depot.png
 K 25
@@ -43,25 +37,31 @@ modern-bus-depot.dat
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/modern-bus-depot.dat
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/modern-bus-depot.dat
 END
-coach-stable.dat
+coach-stable-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/coach-stable.dat
+V 75
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/coach-stable-snow.png
 END
-air-hangar-old.dat
+air-hangar-old-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/depots/air-hangar-old.dat
+V 77
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/air-hangar-old-snow.png
 END
-boatyard-modern.dat
+boatyard-modern-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/boatyard-modern.dat
+V 78
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/boatyard-modern-snow.png
+END
+old-tram-depot-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/old-tram-depot-snow.png
 END
 old-tram-depot.dat
 K 25
@@ -75,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 71
 /svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/old-bus-depot.png
 END
-air-hangar-modern.dat
+air-hangar-modern-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/depots/air-hangar-modern.dat
+V 80
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/air-hangar-modern-snow.png
 END
 boatyard-old.png
 K 25
@@ -87,17 +87,11 @@ svn:wc:ra_dav:version-url
 V 70
 /svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/boatyard-old.png
 END
-modern-tram-depot.dat
+air-hangar-old.png
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/depots/modern-tram-depot.dat
-END
-modern-bus-depot.png
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/modern-bus-depot.png
+V 72
+/svnroot/simutrans/!svn/ver/151/pak128.Britain/depots/air-hangar-old.png
 END
 coach-stable.png
 K 25
@@ -105,33 +99,123 @@ svn:wc:ra_dav:version-url
 V 70
 /svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/coach-stable.png
 END
-air-hangar-old.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/151/pak128.Britain/depots/air-hangar-old.png
-END
-old-train-depot.dat
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svnroot/simutrans/!svn/ver/149/pak128.Britain/depots/old-train-depot.dat
-END
 boatyard-modern.png
 K 25
 svn:wc:ra_dav:version-url
 V 73
 /svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/boatyard-modern.png
 END
-old-tram-depot.png
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svnroot/simutrans/!svn/ver/140/pak128.Britain/depots/old-tram-depot.png
-END
 air-hangar-modern.png
 K 25
 svn:wc:ra_dav:version-url
 V 75
 /svnroot/simutrans/!svn/ver/151/pak128.Britain/depots/air-hangar-modern.png
+END
+modern-train-depot.dat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/modern-train-depot.dat
+END
+modern-train-depot-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/modern-train-depot-snow.png
+END
+modern-tram-depot.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/depots/modern-tram-depot.png
+END
+old-bus-depot.dat
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/old-bus-depot.dat
+END
+old-train-depot.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/old-train-depot.png
+END
+old-bus-depot-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/old-bus-depot-snow.png
+END
+boatyard-old.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/boatyard-old.dat
+END
+coach-stable.dat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/coach-stable.dat
+END
+air-hangar-old.dat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/air-hangar-old.dat
+END
+boatyard-modern.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/boatyard-modern.dat
+END
+air-hangar-modern.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/air-hangar-modern.dat
+END
+modern-tram-depot.dat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/modern-tram-depot.dat
+END
+modern-tram-depot-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/modern-tram-depot-snow.png
+END
+modern-bus-depot.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/simutrans/!svn/ver/178/pak128.Britain/depots/modern-bus-depot.png
+END
+maglev-depot.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/simutrans/!svn/ver/257/pak128.Britain/depots/maglev-depot.png
+END
+old-train-depot.dat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/old-train-depot.dat
+END
+old-train-depot-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/simutrans/!svn/ver/251/pak128.Britain/depots/old-train-depot-snow.png
+END
+old-tram-depot.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/simutrans/!svn/ver/140/pak128.Britain/depots/old-tram-depot.png
 END

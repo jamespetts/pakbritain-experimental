@@ -1,3 +1,9 @@
+################################### compat.tab #################################
+# The obsolete vehicles will be replaced by the one in the next line           #
+#                                                                              #
+#
+#                                                                              #
+#### Power Stations misnaming
 CoalPowerStation1910
 CoalPowerStation1910kraftwerk
 CoalPowerStation1920
@@ -10,3 +16,7 @@ OilPowerStation1950
 OilPowerStation1950kraftwerk
 OilPowerStation1970
 OilPowerStation1970kraftwerk
+#
+### Replace Nelsons Column with 1x1 - replace in game with 1x1 fountain
+Nelson-Column
+Fountain

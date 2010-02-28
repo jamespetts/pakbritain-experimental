@@ -29,8 +29,8 @@ Constraint[Prev][8]=DieselBargeLong
 Constraint[Prev][9]=DieselBargePiece
 Constraint[Prev][10]=DieselBargeCool
 Constraint[Prev][11]=DieselBargeOil
-
 Constraint[Next][0]=none
+
 
 EmptyImage[E]=./images/horse-barge.0.0
 EmptyImage[SE]=./images/horse-barge.0.1

@@ -9,5 +9,6 @@ retire_year=1950
 needs_ground=1
 dims=1,1,1
 
-BackImage[0][0][0][0][0]=images/ind/1860-gasometer.0.0
+BackImage[0][0][0][0][0][0]=images/ind/1860-gasometer.0.0
+BackImage[0][0][0][0][0][1]=images/ind/1860-gasometer.0.1
 --

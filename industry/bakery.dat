@@ -81,10 +81,9 @@ Obj=factory
 name=Bakery1945
 intro_year=1945
 intro_month=12
-# This should retire when the supermarket chain is added.
 #retire_year=1975
 #retire_month=10
-copyright=James
+copyright=Kieron & WLindley
 level=5
 pax_level=18  
 climates=rocky,tundra,temperate,mediterran,desert,arctic,tropic
@@ -99,8 +98,8 @@ InputCapacity[0]=175
 InputFactor[0]=100  
 #InputSupplier[0]=1
 Dims=1,1,4
-BackImage[2][0][0][0][0]=bakery.0
-BackImage[1][0][0][0][0]=bakery.1
-BackImage[0][0][0][0][0]=bakery.2
-BackImage[3][0][0][0][0]=bakery.3
+BackImage[2][0][0][0][0]=1950shops.3.0
+BackImage[1][0][0][0][0]=1950shops.0.4
+BackImage[0][0][0][0][0]=1950shops.0.5
+BackImage[3][0][0][0][0]=1950shops.3.3
 --------------------

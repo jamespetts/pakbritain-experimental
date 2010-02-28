@@ -97,7 +97,7 @@ upgrade[0]=Greengrocers1945
 --------------------
 Obj=factory
 name=Greengrocers1945
-copyright=James
+copyright=Kieron & WLindley
 intro_year=1945
 intro_month=12
 #retire_year=1975
@@ -121,8 +121,8 @@ InputCapacity[1]=250
 InputFactor[1]=100  
 #InputSupplier[1]=1
 Dims=1,1,4
-BackImage[2][0][0][0][0]=greengrocers.0
-BackImage[1][0][0][0][0]=greengrocers.1
-BackImage[0][0][0][0][0]=greengrocers.2
-BackImage[3][0][0][0][0]=greengrocers.3
+BackImage[2][0][0][0][0]=1950shops.3.0
+BackImage[1][0][0][0][0]=1950shops.2.6
+BackImage[0][0][0][0][0]=1950shops.2.7
+BackImage[3][0][0][0][0]=1950shops.3.3
 --------------------

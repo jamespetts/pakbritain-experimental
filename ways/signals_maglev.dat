@@ -1,0 +1,129 @@
+
+# ATC, simplified style 2004
+--------------------------------------
+# normal signal
+obj=roadsign
+copyright=AEO
+name=ATC_signal
+waytype=maglev_track
+cost=500
+is_signal=1
+intro_year = 2004
+intro_month = 1
+# stop
+Image[0]=images/signals-maglev.0.1
+Image[1]=images/signals-maglev.0.0
+Image[2]=images/signals-maglev.0.2
+Image[3]=images/signals-maglev.0.3
+# go
+Image[4]=images/signals-maglev.3.1
+Image[5]=images/signals-maglev.3.0
+Image[6]=images/signals-maglev.3.2
+Image[7]=images/signals-maglev.3.3
+Icon=> images/signals-maglev.0.4
+Cursor=images/signals-maglev.0.5
+---------------------------------------
+# presignal
+obj=roadsign
+copyright=AEO
+Name=ATC_presignal
+waytype=maglev_track
+cost=1000
+is_presignal=1
+intro_year = 2004
+intro_month = 1
+# stop
+Image[0]=images/signals-maglev.1.1
+Image[1]=images/signals-maglev.1.0
+Image[2]=images/signals-maglev.1.2
+Image[3]=images/signals-maglev.1.3
+# go
+Image[4]=images/signals-maglev.3.1
+Image[5]=images/signals-maglev.3.0
+Image[6]=images/signals-maglev.3.2
+Image[7]=images/signals-maglev.3.3
+# wait
+Image[8]=images/signals-maglev.0.0
+Image[9]=images/signals-maglev.0.2
+Image[10]=images/signals-maglev.0.1
+Image[11]=images/signals-maglev.0.3
+Icon=> images/signals-maglev.1.4
+Cursor=images/signals-maglev.1.5
+---------------------------------------
+# long block signal
+obj=roadsign
+copyright=AEO
+Name=ATC_Longblock
+waytype=maglev_track
+cost=2000
+is_signal=1
+is_longblocksignal=1
+intro_year = 2004
+intro_month = 1
+# stop
+Image[0]=images/signals-maglev.2.1
+Image[1]=images/signals-maglev.2.0
+Image[2]=images/signals-maglev.2.2
+Image[3]=images/signals-maglev.2.3
+# go
+Image[4]=images/signals-maglev.3.1
+Image[5]=images/signals-maglev.3.0
+Image[6]=images/signals-maglev.3.2
+Image[7]=images/signals-maglev.3.3
+Icon=> images/signals-maglev.2.4
+Cursor=images/signals-maglev.2.5
+---------------------------------------
+# choose signal
+obj=roadsign
+copyright=AEO
+Name=ATC_choosesignal
+waytype=maglev_track
+cost=4000
+is_signal=1
+free_route=1
+intro_year = 2004
+intro_month = 1
+# stop
+Image[0]=images/signals-maglev.4.1
+Image[1]=images/signals-maglev.4.0
+Image[2]=images/signals-maglev.4.2
+Image[3]=images/signals-maglev.4.3
+# go
+Image[4]=images/signals-maglev.5.1
+Image[5]=images/signals-maglev.5.0
+Image[6]=images/signals-maglev.5.2
+Image[7]=images/signals-maglev.5.3
+Icon=> images/signals-maglev.4.4
+Cursor=images/signals-maglev.4.5
+---------------------------------------
+# End of Choose Signal
+obj=roadsign
+copyright=AEO
+name=ATC_EndofChooseSignal
+waytype=maglev_track
+cost=250
+end_of_choose=1
+intro_year = 2004
+intro_month = 1
+Image[0]=images/signals-maglev.6.1
+Image[1]=images/signals-maglev.6.0
+Image[2]=images/signals-maglev.6.2
+Image[3]=images/signals-maglev.6.3
+Icon=> images/signals-maglev.6.4
+Cursor=images/signals-maglev.6.5
+---------------------------------------
+# oneway signal
+obj=roadsign
+copyright=AEO
+name=ATC_OneWay
+waytype=maglev_track
+cost=250
+single_way=1
+intro_year = 2004
+intro_month = 1
+Image[0]=images/signals-maglev.7.0
+Image[1]=images/signals-maglev.7.1
+Image[2]=images/signals-maglev.7.3
+Image[3]=images/signals-maglev.7.2
+Icon=> images/signals-maglev.7.4
+Cursor=images/signals-maglev.7.5

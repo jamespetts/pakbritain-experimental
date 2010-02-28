@@ -70,6 +70,8 @@ ConcreteSupportedBridgeHighSpeed
 Concrete Supported Rail Bridge (high speed)
 ConcreteSpanningBridgeHighSpeed
 Concrete Spanning Rail Bridge (high speed)
+WoodTrestleRoad
+Wooden Trestle Road Bridge
 BrickViaductRoad
 Brick Road Bridge (tarmac)
 BrickViaductCobbles
@@ -114,6 +116,16 @@ BrickAqueduct
 Brick Aqueduct
 PowerBridge
 High Voltage Transmission Line Bridge
+MasonryViaductRoad
+Masonry Road Bridge (tarmac)
+MasonryViaductCobbles
+Masonry Road Bridge (cobblestone)
+MasonryViaductDirt
+Masonary Road Bridge (macadam)
+Concrete_Maglev_Bridge
+Concrete Maglev Bridge
+Economical_Concrete_Maglev_Bridge
+Lightweight Concrete Maglev Bridge
 #____________________________________tunnel_____________________________________
 #____________________________________tunnel_____________________________________
 RailTunnelStone
@@ -132,6 +144,10 @@ RoadTunnelConcrete
 Concrete Road Tunnel
 CanalTunnel
 Canal Tunnel
+MaglevTunnelConcrete
+Concrete Maglev Tunnel
+MaglevTunnelEco
+Lightweight Concrete Maglev Tunnel
 #__________________________________way-object___________________________________
 #__________________________________way-object___________________________________
 DCRailCatenary
@@ -249,11 +265,85 @@ Warehouse
 JH_IND_1750_00
 Warehouse
 JH_IND_1860_00
+JH_IND_1880_00
 Small Factory
 JH_IND_1860_01
+JH_IND_1880_01
 Small Factory
 JH_IND_1860_00
 Gasometer
+KG_RES_04_90-2
+Semi-detatched Houses
+JH_IND_1750_03
+Warehouse
+WL_IND_50_00
+Car Park
+JH_IND_1750_02
+Warehouses
+JH_IND_1800_00
+Small Factory
+JH_IND_1800_01
+Small Factory
+JH_IND_1750_00A
+Warehouses
+JH_IND_1850_20
+Warehouse
+JH_IND_1750_01
+Warehouses
+JH_COM_00_16A
+Offices
+JH_IND_1850_21
+Warehouse
+JH_COM_00_16B
+Offices
+JH_COM_00_16C
+Offices
+JH_COM_00_16D
+Offices
+JH_COM_00_16E
+Offices
+JH_COM_00_16F
+Offices
+KG_COM_00_17A
+Offices
+KG_COM_00_17B
+Offices
+KG_COM_00_17C
+Offices
+KG_COM_00_17D
+Offices
+KG_COM_00_17E
+Offices
+JH_IND_1850_22
+Warehouse
+JH_IND_1850_23
+Warehouse
+A_COM_1750_00
+Inn
+A_COM_1750_01A
+Terraced Shops
+A_COM_1750_01B
+Terraced Shops
+A_COM_1880_01
+Shops & Offices
+WL_IND_1900_00
+Electrical Substation
+WL_IND_80_00
+Car Park
+A_RES_1750_00
+Terraced Town Houses
+A_RES_1750_01
+Terraced Houses
+A_RES_1880_0A
+Tenements
+A_RES_1880_0B
+Tenements
+A_RES_1750_01
+Terraced Houses
+A_RES_1750_02
+Cottage
+A_COM_1750_02
+Coaching Inn
 #____________________________________attractions____________________________________
 #____________________________________attractions____________________________________
 1980s-Small-Church
@@ -279,7 +369,10 @@ Monument of a Knight
 War-Memorial
 War Memorial
 Nelson-Column
+NelsonColumn2
 Nelson's Column
+Fountain
+Fountain
 #____________________________________factory____________________________________
 #____________________________________factory____________________________________
 ArableFarm1750
@@ -828,6 +921,8 @@ CATEGORY_06
 woods
 CATEGORY_07
 farm products
+battery
+maglev
 #___________________________________way-signs____________________________________
 #___________________________________way-signs____________________________________
 traffic_light
@@ -891,7 +986,7 @@ Norway spruce
 River0
 Stream (Not Navigable)
 River1
-Small River (Not Navigable)
+Small River (Navigable)
 River2
 River (Navigable)
 River3
@@ -2621,6 +2716,94 @@ SchoonerCool
 Schooner (cool goods)
 SchoonerLong
 Schooner (long goods)
+Dogger
+Dogger
+Fifie
+Fifie
+BrigBulk
+Brig (bulk goods)
+BrigPiece
+Brig (piece goods)
+BrigCool
+Brig (cool goods)
+BrigLong
+Brig (long goods)
+EastIndiamanBulk
+East Indiaman (bulk goods)
+EastIndiamanPiece
+East Indiaman (piece goods)
+EastIndiamanLong
+East Indiaman (long goods)
+BlackwallFrigateBulk
+Blackwall Frigate (bulk goods)
+BlackwallFrigatePiece
+Blackwall Frigate (piece goods)
+BlackwallFrigateLong
+Blackwall Frigate (long goods)
+BlackwallFrigateAddPax
+Passenger accomodation for the Blackwall Frigate
+BlackwallFrigateAddMail
+Mail accomodation for the Blackwall Frigate
+ClipperBulk
+Clipper (bulk goods)
+ClipperPiece
+Clipper (piece goods)
+ClipperLong
+Clipper (long goods)
+WindjammerBulk
+Windjammer (bulk goods)
+WindjammerPiece
+Windjammer (piece goods)
+WindjammerLong
+Windjammer (long goods)
+WindjammerFluid
+Windjammer (bulk fluids)
+#____________________________________maglev-vehicle____________________________________
+#____________________________________maglev-vehicle____________________________________
+BR-M-Class9000
+RMU 9000 Class
+RMU-aerocab(front)
+RMU Aerocab
+RMU-aerocab(rear)
+RMU Aerocab
+RMUbox(cooled)
+RMU Box Car (cooled goods)
+RMUbox(piece)
+RMU Box Car (piece goods)
+RMUflat(cooled)
+RMU Flat Car (cooled goods)
+RMUflat(piece)
+RMU Flat Car (piece goods)
+BR-Ultra-450(front)
+Ultraspeed Class M10 "Zephyr"
+BR-Ultra-450(Buffet)
+Ultraspeed Class M10 "Zephyr" (middle buffet)
+BR-Ultra-450(Open)
+Ultraspeed Class M10 "Zephyr" (middle)
+BR-Ultra-450(rear)
+Ultraspeed Class M10 "Zephyr" (rear)
+BR-Ultra-Mail(front)
+Ultraspeed Class M21 "Hermes"
+BR-Ultra-Mail(Open)
+Ultraspeed Class M21 "Hermes" (middle)
+BR-Ultra-Mail(rear)
+Ultraspeed Class M21 "Hermes" (rear)
+BR-Ultra-520(front)
+Ultraspeed Class M20 "Olympian" 
+BR-Ultra-520(Open)
+Ultraspeed Class M20 "Olympian" (middle)
+BR-Ultra-520(Buffet)
+Ultraspeed Class M20 "Olympian" (middle buffet)
+BR-Ultra-520(rear)
+Ultraspeed Class M20 "Olympian" (rear)
+BR-Ultra-520DD(front)
+Ultraspeed Class M30 "Platinum Jubilee"
+BR-Ultra-520DD(Open)
+Ultraspeed Class M30 "Platinum Jubilee" (middle)
+BR-Ultra-520DD(Buffet)
+Ultraspeed Class M30 "Platinum Jubilee" (middle buffet)
+BR-Ultra-520DD(rear)
+Ultraspeed Class M30 "Platinum Jubilee" (rear)
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 wrought_iron_track_light
@@ -2683,6 +2866,18 @@ GrassRunway
 Grass Runway
 runway
 Asphalt Runway
+Concrete_Maglev_Track
+Concrete Maglev Track
+Concrete_Maglev_Track_Elevated
+Concrete Maglev Track (elevated)
+Economical_Concrete_Maglev_Track
+Lightweight Concrete Maglev Track
+Economical_Concrete_Maglev_Track_Elevated
+Lightweight Concrete Maglev Track (elevated)
+BrickViaductElevated
+Brick Viaduct Elevated Railway
+BrickViaductElevatedEarly
+Brick Viaduct Elevated Railway
 #__________________________________stations/stops___________________________________
 #__________________________________stations/stops___________________________________
 BrickPlatformTrainStop
@@ -2701,6 +2896,12 @@ WoodenPlatformTrainStop
 Wooden Platform
 woodenPlatformOverallTrainStop
 Wooden Platform with Overroof
+ConcretePlatformMaglevStop
+Concrete Platform
+ConcretePlatformBuildingMaglevStop
+Concrete Platform with Building
+ConcretePlatformOverallMaglevStop
+Concrete Platform with Overroof
 GoodsSiding
 Goods Siding
 GoodsSidingCrane
@@ -2801,6 +3002,26 @@ CoachStable
 Coaching stable
 AirHangarModern
 Aircraft hangar
+GoodsPlatformMaglevStop
+Maglev Goods Platform
+GoodsPlatformMaglevCrane
+Maglev Goods Platform with Crane
+GoodsPlatformMaglevWarehouse
+Maglev Goods Shed
+#_________________Signals_______________________
+#_________________Signals_______________________
+ATC_signal
+Basic Signal
+ATC_OneWay
+One Way Sign
+ATC_presignal
+Pre-signal
+ATC_Longblock
+Long-block Signal
+ATC_choosesignal
+Choose Signal
+ATC_EndofChooseSignal
+End of Choose Signal Block Sign
 #__________________________________Way constraints__________________________________
 #__________________________________Way constraints__________________________________
 Permissive 0

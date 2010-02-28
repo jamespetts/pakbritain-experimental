@@ -9,7 +9,8 @@ retire_year=1970
 needs_ground=1
 dims=1,1,1
 
-BackImage[0][0][0][0][0]=images/res/50-6f-tower-block.png.0
+BackImage[0][0][0][0][0][0]=images/res/50-6f-tower-block.0.0
+BackImage[0][0][0][0][0][1]=images/res/50-6f-tower-block.1.0
 --
 Obj=building
 Name=KG_RES_02_17
@@ -22,5 +23,7 @@ retire_year=1970
 needs_ground=1
 dims=1,1,2
 
-BackImage[0][0][0][0][0]=images/res/50-maissonette.0.0
-BackImage[1][0][0][0][0]=images/res/50-maissonette.0.1
+BackImage[0][0][0][0][0][0]=images/res/50-maissonette.0.0
+BackImage[1][0][0][0][0][0]=images/res/50-maissonette.0.1
+BackImage[0][0][0][0][0][1]=images/res/50-maissonette.1.0
+BackImage[1][0][0][0][0][1]=images/res/50-maissonette.1.1

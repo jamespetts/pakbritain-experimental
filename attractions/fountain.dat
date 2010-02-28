@@ -1,0 +1,14 @@
+Obj=building
+Name=Fountain
+Type=mon
+Build_Time=1000
+Chance=10
+Passengers=20
+Dims=1,1,1
+needs_ground=1
+intro_year=1750
+intro_month=1
+retire_year=2050
+retire_month=1
+BackImage[0][0][0][0][0][0]=images/mon/fountain.0.0
+BackImage[0][0][0][0][0][1]=images/mon/fountain.1.0

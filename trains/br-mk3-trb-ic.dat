@@ -67,8 +67,8 @@ loading_time=9250
 comfort=145
 
 Constraint[Next][0]=BR-Mk3a-TO(Intercity)
-Constraint[Next][1]=BR-Mk3a-DVT(Intercity)
-Constraint[Next][2]=BR-Mk3-TRB(Intercity)
+Constraint[Next][1]=BR-Mk3-DVT(Intercity)
+Constraint[Next][2]=BR-Mk3a-TRB(Intercity)
 Constraint[Next][3]=None
 
 EmptyImage[E]=./images/br-mk3-trb-ic.0

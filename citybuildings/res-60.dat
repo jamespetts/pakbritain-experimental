@@ -9,7 +9,8 @@ retire_year=1980
 needs_ground=1
 dims=1,1,1
 
-BackImage[0][0][0][0][0]=images/res/60-5f-tower-block.0
+BackImage[0][0][0][0][0][0]=images/res/60-5f-tower-block.0
+BackImage[0][0][0][0][0][1]=images/res/60-5f-tower-block.1
 --
 Obj=building
 Name=KG_RES_60_01
@@ -22,9 +23,10 @@ retire_year=1980
 needs_ground=1
 dims=1,1,2
 
-BackImage[0][0][0][0][0]=images/res/60-council-house-a-0.0
-BackImage[1][0][0][0][0]=images/res/60-council-house-a-1.0
-
+BackImage[0][0][0][0][0][0]=images/res/60-council-house-a-0.0
+BackImage[1][0][0][0][0][0]=images/res/60-council-house-a-1.0
+BackImage[0][0][0][0][0][1]=images/res/60-council-house-a-0.1
+BackImage[1][0][0][0][0][1]=images/res/60-council-house-a-1.1
 --
 Obj=building
 Name=KG_RES_60_02
@@ -37,8 +39,10 @@ retire_year=1980
 needs_ground=1
 dims=1,1,2
 
-BackImage[0][0][0][0][0]=images/res/60-council-house-b-0.0
-BackImage[1][0][0][0][0]=images/res/60-council-house-b-1.0
+BackImage[0][0][0][0][0][0]=images/res/60-council-house-b-0.0
+BackImage[1][0][0][0][0][0]=images/res/60-council-house-b-1.0
+BackImage[0][0][0][0][0][1]=images/res/60-council-house-b-0.1
+BackImage[1][0][0][0][0][1]=images/res/60-council-house-b-1.1
 --
 Obj=building
 Name=KG_RES_60_03
@@ -51,10 +55,14 @@ retire_year=1980
 needs_ground=1
 dims=1,1,4
 
-BackImage[2][0][0][0][0]=images/res/60-terrace-3f.0.0
-BackImage[1][0][0][0][0]=images/res/60-terrace-3f.0.1
-BackImage[0][0][0][0][0]=images/res/60-terrace-3f.0.2
-BackImage[3][0][0][0][0]=images/res/60-terrace-3f.0.3
+BackImage[2][0][0][0][0][0]=images/res/60-terrace-3f.0.0
+BackImage[1][0][0][0][0][0]=images/res/60-terrace-3f.0.1
+BackImage[0][0][0][0][0][0]=images/res/60-terrace-3f.0.2
+BackImage[3][0][0][0][0][0]=images/res/60-terrace-3f.0.3
+BackImage[2][0][0][0][0][1]=images/res/60-terrace-3f.1.0
+BackImage[1][0][0][0][0][1]=images/res/60-terrace-3f.1.1
+BackImage[0][0][0][0][0][1]=images/res/60-terrace-3f.1.2
+BackImage[3][0][0][0][0][1]=images/res/60-terrace-3f.1.3
 --
 Obj=building
 Name=KG_RES_1960_04
@@ -62,10 +70,12 @@ copyright=Kieron
 type=res
 chance=100
 Level=3
-intro_year=1970
+intro_year=1960
 retire_year=1990
 needs_ground=1
 dims=1,1,2
 
-BackImage[0][0][0][0][0]=images/res/1960-council-house-sm-a.0.0
-BackImage[1][0][0][0][0]=images/res/1960-council-house-sm-a.0.1
+BackImage[0][0][0][0][0][0]=images/res/1960-council-house-sm-a.0.0
+BackImage[1][0][0][0][0][0]=images/res/1960-council-house-sm-a.0.1
+BackImage[0][0][0][0][0][1]=images/res/1960-council-house-sm-a.1.0
+BackImage[1][0][0][0][0][1]=images/res/1960-council-house-sm-a.1.1

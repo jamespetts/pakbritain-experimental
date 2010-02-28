@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Einstellungsdateifuer die PAK-Erstellung per MOScript
+# Bitte anpassen und als parameter.mos umaendern
+
+#der Ort wo sich makeobj befindet absolut
+#Absolute filepath to where makeobj is located
+!makeobj=makeobj
+
+#der Ort wo die Dateien hinkopiert werden sollen absolut MIT / am Ende
+#You need to specify the location of the folder you want to build the pak in here
+!OUTPUT=/home/james/simutrans/pak128.Britain/

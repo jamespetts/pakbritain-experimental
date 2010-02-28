@@ -13,7 +13,7 @@ TECHNICAL ISSUES
 If there are any technical issues (e.g. error messages, crashes) please make a post in "bugs" board of the Simutrans Forum - http://forum.simutrans.com/index.php?board=8.0 - Please also state which version of the Simutrans executable you are using and which operating system.
 
 GAMEPLAY NOTES
-This version is a beta version - there are many aspects of the pakset which are incomplete, missing, or not well-balanced for gameplay.  There may also be bugs present in the pakset which have not been weeded out.  If you have spotted any graphical glitches or other problems with the pakset, please post these in the pak128.Britain forum.  Also if you have any comments to make on the balancing of the gameplay (e.g. financial, industry production, vehicle acceleration, etc.) please post these in the pak128.Britain board of the simutrans forum: http://forum.simutrans.com/index.php?board=51.0 . In particular please note that there are currently no trucks, boats, planes, monorails, or maglevs available in the game.  If you really want to use these in a pak128.Britain game, other simutrans graphics objects of 128x128 tilesize (e.g.pak128, pak128.German) will also run in pak128.Britain, although they may look out of place and will not be balanced from a gameplay point of view.  Most of all though, we hope you enjoy playing pak128.Britain - please provide feedback on the forum, look forward to future releases, and consider contributing to the drawing of new graphics and balancing of existing ones!
+This version is a beta version - there are many aspects of the pakset which are incomplete, missing, or not well-balanced for gameplay.  There may also be bugs present in the pakset which have not been weeded out.  If you have spotted any graphical glitches or other problems with the pakset, please post these in the pak128.Britain forum.  Also if you have any comments to make on the balancing of the gameplay (e.g. financial, industry production, vehicle acceleration, etc.) please post these in the pak128.Britain board of the simutrans forum: http://forum.simutrans.com/index.php?board=51.0 . In particular please note that there are currently no planes or monorails available in the game.  If you really want to use these in a pak128.Britain game, other simutrans graphics objects of 128x128 tilesize (e.g.pak128, pak128.German, pak128.Japan) will also run in pak128.Britain, although they may look out of place and will not be balanced from a gameplay point of view.  Most of all though, we hope you enjoy playing pak128.Britain - please provide feedback on the forum, look forward to future releases, and consider contributing to the drawing of new graphics and balancing of existing ones!
 
 HISTORY
 07/07/2009: Release of Pak128.Britain 1.0
@@ -30,7 +30,7 @@ HISTORY
 	ADD: Partial Japanese translation (Simutranslator)
 	ADD: Partial German translation (Simutranslator)
 17/07/2009: Release of Pak128.Britain 1.03
-	FIX: beer is now a crate good
+	FIX: beer is now a chttps://mail.google.com/mail/?shva=1rate good
 	FIX: pubs accept cider
 	FIX: power stations produce power
 	FIX: furniture factories have a sensible production rate
@@ -81,3 +81,46 @@ HISTORY
 	ADD: Fishing Port industry
 	ADD: Winter images for roads, rivers, canals, and trees
 	FIX: BR Standard Tender and SR Q1 Tender Speed
+23/12/2009: r242
+	ADD: Masonry road bridge (wlindley)
+	ADD: Southern Railway/Region Rail Vehicles (jamespetts)
+10/01/2010: r245
+	ADD: More citybuildings (wlindley)
+	ADD: Snow images for townhalls, citybuildings and rails
+	CHANGE: New gasometer image
+27/01/2010: r246
+	FIX: Mk3/3a Carriage Constraints
+	FIX: 4Vep Acceleration/Speed
+06/02/2010: r247-r250
+	ADD: 4 Rotations and Snow images for all attractions/monuments
+	ADD: Fountain monument
+	CHANGE: Nelson's Column is now 2x2
+	ADD: 4 Rotations with Snow for all townhalls
+	ADD: Electrical substation (wlindley)
+	ADD: 1750 inn (Archon)
+	FIX: Snow graphics not showing for some citybuildings
+	FIX: TTA Tanker wagon running cost
+	FIX: Horse and cart intro date
+	CHANGE: Livestock weight increased
+07/02/2010: r251-r252
+	ADD: Snow images for depots
+	ADD: Snow images for grass runway/taxiway
+	FIX: remove special colours from some images
+20/02/2010: r254-255
+	ADD: new citybuildings and snow images by Archon and WLindley
+	ADD: Wlindley's industry graphics
+21/02/2010: r256
+	ADD: New sailing boats
+	CHANGE: Speeds on all boats
+24/02/2010: r257-260
+	ADD: AEO's Maglev
+	FIX: 12t cooled wagon dates
+	FIX: Pub image needs ground
+	ADD: Brick viaduct elevated way
+	ADD: Wooden trestle road bridge
+	ADD: Diagonal roads
+25/02/2010: r261-262 (release of v1.07)
+	ADD: 2 new citybuildings by Archon
+	FIX: Archon citybuilding graphics
+	FIX: Pavement image
+	CHANGE: new demo.sve by AP

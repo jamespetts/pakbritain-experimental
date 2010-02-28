@@ -1,9 +1,23 @@
 #
-# File created with TileCutter version 0.3d.1
-# For more information see http://simutrans.entropy.me.uk/tilecutter/
+# Replaced by 2x2 below....
 #
+#Obj=building
+#name=Nelson-Column
+#copyright=James
+#intro_year=1806
+#intro_month=1
+#retire_year=1880
+#retire_month=1
+#level=200  
+#needs_ground=1
+#type=mon
+#chance=100  
+#Dims=1,1,1
+#BackImage[0][0][0][0][0]=images/mon/nelson-column.0.0
+#BackImage[0][0][0][1][0]=images/mon/nelson-column.1.0
+#--------------------
 Obj=building
-name=Nelson-Column
+name=NelsonColumn2
 copyright=James
 intro_year=1806
 intro_month=1
@@ -13,7 +27,13 @@ level=200
 needs_ground=1
 type=mon
 chance=100  
-Dims=1,1,1
-BackImage[0][0][0][0][0]=images/mon/nelson-column.0.0
-BackImage[0][0][0][1][0]=images/mon/nelson-column.1.0
+Dims=2,2,1
+BackImage[0][0][0][0][0][0]=images/mon/nelson-column2.0.0
+BackImage[0][0][1][0][0][0]=images/mon/nelson-column2.0.1
+BackImage[0][1][0][0][0][0]=images/mon/nelson-column2.1.0
+BackImage[0][1][1][0][0][0]=images/mon/nelson-column2.1.1
+BackImage[0][0][0][0][0][1]=images/mon/nelson-column2.0.2
+BackImage[0][0][1][0][0][1]=images/mon/nelson-column2.0.3
+BackImage[0][1][0][0][0][1]=images/mon/nelson-column2.1.2
+BackImage[0][1][1][0][0][1]=images/mon/nelson-column2.1.3
 --------------------

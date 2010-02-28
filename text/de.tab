@@ -1,0 +1,194 @@
+################################################################################
+#                                                                              #
+#                Simutrans Scenario Specific Translation File                  #
+#                           Scenario: pak128.britain                           #
+#                             Language: de Deutsch                             #
+#                             Encoding: ISO-8859-1                             #
+#                            Font : Prop-Latin1.bdf                            #
+#                            Date Created: 8.07 2009                           #
+#                                                                              #
+#                                   authors:                                   #
+#                            Alexander Brose - AlexB                           #
+#                                    note:                                     #
+#                         Klaus Thenmayer - Bitfreezer                         #
+#                                    note:                                     #
+#                                   - Combuijs                                 #
+#                                    note:                                     #
+#                             Michael Hohl - Cruzer                            #
+#                       note: Administrator pak192.comic                       #
+#                             Dirk W. - DirrrtyDirk                            #
+#                                    note:                                     #
+#                            Christian W. - Eps-Omo                            #
+#                                    note:                                     #
+#                              Frank Penz - FrankP                             #
+#                      note: Administrator SimuTranslator                      #
+#                         Roman Schwörer - Gotthardlok                         #
+#                                    note:                                     #
+#                           Hansjörg Malthaner - Hajo                          #
+#                                    note:                                     #
+#                             Marcus Haupt - Marcus                            #
+#note: if I´m not available by email to proximity.de try mail@marcus-haupt.de (#
+#                        Constantin Grabowski - Moistboy                       #
+#                                    note:                                     #
+#                                 compo - compo                                #
+#                                    note:                                     #
+#                            Günter Beine - gebeine                            #
+#                        note: maintainer pak128.german                        #
+#                            Jonas Bushart - jonasbb                           #
+#                                    note:                                     #
+#                              Markus Rex - msrex                              #
+#                                    note:                                     #
+#                          Markus Pristovsek - prissi                          #
+#              note: Administrator Base texts / pak64 / pak.japan              #
+#                            Oliver Mayer - rakishly                           #
+#                                    note:                                     #
+#                               Sven Osada - sojo                              #
+#                         note: maintainer pak96.comic                         #
+#                           Werner Brandt - wernieman                          #
+#                             note: Nightly creator                            #
+#                           Michael Olbricht - whoami                          #
+#                                    note:                                     #
+#                                                                              #
+################################################################################
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+PowerBridge
+Hochspannungsleitung
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+00_CITY
+Gemeindehalle
+01_CITY
+Gemeindehalle
+02_CITY
+Stadthalle
+03_CITY
+Stadthalle
+04_CITY
+Stadthalle
+BusStop
+Kleine Bushaltestelle
+KG_COM_1970_0
+Bürogebäude\n\n\n\n\n\n\n
+KG_RES_1920_00
+Vorstadtwohnung\n\n\n\n\n\n\n
+KG_RES_80_00
+Kleine Vorstadtwohnung\n\n\n\n\n\n\n
+KG_RES_80_01
+Vorstadtwohnung\n\n\n\n\n\n\n
+KG_RES_80_02
+Wohnungsblock\n\n\n\n\n\n\n
+LoadingBay
+Ladebucht mit Briefkasten
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+GrainMill
+Getreidemühle
+IronOreMine
+Eisenerz Mine
+SheepFarm
+Schaf Farm
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+beer
+Bier
+Chemicals
+Chemikalien
+fish
+Fisch
+fruit
+Früchte
+Gasoline
+Benzin
+grain
+Getreide
+hardware
+Hardware
+meat
+Fleisch
+milk
+Milch
+newspaper
+Zeitung
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+ChooseSign
+Wegwahlschlid
+ChooseSignals
+Wegwahlsignal
+Early_ChooseSignals_right
+Wegwahlsignal
+Early_LongSignals_right
+Langblocksignal
+Early_preSignals_right
+Zwei-Block Signal
+Early_Signals_right
+Signal
+EndofChooseSignal
+Gleiswahlsignal Ende
+Modern_ChooseSignals_right
+Gleiswahlsignal
+Modern_EndofChooseSignal
+Gleiswahlsignal Ende
+Modern_LongSignals_right
+Langblocksignal
+Modern_preSignals_right
+Vorsignal
+Modern_Signals_right
+Signal
+OneWay
+Einweg Signal
+Signals
+Signal
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+EnglishOak
+Englische Eiche\n\n\n\n\n\n\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+CanalTunnel
+Kanaltunnel
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+LeylandLeopard
+Leyland Leopard
+LeylandLynx
+Leyland Lynx
+LeylandOlympian
+Leyland Olympian
+LeylandOlympianCoach
+Leyland Olymbian (Omnibus)
+LeylandTiger
+Leyland Tiger
+LeylandTitanB15
+Leyland Titan
+MercedesCitaroG(Front)
+Mercedes Citaro GL
+MercedesCitaroG(Rear)
+Mercedes Citaro GL (Beiwagen)
+MercedesCitaroK
+Mercedes Citaro K
+Tram-Horses
+Pferdegespann
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+asphalt_road
+Asphaltstrasse
+Canal
+Kanal
+city_road
+Stadtstrasse
+cobblestone_road
+Pflasterstrasse
+Powerline
+Hochspannungsleitungsbrücke
+tgv
+Hochgeschwindigkeitsgleis
+TramTrack
+Tram Gleise
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+TramElectrification
+Tram Oberleitung
+TrollyBusElectrification
+Trolleybus Oberleitung

@@ -62,7 +62,7 @@ catg=0
 #value=35
 value=53
 speed_bonus=2
-weight_per_unit=10
+weight_per_unit=100
 ------------------------------------------
 # None
 obj=good

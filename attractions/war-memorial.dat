@@ -8,7 +8,13 @@ retire_month=1
 Build_Time=1000
 Chance=10
 Passengers=20
-Dims=1,1,1
+Dims=1,1,4
 needs_ground=1
-BackImage[0][0][0][0][0]=images/mon/war-memorial.0.0
-
+BackImage[0][0][0][0][0][0]=images/mon/war-memorial.0.0
+BackImage[1][0][0][0][0][0]=images/mon/war-memorial.0.3
+BackImage[2][0][0][0][0][0]=images/mon/war-memorial.0.2
+BackImage[3][0][0][0][0][0]=images/mon/war-memorial.0.1
+BackImage[0][0][0][0][0][1]=images/mon/war-memorial.1.0
+BackImage[1][0][0][0][0][1]=images/mon/war-memorial.1.3
+BackImage[2][0][0][0][0][1]=images/mon/war-memorial.1.2
+BackImage[3][0][0][0][0][1]=images/mon/war-memorial.1.1

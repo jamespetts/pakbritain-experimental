@@ -9,7 +9,11 @@ retire_year=1980
 needs_ground=1
 dims=1,1,4
 
-BackImage[2][0][0][0][0]=images/com/60's-shop-flats.0
-BackImage[1][0][0][0][0]=images/com/60's-shop-flats.1
-BackImage[0][0][0][0][0]=images/com/60's-shop-flats.2
-BackImage[3][0][0][0][0]=images/com/60's-shop-flats.3
+BackImage[2][0][0][0][0][0]=images/com/60's-shop-flats.0.0
+BackImage[1][0][0][0][0][0]=images/com/60's-shop-flats.0.1
+BackImage[0][0][0][0][0][0]=images/com/60's-shop-flats.0.2
+BackImage[3][0][0][0][0][0]=images/com/60's-shop-flats.0.3
+BackImage[2][0][0][0][0][1]=images/com/60's-shop-flats.1.0
+BackImage[1][0][0][0][0][1]=images/com/60's-shop-flats.1.1
+BackImage[0][0][0][0][0][1]=images/com/60's-shop-flats.1.2
+BackImage[3][0][0][0][0][1]=images/com/60's-shop-flats.1.3

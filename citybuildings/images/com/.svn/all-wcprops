@@ -1,59 +1,101 @@
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com
+/svnroot/simutrans/!svn/ver/261/pak128.Britain/citybuildings/images/com
 END
-1910-offices-3f.png
+70's-office-snow.png
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/1910-offices-3f.png
+V 92
+/svnroot/simutrans/!svn/ver/254/pak128.Britain/citybuildings/images/com/70's-office-snow.png
 END
 60's-shop-flats.png
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/60's-shop-flats.png
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/60's-shop-flats.png
+END
+1870-offices-snow.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/simutrans/!svn/ver/254/pak128.Britain/citybuildings/images/com/1870-offices-snow.png
+END
+1750-terrace-stone-shops.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/simutrans/!svn/ver/261/pak128.Britain/citybuildings/images/com/1750-terrace-stone-shops.png
 END
 1880-terrace-row-shop.png
 K 25
 svn:wc:ra_dav:version-url
 V 97
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/1880-terrace-row-shop.png
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/1880-terrace-row-shop.png
 END
-1880-terrace-corner-shop.png
-K 25
-svn:wc:ra_dav:version-url
-V 100
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/1880-terrace-corner-shop.png
-END
-1870-pub.png
+1750_inn.png
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/1870-pub.png
+/svnroot/simutrans/!svn/ver/261/pak128.Britain/citybuildings/images/com/1750_inn.png
 END
-1880-terrace-row-shop-2f.png
+1880-office-5f.png
 K 25
 svn:wc:ra_dav:version-url
-V 100
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/1880-terrace-row-shop-2f.png
+V 90
+/svnroot/simutrans/!svn/ver/261/pak128.Britain/citybuildings/images/com/1880-office-5f.png
 END
 80's-shop-offices.png
 K 25
 svn:wc:ra_dav:version-url
 V 93
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/80's-shop-offices.png
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/80's-shop-offices.png
 END
-70-small-office.png
+1880-terrace-row-shop-2f.png
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/70-small-office.png
+V 100
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/1880-terrace-row-shop-2f.png
 END
 70's-office.png
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/svnroot/simutrans/!svn/ver/134/pak128.Britain/citybuildings/images/com/70's-office.png
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/70's-office.png
+END
+1870-offices.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/simutrans/!svn/ver/254/pak128.Britain/citybuildings/images/com/1870-offices.png
+END
+1910-offices-3f.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/1910-offices-3f.png
+END
+1880-terrace-corner-shop.png
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/1880-terrace-corner-shop.png
+END
+1870-pub.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/1870-pub.png
+END
+70-small-office.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/simutrans/!svn/ver/245/pak128.Britain/citybuildings/images/com/70-small-office.png
+END
+1750-coach-inn.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/simutrans/!svn/ver/261/pak128.Britain/citybuildings/images/com/1750-coach-inn.png
 END

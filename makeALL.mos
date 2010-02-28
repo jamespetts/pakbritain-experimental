@@ -1,0 +1,97 @@
+#!/usr/bin/python mose.py
+!mose min_version 3
+!size=128
+run ./parameter.mos
+echo Build pak128.Britain ...
+echo This could take a few minutes!
+echo
+config only_error=0
+config makeobj=%makeobj%
+
+echo Copy system objects
+rmdir %OUTPUT%
+mkdir %OUTPUT%
+mkdir %OUTPUT%config/
+xcopy ./config/*.tab %OUTPUT%config/
+mkdir %OUTPUT%text/
+xcopy ./text/*.* %OUTPUT%text/
+xcopy ./demo.sve %OUTPUT%
+xcopy ./licence.txt %OUTPUT%
+xcopy ./readme.txt %OUTPUT%
+xcopy ./compat.tab %OUTPUT%
+
+echo Build attractions
+build %OUTPUT%BritAttractions.pak ./attractions/
+
+echo Build boats
+build %OUTPUT%BritBoat.pak ./boats/
+!size=192
+build %OUTPUT%BritBoat192.pak ./boats/boats192/
+!size=224
+build %OUTPUT%BritBoat224.pak ./boats/boats224/
+
+!size=128
+echo Build busses
+build %OUTPUT%BritBus.pak ./bus/
+
+echo Build citybuildings
+build %OUTPUT%BritCity.pak ./citybuildings/
+
+echo Build citycars
+build %OUTPUT%BritCitycar.pak ./citycars/
+
+echo Build depots
+build %OUTPUT%BritDepot.pak ./depots/
+
+echo Build goods
+build %OUTPUT%BritGoods.pak ./goods/
+
+echo Build grounds
+build %OUTPUT% ./grounds/
+
+echo Build gui
+!size=64
+#build %OUTPUT%BritGUI64.pak ./gui/gui64/
+build %OUTPUT%BritGUI64.pak ./gui/gui64/
+!size=128
+#build %OUTPUT% ./gui/gui128/
+build %OUTPUT% ./gui/gui128/
+
+echo Build industry
+build %OUTPUT%BritIndustry.pak ./industry/
+
+echo Build london-underground
+build %OUTPUT%BritLU.pak ./london-underground/
+
+echo Build maglevs
+build %OUTPUT%BritMaglev.pak ./maglev/
+
+echo Build pedestrians
+build %OUTPUT%BritPedestrian.pak ./pedestrians/
+
+echo Build smokes
+build %OUTPUT%BritSmoke.pak ./smokes/
+
+echo Build stations
+build %OUTPUT%BritStation.pak ./stations/
+
+echo Build townhall
+build %OUTPUT%BritHall.pak ./townhall/
+
+echo Build trains
+build %OUTPUT%BritRail.pak ./trains/
+
+echo Build trams
+build %OUTPUT%BritTram.pak ./trams/
+
+echo Build trees
+build %OUTPUT%BritTree.pak ./trees/
+
+echo Build ways
+build %OUTPUT%BritWay.pak ./ways/
+
+echo -----------------
+echo  !BUILD COMPLETE!
+echo
+
+

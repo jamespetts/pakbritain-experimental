@@ -90,9 +90,7 @@ Obj=factory
 name=ClothesShop1945
 intro_year=1945
 intro_month=12
-retire_year=1975
-retire_month=10
-copyright=James
+copyright=Kieron & WLindley
 level=5
 pax_level=18  
 copyright=James
@@ -109,9 +107,8 @@ InputFactor[0]=100
 #InputSupplier[0]=1
 needs_ground=1
 Dims=1,1,4
-BackImage[2][0][0][0][0]=1750-clothes-shop.0
-BackImage[1][0][0][0][0]=1750-clothes-shop.1
-BackImage[0][0][0][0][0]=1750-clothes-shop.2
-BackImage[3][0][0][0][0]=1750-clothes-shop.3
+BackImage[2][0][0][0][0]=1950shops.3.0
+BackImage[1][0][0][0][0]=1950shops.3.4
+BackImage[0][0][0][0][0]=1950shops.3.5
+BackImage[3][0][0][0][0]=1950shops.3.3
 --------------------
-# Not replaced after 1975 - department stores take over.

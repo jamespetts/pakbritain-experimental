@@ -375,6 +375,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\boats192\blackwall-frigate.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\citycars\bmc-mini.dat"
 				>
 			</File>
@@ -1027,6 +1031,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\brick-viaduct-elevated.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\ways\brick-viaduct-road.dat"
 				>
 			</File>
@@ -1152,6 +1160,10 @@
 			</File>
 			<File
 				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\climates.txt"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\boats192\clipper.dat"
 				>
 			</File>
 			<File
@@ -1348,6 +1360,10 @@
 			</File>
 			<File
 				RelativePath="..\..\bus\eagle-trailers.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\boats192\east-indiaman.dat"
 				>
 			</File>
 			<File
@@ -2203,6 +2219,14 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\ways\maglev_bridges.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\maglev_tracks.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\lorries\mail_coach.dat"
 				>
 			</File>
@@ -2228,6 +2252,10 @@
 			</File>
 			<File
 				RelativePath="..\..\grounds\marker.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\ways\masonry-viaduct-road.dat"
 				>
 			</File>
 			<File
@@ -3426,6 +3454,10 @@
 			</File>
 			<File
 				RelativePath="..\..\stations\water-stops.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\boats224\windjammer.dat"
 				>
 			</File>
 			<File

@@ -363,6 +363,7 @@ toolbar[4][6]=general_tool[17],27,,6
 toolbar[4][7]=buildings(33,6)
 toolbar[4][8]=buildings(34,6)
 toolbar[4][9]=buildings(35,6)
+toolbar[4][10]=buildings(35,0)
 
 # tramtools (waytype 7)
 toolbar[5][0]=ways(7,0)

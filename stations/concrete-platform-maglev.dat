@@ -1,0 +1,127 @@
+Obj=building
+Name=ConcretePlatformMaglevStop
+copyright=Kieron
+type=stop
+waytype=maglev_track
+enables_pax=1
+noconstruction=1
+intro_year=1960
+#no retire
+#retire_year=1960
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,16
+NoInfo=1
+Level=1
+BackImage[0][0][0][0][0]=concrete-platform.1.0
+BackImage[1][0][0][0][0]=concrete-platform.0.0
+BackImage[2][0][0][0][0]=concrete-platform.1.2
+BackImage[3][0][0][0][0]=concrete-platform.0.4
+BackImage[4][0][0][0][0]=concrete-platform.1.4
+BackImage[5][0][0][0][0]=concrete-platform.0.2
+BackImage[6][0][0][0][0]=concrete-platform.1.6
+BackImage[7][0][0][0][0]=concrete-platform.0.6
+
+FrontImage[8][0][0][0][0]=concrete-platform.1.1
+FrontImage[9][0][0][0][0]=concrete-platform.0.1
+FrontImage[10][0][0][0][0]=concrete-platform.1.3
+FrontImage[11][0][0][0][0]=concrete-platform.0.5
+FrontImage[12][0][0][0][0]=concrete-platform.1.5
+FrontImage[13][0][0][0][0]=concrete-platform.0.3
+FrontImage[14][0][0][0][0]=concrete-platform.1.7
+FrontImage[15][0][0][0][0]=concrete-platform.0.7
+
+Icon=> button-concrete-platform.0.0
+Cursor=concrete-platform-cursor.0.0
+
+----
+
+Obj=building
+Name=ConcretePlatformBuildingMaglevStop
+copyright=Kieron
+type=stop
+waytype=maglev_track
+enables_pax=1
+noconstruction=1
+intro_year=1960
+#no retire
+#retire_year=1960
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,16
+NoInfo=1
+Level=2
+BackImage[0][0][0][0][0]=concrete-platform-building.0.1
+BackImage[1][0][0][0][0]=concrete-platform-building.0.2
+BackImage[2][0][0][0][0]=concrete-platform-building.0.1
+BackImage[3][0][0][0][0]=concrete-platform-building.0.2
+BackImage[4][0][0][0][0]=concrete-platform-building.0.1
+BackImage[5][0][0][0][0]=concrete-platform-building.0.2
+BackImage[6][0][0][0][0]=concrete-platform-building.0.1
+BackImage[7][0][0][0][0]=concrete-platform-building.0.2
+
+FrontImage[8][0][0][0][0]=concrete-platform-building.0.3
+FrontImage[9][0][0][0][0]=concrete-platform-building.0.0
+FrontImage[10][0][0][0][0]=concrete-platform-building.0.3
+FrontImage[11][0][0][0][0]=concrete-platform-building.0.0
+FrontImage[12][0][0][0][0]=concrete-platform-building.0.3
+FrontImage[13][0][0][0][0]=concrete-platform-building.0.0
+FrontImage[14][0][0][0][0]=concrete-platform-building.0.3
+FrontImage[15][0][0][0][0]=concrete-platform-building.0.0
+
+Icon=> button-concrete-platform-buildings.0.0
+Cursor=concrete-platform-buildings-cursor.0.0
+
+----
+
+Obj=building
+Name=ConcretePlatformOverallMaglevStop
+copyright=Kieron
+type=stop
+waytype=maglev_track
+enables_pax=1
+noconstruction=1
+intro_year=1960
+#no retire
+#retire_year=1960
+# must be 1*2
+# 1_1 is the land sqare
+Dims=1,1,16
+NoInfo=1
+Level=4
+BackImage[0][0][0][0][0]=concrete-platform-overall.0.1
+BackImage[1][0][0][0][0]=concrete-platform-overall.0.2
+BackImage[2][0][0][0][0]=concrete-platform-overall.0.1
+BackImage[3][0][0][0][0]=concrete-platform-overall.0.2
+BackImage[4][0][0][0][0]=concrete-platform-overall.0.1
+BackImage[5][0][0][0][0]=concrete-platform-overall.0.2
+BackImage[6][0][0][0][0]=concrete-platform-overall.0.1
+BackImage[7][0][0][0][0]=concrete-platform-overall.0.2
+BackImage[8][0][0][0][0]=concrete-platform-overall.0.3
+BackImage[9][0][0][0][0]=concrete-platform-overall.0.0
+BackImage[10][0][0][0][0]=concrete-platform-overall.0.3
+BackImage[11][0][0][0][0]=concrete-platform-overall.0.0
+BackImage[12][0][0][0][0]=concrete-platform-overall.0.3
+BackImage[13][0][0][0][0]=concrete-platform-overall.0.0
+BackImage[14][0][0][0][0]=concrete-platform-overall.0.3
+BackImage[15][0][0][0][0]=concrete-platform-overall.0.0
+
+FrontImage[0][0][0][0][0]=concrete-platform-overall.0.5
+FrontImage[1][0][0][0][0]=concrete-platform-overall.0.6
+FrontImage[2][0][0][0][0]=concrete-platform-overall.0.5
+FrontImage[3][0][0][0][0]=concrete-platform-overall.0.6
+FrontImage[4][0][0][0][0]=concrete-platform-overall.0.5
+FrontImage[5][0][0][0][0]=concrete-platform-overall.0.6
+FrontImage[6][0][0][0][0]=concrete-platform-overall.0.5
+FrontImage[7][0][0][0][0]=concrete-platform-overall.0.6
+FrontImage[8][0][0][0][0]=concrete-platform-overall.0.7
+FrontImage[9][0][0][0][0]=concrete-platform-overall.0.4
+FrontImage[10][0][0][0][0]=concrete-platform-overall.0.7
+FrontImage[11][0][0][0][0]=concrete-platform-overall.0.4
+FrontImage[12][0][0][0][0]=concrete-platform-overall.0.7
+FrontImage[13][0][0][0][0]=concrete-platform-overall.0.4
+FrontImage[14][0][0][0][0]=concrete-platform-overall.0.7
+FrontImage[15][0][0][0][0]=concrete-platform-overall.0.4
+
+Icon=> button-concrete-platform-overall.0.0
+Cursor=concrete-platform-overall-cursor.0.0

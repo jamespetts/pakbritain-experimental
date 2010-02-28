@@ -1,0 +1,17 @@
+Obj=building
+Name=WL_IND_1900_00
+copyright=WLindley
+type=ind
+chance=100
+Level=5
+intro_year=1900
+retire_year=1940
+needs_ground=1
+dims=1,1,2
+
+BackImage[0][0][0][0][0][0]=images/ind/1909-elec-substation.0.0
+BackImage[1][0][0][0][0][0]=images/ind/1909-elec-substation.0.1
+BackImage[0][0][0][0][0][1]=images/ind/1909-elec-substation.1.0
+BackImage[1][0][0][0][0][1]=images/ind/1909-elec-substation.1.1
+----
+
