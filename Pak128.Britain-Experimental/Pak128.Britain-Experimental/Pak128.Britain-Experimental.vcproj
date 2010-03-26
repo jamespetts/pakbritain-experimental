@@ -1455,6 +1455,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\attractions\fountain.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\furniture-factory.dat"
 				>
 			</File>
