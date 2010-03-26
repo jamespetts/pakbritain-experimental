@@ -41,7 +41,7 @@ intro_year=1900
 cursor=way-power_lines-128.0.1
 icon=> way-power_lines-128.0.0
 # rbis * animation
-Image[-]=way-power_lines-128.0.2
+Image[-]=way-power_lines-128.0.3
 # lines
 Image[N]=way-power_lines-128.2.6
 Image[S]=way-power_lines-128.2.4

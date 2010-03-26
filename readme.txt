@@ -124,3 +124,7 @@ HISTORY
 	FIX: Archon citybuilding graphics
 	FIX: Pavement image
 	CHANGE: new demo.sve by AP
+24/03/2010: r267
+	FIX: factory retire dates
+	FIX: powerline graphics
+	DEL: mose.py (outdated)
