@@ -161,6 +161,11 @@ distance_per_tile = 25
 # tolerable_comfort_long minutes.
 #
 # For any journeys of a time between any of the values, a scaled proportion is taken. 
+# 
+# Note that (versions 7.2 onwards), the impact of comfort on revenue decreases with journey time.
+# It is at its maximum level down to tolerable_comfort_median_long_minutes, after which it gradually
+# reduces to 20% of its maximum at tolerable_comfort_short_minutes, and does not decrease further
+# thereafter. 
 
 tolerable_comfort_short_minutes=2
 tolerable_comfort_short=15
