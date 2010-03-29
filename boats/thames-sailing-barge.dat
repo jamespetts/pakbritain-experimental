@@ -20,6 +20,9 @@ retire_month=6
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 EmptyImage[E]=./images/thames-sailing-barge.0.0
 EmptyImage[SE]=./images/thames-sailing-barge.0.1
 EmptyImage[S]=./images/thames-sailing-barge.0.2
@@ -102,6 +105,9 @@ retire_month=6
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 EmptyImage[E]=./images/thames-sailing-barge.0.0
 EmptyImage[SE]=./images/thames-sailing-barge.0.1
 EmptyImage[S]=./images/thames-sailing-barge.0.2
@@ -154,6 +160,9 @@ retire_month=6
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 EmptyImage[E]=./images/thames-sailing-barge.0.0
 EmptyImage[SE]=./images/thames-sailing-barge.0.1
 EmptyImage[S]=./images/thames-sailing-barge.0.2
@@ -193,6 +202,9 @@ retire_month=6
 
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
+
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
 
 EmptyImage[E]=./images/thames-sailing-barge.0.0
 EmptyImage[SE]=./images/thames-sailing-barge.0.1

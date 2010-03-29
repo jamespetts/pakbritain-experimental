@@ -1359,6 +1359,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\dogger.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\bus\eagle-trailers.dat"
 				>
 			</File>

@@ -25,6 +25,9 @@ Constraint[Next][2]=HorseBargeLong
 Constraint[Next][3]=HorseBargePiece
 Constraint[Next][4]=none
 
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 
 EmptyImage[E]=./images/steam-barge.0.0
 EmptyImage[SE]=./images/steam-barge.0.1
@@ -113,6 +116,9 @@ Constraint[Next][3]=HorseBargePiece
 Constraint[Next][4]=none
 Constraint[Prev][0]=none
 
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 EmptyImage[E]=./images/steam-barge.0.0
 EmptyImage[SE]=./images/steam-barge.0.1
 EmptyImage[S]=./images/steam-barge.0.2
@@ -170,6 +176,9 @@ Constraint[Next][3]=HorseBargePiece
 Constraint[Next][4]=none
 Constraint[Prev][0]=none
 
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
+
 EmptyImage[E]=./images/steam-barge.7.0
 EmptyImage[SE]=./images/steam-barge.7.1
 EmptyImage[S]=./images/steam-barge.7.2
@@ -205,6 +214,9 @@ Constraint[Next]30[2]=HorseBargeLong
 Constraint[Next][3]=HorseBargePiece
 Constraint[Next][4]=none
 Constraint[Prev][0]=none
+
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
 
 
 EmptyImage[E]=./images/steam-barge.8.0
@@ -242,6 +254,9 @@ Constraint[Next][2]=HorseBargeLong
 Constraint[Next][3]=HorseBargePiece
 Constraint[Next][4]=none
 Constraint[Prev][0]=none
+
+way_constraint_permissive[4]=4
+way_constraint_prohibitive[2]=2
 
 
 EmptyImage[E]=./images/steam-barge.9.0
