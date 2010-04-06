@@ -1047,6 +1047,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\boats\brig.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\industry\builders-yard.dat"
 				>
 			</File>
@@ -1400,6 +1404,10 @@
 			</File>
 			<File
 				RelativePath="..\..\grounds\fences.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\boats\fifie.dat"
 				>
 			</File>
 			<File
