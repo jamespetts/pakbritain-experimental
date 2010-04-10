@@ -42,7 +42,6 @@ Constraint[Next][14]=BR-Mk2a-BSO(Blue-Grey)
 Constraint[Next][15]=BR-Mk2a-TSO(Blue-Grey)
 Constraint[Next][16]=none
 
-# TODO: Get unique images for this vehicle.
 EmptyImage[E]=./images/br-mk1-rbr-bg.0
 EmptyImage[SE]=./images/br-mk1-rbr-bg.1
 EmptyImage[S]=./images/br-mk1-rbr-bg.2

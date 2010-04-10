@@ -156,6 +156,10 @@ ACHighSpeedCatenary
 AC Overhead Catenary
 DCThirdRail
 DC Third Rail Electrification
+DCRailCatenaryCombined
+DC Overhead Catenary + DC third rail
+ACHighSpeedCatenaryCombined
+AC Overhead Catenary + DC third rail
 TramElectrification
 DC Tramway Catenary
 TrollyBusElectrification
@@ -1372,6 +1376,8 @@ BR-Mk2-TO(Intercity)
 BR Mk. 2d Standard Open
 BR-Mk3-TO(Intercity)
 BR Mk. 3 Standard Open
+BR-Mk3a-TO(Intercity)
+BR Mk. 3a Standard Open
 BR-Mk4-TSO(Intercity)
 BR Mk. 4 Standard Open
 BR-423-DTCL-Front
@@ -1404,6 +1410,8 @@ BR-303Rear(CaledonianBlue)
 BR Class 303 EMU (rear)
 BR-153(Regional)
 BR Class 153 "Super-Sprinter" DMU
+BR-153-Trolley(Regional)
+BR Class 153 "Super-Sprinter" DMU (with trolley service)
 BR-313Front(Blue-Grey)
 BR Class 313 EMU
 BR-313Pantograph(Blue-Grey)
@@ -1870,8 +1878,12 @@ BR-Mk2a-BSO(Blue-Grey)
 BR Mk. 2a Brake Open
 BR-Mk3-TRB(Intercity)
 BR Mk. 3 Buffet
+BR-Mk3a-TRB(Intercity)
+BR Mk. 3a Buffet
 BR-Mk3-TRFB(Intercity)
 BR Mk. 3 Restaurant Buffet
+BR-Mk3a-TRFB(Intercity)
+BR Mk. 3a Restaurant Buffet
 BR-Mk4-RSB(Intercity)
 BR Mk. 4 Restaurant Buffet
 LSWR-Third-Brake

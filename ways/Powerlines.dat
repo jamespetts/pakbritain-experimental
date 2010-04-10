@@ -20,11 +20,11 @@ intro_year=1900
 Obj=misc
 Name=PowerDest
 copyright=James
-Image[0]=way-power_lines-128.4.5
-Image[1]=way-power_lines-128.4.6
+Image[0]=1909-elec-substation.0.0
+Image[1]=1909-elec-substation.0.1
 # winter
-Image[2]=way-power_lines-128.4.5
-Image[3]=way-power_lines-128.4.6
+Image[2]=1909-elec-substation.1.0
+Image[3]=1909-elec-substation.1.1
 
 cursor=way-power_lines-128.1.0
 icon=> way-power_lines-128.0.2

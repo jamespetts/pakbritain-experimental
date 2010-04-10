@@ -115,14 +115,14 @@ Constraint[Prev][0]=BR-Mk3-TO(Intercity)
 Constraint[Prev][1]=BR-Mk3-TRB(Intercity)
 Constraint[Prev][2]=BR-Class43Front(Intercity
 
-EmptyImage[E]=./images/br-mk3-trb-ic.0
-EmptyImage[SE]=./images/br-mk3-trb-ic.1
-EmptyImage[S]=./images/br-mk3-trb-ic.2
-EmptyImage[SW]=./images/br-mk3-trb-ic.3
-EmptyImage[W]=./images/br-mk3-trb-ic.4
-EmptyImage[NW]=./images/br-mk3-trb-ic.5
-EmptyImage[N]=./images/br-mk3-trb-ic.6
-EmptyImage[NE]=./images/br-mk3-trb-ic.7
+EmptyImage[E]=./images/br-mk3-trfb-ic.0
+EmptyImage[SE]=./images/br-mk3-trfb-ic.1
+EmptyImage[S]=./images/br-mk3-trfb-ic.2
+EmptyImage[SW]=./images/br-mk3-trfb-ic.3
+EmptyImage[W]=./images/br-mk3-trfb-ic.4
+EmptyImage[NW]=./images/br-mk3-trfb-ic.5
+EmptyImage[N]=./images/br-mk3-trfb-ic.6
+EmptyImage[NE]=./images/br-mk3-trfb-ic.7
 
 ---
 
@@ -156,12 +156,12 @@ Constraint[Next][1]=BR-Mk3a-DVT(Intercity)
 Constraint[Next][2]=BR-Mk3-TRB(Intercity)
 Constraint[Next][3]=None
 
-EmptyImage[E]=./images/br-mk3-trb-ic.0
-EmptyImage[SE]=./images/br-mk3-trb-ic.1
-EmptyImage[S]=./images/br-mk3-trb-ic.2
-EmptyImage[SW]=./images/br-mk3-trb-ic.3
-EmptyImage[W]=./images/br-mk3-trb-ic.4
-EmptyImage[NW]=./images/br-mk3-trb-ic.5
-EmptyImage[N]=./images/br-mk3-trb-ic.6
-EmptyImage[NE]=./images/br-mk3-trb-ic.7
+EmptyImage[E]=./images/br-mk3-trfb-ic.0
+EmptyImage[SE]=./images/br-mk3-trfb-ic.1
+EmptyImage[S]=./images/br-mk3-trfb-ic.2
+EmptyImage[SW]=./images/br-mk3-trfb-ic.3
+EmptyImage[W]=./images/br-mk3-trfb-ic.4
+EmptyImage[NW]=./images/br-mk3-trfb-ic.5
+EmptyImage[N]=./images/br-mk3-trfb-ic.6
+EmptyImage[NE]=./images/br-mk3-trfb-ic.7
 

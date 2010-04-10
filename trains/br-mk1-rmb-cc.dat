@@ -46,11 +46,11 @@ Constraint[Next][15]=BR-Mk2a-TSO(Blue-Grey)
 Constraint[Next][16]=none
 
 
-EmptyImage[E]=./images/br-mk1-rbr-cc.0
-EmptyImage[SE]=./images/br-mk1-rbr-cc.1
-EmptyImage[S]=./images/br-mk1-rbr-cc.2
-EmptyImage[SW]=./images/br-mk1-rbr-cc.3
-EmptyImage[W]=./images/br-mk1-rbr-cc.4
-EmptyImage[NW]=./images/br-mk1-rbr-cc.5
-EmptyImage[N]=./images/br-mk1-rbr-cc.6
-EmptyImage[NE]=./images/br-mk1-rbr-cc.7
+EmptyImage[E]=./images/br-mk1-rmb-cc.0
+EmptyImage[SE]=./images/br-mk1-rmb-cc.1
+EmptyImage[S]=./images/br-mk1-rmb-cc.2
+EmptyImage[SW]=./images/br-mk1-rmb-cc.3
+EmptyImage[W]=./images/br-mk1-rmb-cc.4
+EmptyImage[NW]=./images/br-mk1-rmb-cc.5
+EmptyImage[N]=./images/br-mk1-rmb-cc.6
+EmptyImage[NE]=./images/br-mk1-rmb-cc.7
