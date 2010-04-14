@@ -1751,6 +1751,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\citybuildings\ind-1900.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\citybuildings\ind-60.dat"
 				>
 			</File>

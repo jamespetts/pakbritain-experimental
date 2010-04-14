@@ -1178,6 +1178,8 @@ LMR-4Wheel-First
 LMR 4 Wheel Carriage (1st class)
 LMR-4Wheel-TPO
 LMR 4 Wheel TPO
+LMR-4Wheel-Mail
+LMR 4 Wheel Mail
 LNWR-1847-First
 LNWR 4 Wheel Carriage
 LNWR-1847-Brake
@@ -2151,6 +2153,8 @@ Cart (piece goods)
 CartCool
 Cart (cooled goods)
 CartMail
+Cart (mail)
+CartMailNew
 Cart (mail)
 WagonBulk
 Wagon (bulk goods)

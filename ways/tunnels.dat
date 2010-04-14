@@ -6,8 +6,8 @@ cost=100000
 maintenance=5000
 topspeed=110
 max_weight=105
-intro_year=1750
-intro_month=1
+intro_year=1829
+intro_month=3
 retire_year=1940
 retire_month=1
 # Normal images
@@ -34,8 +34,8 @@ cost=150000
 maintenance=5000
 topspeed=175
 max_weight=150
-intro_year=1825
-intro_month=1
+intro_year=1848
+intro_month=9
 retire_year=1986
 retire_month=4
 # Normal images
