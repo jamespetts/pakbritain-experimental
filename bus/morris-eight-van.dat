@@ -16,8 +16,6 @@ intro_month=10
 retire_year=1953
 length=4
 
-
-
 constraint[next][0]=none
 constraint[prev][0]=none
 
@@ -94,7 +92,7 @@ power=18
 speed=80
 weight=1
 cost=97500
-runningcost=211
+runningcost=57
 intro_year=1934
 intro_month=10
 retire_year=1953
