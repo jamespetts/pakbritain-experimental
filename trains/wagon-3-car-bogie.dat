@@ -1,6 +1,5 @@
 obj=vehicle
 name=Wagon3CarBogie
-#?
 speed=100
 copyright=James
 intro_year=1950
@@ -12,13 +11,12 @@ freight=Autos
 payload=3
 length=7
 
-#?
 weight=12
 cost=200000
 runningcost=10
 sound=-1
 
-comfort=0
+bidirectional=0
 loading_time=12000
 
 EmptyImage[E]=./images/wagon-3-car-bogie.0

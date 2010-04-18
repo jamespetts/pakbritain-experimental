@@ -17,6 +17,8 @@ cost=0
 runningcost=0
 sound=-1
 
+bidirectional=0
+
 EmptyImage[E]=./images/wagon-brake-br.0
 EmptyImage[SE]=./images/wagon-brake-br.1
 EmptyImage[S]=./images/wagon-brake-br.2

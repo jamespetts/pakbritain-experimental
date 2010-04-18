@@ -15,7 +15,7 @@ weight=27
 cost=340000
 runningcost=12
 
-comfort=0
+bidirectional=1
 loading_time=9000
 
 EmptyImage[E]=./images/wagon-hta.0.0

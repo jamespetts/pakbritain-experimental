@@ -347,7 +347,7 @@ cost_found_city=5000000
 cost_multiply_found_industry=500000
 cost_remove_tree=40
 cost_buy_land=250
-cost_multiply_remove_haus=1000
+cost_multiply_remove_haus=25000
 cost_multiply_remove_field=5000
 
 # Insolvency and debt settings

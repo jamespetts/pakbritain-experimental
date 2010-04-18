@@ -1,6 +1,6 @@
 obj=vehicle
 name=Wagon2CarFlat
-#?
+
 speed=75
 copyright=James
 intro_year=1930
@@ -12,13 +12,12 @@ freight=Autos
 payload=2
 length=4
 
-#?
 weight=7
 cost=140000
 runningcost=8
 sound=-1
 
-comfort=0
+bidirectional=10
 loading_time=12000
 
 EmptyImage[E]=./images/wagon-2-car-flat.0
