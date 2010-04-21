@@ -16,7 +16,7 @@ cost=400000
 runningcost=20
 sound=-1
 
-comfort=0
+bidirectional=1
 loading_time=9000
 
 EmptyImage[E]=./images/wagon-container.0

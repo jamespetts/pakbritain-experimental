@@ -2239,6 +2239,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\trains\lyr-emu.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\ways\maglev_bridges.dat"
 				>
 			</File>
@@ -2371,6 +2375,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\..\bus\morris-eight-van.dat"
+				>
+			</File>
+			<File
 				RelativePath="..\..\citycars\morris-eight.dat"
 				>
 			</File>
@@ -2460,6 +2468,10 @@
 			</File>
 			<File
 				RelativePath="..\..\trains\mr-spinner.dat"
+				>
+			</File>
+			<File
+				RelativePath="..\..\trains\msja-emu.dat"
 				>
 			</File>
 			<File

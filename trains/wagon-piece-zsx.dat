@@ -18,7 +18,7 @@ cost=200000
 runningcost=10
 sound=-1
 
-comfort=0
+bidirectional=1
 loading_time=10000
 
 EmptyImage[E]=./images/wagon-piece-zsx.0
