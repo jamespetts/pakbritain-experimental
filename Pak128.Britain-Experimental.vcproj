@@ -12,11 +12,7 @@
 			Name="Win32"
 		/>
 	</Platforms>
-	<ToolFiles>
-		<ToolFile
-			RelativePath="..\..\..\..\simutrans-experimental-binaries\simutrans-data.rules"
-		/>
-	</ToolFiles>
+
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
@@ -183,123 +179,123 @@
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}"
 			>
 			<File
-				RelativePath="..\..\trams\1-deck-closed.dat"
+				RelativePath="trams\1-deck-closed.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\1-deck-trailer.dat"
+				RelativePath="trams\1-deck-trailer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\1750-china-shop.dat"
+				RelativePath="industry\1750-china-shop.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\1750-clothes-shop.dat"
+				RelativePath="industry\1750-clothes-shop.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\1950s-terminal-building.dat"
+				RelativePath="stations\1950s-terminal-building.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\1980-small-church.dat"
+				RelativePath="attractions\1980-small-church.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\1990-small-library.dat"
+				RelativePath="attractions\1990-small-library.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\2-deck-closed.dat"
+				RelativePath="trams\2-deck-closed.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\2-deck-open.dat"
+				RelativePath="trams\2-deck-open.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\a1-diddler.dat"
+				RelativePath="bus\a1-diddler.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-q2.dat"
+				RelativePath="bus\aec-q2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-q4.dat"
+				RelativePath="bus\aec-q4.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-regal.dat"
+				RelativePath="bus\aec-regal.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-regent.dat"
+				RelativePath="bus\aec-regent.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-reliance.dat"
+				RelativePath="bus\aec-reliance.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-renown.dat"
+				RelativePath="bus\aec-renown.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-stl.dat"
+				RelativePath="bus\aec-stl.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\aec-swift.dat"
+				RelativePath="bus\aec-swift.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\air-hangar-modern.dat"
+				RelativePath="depots\air-hangar-modern.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\air-hangar-old.dat"
+				RelativePath="depots\air-hangar-old.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\airport.dat"
+				RelativePath="stations\airport.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\airtools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\airtools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\arable-farm.dat"
+				RelativePath="industry\arable-farm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\asphalt-road.dat"
+				RelativePath="ways\asphalt-road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\austin-metro.dat"
+				RelativePath="citycars\austin-metro.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\austin-metro.png"
+				RelativePath="citycars\austin-metro.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\austin-princess.dat"
+				RelativePath="citycars\austin-princess.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\austin-princess.png"
+				RelativePath="citycars\austin-princess.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\austin-seven.dat"
+				RelativePath="citycars\austin-seven.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\austin-seven.png"
+				RelativePath="citycars\austin-seven.png"
 				>
 			</File>
 			<File
@@ -311,791 +307,791 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\b-type-double.dat"
+				RelativePath="bus\b-type-double.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\b-type-single.dat"
+				RelativePath="bus\b-type-single.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\bakery.dat"
+				RelativePath="industry\bakery.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\baum_build.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\baum_build.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui128\BigLogo.dat"
+				RelativePath="gui\gui128\BigLogo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-balloon.dat"
+				RelativePath="trams\blackpool-balloon.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-brush.dat"
+				RelativePath="trams\blackpool-brush.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-centenary.dat"
+				RelativePath="trams\blackpool-centenary.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-coronation.dat"
+				RelativePath="trams\blackpool-coronation.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-dreadnought.dat"
+				RelativePath="trams\blackpool-dreadnought.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-jubilee.dat"
+				RelativePath="trams\blackpool-jubilee.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-millenium.dat"
+				RelativePath="trams\blackpool-millenium.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-original.dat"
+				RelativePath="trams\blackpool-original.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-progress-twin-power.dat"
+				RelativePath="trams\blackpool-progress-twin-power.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-progress-twin-trailer.dat"
+				RelativePath="trams\blackpool-progress-twin-trailer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\blackpool-standard.dat"
+				RelativePath="trams\blackpool-standard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boats192\blackwall-frigate.dat"
+				RelativePath="boats\boats192\blackwall-frigate.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\bmc-mini.dat"
+				RelativePath="citycars\bmc-mini.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\bmc-mini.png"
+				RelativePath="citycars\bmc-mini.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boat-horse.dat"
+				RelativePath="boats\boat-horse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\boatyard-modern.dat"
+				RelativePath="depots\boatyard-modern.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\boatyard-old.dat"
+				RelativePath="depots\boatyard-old.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\bookshop.dat"
+				RelativePath="industry\bookshop.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-104back-g.dat"
+				RelativePath="trains\br-104back-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-104front-g.dat"
+				RelativePath="trains\br-104front-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-104middle-g.dat"
+				RelativePath="trains\br-104middle-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-121-g.dat"
+				RelativePath="trains\br-121-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-142back-rr.dat"
+				RelativePath="trains\br-142back-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-142front-rr.dat"
+				RelativePath="trains\br-142front-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-153-rr.dat"
+				RelativePath="trains\br-153-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-156back-rr.dat"
+				RelativePath="trains\br-156back-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-156front-rr.dat"
+				RelativePath="trains\br-156front-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-158back-rr.dat"
+				RelativePath="trains\br-158back-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-158front-rr.dat"
+				RelativePath="trains\br-158front-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-158middle-rr.dat"
+				RelativePath="trains\br-158middle-rr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-165back-nse.dat"
+				RelativePath="trains\br-165back-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-165front-nse.dat"
+				RelativePath="trains\br-165front-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-165middle-nse.dat"
+				RelativePath="trains\br-165middle-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-170back-scotrail.dat"
+				RelativePath="trains\br-170back-scotrail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-170front-scotrail.dat"
+				RelativePath="trains\br-170front-scotrail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-170middle-scotrail.dat"
+				RelativePath="trains\br-170middle-scotrail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-180back-fgw.dat"
+				RelativePath="trains\br-180back-fgw.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-180front-fgw.dat"
+				RelativePath="trains\br-180front-fgw.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-180middle-fgw.dat"
+				RelativePath="trains\br-180middle-fgw.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-205back-bg.dat"
+				RelativePath="trains\br-205back-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-205front-bg.dat"
+				RelativePath="trains\br-205front-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-205middle-bg.dat"
+				RelativePath="trains\br-205middle-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-220back-virgin.dat"
+				RelativePath="trains\br-220back-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-220front-virgin.dat"
+				RelativePath="trains\br-220front-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-220middle-virgin.dat"
+				RelativePath="trains\br-220middle-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-251back-g.dat"
+				RelativePath="trains\br-251back-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-251first-g.dat"
+				RelativePath="trains\br-251first-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-251front-g.dat"
+				RelativePath="trains\br-251front-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-251secondf.dat"
+				RelativePath="trains\br-251secondf.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-251secondr.dat"
+				RelativePath="trains\br-251secondr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-303back-cb.dat"
+				RelativePath="trains\br-303back-cb.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-303front-cb.dat"
+				RelativePath="trains\br-303front-cb.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-303middle-nse.dat"
+				RelativePath="trains\br-303middle-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-309-1front-bg.dat"
+				RelativePath="trains\br-309-1front-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-309-2front-bg.dat"
+				RelativePath="trains\br-309-2front-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-309back-bg.dat"
+				RelativePath="trains\br-309back-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-309middle-bg.dat"
+				RelativePath="trains\br-309middle-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-309power-bg.dat"
+				RelativePath="trains\br-309power-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-313back-bg.dat"
+				RelativePath="trains\br-313back-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-313front-bg.dat"
+				RelativePath="trains\br-313front-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-313middle-bg.dat"
+				RelativePath="trains\br-313middle-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-319back-nse.dat"
+				RelativePath="trains\br-319back-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-319front-nse.dat"
+				RelativePath="trains\br-319front-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-319middle-nse.dat"
+				RelativePath="trains\br-319middle-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-319power-nse.dat"
+				RelativePath="trains\br-319power-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-365back-nse.dat"
+				RelativePath="trains\br-365back-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-365front-nse.dat"
+				RelativePath="trains\br-365front-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-365middle-nse.dat"
+				RelativePath="trains\br-365middle-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-365power-nse.dat"
+				RelativePath="trains\br-365power-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370a-ic.dat"
+				RelativePath="trains\br-370a-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370b-ic.dat"
+				RelativePath="trains\br-370b-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370c-ic.dat"
+				RelativePath="trains\br-370c-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370d-ic.dat"
+				RelativePath="trains\br-370d-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370e-ic.dat"
+				RelativePath="trains\br-370e-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370f-ic.dat"
+				RelativePath="trains\br-370f-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-370g-ic.dat"
+				RelativePath="trains\br-370g-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-373a.dat"
+				RelativePath="trains\br-373a.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-373b.dat"
+				RelativePath="trains\br-373b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-373c.dat"
+				RelativePath="trains\br-373c.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-373d.dat"
+				RelativePath="trains\br-373d.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-373e.dat"
+				RelativePath="trains\br-373e.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-375back-se.dat"
+				RelativePath="trains\br-375back-se.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-375front-se.dat"
+				RelativePath="trains\br-375front-se.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-375middle-se.dat"
+				RelativePath="trains\br-375middle-se.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-378back-lt.dat"
+				RelativePath="trains\br-378back-lt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-378front-lt.dat"
+				RelativePath="trains\br-378front-lt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-378middle-lt.dat"
+				RelativePath="trains\br-378middle-lt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390a-virgin.dat"
+				RelativePath="trains\br-390a-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390b-virgin.dat"
+				RelativePath="trains\br-390b-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390c-virgin.dat"
+				RelativePath="trains\br-390c-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390d-virgin.dat"
+				RelativePath="trains\br-390d-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390e-virgin.dat"
+				RelativePath="trains\br-390e-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390f-virgin.dat"
+				RelativePath="trains\br-390f-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390g-virgin.dat"
+				RelativePath="trains\br-390g-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-390h-virgin.dat"
+				RelativePath="trains\br-390h-virgin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-395front-se.dat"
+				RelativePath="trains\br-395front-se.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-395middle-se.dat"
+				RelativePath="trains\br-395middle-se.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-395rear-se.dat"
+				RelativePath="trains\br-395rear-se.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-410[cep]back-bg.dat"
+				RelativePath="trains\br-410[cep]back-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-410[cep]front-bg.dat"
+				RelativePath="trains\br-410[cep]front-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-410[cep]middle-brake-bg.dat"
+				RelativePath="trains\br-410[cep]middle-brake-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-410[cep]middle-to-bg.dat"
+				RelativePath="trains\br-410[cep]middle-to-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-414[hap]back-bg.dat"
+				RelativePath="trains\br-414[hap]back-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-414[hap]front-bg.dat"
+				RelativePath="trains\br-414[hap]front-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-419-bg.dat"
+				RelativePath="trains\br-419-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-423-bg.dat"
+				RelativePath="trains\br-423-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-442-nse.dat"
+				RelativePath="trains\br-442-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-465back-nse.dat"
+				RelativePath="trains\br-465back-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-465front-nse.dat"
+				RelativePath="trains\br-465front-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-465middle-nse.dat"
+				RelativePath="trains\br-465middle-nse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-489-glv-ic.dat"
+				RelativePath="trains\br-489-glv-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-499-bg.dat"
+				RelativePath="trains\br-499-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-4mt-tank.dat"
+				RelativePath="trains\br-4mt-tank.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-7mt-tender.dat"
+				RelativePath="trains\br-7mt-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-7mt.dat"
+				RelativePath="trains\br-7mt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-8p.dat"
+				RelativePath="trains\br-8p.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-9f-tender.dat"
+				RelativePath="trains\br-9f-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-9f.dat"
+				RelativePath="trains\br-9f.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl20-g.dat"
+				RelativePath="trains\br-cl20-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl25-g.dat"
+				RelativePath="trains\br-cl25-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl30-g.dat"
+				RelativePath="trains\br-cl30-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl31-b.dat"
+				RelativePath="trains\br-cl31-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl35-b.dat"
+				RelativePath="trains\br-cl35-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl37-b.dat"
+				RelativePath="trains\br-cl37-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl40-g.dat"
+				RelativePath="trains\br-cl40-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl43-a-ie.dat"
+				RelativePath="trains\br-cl43-a-ie.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl43-b-ie.dat"
+				RelativePath="trains\br-cl43-b-ie.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl47-b.dat"
+				RelativePath="trains\br-cl47-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl52-m.dat"
+				RelativePath="trains\br-cl52-m.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl55-g.dat"
+				RelativePath="trains\br-cl55-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl56-b.dat"
+				RelativePath="trains\br-cl56-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl58-g.dat"
+				RelativePath="trains\br-cl58-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl66-ews.dat"
+				RelativePath="trains\br-cl66-ews.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl67-ews.dat"
+				RelativePath="trains\br-cl67-ews.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl71-g.dat"
+				RelativePath="trains\br-cl71-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl73-ic.dat"
+				RelativePath="trains\br-cl73-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl81-b.dat"
+				RelativePath="trains\br-cl81-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl86-ic.dat"
+				RelativePath="trains\br-cl86-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl87-ic.dat"
+				RelativePath="trains\br-cl87-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl90-ic.dat"
+				RelativePath="trains\br-cl90-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl91-ic.dat"
+				RelativePath="trains\br-cl91-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-cl92-rf.dat"
+				RelativePath="trains\br-cl92-rf.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bc-bg.dat"
+				RelativePath="trains\br-mk1-bc-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bc-cc.dat"
+				RelativePath="trains\br-mk1-bc-cc.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bc-m.dat"
+				RelativePath="trains\br-mk1-bc-m.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bg-bg.dat"
+				RelativePath="trains\br-mk1-bg-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bg-cc.dat"
+				RelativePath="trains\br-mk1-bg-cc.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bg-m.dat"
+				RelativePath="trains\br-mk1-bg-m.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-bg-rm.dat"
+				RelativePath="trains\br-mk1-bg-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-guv-b.dat"
+				RelativePath="trains\br-mk1-guv-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-pos-rm.dat"
+				RelativePath="trains\br-mk1-pos-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-rbr-bg.dat"
+				RelativePath="trains\br-mk1-rbr-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-rbr-cc.dat"
+				RelativePath="trains\br-mk1-rbr-cc.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-rbr-m.dat"
+				RelativePath="trains\br-mk1-rbr-m.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-rmb-bg.dat"
+				RelativePath="trains\br-mk1-rmb-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-rmb-cc.dat"
+				RelativePath="trains\br-mk1-rmb-cc.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-rmb-m.dat"
+				RelativePath="trains\br-mk1-rmb-m.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-to-bg.dat"
+				RelativePath="trains\br-mk1-to-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-to-cc.dat"
+				RelativePath="trains\br-mk1-to-cc.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-to-m.dat"
+				RelativePath="trains\br-mk1-to-m.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk1-tpo-rm.dat"
+				RelativePath="trains\br-mk1-tpo-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk2-dbso.dat"
+				RelativePath="trains\br-mk2-dbso.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk2-rfb-ic.dat"
+				RelativePath="trains\br-mk2-rfb-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk2-to-ic.dat"
+				RelativePath="trains\br-mk2-to-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk2a-bso-bg.dat"
+				RelativePath="trains\br-mk2a-bso-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk2a-rmb-bg.dat"
+				RelativePath="trains\br-mk2a-rmb-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk2a-tso-bg.dat"
+				RelativePath="trains\br-mk2a-tso-bg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk3-dvt-ic.dat"
+				RelativePath="trains\br-mk3-dvt-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk3-to-ic.dat"
+				RelativePath="trains\br-mk3-to-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk3-trb-ic.dat"
+				RelativePath="trains\br-mk3-trb-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk4-dvt-ic.dat"
+				RelativePath="trains\br-mk4-dvt-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk4-rsb-ic.dat"
+				RelativePath="trains\br-mk4-rsb-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\br-mk4-to-ic.dat"
+				RelativePath="trains\br-mk4-to-ic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\brewery.dat"
+				RelativePath="industry\brewery.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\brick-aqueduct.dat"
+				RelativePath="ways\brick-aqueduct.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\brick-viaduct-elevated.dat"
+				RelativePath="ways\brick-viaduct-elevated.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\brick-viaduct-road.dat"
+				RelativePath="ways\brick-viaduct-road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\brick-viaduct.dat"
+				RelativePath="ways\brick-viaduct.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\brickworks.dat"
+				RelativePath="industry\brickworks.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\brig.dat"
+				RelativePath="boats\brig.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\builders-yard.dat"
+				RelativePath="industry\builders-yard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\bus-horse.dat"
+				RelativePath="bus\bus-horse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\bus-stops.dat"
+				RelativePath="stations\bus-stops.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\butchery.dat"
+				RelativePath="industry\butchery.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\canal-tunnel.png"
+				RelativePath="ways\canal-tunnel.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\canal.dat"
+				RelativePath="ways\canal.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\car-dealership.dat"
+				RelativePath="industry\car-dealership.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\car-factory.dat"
+				RelativePath="industry\car-factory.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\carts.dat"
+				RelativePath="bus\carts.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\catering.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\catering.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\cattle-farm.dat"
+				RelativePath="industry\cattle-farm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\cement-works.dat"
+				RelativePath="industry\cement-works.dat"
 				>
 			</File>
 			<File
@@ -1103,39 +1099,39 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\chemist.dat"
+				RelativePath="industry\chemist.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\choc-cream-clerestory-brake.dat"
+				RelativePath="trains\choc-cream-clerestory-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\choc-cream-clerestory-dining.dat"
+				RelativePath="trains\choc-cream-clerestory-dining.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\choc-cream-clerestory-mail.dat"
+				RelativePath="trains\choc-cream-clerestory-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\choc-cream-clerestory-parcel-brake.dat"
+				RelativePath="trains\choc-cream-clerestory-parcel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\choc-cream-clerestory-tpo.dat"
+				RelativePath="trains\choc-cream-clerestory-tpo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\choc-cream-clerestory.dat"
+				RelativePath="trains\choc-cream-clerestory.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\city-road.dat"
+				RelativePath="ways\city-road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\citybuilding_build.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\citybuilding_build.txt"
 				>
 			</File>
 			<File
@@ -1143,7 +1139,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\citylist_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\citylist_filter.txt"
 				>
 			</File>
 			<File
@@ -1151,79 +1147,79 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\citywindow.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\citywindow.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boats192\clanlline-steamer.dat"
+				RelativePath="boats\boats192\clanlline-steamer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\claypit.dat"
+				RelativePath="industry\claypit.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\climates.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\climates.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boats192\clipper.dat"
+				RelativePath="boats\boats192\clipper.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\clyde-steamer.dat"
+				RelativePath="boats\clyde-steamer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\coach-stable.dat"
+				RelativePath="depots\coach-stable.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\coal-mines.dat"
+				RelativePath="industry\coal-mines.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\coal-power-stations.dat"
+				RelativePath="industry\coal-power-stations.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\coalyards.dat"
+				RelativePath="industry\coalyards.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\cobblestone-road.dat"
+				RelativePath="ways\cobblestone-road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\color.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\color.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\com-10.dat"
+				RelativePath="citybuildings\com-10.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\com-1870.dat"
+				RelativePath="citybuildings\com-1870.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\com-1880.dat"
+				RelativePath="citybuildings\com-1880.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\com-60.dat"
+				RelativePath="citybuildings\com-60.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\com-70.dat"
+				RelativePath="citybuildings\com-70.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\com-80.dat"
+				RelativePath="citybuildings\com-80.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\comfort.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\comfort.txt"
 				>
 			</File>
 			<File
@@ -1231,159 +1227,159 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\concrete-platform.dat"
+				RelativePath="stations\concrete-platform.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\concrete-station-building-small.dat"
+				RelativePath="stations\concrete-station-building-small.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\concrete_rail_bridges.dat"
+				RelativePath="ways\concrete_rail_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\concrete_road.dat"
+				RelativePath="ways\concrete_road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\concrete_road_bridges.dat"
+				RelativePath="ways\concrete_road_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoi.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\convoi.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoi_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\convoi_filter.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoidetail.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\convoidetail.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\convoiinfo.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\convoiinfo.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\country-station-building.dat"
+				RelativePath="stations\country-station-building.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\cricket-ground-sm.dat"
+				RelativePath="attractions\cricket-ground-sm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\cssr.dat"
+				RelativePath="ways\cssr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\cssri.dat"
+				RelativePath="ways\cssri.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\curiosity_build.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\curiosity_build.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\curiositylist_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\curiositylist_filter.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\daimler-fleetline.dat"
+				RelativePath="bus\daimler-fleetline.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\dairy.dat"
+				RelativePath="industry\dairy.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\deco-terminal.dat"
+				RelativePath="stations\deco-terminal.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\dennis-dart.dat"
+				RelativePath="bus\dennis-dart.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\dennis-dominator-trolley.dat"
+				RelativePath="bus\dennis-dominator-trolley.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\dennis-dominator.dat"
+				RelativePath="bus\dennis-dominator.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\dennis-enviro400.dat"
+				RelativePath="bus\dennis-enviro400.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\department-stores.dat"
+				RelativePath="industry\department-stores.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\depot.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\depot.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\diesel-barge.dat"
+				RelativePath="boats\diesel-barge.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\dirt-road.dat"
+				RelativePath="ways\dirt-road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\display.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\display.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\dlr-b07-front.dat"
+				RelativePath="london-underground\dlr-b07-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\dlr-b07-rear.dat"
+				RelativePath="london-underground\dlr-b07-rear.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\dlr-b92-front.dat"
+				RelativePath="london-underground\dlr-b92-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\dlr-b92-rear.dat"
+				RelativePath="london-underground\dlr-b92-rear.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\dlr-p86-front.dat"
+				RelativePath="london-underground\dlr-p86-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\dlr-p86-rear.dat"
+				RelativePath="london-underground\dlr-p86-rear.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\dogger.dat"
+				RelativePath="boats\dogger.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\eagle-trailers.dat"
+				RelativePath="bus\eagle-trailers.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boats192\east-indiaman.dat"
+				RelativePath="boats\boats192\east-indiaman.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\edittools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\edittools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\electricity.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\electricity.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\electrification.dat"
+				RelativePath="ways\electrification.dat"
 				>
 			</File>
 			<File
@@ -1391,75 +1387,75 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\extensions.dat"
+				RelativePath="stations\extensions.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\factory_build.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\factory_build.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\factorylist_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\factorylist_filter.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\grounds\fences.dat"
+				RelativePath="grounds\fences.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\fifie.dat"
+				RelativePath="boats\fifie.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\finances.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\finances.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\fishing-ground.dat"
+				RelativePath="industry\fishing-ground.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\fishmongers.dat"
+				RelativePath="industry\fishmongers.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\foden-compound.dat"
+				RelativePath="bus\foden-compound.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\football-ground-lg.dat"
+				RelativePath="attractions\football-ground-lg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\football-ground-sm.dat"
+				RelativePath="attractions\football-ground-sm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\ford-cortina.dat"
+				RelativePath="citycars\ford-cortina.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\ford-cortina.png"
+				RelativePath="citycars\ford-cortina.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\ford-ka.dat"
+				RelativePath="citycars\ford-ka.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\ford-ka.png"
+				RelativePath="citycars\ford-ka.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\ford-t.dat"
+				RelativePath="citycars\ford-t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\ford-t.png"
+				RelativePath="citycars\ford-t.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\forest-sawmill.dat"
+				RelativePath="industry\forest-sawmill.dat"
 				>
 			</File>
 			<File
@@ -1467,819 +1463,819 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\fountain.dat"
+				RelativePath="attractions\fountain.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\furniture-factory.dat"
+				RelativePath="industry\furniture-factory.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\furniture-shop.dat"
+				RelativePath="industry\furniture-shop.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\general.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\general.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\georgian-mansion.dat"
+				RelativePath="attractions\georgian-mansion.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\ger-claud-tender.dat"
+				RelativePath="trains\ger-claud-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\ger-claud.dat"
+				RelativePath="trains\ger-claud.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-4wheel-brake.dat"
+				RelativePath="trains\gnr-4wheel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-4wheel-composite.dat"
+				RelativePath="trains\gnr-4wheel-composite.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-4wheel-mail.dat"
+				RelativePath="trains\gnr-4wheel-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-6wheel-first.dat"
+				RelativePath="trains\gnr-6wheel-first.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-6wheel-guard.dat"
+				RelativePath="trains\gnr-6wheel-guard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-6wheel-mail.dat"
+				RelativePath="trains\gnr-6wheel-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-c1-tender.dat"
+				RelativePath="trains\gnr-c1-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-c1.dat"
+				RelativePath="trains\gnr-c1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-stirling-8foot-tender.dat"
+				RelativePath="trains\gnr-stirling-8foot-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gnr-stirling-8foot.dat"
+				RelativePath="trains\gnr-stirling-8foot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\goods\goods-128.dat"
+				RelativePath="goods\goods-128.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\goods-rail-stations.dat"
+				RelativePath="stations\goods-rail-stations.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\goods_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\goods_filter.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\grain-farm.dat"
+				RelativePath="industry\grain-farm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\grain-mill.dat"
+				RelativePath="industry\grain-mill.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\grass-runway.dat"
+				RelativePath="ways\grass-runway.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\grass-taxiway.dat"
+				RelativePath="ways\grass-taxiway.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\greengrocers.dat"
+				RelativePath="industry\greengrocers.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\greenhouse.dat"
+				RelativePath="attractions\greenhouse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\grounds\grounds-128.dat"
+				RelativePath="grounds\grounds-128.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\guy-arab.dat"
+				RelativePath="bus\guy-arab.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\guy_special.dat"
+				RelativePath="bus\guy_special.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-1400-tank.dat"
+				RelativePath="trains\gwr-1400-tank.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-2800-tender.dat"
+				RelativePath="trains\gwr-2800-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-2800.dat"
+				RelativePath="trains\gwr-2800.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-autocoach.dat"
+				RelativePath="trains\gwr-autocoach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-bulldog-tender.dat"
+				RelativePath="trains\gwr-bulldog-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-bulldog.dat"
+				RelativePath="trains\gwr-bulldog.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-droplight-brake.dat"
+				RelativePath="trains\gwr-droplight-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-droplight-third.dat"
+				RelativePath="trains\gwr-droplight-third.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-express-brake.dat"
+				RelativePath="trains\gwr-express-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-express-coach.dat"
+				RelativePath="trains\gwr-express-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-express-mail.dat"
+				RelativePath="trains\gwr-express-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-express-parcel-brake.dat"
+				RelativePath="trains\gwr-express-parcel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-gloucester-parcel-railcar.dat"
+				RelativePath="trains\gwr-gloucester-parcel-railcar.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-gloucester-railcar.dat"
+				RelativePath="trains\gwr-gloucester-railcar.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-king-tender.dat"
+				RelativePath="trains\gwr-king-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-king.dat"
+				RelativePath="trains\gwr-king.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-panniertank.dat"
+				RelativePath="trains\gwr-panniertank.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-pr-railcar.dat"
+				RelativePath="trains\gwr-pr-railcar.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-prairie.dat"
+				RelativePath="trains\gwr-prairie.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-swindon-twinset-a.dat"
+				RelativePath="trains\gwr-swindon-twinset-a.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwr-swindon-twinset-b.dat"
+				RelativePath="trains\gwr-swindon-twinset-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwt-churchward-star-tender.dat"
+				RelativePath="trains\gwt-churchward-star-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\gwt-churchward-star.dat"
+				RelativePath="trains\gwt-churchward-star.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\hackney-carriage.dat"
+				RelativePath="bus\hackney-carriage.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\haltlist.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\haltlist.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\haltlist_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\haltlist_filter.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boats192\handysize.dat"
+				RelativePath="boats\boats192\handysize.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\harbour.dat"
+				RelativePath="stations\harbour.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\hardware-factory.dat"
+				RelativePath="industry\hardware-factory.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\hardware-shop.dat"
+				RelativePath="industry\hardware-shop.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\horse-barge.dat"
+				RelativePath="boats\horse-barge.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\horse-carriage.dat"
+				RelativePath="citycars\horse-carriage.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\horse-carriage.png"
+				RelativePath="citycars\horse-carriage.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\horse-cart-citycar.dat"
+				RelativePath="citycars\horse-cart-citycar.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\horse-cart-citycar.png"
+				RelativePath="citycars\horse-cart-citycar.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\lorries\horse_wagons.dat"
+				RelativePath="lorries\horse_wagons.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\hr-jones-goods-tender.dat"
+				RelativePath="trains\hr-jones-goods-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\hr-jones-goods.dat"
+				RelativePath="trains\hr-jones-goods.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\humber-keel.dat"
+				RelativePath="boats\humber-keel.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\ind-1750.dat"
+				RelativePath="citybuildings\ind-1750.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\ind-1860.dat"
+				RelativePath="citybuildings\ind-1860.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\ind-1880.dat"
+				RelativePath="citybuildings\ind-1880.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\ind-1900.dat"
+				RelativePath="citybuildings\ind-1900.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\ind-60.dat"
+				RelativePath="citybuildings\ind-60.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\ind-80.dat"
+				RelativePath="citybuildings\ind-80.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\industry_info.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\industry_info.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\insolvency.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\insolvency.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\inspection_tool.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\inspection_tool.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\iron-ore-mine.dat"
+				RelativePath="industry\iron-ore-mine.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\jennylind-tender.dat"
+				RelativePath="trains\jennylind-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\jennylind.dat"
+				RelativePath="trains\jennylind.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\k-type.dat"
+				RelativePath="bus\k-type.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\keys.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\keys.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\knight-monument.dat"
+				RelativePath="attractions\knight-monument.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\labellist_filter.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\labellist_filter.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\land-rover-series.dat"
+				RelativePath="citycars\land-rover-series.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\land-rover-series.png"
+				RelativePath="citycars\land-rover-series.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\language.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\language.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\large-2-deck-trailer.dat"
+				RelativePath="trams\large-2-deck-trailer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lbscr-4wheel-brake.dat"
+				RelativePath="trains\lbscr-4wheel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lbscr-4wheel-first.dat"
+				RelativePath="trains\lbscr-4wheel-first.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lbscr-a1.dat"
+				RelativePath="trains\lbscr-a1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lbscr-b1-gladstone-tender.dat"
+				RelativePath="trains\lbscr-b1-gladstone-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lbscr-b1-gladstone.dat"
+				RelativePath="trains\lbscr-b1-gladstone.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lbscr-L.dat"
+				RelativePath="trains\lbscr-L.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-atlantean.dat"
+				RelativePath="bus\leyland-atlantean.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-k2.dat"
+				RelativePath="bus\leyland-k2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-leopard.dat"
+				RelativePath="bus\leyland-leopard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-lynx.dat"
+				RelativePath="bus\leyland-lynx.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-national.dat"
+				RelativePath="bus\leyland-national.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-olympian-coach.dat"
+				RelativePath="bus\leyland-olympian-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-olympian.dat"
+				RelativePath="bus\leyland-olympian.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-tiger.dat"
+				RelativePath="bus\leyland-tiger.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland-titan.dat"
+				RelativePath="bus\leyland-titan.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\leyland_cub.dat"
+				RelativePath="bus\leyland_cub.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\linemanagement.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\linemanagement.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\list.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\list.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\livestock_driver.dat"
+				RelativePath="bus\livestock_driver.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-4wheel-first.dat"
+				RelativePath="trains\lmr-4wheel-first.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-4wheel-open-coach.dat"
+				RelativePath="trains\lmr-4wheel-open-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-4wheel-tpo.dat"
+				RelativePath="trains\lmr-4wheel-tpo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-lion.dat"
+				RelativePath="trains\lmr-lion.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-patentee-tender.dat"
+				RelativePath="trains\lmr-patentee-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-patentee.dat"
+				RelativePath="trains\lmr-patentee.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-planet-tender.dat"
+				RelativePath="trains\lmr-planet-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-planet.dat"
+				RelativePath="trains\lmr-planet.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-rocket-tender.dat"
+				RelativePath="trains\lmr-rocket-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lmr-rocket.dat"
+				RelativePath="trains\lmr-rocket.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-10000-b.dat"
+				RelativePath="trains\lms-10000-b.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-1904.dat"
+				RelativePath="trains\lms-1904.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-2007.dat"
+				RelativePath="trains\lms-2007.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-4f-tender.dat"
+				RelativePath="trains\lms-4f-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-4f.dat"
+				RelativePath="trains\lms-4f.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-502back-ml.dat"
+				RelativePath="trains\lms-502back-ml.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-502front-ml.dat"
+				RelativePath="trains\lms-502front-ml.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-502middle-ml.dat"
+				RelativePath="trains\lms-502middle-ml.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-coronation-bfk.dat"
+				RelativePath="trains\lms-coronation-bfk.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-coronation-btk.dat"
+				RelativePath="trains\lms-coronation-btk.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-coronation-fk.dat"
+				RelativePath="trains\lms-coronation-fk.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-coronation-to.dat"
+				RelativePath="trains\lms-coronation-to.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-garratt-front.dat"
+				RelativePath="trains\lms-garratt-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-garratt-middle.dat"
+				RelativePath="trains\lms-garratt-middle.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-garratt-rear.dat"
+				RelativePath="trains\lms-garratt-rear.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-jinty.dat"
+				RelativePath="trains\lms-jinty.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-mail.dat"
+				RelativePath="trains\lms-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-patriot-tender.dat"
+				RelativePath="trains\lms-patriot-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-patriot.dat"
+				RelativePath="trains\lms-patriot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-princess-royal-tender.dat"
+				RelativePath="trains\lms-princess-royal-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-princess-royal.dat"
+				RelativePath="trains\lms-princess-royal.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-stanier-5mt-tender.dat"
+				RelativePath="trains\lms-stanier-5mt-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-stanier-5mt.dat"
+				RelativePath="trains\lms-stanier-5mt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-stanier-7p-tender.dat"
+				RelativePath="trains\lms-stanier-7p-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-stanier-7p.dat"
+				RelativePath="trains\lms-stanier-7p.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-stanier-8f-tender.dat"
+				RelativePath="trains\lms-stanier-8f-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lms-stanier-8f.dat"
+				RelativePath="trains\lms-stanier-8f.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-a1.dat"
+				RelativePath="trains\lner-a1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-a3-tender.dat"
+				RelativePath="trains\lner-a3-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-a3.dat"
+				RelativePath="trains\lner-a3.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-a4-tender.dat"
+				RelativePath="trains\lner-a4-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-a4.dat"
+				RelativePath="trains\lner-a4.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-b17-5-tender.dat"
+				RelativePath="trains\lner-b17-5-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-b17-5.dat"
+				RelativePath="trains\lner-b17-5.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-b17-tender.dat"
+				RelativePath="trains\lner-b17-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-b17.dat"
+				RelativePath="trains\lner-b17.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-coronation-brake-third-1.dat"
+				RelativePath="trains\lner-coronation-brake-third-1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-coronation-brake-third-2.dat"
+				RelativePath="trains\lner-coronation-brake-third-2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-coronation-observation.dat"
+				RelativePath="trains\lner-coronation-observation.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-coronation-restaurant.dat"
+				RelativePath="trains\lner-coronation-restaurant.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-em1.dat"
+				RelativePath="trains\lner-em1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-em2.dat"
+				RelativePath="trains\lner-em2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-gresley-express-brake.dat"
+				RelativePath="trains\lner-gresley-express-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-gresley-express-coach.dat"
+				RelativePath="trains\lner-gresley-express-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-gresley-express-mail.dat"
+				RelativePath="trains\lner-gresley-express-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-gresley-express-parcel-brake.dat"
+				RelativePath="trains\lner-gresley-express-parcel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-j94.dat"
+				RelativePath="trains\lner-j94.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-p2-tender.dat"
+				RelativePath="trains\lner-p2-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-p2.dat"
+				RelativePath="trains\lner-p2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-v2-tender.dat"
+				RelativePath="trains\lner-v2-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lner-v2.dat"
+				RelativePath="trains\lner-v2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-1847-brake.dat"
+				RelativePath="trains\lnwr-1847-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-1847-first.dat"
+				RelativePath="trains\lnwr-1847-first.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-1847-mail.dat"
+				RelativePath="trains\lnwr-1847-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-6wheel-first.dat"
+				RelativePath="trains\lnwr-6wheel-first.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-6wheel-guard.dat"
+				RelativePath="trains\lnwr-6wheel-guard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-6wheel-mail.dat"
+				RelativePath="trains\lnwr-6wheel-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-Aclass-tender.dat"
+				RelativePath="trains\lnwr-Aclass-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-Aclass.dat"
+				RelativePath="trains\lnwr-Aclass.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-bloomer-tender.dat"
+				RelativePath="trains\lnwr-bloomer-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-bloomer.dat"
+				RelativePath="trains\lnwr-bloomer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-DXgoods-tender.dat"
+				RelativePath="trains\lnwr-DXgoods-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-DXgoods.dat"
+				RelativePath="trains\lnwr-DXgoods.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-jumbo-tender.dat"
+				RelativePath="trains\lnwr-jumbo-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-jumbo.dat"
+				RelativePath="trains\lnwr-jumbo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-PoW-tender.dat"
+				RelativePath="trains\lnwr-PoW-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-PoW.dat"
+				RelativePath="trains\lnwr-PoW.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-problem-tender.dat"
+				RelativePath="trains\lnwr-problem-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lnwr-problem.dat"
+				RelativePath="trains\lnwr-problem.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\load.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\load.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\load_relief.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\load_relief.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lswr-m7.dat"
+				RelativePath="trains\lswr-m7.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lswr-third-brake.dat"
+				RelativePath="trains\lswr-third-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lswr-third-carriage.dat"
+				RelativePath="trains\lswr-third-carriage.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lyr-cl25-tender.dat"
+				RelativePath="trains\lyr-cl25-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lyr-cl25.dat"
+				RelativePath="trains\lyr-cl25.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\lyr-emu.dat"
+				RelativePath="trains\lyr-emu.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\maglev_bridges.dat"
+				RelativePath="ways\maglev_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\maglev_tracks.dat"
+				RelativePath="ways\maglev_tracks.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\lorries\mail_coach.dat"
+				RelativePath="lorries\mail_coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\mailbox.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\mailbox.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\mailcoach.dat"
+				RelativePath="bus\mailcoach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\Makeobj.exe"
+				RelativePath="trains\Makeobj.exe"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\man_on_bicycle.dat"
+				RelativePath="bus\man_on_bicycle.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\map.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\map.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\grounds\marker.dat"
+				RelativePath="grounds\marker.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\masonry-viaduct-road.dat"
+				RelativePath="ways\masonry-viaduct-road.dat"
 				>
 			</File>
 			<File
@@ -2291,11 +2287,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\mcw-q1.dat"
+				RelativePath="bus\mcw-q1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\medium-2-deck-trailer.dat"
+				RelativePath="trams\medium-2-deck-trailer.dat"
 				>
 			</File>
 			<File
@@ -2303,87 +2299,87 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\mercedes-citaro-g.dat"
+				RelativePath="bus\mercedes-citaro-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\mercedes-citaro-k.dat"
+				RelativePath="bus\mercedes-citaro-k.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-bogie-third.dat"
+				RelativePath="london-underground\met-bogie-third.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-class-e.dat"
+				RelativePath="london-underground\met-class-e.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-dreadnought-third.dat"
+				RelativePath="london-underground\met-dreadnought-third.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-motor-third-back.dat"
+				RelativePath="london-underground\met-motor-third-back.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-motor-third-front.dat"
+				RelativePath="london-underground\met-motor-third-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-motor-third-middle.dat"
+				RelativePath="london-underground\met-motor-third-middle.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\london-underground\met-vickers.dat"
+				RelativePath="london-underground\met-vickers.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\metrolink-t86-back.dat"
+				RelativePath="trams\metrolink-t86-back.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\metrolink-t86-front.dat"
+				RelativePath="trams\metrolink-t86-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui128\misc_images-128.dat"
+				RelativePath="gui\gui128\misc_images-128.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\modern-bus-depot.dat"
+				RelativePath="depots\modern-bus-depot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\modern-station-building.dat"
+				RelativePath="stations\modern-station-building.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\modern-terminal-building.dat"
+				RelativePath="stations\modern-terminal-building.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\modern-train-depot.dat"
+				RelativePath="depots\modern-train-depot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\modern-tram-depot.dat"
+				RelativePath="depots\modern-tram-depot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\monorailtools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\monorailtools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\morris-eight-van.dat"
+				RelativePath="bus\morris-eight-van.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\morris-eight.dat"
+				RelativePath="citycars\morris-eight.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\morris-eight.png"
+				RelativePath="citycars\morris-eight.png"
 				>
 			</File>
 			<File
@@ -2391,263 +2387,263 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\motorway.dat"
+				RelativePath="ways\motorway.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\mouse.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\mouse.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-1000-tender.dat"
+				RelativePath="trains\mr-1000-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-1000.dat"
+				RelativePath="trains\mr-1000.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-4wheel-brake.dat"
+				RelativePath="trains\mr-4wheel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-4wheel-composite.dat"
+				RelativePath="trains\mr-4wheel-composite.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-4wheel-mail.dat"
+				RelativePath="trains\mr-4wheel-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-6wheel-first.dat"
+				RelativePath="trains\mr-6wheel-first.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-6wheel-guard.dat"
+				RelativePath="trains\mr-6wheel-guard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-6wheel-mail.dat"
+				RelativePath="trains\mr-6wheel-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-clerestory-brake.dat"
+				RelativePath="trains\mr-clerestory-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-clerestory-coach.dat"
+				RelativePath="trains\mr-clerestory-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-clerestory-dining.dat"
+				RelativePath="trains\mr-clerestory-dining.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-clerestory-mail.dat"
+				RelativePath="trains\mr-clerestory-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-clerestory-parcel-brake.dat"
+				RelativePath="trains\mr-clerestory-parcel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-clerestory-tpo.dat"
+				RelativePath="trains\mr-clerestory-tpo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-kirtley156-tender.dat"
+				RelativePath="trains\mr-kirtley156-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-kirtley156.dat"
+				RelativePath="trains\mr-kirtley156.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-spinner-tender.dat"
+				RelativePath="trains\mr-spinner-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mr-spinner.dat"
+				RelativePath="trains\mr-spinner.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\msja-emu.dat"
+				RelativePath="trains\msja-emu.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mslr-4wheel-brake.dat"
+				RelativePath="trains\mslr-4wheel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mslr-4wheel-composite.dat"
+				RelativePath="trains\mslr-4wheel-composite.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\mslr-4wheel-mail.dat"
+				RelativePath="trains\mslr-4wheel-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\nelson-column.dat"
+				RelativePath="attractions\nelson-column.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\ner-ee1.dat"
+				RelativePath="trains\ner-ee1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\ner-ef1.dat"
+				RelativePath="trains\ner-ef1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\ner-es1.dat"
+				RelativePath="trains\ner-es1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\net-bombardier-incentro-back.dat"
+				RelativePath="trams\net-bombardier-incentro-back.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\net-bombardier-incentro-front.dat"
+				RelativePath="trams\net-bombardier-incentro-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\new-crossing.dat"
+				RelativePath="ways\new-crossing.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui128\new_cursor.dat"
+				RelativePath="gui\gui128\new_cursor.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui64\new_menus.dat"
+				RelativePath="gui\gui64\new_menus.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\new_world.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\new_world.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\newsagent.dat"
+				RelativePath="industry\newsagent.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\norfolk-wherry.dat"
+				RelativePath="boats\norfolk-wherry.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\ns-type.dat"
+				RelativePath="bus\ns-type.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\oil-power-station.dat"
+				RelativePath="industry\oil-power-station.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\oil-refinery.dat"
+				RelativePath="industry\oil-refinery.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\oil-rig.dat"
+				RelativePath="industry\oil-rig.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\oil-well.dat"
+				RelativePath="industry\oil-well.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\old-bus-depot.dat"
+				RelativePath="depots\old-bus-depot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\old-train-depot.dat"
+				RelativePath="depots\old-train-depot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\depots\old-tram-depot.dat"
+				RelativePath="depots\old-tram-depot.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\omnibus-double-gardenseat.dat"
+				RelativePath="bus\omnibus-double-gardenseat.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\omnibus-double-knifeboard.dat"
+				RelativePath="bus\omnibus-double-knifeboard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\omnibus-single.dat"
+				RelativePath="bus\omnibus-single.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\optare-excel.dat"
+				RelativePath="bus\optare-excel.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\optare-tempo.dat"
+				RelativePath="bus\optare-tempo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\options.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\options.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\orchard.dat"
+				RelativePath="industry\orchard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\grounds\outside.dat"
+				RelativePath="grounds\outside.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui128\pakmak.tab"
+				RelativePath="gui\gui128\pakmak.tab"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\papermill.dat"
+				RelativePath="industry\papermill.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\pavement.dat"
+				RelativePath="ways\pavement.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\peel-p50.dat"
+				RelativePath="citycars\peel-p50.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\peel-p50.png"
+				RelativePath="citycars\peel-p50.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\petrol-electric-bus.dat"
+				RelativePath="bus\petrol-electric-bus.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\petrol-station.dat"
+				RelativePath="industry\petrol-station.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\pharmaceutical-factory.dat"
+				RelativePath="industry\pharmaceutical-factory.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\plaxton-paragon.dat"
+				RelativePath="bus\plaxton-paragon.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\players.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\players.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\pottery.dat"
+				RelativePath="industry\pottery.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\Powerlines.dat"
+				RelativePath="ways\Powerlines.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\printworks.dat"
+				RelativePath="industry\printworks.dat"
 				>
 			</File>
 			<File
@@ -2655,35 +2651,35 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\privatecar.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\privatecar.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\pub.dat"
+				RelativePath="industry\pub.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\puffingbilly-tender.dat"
+				RelativePath="trains\puffingbilly-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\puffingbilly.dat"
+				RelativePath="trains\puffingbilly.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\quarry.dat"
+				RelativePath="industry\quarry.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\railtools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\railtools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\range-rover.dat"
+				RelativePath="citycars\range-rover.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\range-rover.png"
+				RelativePath="citycars\range-rover.png"
 				>
 			</File>
 			<File
@@ -2691,227 +2687,227 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\reliant-robin.dat"
+				RelativePath="citycars\reliant-robin.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citycars\reliant-robin.png"
+				RelativePath="citycars\reliant-robin.png"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\removal_tool.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\removal_tool.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\replace.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\replace.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-10.dat"
+				RelativePath="citybuildings\res-10.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1600.dat"
+				RelativePath="citybuildings\res-1600.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1700.dat"
+				RelativePath="citybuildings\res-1700.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1750.dat"
+				RelativePath="citybuildings\res-1750.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1870.dat"
+				RelativePath="citybuildings\res-1870.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1880.dat"
+				RelativePath="citybuildings\res-1880.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1890.dat"
+				RelativePath="citybuildings\res-1890.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-1920.dat"
+				RelativePath="citybuildings\res-1920.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-30.dat"
+				RelativePath="citybuildings\res-30.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-50.dat"
+				RelativePath="citybuildings\res-50.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-60.dat"
+				RelativePath="citybuildings\res-60.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-70.dat"
+				RelativePath="citybuildings\res-70.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-80.dat"
+				RelativePath="citybuildings\res-80.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\res-90.dat"
+				RelativePath="citybuildings\res-90.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\rf-coach.dat"
+				RelativePath="bus\rf-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\rf.dat"
+				RelativePath="bus\rf.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\river.dat"
+				RelativePath="ways\river.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\rm-325back-rm.dat"
+				RelativePath="trains\rm-325back-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\rm-325front-rm.dat"
+				RelativePath="trains\rm-325front-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\rm-325middle-rm.dat"
+				RelativePath="trains\rm-325middle-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\rm-325power-rm.dat"
+				RelativePath="trains\rm-325power-rm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\road-locomotives.dat"
+				RelativePath="bus\road-locomotives.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\roadtools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\roadtools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\routemaster-long.dat"
+				RelativePath="bus\routemaster-long.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\routemaster-trolley.dat"
+				RelativePath="bus\routemaster-trolley.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\routemaster.dat"
+				RelativePath="bus\routemaster.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\routemaster_coach.dat"
+				RelativePath="bus\routemaster_coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\rt.dat"
+				RelativePath="bus\rt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\rugby-ground-sm.dat"
+				RelativePath="attractions\rugby-ground-sm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\runway.dat"
+				RelativePath="ways\runway.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\s-type.dat"
+				RelativePath="bus\s-type.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\save.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\save.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\schedule.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\schedule.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\schooner.dat"
+				RelativePath="boats\schooner.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sdr-1001-tender.dat"
+				RelativePath="trains\sdr-1001-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sdr-1001.dat"
+				RelativePath="trains\sdr-1001.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sdr-derwent-tender.dat"
+				RelativePath="trains\sdr-derwent-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sdr-derwent.dat"
+				RelativePath="trains\sdr-derwent.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sdr-locomotion-tender.dat"
+				RelativePath="trains\sdr-locomotion-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sdr-locomotion.dat"
+				RelativePath="trains\sdr-locomotion.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\seine-netter.dat"
+				RelativePath="boats\seine-netter.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\sentinel-dg.dat"
+				RelativePath="bus\sentinel-dg.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\sentinel-s.dat"
+				RelativePath="bus\sentinel-s.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\sentinel-standard.dat"
+				RelativePath="bus\sentinel-standard.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\sheep-farm.dat"
+				RelativePath="industry\sheep-farm.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\sheffield-roberts.dat"
+				RelativePath="trams\sheffield-roberts.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\sheffield-supertram-front.dat"
+				RelativePath="trams\sheffield-supertram-front.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\sheffield-supertram-middle.dat"
+				RelativePath="trams\sheffield-supertram-middle.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\sheffield-supertram-rear.dat"
+				RelativePath="trams\sheffield-supertram-rear.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\shiptools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\shiptools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\citybuildings\sidewalk.dat"
+				RelativePath="citybuildings\sidewalk.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\signals.dat"
+				RelativePath="ways\signals.dat"
 				>
 			</File>
 			<File
@@ -2919,31 +2915,31 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\simutrans.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\simutrans.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\single-shire.dat"
+				RelativePath="trains\single-shire.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui64\skins-64.dat"
+				RelativePath="gui\gui64\skins-64.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\slaughterhouse.dat"
+				RelativePath="industry\slaughterhouse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\slopetools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\slopetools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\small-2-deck-trailer.dat"
+				RelativePath="trams\small-2-deck-trailer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\smokes\smoke.dat"
+				RelativePath="smokes\smoke.dat"
 				>
 			</File>
 			<File
@@ -2951,11 +2947,11 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\sound.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\sound.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\special.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\special.txt"
 				>
 			</File>
 			<File
@@ -2963,219 +2959,219 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-401[bil]back-g.dat"
+				RelativePath="trains\sr-401[bil]back-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-401[bil]front-g.dat"
+				RelativePath="trains\sr-401[bil]front-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-404[cor]back-g.dat"
+				RelativePath="trains\sr-404[cor]back-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-404[cor]front-g.dat"
+				RelativePath="trains\sr-404[cor]front-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-404[cor]middle1-g.dat"
+				RelativePath="trains\sr-404[cor]middle1-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-404[cor]middle2-g.dat"
+				RelativePath="trains\sr-404[cor]middle2-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-bullied-express-brake.dat"
+				RelativePath="trains\sr-bullied-express-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-bullied-express-coach.dat"
+				RelativePath="trains\sr-bullied-express-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-cc-g.dat"
+				RelativePath="trains\sr-cc-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-maunsell-brake.dat"
+				RelativePath="trains\sr-maunsell-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-maunsell-mail.dat"
+				RelativePath="trains\sr-maunsell-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-maunsell-parcels.dat"
+				RelativePath="trains\sr-maunsell-parcels.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-maunsell-third.dat"
+				RelativePath="trains\sr-maunsell-third.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-mn-4-6-2-rebuilt.dat"
+				RelativePath="trains\sr-mn-4-6-2-rebuilt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-mn-4-6-2-tender.dat"
+				RelativePath="trains\sr-mn-4-6-2-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-mn-4-6-2.dat"
+				RelativePath="trains\sr-mn-4-6-2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-n15-tender.dat"
+				RelativePath="trains\sr-n15-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-n15.dat"
+				RelativePath="trains\sr-n15.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-q1-tender.dat"
+				RelativePath="trains\sr-q1-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-q1.dat"
+				RelativePath="trains\sr-q1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-schools-tender.dat"
+				RelativePath="trains\sr-schools-tender.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-schools.dat"
+				RelativePath="trains\sr-schools.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-wc-4-6-2-rebuilt.dat"
+				RelativePath="trains\sr-wc-4-6-2-rebuilt.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr-wc-4-6-2.dat"
+				RelativePath="trains\sr-wc-4-6-2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\sr[cor]middle1-g.dat"
+				RelativePath="trains\sr[cor]middle1-g.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\sssr.dat"
+				RelativePath="ways\sssr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\stage-wagons.dat"
+				RelativePath="bus\stage-wagons.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\lorries\stage_wagons.dat"
+				RelativePath="lorries\stage_wagons.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\stagecoach.dat"
+				RelativePath="bus\stagecoach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\station.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\station.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\station_details.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\station_details.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\steam-barge.dat"
+				RelativePath="boats\steam-barge.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\steam-tram.dat"
+				RelativePath="trams\steam-tram.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\steel-mill.dat"
+				RelativePath="industry\steel-mill.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\steel_rail_bridges.dat"
+				RelativePath="ways\steel_rail_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\steel_road_bridges.dat"
+				RelativePath="ways\steel_road_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\stone-building.dat"
+				RelativePath="stations\stone-building.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\stone_road_bridges.dat"
+				RelativePath="ways\stone_road_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\stonehenge.dat"
+				RelativePath="attractions\stonehenge.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\gui\gui64\symbols-64.dat"
+				RelativePath="gui\gui64\symbols-64.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\tarmac_road.dat"
+				RelativePath="ways\tarmac_road.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\taxiway.dat"
+				RelativePath="ways\taxiway.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\teak-clerestory-brake.dat"
+				RelativePath="trains\teak-clerestory-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\teak-clerestory-coach.dat"
+				RelativePath="trains\teak-clerestory-coach.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\teak-clerestory-dining.dat"
+				RelativePath="trains\teak-clerestory-dining.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\teak-clerestory-mail.dat"
+				RelativePath="trains\teak-clerestory-mail.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\teak-clerestory-parcel-brake.dat"
+				RelativePath="trains\teak-clerestory-parcel-brake.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\teak-clerestory-tpo.dat"
+				RelativePath="trains\teak-clerestory-tpo.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\industry\textile-mill.dat"
+				RelativePath="industry\textile-mill.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\grounds\TextureGrounds.dat"
+				RelativePath="grounds\TextureGrounds.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\tgv.dat"
+				RelativePath="ways\tgv.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\thames-sailing-barge.dat"
+				RelativePath="boats\thames-sailing-barge.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\thornycroft-steam-van.dat"
+				RelativePath="bus\thornycroft-steam-van.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\thornycroft-wagon.dat"
+				RelativePath="bus\thornycroft-wagon.dat"
 				>
 			</File>
 			<File
@@ -3183,7 +3179,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\lorries\thornycroft_bt.dat"
+				RelativePath="lorries\thornycroft_bt.dat"
 				>
 			</File>
 			<File
@@ -3199,35 +3195,35 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\lorries\thornycroft_wagon.dat"
+				RelativePath="lorries\thornycroft_wagon.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\toastrack.dat"
+				RelativePath="trams\toastrack.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\townhall\townhalls.dat"
+				RelativePath="townhall\townhalls.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\lorries\traction_engines.dat"
+				RelativePath="lorries\traction_engines.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trams\tram-horse.dat"
+				RelativePath="trams\tram-horse.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\tram_track.dat"
+				RelativePath="ways\tram_track.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\tramtools.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\tramtools.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trees\tree.dat"
+				RelativePath="trees\tree.dat"
 				>
 				<FileConfiguration
 					Name="Debug|Win32"
@@ -3245,295 +3241,295 @@
 				</FileConfiguration>
 			</File>
 			<File
-				RelativePath="..\..\ways\tunnels.dat"
+				RelativePath="ways\tunnels.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\twin-shire.dat"
+				RelativePath="trains\twin-shire.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\volvo-b7tl.dat"
+				RelativePath="bus\volvo-b7tl.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\volvo-citybus.dat"
+				RelativePath="bus\volvo-citybus.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\volvo-olympian.dat"
+				RelativePath="bus\volvo-olympian.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-2-car-flat.dat"
+				RelativePath="trains\wagon-2-car-flat.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-3-car-bogie.dat"
+				RelativePath="trains\wagon-3-car-bogie.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-autic.dat"
+				RelativePath="trains\wagon-autic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-br.dat"
+				RelativePath="trains\wagon-brake-br.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-d16.dat"
+				RelativePath="trains\wagon-brake-d16.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-d93.dat"
+				RelativePath="trains\wagon-brake-d93.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-gwr.dat"
+				RelativePath="trains\wagon-brake-gwr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-lms.dat"
+				RelativePath="trains\wagon-brake-lms.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-lner.dat"
+				RelativePath="trains\wagon-brake-lner.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-brake-sr.dat"
+				RelativePath="trains\wagon-brake-sr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-16t.dat"
+				RelativePath="trains\wagon-bulk-16t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-2t.dat"
+				RelativePath="trains\wagon-bulk-2t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-3t.dat"
+				RelativePath="trains\wagon-bulk-3t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-5t.dat"
+				RelativePath="trains\wagon-bulk-5t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-8t.dat"
+				RelativePath="trains\wagon-bulk-8t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-rch-10t.dat"
+				RelativePath="trains\wagon-bulk-rch-10t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-bulk-rch-12t.dat"
+				RelativePath="trains\wagon-bulk-rch-12t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cartic.dat"
+				RelativePath="trains\wagon-cartic.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-16t.dat"
+				RelativePath="trains\wagon-cool-16t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-container.dat"
+				RelativePath="trains\wagon-cool-container.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-d32.dat"
+				RelativePath="trains\wagon-cool-d32.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-d88.dat"
+				RelativePath="trains\wagon-cool-d88.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-early1.dat"
+				RelativePath="trains\wagon-cool-early1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-early2.dat"
+				RelativePath="trains\wagon-cool-early2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-early3.dat"
+				RelativePath="trains\wagon-cool-early3.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-cool-zsx.dat"
+				RelativePath="trains\wagon-cool-zsx.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-haa.dat"
+				RelativePath="trains\wagon-haa.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-hta.dat"
+				RelativePath="trains\wagon-hta.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-livestock-16t.dat"
+				RelativePath="trains\wagon-livestock-16t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-livestock-d21.dat"
+				RelativePath="trains\wagon-livestock-d21.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-livestock-d25.dat"
+				RelativePath="trains\wagon-livestock-d25.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-livestock-early1.dat"
+				RelativePath="trains\wagon-livestock-early1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-livestock-early2.dat"
+				RelativePath="trains\wagon-livestock-early2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-livestock-early3.dat"
+				RelativePath="trains\wagon-livestock-early3.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-10t.dat"
+				RelativePath="trains\wagon-long-10t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-12t.dat"
+				RelativePath="trains\wagon-long-12t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-20t.dat"
+				RelativePath="trains\wagon-long-20t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-30t.dat"
+				RelativePath="trains\wagon-long-30t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-d1.dat"
+				RelativePath="trains\wagon-long-d1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-early1.dat"
+				RelativePath="trains\wagon-long-early1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-early2.dat"
+				RelativePath="trains\wagon-long-early2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-long-early3.dat"
+				RelativePath="trains\wagon-long-early3.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-16t.dat"
+				RelativePath="trains\wagon-piece-16t.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-container.dat"
+				RelativePath="trains\wagon-piece-container.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-d32.dat"
+				RelativePath="trains\wagon-piece-d32.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-d88.dat"
+				RelativePath="trains\wagon-piece-d88.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-early1.dat"
+				RelativePath="trains\wagon-piece-early1.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-early2.dat"
+				RelativePath="trains\wagon-piece-early2.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-early3.dat"
+				RelativePath="trains\wagon-piece-early3.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-piece-zsx.dat"
+				RelativePath="trains\wagon-piece-zsx.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-tanker-rch.dat"
+				RelativePath="trains\wagon-tanker-rch.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-tea.dat"
+				RelativePath="trains\wagon-tea.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\trains\wagon-tta.dat"
+				RelativePath="trains\wagon-tta.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\wagons.dat"
+				RelativePath="bus\wagons.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\attractions\war-memorial.dat"
+				RelativePath="attractions\war-memorial.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\water-stops.dat"
+				RelativePath="stations\water-stops.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\boats\boats224\windjammer.dat"
+				RelativePath="boats\boats224\windjammer.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\..\..\simutrans-experimental-binaries\text\en\window.txt"
+				RelativePath="..\..\simutrans-experimental-binaries\text\en\window.txt"
 				>
 			</File>
 			<File
-				RelativePath="..\..\stations\wooden-platform.dat"
+				RelativePath="stations\wooden-platform.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\wooden-trestle.dat"
+				RelativePath="ways\wooden-trestle.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\wooden_road_bridges.dat"
+				RelativePath="ways\wooden_road_bridges.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\wright-electrocity.dat"
+				RelativePath="bus\wright-electrocity.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\wright-streetcar.dat"
+				RelativePath="bus\wright-streetcar.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\wrought_iron.dat"
+				RelativePath="ways\wrought_iron.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\wrought_iron_improved.dat"
+				RelativePath="ways\wrought_iron_improved.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\wssr.dat"
+				RelativePath="ways\wssr.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\ways\wssri.dat"
+				RelativePath="ways\wssri.dat"
 				>
 			</File>
 			<File
-				RelativePath="..\..\bus\yorkshire-steam-tank.dat"
+				RelativePath="bus\yorkshire-steam-tank.dat"
 				>
 			</File>
 		</Filter>
