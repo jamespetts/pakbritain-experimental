@@ -7,6 +7,7 @@ Dims=1,1,4
 noconstruction=1
 NoInfo=1
 intro_year=1950
+intro_month=2
 BackImage[1][0][0][0][0][0]=modern-bus-depot.1.0
 FrontImage[1][0][0][0][0][0]=modern-bus-depot.0.0
 BackImage[0][0][0][0][0][0]=modern-bus-depot.1.1

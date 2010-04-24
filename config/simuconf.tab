@@ -14,21 +14,20 @@
 
 ##################################### Gameplay settings ###################################
 
-# passenger generation (default is 16 for Simutrans-Standard) Smaller values means fewer 
-# passengers.
+# Passenger generation (the default is 16): smaller values means fewer passengers.
 
-passenger_factor=14
+passenger_factor=16
 
-# in beginner mode, all good revenuses are multiplied by a factor (default 1500=1.5)
+# In beginner mode, all good revenuses are multiplied by a factor (default 1500=1.5)
 
 beginner_price_factor = 1500
 
-# use beginner mode for new maps
+# Use beginner mode for new maps
 
 first_beginner = 0
 
-# size of catchment area of a station (default 2)
-# older game size was 3
+# The size of  the catchment area for a station (default 2 for 1km/tile)
+# older game size was 3 (for Simutrans-Standard)
 
 station_coverage = 3
 
@@ -56,17 +55,17 @@ max_alternative_destinations = 3
 
 local_passengers_min_distance = 0
 local_passengers_max_distance = 25
-midrange_passengers_min_distance = 4
-midrange_passengers_max_distance = 100
-longdistance_passengers_min_distance = 50
+midrange_passengers_min_distance = 6
+midrange_passengers_max_distance = 110
+longdistance_passengers_min_distance = 55
 longdistance_passengers_max_distance = 16384
 
 # The following are percentage chances. They represent the chances that
 # any passengers generated will try to find a town within each of the three
 # ranges, respectively. 
 
-passenger_routing_local_chance = 43
-passenger_routing_midrange_chance = 37
+passenger_routing_local_chance = 40
+passenger_routing_midrange_chance = 38
 # passenger_routing_longdistance_chance is 100 minus the sum of the two above values,
 # but not stipulated individually.
 
@@ -79,12 +78,12 @@ passenger_routing_midrange_chance = 37
 # local, mid-range and long-distance passenger groups correspond to those
 # above. 
 
-min_local_tolerance = 20
-max_local_tolerance = 60
-min_midrange_tolerance = 45
-max_midrange_tolerance = 180
-min_longdistance_tolerance = 120
-max_longdistance_tolerance = 720
+min_local_tolerance = 35
+max_local_tolerance = 90
+min_midrange_tolerance = 60
+max_midrange_tolerance = 240
+min_longdistance_tolerance = 150
+max_longdistance_tolerance = 1080
 
 # Settings for calibrating the revenue system
 #
@@ -347,8 +346,8 @@ cost_found_city=5000000
 cost_multiply_found_industry=500000
 cost_remove_tree=40
 cost_buy_land=250
-cost_multiply_remove_haus=25000
-cost_multiply_remove_field=5000
+cost_multiply_remove_haus=1330000
+cost_multiply_remove_field=6000
 
 # Insolvency and debt settings
 #
