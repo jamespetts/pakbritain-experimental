@@ -51,7 +51,8 @@ max_alternative_destinations = 3
 # (2) midrange; and (3) long distance. The program will look for a town within
 # the specified distance ranges for each class of passenger. If it cannot
 # find such a town within a certain number of tries, it will pick a random town.
-# The ranges *may* overlap - indeed, this is encouraged.
+# The ranges *may* overlap - indeed, this is encouraged. These values are in
+# kilometres. 
 
 local_passengers_min_distance = 0
 local_passengers_max_distance = 25
