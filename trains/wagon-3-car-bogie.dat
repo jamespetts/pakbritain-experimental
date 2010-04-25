@@ -16,8 +16,10 @@ cost=200000
 runningcost=10
 sound=-1
 
-bidirectional=0
+bidirectional=1
 loading_time=12000
+
+Constraint[Next][0]=any
 
 EmptyImage[E]=./images/wagon-3-car-bogie.0
 EmptyImage[SE]=./images/wagon-3-car-bogie.1

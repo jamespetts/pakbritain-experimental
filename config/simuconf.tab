@@ -331,10 +331,11 @@ cost_multiply_post = 500
 cost_multiply_headquarter=10000
 
 # cost for depots
-cost_depot_rail = 8500
-cost_depot_road = 7000
-cost_depot_ship = 9000
-cost_depot_air = 17500
+# Now multiplied by the level (Simutrans-Experimental 8.0 and later)
+cost_depot_rail = 2000
+cost_depot_road = 1000
+cost_depot_ship = 4000
+cost_depot_air  = 7500
 
 # other way related stuff
 cost_signal = 750
@@ -396,11 +397,9 @@ speed_bonus_multiplier_percent=100
 
 use_timeline = 2
 
-# Starting year of the game
+# Default starting year of the game
 # Must be between 1492 and 2050
-# Vehicles are not necessarily available for the full history: availability is generally
-# confined to the late 19th century to the present, although there are increasing numbers
-# of historical vehicles.
+# Pak128.Britain-Ex has vehicles from 1750 onwards.
 
 starting_year = 1830
 
@@ -418,7 +417,7 @@ show_month = 4
 # default is 18. For example, 21 will make the month 2^3=8 times longer in real time
 # production and maintainance cost will be adjusted accordingly.
 
-bits_per_month = 18
+bits_per_month = 20
 
 ################################ Road Settings ###################################
 

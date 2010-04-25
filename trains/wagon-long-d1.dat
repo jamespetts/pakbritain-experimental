@@ -21,6 +21,8 @@ sound=-1
 comfort=0
 loading_time=14000
 
+Constraint[Next][0]=any
+
 EmptyImage[E]=./images/wagon-long-d1.0
 EmptyImage[SE]=./images/wagon-long-d1.1
 EmptyImage[S]=./images/wagon-long-d1.2

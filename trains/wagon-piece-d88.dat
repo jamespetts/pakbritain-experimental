@@ -20,6 +20,9 @@ sound=-1
 
 comfort=0
 loading_time=10000
+bidirectional=1
+
+Constraint[Next][0]=any
 
 EmptyImage[E]=./images/wagon-piece-d88.0
 EmptyImage[SE]=./images/wagon-piece-d88.1

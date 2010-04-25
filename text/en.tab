@@ -180,6 +180,52 @@ City Hall
 #___________________________________crossing____________________________________
 Crossing1
 Crossing
+#_____________________________________depot______________________________________
+#_____________________________________depot______________________________________
+AirHangarOld
+Aircraft hangar
+AirHangarModern
+Aircraft hangar
+ModernBoatyard
+Shipyard
+OldBoatyard
+Shipyard (sail)
+OldBoatyardSteam
+Shipyard (steam)
+CoachStable
+Coaching stable
+OldRoadDepotSteam
+Road garage (steam)
+OldRoadDepot
+Road garage (diesel)
+OldRoadDepotElectric
+Trolleybus garage
+ModernRoadDepot
+Road depot (diesel)
+ModernRoadDepotElectric
+Trolleybus depot
+ModernRoadDepotMixed
+Road depot (general)
+ModernTramDepot
+Tram depot
+OldTramDepotHorse
+Tram stables
+OldTramDepotSteam
+Tram depot (steam)
+OldTramDepot
+Tram depot (electric)
+OldTrainDepotHorse
+Railway stables
+OldTrainDepot
+Railway depot (steam)
+OldTrainDepotElectric
+Railway depot (electric)
+OldTrainDepotDiesel
+Railway depot (diesel)
+ModernTrainDepot
+Railway depot (modern traction)
+ModernTrainDepotElectric
+Railway depot (electric)
 #____________________________________city-buildings____________________________________
 #____________________________________city-buildings____________________________________
 KG_RES_1600_00

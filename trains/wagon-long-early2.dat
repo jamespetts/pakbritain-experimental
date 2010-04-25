@@ -17,6 +17,7 @@ cost=46000
 runningcost=1
 sound=-1
 
+bidirectional=1
 comfort=0
 loading_time=13500
 

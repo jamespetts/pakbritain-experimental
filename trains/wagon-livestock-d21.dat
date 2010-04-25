@@ -20,6 +20,9 @@ sound=-1
 
 comfort=0
 loading_time=13000
+bidirectional=1
+
+Constraint[Next][0]=any
 
 EmptyImage[E]=./images/wagon-livestock-d21.0
 EmptyImage[SE]=./images/wagon-livestock-d21.1

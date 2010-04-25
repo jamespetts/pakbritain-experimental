@@ -20,6 +20,8 @@ sound=-1
 bidirectional=10
 loading_time=12000
 
+Constraint[Next][0]=any
+
 EmptyImage[E]=./images/wagon-2-car-flat.0
 EmptyImage[SE]=./images/wagon-2-car-flat.1
 EmptyImage[S]=./images/wagon-2-car-flat.2

@@ -12,7 +12,8 @@
 			Name="Win32"
 		/>
 	</Platforms>
-
+	<ToolFiles>
+	</ToolFiles>
 	<Configurations>
 		<Configuration
 			Name="Debug|Win32"
@@ -26,9 +27,6 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
-			/>
-			<Tool
-				Name="Simutrans data file (128)"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"
@@ -97,9 +95,6 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
-			/>
-			<Tool
-				Name="Simutrans data file (128)"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"
@@ -1143,7 +1138,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\config\cityrules.tab"
+				RelativePath=".\config\cityrules.tab"
 				>
 			</File>
 			<File
@@ -1223,7 +1218,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\compat.tab"
+				RelativePath=".\compat.tab"
 				>
 			</File>
 			<File
@@ -1383,7 +1378,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\text\en.tab"
+				RelativePath=".\text\en.tab"
 				>
 			</File>
 			<File
@@ -1460,6 +1455,10 @@
 			</File>
 			<File
 				RelativePath="..\config\forestrules.tab"
+				>
+			</File>
+			<File
+				RelativePath=".\config\forestrules.tab"
 				>
 			</File>
 			<File
@@ -1772,6 +1771,10 @@
 			</File>
 			<File
 				RelativePath="industry\iron-ore-mine.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\text\ja.tab"
 				>
 			</File>
 			<File
@@ -2295,6 +2298,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\config\menuconf.tab"
+				>
+			</File>
+			<File
 				RelativePath="..\config\menuconf.tab"
 				>
 			</File>
@@ -2647,6 +2654,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\config\privatecar.tab"
+				>
+			</File>
+			<File
 				RelativePath="..\config\privatecar.tab"
 				>
 			</File>
@@ -2911,7 +2922,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\config\simuconf.tab"
+				RelativePath=".\config\simuconf.tab"
 				>
 			</File>
 			<File
@@ -2952,6 +2963,10 @@
 			</File>
 			<File
 				RelativePath="..\..\simutrans-experimental-binaries\text\en\special.txt"
+				>
+			</File>
+			<File
+				RelativePath=".\config\speedbonus.tab"
 				>
 			</File>
 			<File
@@ -3115,6 +3130,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\text\sv.tab"
+				>
+			</File>
+			<File
 				RelativePath="gui\gui64\symbols-64.dat"
 				>
 			</File>
@@ -3225,20 +3244,6 @@
 			<File
 				RelativePath="trees\tree.dat"
 				>
-				<FileConfiguration
-					Name="Debug|Win32"
-					>
-					<Tool
-						Name="Simutrans data file (128)"
-					/>
-				</FileConfiguration>
-				<FileConfiguration
-					Name="Release|Win32"
-					>
-					<Tool
-						Name="Simutrans data file (128)"
-					/>
-				</FileConfiguration>
 			</File>
 			<File
 				RelativePath="ways\tunnels.dat"
