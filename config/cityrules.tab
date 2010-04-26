@@ -12,7 +12,7 @@
 # update: 05-Jan-05
 # update: 08-Mar-08
 # update: 10-Oct-08 by Fabio Gonella <fabio@gonella.eu>
-# Adapted August 2009 by James E. Petts for Pak128.Britain-Experimental
+# Adapted April 2010 by James E. Petts for Pak128.Britain-Experimental
 
 
 # how far cities should be minimum apart (default 16)
@@ -23,10 +23,13 @@ minimum_city_distance = 12
 industry_increase_every = 7500
 
 # chance for renovation versus new building (bigger number => less sprawling)
-renovation_percentage = 50
+# Note: the rougher the desired landscape, the lower that this number should be.
+# Note: this value is automatically reduced by a factor of three if quick_city_growth
+# is enabled in simuconf.tab.
+renovation_percentage = 38
 
 # cities will not growth further along exiting roads, if the buildings density is lower (in percent)
-minimum_building_desity = 33
+minimum_building_desity = 28
 
 
 #

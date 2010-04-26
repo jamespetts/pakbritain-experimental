@@ -33,9 +33,9 @@ station_coverage = 3
 
 # Town growth is size dependent. There are three different sizes (<1000, 1000-10000, >10000)
 # the idea is, that area increase by square but growth is linear
-growthfactor_villages = 100
+growthfactor_villages = 400
 growthfactor_cities = 200
-growthfactor_capitals = 400
+growthfactor_capitals = 100
 
 # Some passengers who are not able to find a route will be content
 # to go to an alternative destination. Set the maximum number here.
@@ -84,7 +84,7 @@ max_local_tolerance = 90
 min_midrange_tolerance = 60
 max_midrange_tolerance = 240
 min_longdistance_tolerance = 150
-max_longdistance_tolerance = 1080
+max_longdistance_tolerance = 2160
 
 # Settings for calibrating the revenue system
 #
@@ -280,7 +280,7 @@ congestion_density_factor = 14
 # mail is 15. So, with a passenger_max_weight of 2700, mail would wait for 180 
 # minutes before being discarded.
 
-passenger_max_wait = 2700
+passenger_max_wait = 19440
 
 # If this setting is set to 1, halts will have different capacities for each type of goods.
 seperate_halt_capacities=1
@@ -348,8 +348,8 @@ cost_found_city=5000000
 cost_multiply_found_industry=500000
 cost_remove_tree=40
 cost_buy_land=250
-cost_multiply_remove_haus=1330000
-cost_multiply_remove_field=6000
+cost_multiply_remove_haus=20000
+cost_multiply_remove_field=7500
 
 # Insolvency and debt settings
 #
