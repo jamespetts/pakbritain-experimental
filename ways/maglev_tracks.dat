@@ -5,6 +5,7 @@ system_type=0
 cost=600000
 maintenance=1550
 topspeed=560
+max_weight=100
 intro_year = 2004
 intro_month = 1
 
@@ -38,6 +39,7 @@ system_type=1
 cost=850000
 maintenance=2000
 topspeed=560
+max_weight=100
 intro_year = 2004
 intro_month = 1
 
@@ -71,6 +73,7 @@ system_type=0
 cost=400000
 maintenance=1400
 topspeed=320
+max_weight=100
 intro_year = 2004
 intro_month = 1
 
@@ -104,6 +107,7 @@ system_type=1
 cost=580000
 maintenance=1800
 topspeed=320
+max_weight=100
 intro_year = 2004
 intro_month = 1
 
