@@ -20,7 +20,6 @@ intro_month=1
 Constraint[Next][0]=none
 Constraint[Prev][0]=none
 
-way_constraint_permissive[4]=4
 way_constraint_prohibitive[2]=2
 
 EmptyImage[E]=./images/dogger.0.0

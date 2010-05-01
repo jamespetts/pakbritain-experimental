@@ -23,6 +23,8 @@ sound=-1
 
 Constraint[Next][0]=GWR-Churchward-Star-Tender
 
+upgrade[0]=GWR-Castle
+
 EmptyImage[E]=./images/gwr-churchward-star.0.0
 EmptyImage[SE]=./images/gwr-churchward-star.0.1
 EmptyImage[S]=./images/gwr-churchward-star.0.2

@@ -14,9 +14,14 @@ freight=meat
 payload=128
 length=16
 weight=16
-cost=18000
+cost=1800000
 runningcost=100
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=7500
+comfort=0
 
 Constraint[Prev][0]=BR-M-Class9000
 Constraint[Prev][1]=RMUflat(cooled)
@@ -68,9 +73,14 @@ freight=Bucher
 payload=128
 length=16
 weight=16
-cost=18000
+cost=1800000
 runningcost=100
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=7500
+comfort=0
 
 Constraint[Prev][0]=BR-M-Class9000
 Constraint[Prev][1]=RMUflat(cooled)

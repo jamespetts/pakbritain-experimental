@@ -1996,6 +1996,10 @@ BR-Mk1-BG(Maroon)
 BR Mk. 1 Gangwayed Brake
 BR-Mk1-BG(Blue-Grey)
 BR Mk. 1 Gangwayed Brake
+BR-Mk1-Sub(Maroon)
+BR Mk. 1 Suburban compartment
+BR-Mk1-Sub-Brake(Maroon)
+BR Mk. 1 Suburban compartment brake
 SR-Maunsell-Mail(Green)
 SR Maunsell Mail van
 GWR-Express-Mail
@@ -2016,6 +2020,38 @@ L&YR-EMU-driving-motor
 L&YR EMU driving motor
 L&YR-EMU-driving-trailer
 L&YR EMU driving trailer
+SR-1-Co-Co-1(Black)
+Bulleid 1-Co-Co-1
+GWR-Castle
+GWR 4073 "Castle" Class 4-6-0
+GWR-Castle-Tender
+GWR 4073 "Castle" Tender
+BR-506Front(BR-Blue)
+BR Class 506 EMU (front)
+BR-506Centre(BR-Blue)
+BR Class 506 EMU (centre)
+BR-506Rear(BR-Blue)
+BR Class 506 EMU (rear)
+BR-304Front(BR-Blue)
+BR Class 304 EMU (driving trailer)
+BR-304Centre-Trailer(BR-Blue)
+BR Class 304 EMU (centre trailer)
+BR-304Centre-Motor(BR-Blue)
+BR Class 304 EMU (centre motor)
+BR-304Rear(BR-Blue)
+BR Class 304 EMU (driving trailer)
+BR-2MT-Tank(Black)
+BR Standard Class 2MT 2-6-2T
+BR-Class57(FGW)
+BR Class 57
+BR-4MT(Black)
+BR Standard Class 4MT 2-6-0
+BR-4MT-Tender(Black)
+BR Standard Class 4MT tender
+GWR-Saint
+GWR 2900 "Saint" Class 4-6-0
+GWR-Saint-Tender
+GWR 2900 "Saint" Tender
 #____________________________________tram-vehicle____________________________________
 #____________________________________tram-vehicle____________________________________
 1-Deck-Trailer
@@ -2087,6 +2123,8 @@ Leyland Cub
 Guy_Special(LT-Green)
 Guy Special
 Leyland_National_11(LC)
+Leyland National (long)
+Leyland_National_LNS
 Leyland National (short)
 HackneyCarriage
 Hackney carriage

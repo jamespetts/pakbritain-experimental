@@ -1,9 +1,9 @@
-
 obj=vehicle
 name=BR-Ultra-450(front)
 engine_type=battery
 speed=430
 power=3400
+tractive_effort=150
 copyright=AEO
 intro_year=2004
 intro_month=1
@@ -12,9 +12,14 @@ freight=Passagiere
 payload=80
 length=14
 weight=22
-cost=24000
+cost=24000000
 runningcost=650
 sound=-1
+
+can_lead_from_rear=1
+bidirectional=0
+loading_time=8250
+comfort=142
 
 Constraint[Prev][0]=BR-Ultra-450(rear)
 Constraint[Prev][1]=none
@@ -35,6 +40,7 @@ name=BR-Ultra-450(Open)
 engine_type=battery
 speed=430
 power=3400
+tractive_effort=150
 copyright=AEO
 intro_year=2004
 intro_month=1
@@ -43,9 +49,14 @@ freight=Passagiere
 payload=122
 length=14
 weight=25
-cost=24000
+cost=24000000
 runningcost=980
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=8250
+comfort=142
 
 Constraint[Prev][0]=BR-Ultra-450(front)
 Constraint[Prev][1]=BR-Ultra-450(Open)
@@ -68,6 +79,7 @@ name=BR-Ultra-450(Buffet)
 engine_type=battery
 speed=430
 power=3400
+tractive_effort=150
 copyright=AEO
 intro_year=2004
 intro_month=1
@@ -76,9 +88,15 @@ freight=Passagiere
 payload=48
 length=14
 weight=28
-cost=24000
-runningcost=650
+cost=26200000
+runningcost=675
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=8250
+comfort=142
+catering_level=3
 
 Constraint[Prev][0]=BR-Ultra-450(front)
 Constraint[Prev][1]=BR-Ultra-450(Open)
@@ -101,6 +119,7 @@ name=BR-Ultra-450(rear)
 engine_type=battery
 speed=430
 power=3400
+tractive_effort=150
 copyright=AEO
 intro_year=2004
 intro_month=1
@@ -109,9 +128,14 @@ freight=Passagiere
 payload=80
 length=14
 weight=22
-cost=24000
+cost=24000000
 runningcost=650
 sound=-1
+
+can_lead_from_rear=1
+bidirectional=0
+loading_time=8250
+comfort=142
 
 Constraint[Prev][0]=BR-Ultra-450(Open)
 Constraint[Prev][1]=BR-Ultra-450(Buffet)

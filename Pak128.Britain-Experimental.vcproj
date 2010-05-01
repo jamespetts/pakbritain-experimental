@@ -210,6 +210,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\citybuildings\3Sterraced.dat"
+				>
+			</File>
+			<File
 				RelativePath="bus\a1-diddler.dat"
 				>
 			</File>
@@ -522,6 +526,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\trains\br-2mt-tank.dat"
+				>
+			</File>
+			<File
 				RelativePath="trains\br-303back-cb.dat"
 				>
 			</File>
@@ -531,6 +539,10 @@
 			</File>
 			<File
 				RelativePath="trains\br-303middle-nse.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\br-304.dat"
 				>
 			</File>
 			<File
@@ -774,6 +786,14 @@
 				>
 			</File>
 			<File
+				RelativePath=".\trains\br-4mt.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\br-506.dat"
+				>
+			</File>
+			<File
 				RelativePath="trains\br-7mt-tender.dat"
 				>
 			</File>
@@ -843,6 +863,10 @@
 			</File>
 			<File
 				RelativePath="trains\br-cl56-b.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\br-cl57-fgw.dat"
 				>
 			</File>
 			<File
@@ -947,6 +971,14 @@
 			</File>
 			<File
 				RelativePath="trains\br-mk1-rmb-m.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\br-mk1-sub-brake-m.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\br-mk1-sub-m.dat"
 				>
 			</File>
 			<File
@@ -1602,6 +1634,10 @@
 				>
 			</File>
 			<File
+				RelativePath=".\trains\gwr-castle.dat"
+				>
+			</File>
+			<File
 				RelativePath="trains\gwr-droplight-brake.dat"
 				>
 			</File>
@@ -1651,6 +1687,10 @@
 			</File>
 			<File
 				RelativePath="trains\gwr-prairie.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\gwr-saint.dat"
 				>
 			</File>
 			<File
@@ -2654,11 +2694,11 @@
 				>
 			</File>
 			<File
-				RelativePath=".\config\privatecar.tab"
+				RelativePath="..\config\privatecar.tab"
 				>
 			</File>
 			<File
-				RelativePath="..\config\privatecar.tab"
+				RelativePath=".\config\privatecar.tab"
 				>
 			</File>
 			<File
@@ -2795,6 +2835,22 @@
 			</File>
 			<File
 				RelativePath="trains\rm-325power-rm.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\RMU9000.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\RMU_Aerocab.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\RMU_Boxcars.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\RMU_Flatcars.dat"
 				>
 			</File>
 			<File
@@ -2971,6 +3027,10 @@
 			</File>
 			<File
 				RelativePath="..\config\speedbonus.tab"
+				>
+			</File>
+			<File
+				RelativePath=".\trains\sr-1-co-co-1.dat"
 				>
 			</File>
 			<File
@@ -3251,6 +3311,22 @@
 			</File>
 			<File
 				RelativePath="trains\twin-shire.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\Ultra450.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\Ultra520.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\Ultra520DD.dat"
+				>
+			</File>
+			<File
+				RelativePath=".\maglev\UltraMail.dat"
 				>
 			</File>
 			<File

@@ -23,7 +23,7 @@ bidirectional=0
 way_constraint_permissive[1]=1
 
 loading_time=5800
-comfort=81
+comfort=79
 
 Constraint[Prev][0]=L&YR-EMU-driving-motor
 Constraint[Prev][1]=none
@@ -65,7 +65,7 @@ can_lead_from_rear=1
 bidirectional=0
 
 loading_time=5800
-comfort=81
+comfort=79
 way_constraint_permissive[1]=1
 
 Constraint[Prev][0]=L&YR-EMU-driving-trailer

@@ -11,8 +11,13 @@ freight=meat
 payload=128
 length=16
 weight=20
-cost=24000
+cost=2400000
 runningcost=300
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=8000
+comfort=0
 
 Constraint[Prev][0]=RMU-aerocab(front)
 Constraint[Prev][1]=RMUbox(cooled)
@@ -54,8 +59,13 @@ freight=Bucher
 payload=128
 length=16
 weight=20
-cost=24000,0,-3
+cost=2400000
 runningcost=300
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=8000
+comfort=0
 
 Constraint[Prev][0]=RMU-aerocab(front)
 Constraint[Prev][1]=RMUbox(cooled)

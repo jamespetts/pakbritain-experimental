@@ -10,9 +10,14 @@ waytype=maglev_track
 payload=0
 length=8
 weight=15
-cost=30000
+cost=30000000
 runningcost=80
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=0
+comfort=0
 
 Constraint[Prev][0]=none
 Constraint[Next][0]=RMUflat(cooled)

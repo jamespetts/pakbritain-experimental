@@ -1,9 +1,9 @@
-
 obj=vehicle
 name=BR-Ultra-520(front)
 engine_type=battery
 speed=525
 power=5000
+tractive_effort=200
 copyright=AEO
 intro_year=2012
 intro_month=1
@@ -12,9 +12,14 @@ freight=Passagiere
 payload=78
 length=14
 weight=20
-cost=24000
+cost=24000000
 runningcost=750
 sound=-1
+
+can_lead_from_rear=1
+bidirectional=0
+loading_time=9000
+comfort=150
 
 Constraint[Prev][0]=BR-Ultra-520(rear)
 Constraint[Prev][1]=none
@@ -35,6 +40,7 @@ name=BR-Ultra-520(Open)
 engine_type=battery
 speed=525
 power=5000
+tractive_effort=200
 copyright=AEO
 intro_year=2012
 intro_month=1
@@ -43,9 +49,14 @@ freight=Passagiere
 payload=122
 length=14
 weight=23
-cost=24000
+cost=24000000
 runningcost=980
 sound=-1
+
+can_lead_from_rear=10
+bidirectional=1
+loading_time=9000
+comfort=150
 
 Constraint[Prev][0]=BR-Ultra-520(front)
 Constraint[Prev][1]=BR-Ultra-520(Open)
@@ -68,6 +79,7 @@ name=BR-Ultra-520(Buffet)
 engine_type=battery
 speed=525
 power=5000
+tractive_effort=200
 copyright=AEO
 intro_year=2012
 intro_month=1
@@ -76,9 +88,15 @@ freight=Passagiere
 payload=50
 length=14
 weight=25
-cost=24000
-runningcost=750
+cost=27500000
+runningcost=820
 sound=-1
+
+can_lead_from_rear=0
+bidirectional=1
+loading_time=9000
+comfort=150
+catering_level=4
 
 Constraint[Prev][0]=BR-Ultra-520(front)
 Constraint[Prev][1]=BR-Ultra-520(Open)
@@ -101,6 +119,7 @@ name=BR-Ultra-520(rear)
 engine_type=battery
 speed=525
 power=5000
+tractive_effort=200
 copyright=AEO
 intro_year=2012
 intro_month=1
@@ -109,9 +128,14 @@ freight=Passagiere
 payload=78
 length=14
 weight=20
-cost=24000
+cost=24000000
 runningcost=750
 sound=-1
+
+can_lead_from_rear=1
+bidirectional=0
+loading_time=9000
+comfort=150
 
 Constraint[Prev][0]=BR-Ultra-520(Open)
 Constraint[Prev][1]=BR-Ultra-520(Buffet)
