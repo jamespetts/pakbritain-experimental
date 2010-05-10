@@ -2052,6 +2052,16 @@ GWR-Saint
 GWR 2900 "Saint" Class 4-6-0
 GWR-Saint-Tender
 GWR 2900 "Saint" Tender
+GWR-Hall
+GWR 4900 "Hall" Class 4-6-0
+GWR-Hall-Tender
+GWR 4900 "Hall" Tender
+GWR-Modified-Hall
+GWR 6959 "Modified Hall" Class 4-6-0
+GWR-Modified-Hall-Tender
+GWR 6959 "Modified Hall" Tender
+LMS-Fowler-3P-Tank
+LMS Class 3P
 #____________________________________tram-vehicle____________________________________
 #____________________________________tram-vehicle____________________________________
 1-Deck-Trailer

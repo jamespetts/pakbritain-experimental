@@ -33,9 +33,9 @@ station_coverage = 3
 
 # Town growth is size dependent. There are three different sizes (<1000, 1000-10000, >10000)
 # the idea is, that area increase by square but growth is linear
-growthfactor_villages = 400
-growthfactor_cities = 200
-growthfactor_capitals = 100
+growthfactor_villages = 600
+growthfactor_cities = 400
+growthfactor_capitals = 200
 
 # Some passengers who are not able to find a route will be content
 # to go to an alternative destination. Set the maximum number here.
@@ -268,7 +268,8 @@ tpo_revenue=300
 
 base_car_preference_percent = 95
 always_prefer_car_percent = 10
-congestion_density_factor = 14
+congestion_density_factor = 9
+# was 14
 
 # This setting gives the maximum time that passengers are prepared to wait for their
 # transport. The setting is divided by speed bonus value to get the number of minutes.
@@ -311,6 +312,13 @@ factory_spacing = 8
 # of years stipulated below, factories have a 100% chance of closing down. The
 # chance increases the closer to this value that factories get.
 max_years_obsolete = 40
+
+# The following settings determine the minimum and maximum number of towns in which
+# workers in industries live (and thus from which they need to be transported to
+# the industries in question). 
+
+factory_worker_minimum_towns = 1
+factory_worker_maximum_towns = 4
 
 ################################## Finance settings #################################
 
@@ -424,21 +432,34 @@ bits_per_month = 20
 # (=1) drive on the left side of the road
 drive_left = 1
 
-# Type of initial intercity roads - must be available
-# as PAK file. Fallback (if PAK is not found) is "asphalt_road"
+# The below sections deal with the types of roads built automatically by the game,
+# both when the map starts and during the game (in the case of city roads). Different
+# kinds of roads are available at different times. The types of roads specified must
+# be available in a .pak file. If a specified type is unavailable, Simutrans will
+# guess which road it should be using.
 
-# intercity_road_type = asphalt_road
+# City roads timeline. Format examples: 
+# city_road[0]=name,1900,1920
+# city_road[1]=name2,1921,1950
 
-# Type of city roads - must be available as PAK file.
-# Fallback (and default) is "city_road"
+city_road[0]=city_road,1905,2050
+city_road[1]=cobblestone_road,1781,1904
+city_road[2]=dirt_road,1700,1780
 
-city_road_type = city_road
+# Intercity roads timeline. Format examples: 
+# city_road[0]=name,1900,1920
+# city_road[1]=name2,1921,1950
+
+intercity_road[0]=dirt_road,1700,1860
+intercity_road[1]=cobblestone_road,1861,1902
+intercity_road[3]=tarmac_road,1903,1932
+intercity_road[4]=asphalt_road,1933,2050
 
 # Max. length of intitial intercity road connections
 # If you want to speed up map creation, lower this value
 # If you want more initial intercity roads, raise this value
 
-intercity_road_length = 256
+intercity_road_length = 320
 
 ################################ Vehicle settings ##############################
 
@@ -495,7 +516,7 @@ enforce_weight_limits=2
 
 # Show info windows for private cars and pedestrians?
 # (1=on, 0=off)
-pedes_and_car_info = 0
+pedes_and_car_info = 1
 
 # Show infos on trees?
 # (1=on, 0=off)
@@ -542,7 +563,7 @@ river_type[3] = River0
 river_number = 256
 
 # river min length (not too short)
-river_min_length = 8
+river_min_length = 2
 
 # river max length (not too long)
 river_max_length = 2048
